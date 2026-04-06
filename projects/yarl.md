@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/yarl"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [829]
 updated: "2026-04-03T12:07:21Z"
 ---
 

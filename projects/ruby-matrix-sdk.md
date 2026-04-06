@@ -5,7 +5,7 @@ repo: "https://github.com/ananace/ruby-matrix-sdk"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [812]
 updated: "2026-01-16T15:08:14Z"
 ---
 

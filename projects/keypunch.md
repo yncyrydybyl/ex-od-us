@@ -5,7 +5,7 @@ repo: "https://github.com/bragefuglseth/keypunch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [771]
 updated: "2026-03-25T17:22:32Z"
 ---
 

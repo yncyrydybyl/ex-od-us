@@ -5,7 +5,7 @@ repo: "https://github.com/cfengine/masterfiles"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [776]
 updated: "2026-03-23T17:36:19Z"
 ---
 

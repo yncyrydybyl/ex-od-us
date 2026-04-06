@@ -5,7 +5,7 @@ repo: "https://github.com/ansible/awx-operator"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [700]
 updated: "2026-03-24T20:03:44Z"
 ---
 

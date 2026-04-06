@@ -5,7 +5,7 @@ repo: "https://github.com/bisq-network/bisq-website"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [705]
 updated: "2026-03-17T18:46:15Z"
 ---
 

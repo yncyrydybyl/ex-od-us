@@ -5,7 +5,7 @@ repo: "https://github.com/BishopFox/sliver"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [814]
 updated: "2026-04-02T16:17:38Z"
 ---
 

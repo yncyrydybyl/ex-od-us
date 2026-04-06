@@ -5,7 +5,7 @@ repo: "https://github.com/catppuccin/element"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [748]
 updated: "2026-03-27T20:39:05Z"
 ---
 

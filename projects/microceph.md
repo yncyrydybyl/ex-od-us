@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/microceph"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [782]
 updated: "2026-04-03T17:23:31Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/absmach/magistrala"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [775]
 updated: "2026-04-06T10:11:24Z"
 ---
 

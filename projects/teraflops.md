@@ -5,7 +5,7 @@ repo: "https://github.com/aanderse/teraflops"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [819]
 updated: "2026-03-11T00:30:46Z"
 ---
 

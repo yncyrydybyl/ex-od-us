@@ -5,7 +5,7 @@ repo: "https://github.com/blaggacao/frappix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [758]
 updated: "2025-07-14T09:41:24Z"
 ---
 

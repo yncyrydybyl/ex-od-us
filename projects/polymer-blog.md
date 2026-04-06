@@ -5,7 +5,7 @@ repo: "https://github.com/addyosmani/polymer-blog"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [802]
 updated: "2013-09-24T13:37:32Z"
 ---
 

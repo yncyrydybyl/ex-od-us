@@ -5,7 +5,7 @@ repo: "https://github.com/bcosca/fatfree"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [753]
 updated: "2025-12-02T00:49:45Z"
 ---
 

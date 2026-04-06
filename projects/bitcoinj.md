@@ -5,7 +5,7 @@ repo: "https://github.com/bitcoinj/bitcoinj"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [706]
 updated: "2026-04-05T22:43:34Z"
 ---
 

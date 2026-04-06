@@ -4,7 +4,7 @@ repo: "https://github.com/An1g/SubQ-Modul-4"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [817]
 updated: "2022-01-17T21:30:45Z"
 ---
 

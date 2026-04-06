@@ -5,7 +5,7 @@ repo: "https://github.com/Automattic/chatrix"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [728]
 updated: "2026-03-27T00:01:56Z"
 ---
 

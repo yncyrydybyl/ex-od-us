@@ -5,7 +5,7 @@ repo: "https://github.com/bayang/jelu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [770]
 updated: "2026-03-30T08:38:05Z"
 ---
 

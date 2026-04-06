@@ -5,7 +5,7 @@ repo: "https://github.com/bugzilla/harmony"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [766]
 updated: "2025-12-17T22:59:49Z"
 ---
 

@@ -4,7 +4,7 @@ repo: "https://github.com/anyswap/CrossChain-Router"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [735]
 updated: "2023-06-12T01:32:48Z"
 ---
 

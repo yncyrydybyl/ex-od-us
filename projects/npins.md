@@ -5,7 +5,7 @@ repo: "https://github.com/andir/npins"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [791]
 updated: "2026-04-03T20:53:28Z"
 ---
 

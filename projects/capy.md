@@ -5,7 +5,7 @@ repo: "https://github.com/capy-ui/capy"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [722]
 updated: "2025-12-25T10:49:42Z"
 ---
 

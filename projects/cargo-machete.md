@@ -5,7 +5,7 @@ repo: "https://github.com/bnjbvr/cargo-machete"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [723]
 updated: "2026-03-23T15:05:52Z"
 ---
 

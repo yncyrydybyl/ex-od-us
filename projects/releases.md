@@ -5,7 +5,7 @@ repo: "https://github.com/archcraft-os/releases"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [805]
 updated: "2024-02-05T23:58:54Z"
 ---
 

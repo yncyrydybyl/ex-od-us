@@ -5,7 +5,7 @@ repo: "https://github.com/brndnmtthws/dryoc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [744]
 updated: "2026-02-18T13:13:50Z"
 ---
 

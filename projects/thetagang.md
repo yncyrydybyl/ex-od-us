@@ -5,7 +5,7 @@ repo: "https://github.com/brndnmtthws/thetagang"
 platform: github
 categories: [Integrations]
 status: "Active"
-issues: []
+issues: [820]
 updated: "2026-03-09T13:27:01Z"
 ---
 

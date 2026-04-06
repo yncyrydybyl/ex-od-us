@@ -5,7 +5,7 @@ repo: "https://github.com/bitcoinjs/bitcoinjs-lib"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [707]
 updated: "2026-02-17T01:08:49Z"
 ---
 

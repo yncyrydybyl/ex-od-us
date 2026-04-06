@@ -5,7 +5,7 @@ repo: "https://github.com/awesome-jellyfin/awesome-jellyfin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [694]
 updated: "2026-04-05T19:52:50Z"
 ---
 

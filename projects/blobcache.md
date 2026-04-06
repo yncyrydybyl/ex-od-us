@@ -5,7 +5,7 @@ repo: "https://github.com/blobcache/blobcache"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [712]
 updated: "2026-04-04T21:47:55Z"
 ---
 

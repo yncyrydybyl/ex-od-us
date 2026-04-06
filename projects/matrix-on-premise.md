@@ -4,7 +4,7 @@ description: "How to Self-Host synapse Matrix + Element + NGINX + Coturn + Admin
 repo: "https://github.com/AmirDez/matrix-on-premise"
 platform: github
 status: "Active"
-issues: []
+issues: [779]
 updated: "2026-01-11T19:58:53Z"
 ---
 

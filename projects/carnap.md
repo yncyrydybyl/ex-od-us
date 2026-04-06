@@ -5,7 +5,7 @@ repo: "https://github.com/Carnap/Carnap"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [724]
 updated: "2024-12-15T21:37:52Z"
 ---
 

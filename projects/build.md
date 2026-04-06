@@ -5,7 +5,7 @@ repo: "https://github.com/aarch64-laptops/build"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [720]
 updated: "2026-03-07T22:42:27Z"
 ---
 

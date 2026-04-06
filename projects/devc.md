@@ -5,7 +5,7 @@ repo: "https://github.com/bRuttaZz/devc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [740]
 updated: "2024-02-25T16:43:37Z"
 ---
 

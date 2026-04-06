@@ -4,7 +4,7 @@ repo: "https://github.com/amigoscode/javascript-mastery"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [769]
 updated: "2021-10-11T14:35:33Z"
 ---
 

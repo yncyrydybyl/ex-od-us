@@ -5,7 +5,7 @@ repo: "https://github.com/aaronraimist/element-themes"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [747]
 updated: "2025-10-24T23:32:44Z"
 ---
 

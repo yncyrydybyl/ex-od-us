@@ -5,7 +5,7 @@ repo: "https://github.com/ahdinosaur/blinksy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [711]
 updated: "2026-01-28T10:26:00Z"
 ---
 

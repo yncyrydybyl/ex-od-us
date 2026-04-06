@@ -5,7 +5,7 @@ repo: "https://github.com/almindor/mipidsi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [784]
 updated: "2026-02-17T03:03:56Z"
 ---
 

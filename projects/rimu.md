@@ -5,7 +5,7 @@ repo: "https://github.com/ahdinosaur/rimu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [810]
 updated: "2026-02-16T01:58:19Z"
 ---
 

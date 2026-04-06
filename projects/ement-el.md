@@ -5,7 +5,7 @@ repo: "https://github.com/alphapapa/ement.el"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [750]
 updated: "2025-11-18T01:18:37Z"
 ---
 

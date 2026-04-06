@@ -5,7 +5,7 @@ repo: "https://github.com/bladeacer/flexcyon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [756]
 updated: "2026-04-05T13:30:36Z"
 ---
 

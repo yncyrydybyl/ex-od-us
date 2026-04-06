@@ -5,7 +5,7 @@ repo: "https://github.com/BibleNotify/BibleNotify"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [704]
 updated: "2026-03-25T23:59:50Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/avanisubbiah/material-color-utilities-python"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [777]
 updated: "2022-08-26T14:21:05Z"
 ---
 

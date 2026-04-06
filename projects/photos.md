@@ -5,7 +5,7 @@ repo: "https://github.com/avanc/photOS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [800]
 updated: "2025-03-19T19:49:45Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/open-documentation-academy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [794]
 updated: "2026-03-25T09:49:32Z"
 ---
 

@@ -4,7 +4,7 @@ repo: "https://github.com/AmanPathak-DevOps/Docker-Projects"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [742]
 updated: "2023-12-15T15:46:06Z"
 ---
 

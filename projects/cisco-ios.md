@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/cisco.ios"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [729]
 updated: "2026-03-18T11:33:07Z"
 ---
 

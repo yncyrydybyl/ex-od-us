@@ -5,7 +5,7 @@ repo: "https://github.com/binwiederhier/ntfy-ios"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [792]
 updated: "2026-03-27T21:12:48Z"
 ---
 

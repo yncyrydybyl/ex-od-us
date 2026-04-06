@@ -4,7 +4,7 @@ description: "The comprehensive guide for online anonymity and OpSec."
 repo: "https://github.com/Anon-Planet/thgtoa"
 platform: github
 status: "Active"
-issues: []
+issues: [821]
 updated: "2026-01-19T02:54:27Z"
 ---
 

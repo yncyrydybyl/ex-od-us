@@ -5,7 +5,7 @@ repo: "https://github.com/ananthakumaran/paisa"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [798]
 updated: "2025-12-02T02:38:32Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/beaker-project/beaker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [703]
 updated: "2026-02-17T21:54:29Z"
 ---
 

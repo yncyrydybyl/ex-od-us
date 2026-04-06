@@ -4,7 +4,7 @@ description: "List of open-source alternatives to everyday SaaS products."
 repo: "https://github.com/btw-so/open-source-alternatives"
 platform: github
 status: "Active"
-issues: []
+issues: [795]
 updated: "2024-11-08T10:26:57Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/bilbilak/treegen"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [823]
 updated: "2024-12-28T01:00:34Z"
 ---
 

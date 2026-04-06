@@ -5,7 +5,7 @@ repo: "https://github.com/casimir/frigoligo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [760]
 updated: "2026-04-06T10:34:12Z"
 ---
 

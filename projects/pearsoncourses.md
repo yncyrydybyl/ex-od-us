@@ -4,7 +4,7 @@ repo: "https://github.com/AdminTurnedDevOps/PearsonCourses"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [799]
 updated: "2025-10-26T13:23:54Z"
 ---
 

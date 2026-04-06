@@ -5,7 +5,7 @@ repo: "https://github.com/blend2d/blend2d"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [709]
 updated: "2025-11-29T08:14:34Z"
 ---
 

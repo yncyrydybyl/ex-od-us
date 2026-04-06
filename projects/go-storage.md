@@ -5,7 +5,7 @@ repo: "https://github.com/beyondstorage/go-storage"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [763]
 updated: "2025-01-07T16:33:54Z"
 ---
 

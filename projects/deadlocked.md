@@ -5,7 +5,7 @@ repo: "https://github.com/avitran0/deadlocked"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [737]
 updated: "2026-04-02T11:01:48Z"
 ---
 

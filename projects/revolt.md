@@ -5,7 +5,7 @@ repo: "https://github.com/aperezdc/revolt"
 platform: github
 categories: [Messaging]
 status: "Active"
-issues: []
+issues: [809]
 updated: "2023-02-16T15:27:01Z"
 ---
 

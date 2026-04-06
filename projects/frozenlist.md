@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/frozenlist"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [761]
 updated: "2026-02-09T11:08:00Z"
 ---
 

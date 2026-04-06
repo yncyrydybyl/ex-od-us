@@ -5,7 +5,7 @@ repo: "https://github.com/argrento/huami-token"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [767]
 updated: "2026-03-31T13:17:07Z"
 ---
 
