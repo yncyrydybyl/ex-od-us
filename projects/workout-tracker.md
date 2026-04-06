@@ -1,0 +1,19 @@
+---
+name: "Workout Tracker"
+description: "A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities"
+repo: "https://github.com/jovandeginste/workout-tracker"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-03T23:40:27Z"
+---
+
+A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
+
+## Stats
+
+- Stars: 1210
+- Forks: 47
+- Language: Go
+- Topics: docker, fitness-tracker, go, gpx, leaflet, self-hosted, tailwindcss, workout-tracker, workouts

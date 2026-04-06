@@ -1,0 +1,19 @@
+---
+name: "Openlane"
+description: "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization."
+repo: "https://github.com/The-OpenROAD-Project/OpenLane"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-25T21:24:26Z"
+---
+
+OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
+
+## Stats
+
+- Stars: 1744
+- Forks: 425
+- Language: Python
+- Topics: 130nm, asic, caravel, foundry, klayout, magic, netgen, openram, openroad, rtl, rtl2gds, skywater, soc-design, system-on-chip, verilog, vlsi, yosys

@@ -1,0 +1,19 @@
+---
+name: "Android"
+description: "A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying."
+repo: "https://github.com/wgtunnel/android"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-02T12:10:26Z"
+---
+
+A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+
+## Stats
+
+- Stars: 2564
+- Forks: 141
+- Language: Kotlin
+- Topics: amnezia-vpn, android, apk, f-droid, f-droidrepos, floss, foss, http-proxy, jetpack-compose, kotlin, socks5-proxy, vpn, vpn-client, wireguard, wireguard-tunnel, wireguard-ui, wireguard-vpn

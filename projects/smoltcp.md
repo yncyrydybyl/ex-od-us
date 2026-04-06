@@ -1,0 +1,19 @@
+---
+name: "Smoltcp"
+description: "a smol tcp/ip stack"
+repo: "https://github.com/smoltcp-rs/smoltcp"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-04T13:20:40Z"
+---
+
+a smol tcp/ip stack
+
+## Stats
+
+- Stars: 4398
+- Forks: 518
+- Language: Rust
+- Topics: embedded, networking-stack

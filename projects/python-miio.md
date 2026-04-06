@@ -1,0 +1,19 @@
+---
+name: "Python Miio"
+description: "Python library & console tool for controlling Xiaomi smart appliances"
+repo: "https://github.com/rytilahti/python-miio"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-08-19T18:47:39Z"
+---
+
+Python library & console tool for controlling Xiaomi smart appliances
+
+## Stats
+
+- Stars: 4211
+- Forks: 598
+- Language: Python
+- Topics: home-assistant, home-automation, miio, miot, miot-spec, python, smart-home, xiaomi

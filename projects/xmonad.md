@@ -1,0 +1,19 @@
+---
+name: "Xmonad"
+description: "The core of xmonad, a small but functional ICCCM-compliant tiling window manager"
+repo: "https://github.com/xmonad/xmonad"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-14T03:53:11Z"
+---
+
+The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+
+## Stats
+
+- Stars: 3559
+- Forks: 295
+- Language: Haskell
+- Topics: hacktoberfest, haskell, window-manager, x11, x11-wm, xmonad

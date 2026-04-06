@@ -1,0 +1,18 @@
+---
+name: "Blackarch Docker"
+description: "Official BlackArch Linux docker images."
+repo: "https://github.com/BlackArch/blackarch-docker"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-04T21:42:57Z"
+---
+
+Official BlackArch Linux docker images.
+
+## Stats
+
+- Stars: 36
+- Forks: 6
+- Language: Shell

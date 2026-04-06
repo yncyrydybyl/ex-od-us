@@ -1,0 +1,19 @@
+---
+name: "Weron"
+description: "Overlay networks based on WebRTC."
+repo: "https://github.com/pojntfx/weron"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-04-22T00:29:26Z"
+---
+
+Overlay networks based on WebRTC.
+
+## Stats
+
+- Stars: 2040
+- Forks: 78
+- Language: Go
+- Topics: golang, nat, networking, overlay-network, p2p, pion, tuntap, vpn, webrtc

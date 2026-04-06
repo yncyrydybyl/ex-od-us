@@ -1,0 +1,19 @@
+---
+name: "Rorm"
+description: "A multi-language ORM written in pure rust."
+repo: "https://github.com/rorm-orm/rorm"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-17T19:07:22Z"
+---
+
+A multi-language ORM written in pure rust.
+
+## Stats
+
+- Stars: 30
+- Forks: 2
+- Language: Rust
+- Topics: database, mariadb, mysql, orm, postgresql, rust, sql, sqlite

@@ -1,0 +1,19 @@
+---
+name: "Nwg Shell"
+description: "Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors"
+repo: "https://github.com/nwg-piotr/nwg-shell"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-31T23:37:06Z"
+---
+
+Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors
+
+## Stats
+
+- Stars: 1058
+- Forks: 17
+- Language: CSS
+- Topics: bar, gtk, gtk3, launcher, menu, panel, sway, wlroots

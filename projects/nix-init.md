@@ -1,0 +1,19 @@
+---
+name: "Nix Init"
+description: "Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]"
+repo: "https://github.com/nix-community/nix-init"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T08:55:01Z"
+---
+
+Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
+
+## Stats
+
+- Stars: 1351
+- Forks: 40
+- Language: Rust
+- Topics: cargo, go, nix, nixpkgs, poetry, python, rust, template
