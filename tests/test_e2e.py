@@ -190,7 +190,7 @@ class TestSiteHTML:
 
     def test_has_hero_animation(self):
         assert 'hero-slot' in self.html
-        assert 'slotSnap' in self.html
+        assert 'heroFadeIn' in self.html
 
     def test_has_exodus_bar(self):
         assert 'exodus-bar' in self.html
