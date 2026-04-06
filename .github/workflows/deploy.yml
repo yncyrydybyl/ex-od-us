@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'projects/**'
-      - 'docs/**'
+      - 'src/**'
       - 'scripts/build-projects.sh'
   workflow_dispatch:
 
@@ -32,7 +32,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
-          cp docs/index.html _site/
+          cp src/index.html _site/
           cp data/projects-slim.json _site/
           # Full JSON as fallback (for local dev / API consumers)
           cp data/projects.json _site/
