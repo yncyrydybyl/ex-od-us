@@ -1,12 +1,17 @@
 ---
-name: "Electricpy"
-description: "Electrical Engineering Formulas in Python"
+name: Electricpy
+description: Electrical Engineering Formulas in Python
 repo: "https://github.com/engineerjoe440/ElectricPy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-01T19:52:04Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#electricpy:stanleysolutionsnw.com]
+exodus_score: 6
+last_scanned: "2026-04-06T15:19:13Z"
 ---
 
 Electrical Engineering Formulas in Python

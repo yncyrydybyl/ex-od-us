@@ -1,12 +1,16 @@
 ---
-name: "Cry Me"
-description: "CRY.ME (CRYptographic MEssaging application)"
+name: Cry Me
+description: CRY.ME (CRYptographic MEssaging application)
 repo: "https://github.com/ANSSI-FR/cry-me"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [736]
 updated: "2025-11-24T13:35:48Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:18:25Z"
 ---
 
 CRY.ME (CRYptographic MEssaging application)

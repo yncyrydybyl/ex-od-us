@@ -1,12 +1,16 @@
 ---
-name: "Profiler"
-description: "Firefox Profiler — Web app for Firefox performance analysis"
+name: Profiler
+description: Firefox Profiler — Web app for Firefox performance analysis
 repo: "https://github.com/firefox-devtools/profiler"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [1986]
 updated: "2026-04-03T08:26:30Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:23:22Z"
 ---
 
 Firefox Profiler — Web app for Firefox performance analysis

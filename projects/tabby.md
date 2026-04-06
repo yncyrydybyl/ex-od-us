@@ -1,12 +1,15 @@
 ---
-name: "Tabby"
-description: "A terminal for a more modern age"
+name: Tabby
+description: A terminal for a more modern age
 repo: "https://github.com/Eugeny/tabby"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2016]
 updated: "2026-03-20T12:48:52Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:24:22Z"
 ---
 
 A terminal for a more modern age

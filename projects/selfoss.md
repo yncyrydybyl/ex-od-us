@@ -1,12 +1,17 @@
 ---
-name: "Selfoss"
-description: "multipurpose rss reader, live stream, mashup, aggregation web application"
+name: Selfoss
+description: multipurpose rss reader, live stream, mashup, aggregation web application
 repo: "https://github.com/fossar/selfoss"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2002]
 updated: "2026-04-02T07:17:22Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#selfoss:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:23:55Z"
 ---
 
 multipurpose rss reader, live stream, mashup, aggregation web application

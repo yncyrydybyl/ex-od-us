@@ -1,12 +1,17 @@
 ---
-name: "Mkxp"
-description: "Free Software implementation of the Ruby Game Scripting System (RGSS)"
+name: Mkxp
+description: Free Software implementation of the Ruby Game Scripting System (RGSS)
 repo: "https://github.com/Ancurio/mkxp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [785]
 updated: "2026-01-18T20:37:34Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rpgmaker:mapleshrine.eu]
+exodus_score: 5
+last_scanned: "2026-04-06T15:22:23Z"
 ---
 
 Free Software implementation of the Ruby Game Scripting System (RGSS)

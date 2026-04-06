@@ -1,12 +1,17 @@
 ---
-name: "Darkplaces"
+name: Darkplaces
 description: "The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). "
 repo: "https://github.com/DarkPlacesEngine/DarkPlaces"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-22T18:56:05Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#darkplaces:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:18:30Z"
 ---
 
 The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). 

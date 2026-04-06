@@ -1,12 +1,15 @@
 ---
-name: "Pyflunt"
-description: "Python implementation of Domain Notification Pattern"
+name: Pyflunt
+description: Python implementation of Domain Notification Pattern
 repo: "https://github.com/fazedordecodigo/PyFlunt"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [1988]
 updated: "2025-12-06T23:55:00Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:23:25Z"
 ---
 
 Python implementation of Domain Notification Pattern

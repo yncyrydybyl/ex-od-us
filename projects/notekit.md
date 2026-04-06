@@ -1,12 +1,16 @@
 ---
-name: "Notekit"
-description: "A GTK3 hierarchical markdown notetaking application with tablet support."
+name: Notekit
+description: A GTK3 hierarchical markdown notetaking application with tablet support.
 repo: "https://github.com/blackhole89/notekit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [790]
 updated: "2026-01-29T00:39:14Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:22:39Z"
 ---
 
 A GTK3 hierarchical markdown notetaking application with tablet support.

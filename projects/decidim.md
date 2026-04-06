@@ -1,12 +1,17 @@
 ---
-name: "Decidim"
-description: "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails"
+name: Decidim
+description: The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
 repo: "https://github.com/decidim/decidim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T04:06:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#decidimdevs:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:18:37Z"
 ---
 
 The participatory democracy framework. A generator and multiple gems made with Ruby on Rails

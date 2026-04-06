@@ -1,12 +1,15 @@
 ---
-name: "Dempster Shafer Trading Algo"
+name: Dempster Shafer Trading Algo
 description: "\"High Frequency\" style trading algo based on the Dempster-Shafer fusion theory in C# using the Interactive Brokers API.  "
 repo: "https://github.com/blckswmngbrd/Dempster-Shafer-Trading-Algo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [739]
 updated: "2019-04-27T10:47:23Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:18:38Z"
 ---
 
 "High Frequency" style trading algo based on the Dempster-Shafer fusion theory in C# using the Interactive Brokers API.  

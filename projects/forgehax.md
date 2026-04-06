@@ -1,12 +1,17 @@
 ---
-name: "Forgehax"
-description: "A Minecraft cheat that runs as a Forge mod"
+name: Forgehax
+description: A Minecraft cheat that runs as a Forge mod
 repo: "https://github.com/fr1kin/ForgeHax"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-12-09T01:31:32Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space]
+exodus_score: 6
+last_scanned: "2026-04-06T15:20:44Z"
 ---
 
 A Minecraft cheat that runs as a Forge mod

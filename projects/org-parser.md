@@ -1,12 +1,16 @@
 ---
-name: "Org Parser"
-description: "org-parser is a parser for the Org mode markup language for Emacs."
+name: Org Parser
+description: org-parser is a parser for the Org mode markup language for Emacs.
 repo: "https://github.com/200ok-ch/org-parser"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [1977]
 updated: "2026-03-27T08:54:11Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:23:01Z"
 ---
 
 org-parser is a parser for the Org mode markup language for Emacs.

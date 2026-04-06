@@ -1,12 +1,17 @@
 ---
-name: "Element Admin"
-description: "Manage your Element Server Suite deployment"
+name: Element Admin
+description: Manage your Element Server Suite deployment
 repo: "https://github.com/element-hq/element-admin"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T22:27:25Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ess-community:element.io]
+exodus_score: 6
+last_scanned: "2026-04-06T15:19:14Z"
 ---
 
 Manage your Element Server Suite deployment

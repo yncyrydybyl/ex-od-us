@@ -1,12 +1,17 @@
 ---
-name: "Vulkan Shadertoy Launcher"
-description: "using C, no external dependencies"
+name: Vulkan Shadertoy Launcher
+description: using C, no external dependencies
 repo: "https://github.com/danilw/vulkan-shadertoy-launcher"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2032]
 updated: "2026-02-11T14:03:36Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#shadertoy:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:24:55Z"
 ---
 
 using C, no external dependencies

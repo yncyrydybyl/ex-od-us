@@ -1,12 +1,17 @@
 ---
-name: "Embedded Tls"
-description: "An Rust TLS 1.3 implementation for embedded devices."
+name: Embedded Tls
+description: An Rust TLS 1.3 implementation for embedded devices.
 repo: "https://github.com/drogue-iot/embedded-tls"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-06T13:13:52Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:36Z"
 ---
 
 An Rust TLS 1.3 implementation for embedded devices.

@@ -1,12 +1,17 @@
 ---
-name: "Drogue Device"
-description: "A distribution of tools and examples for building embedded IoT applications in Rust"
+name: Drogue Device
+description: A distribution of tools and examples for building embedded IoT applications in Rust
 repo: "https://github.com/drogue-iot/drogue-device"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-10-06T10:58:54Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:18:59Z"
 ---
 
 A distribution of tools and examples for building embedded IoT applications in Rust

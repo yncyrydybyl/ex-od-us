@@ -1,12 +1,16 @@
 ---
-name: "Flatcar Terraform"
-description: "Examples of deploying Flatcar instances with Terraform"
+name: Flatcar Terraform
+description: Examples of deploying Flatcar instances with Terraform
 repo: "https://github.com/flatcar/flatcar-terraform"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T12:36:44Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:20:28Z"
 ---
 
 Examples of deploying Flatcar instances with Terraform

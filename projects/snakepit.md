@@ -1,12 +1,16 @@
 ---
-name: "Snakepit"
+name: Snakepit
 description: "🐍 Coqui's machine learning job scheduler"
 repo: "https://github.com/coqui-ai/snakepit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2008]
 updated: "2021-09-05T21:01:01Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:24:05Z"
 ---
 
 🐍 Coqui's machine learning job scheduler

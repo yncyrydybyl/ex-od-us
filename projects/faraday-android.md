@@ -1,12 +1,16 @@
 ---
-name: "Faraday Android"
-description: "Мобильное приложение, которое сочетает в себе безопасность и конфиденциальность общения с эффективным управлением проектами."
+name: Faraday Android
+description: Мобильное приложение, которое сочетает в себе безопасность и конфиденциальность общения с эффективным управлением проектами.
 repo: "https://github.com/FaradayApp/Faraday-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-06-04T08:09:59Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:20:08Z"
 ---
 
 Мобильное приложение, которое сочетает в себе безопасность и конфиденциальность общения с эффективным управлением проектами.

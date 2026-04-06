@@ -1,12 +1,17 @@
 ---
-name: "Esp Idf Hal"
-description: "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
+name: Esp Idf Hal
+description: embedded-hal implementation for Rust on ESP32 and ESP-IDF
 repo: "https://github.com/esp-rs/esp-idf-hal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-29T08:43:11Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:50Z"
 ---
 
 embedded-hal implementation for Rust on ESP32 and ESP-IDF

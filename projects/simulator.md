@@ -1,12 +1,17 @@
 ---
-name: "Simulator"
-description: "Desktop simulator for embedded-graphics"
+name: Simulator
+description: Desktop simulator for embedded-graphics
 repo: "https://github.com/embedded-graphics/simulator"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2003]
 updated: "2026-01-30T01:06:58Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rust-embedded-graphics:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:57Z"
 ---
 
 Desktop simulator for embedded-graphics

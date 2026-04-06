@@ -1,12 +1,15 @@
 ---
-name: "Gritql"
-description: "GritQL is a query language for searching, linting, and modifying code."
+name: Gritql
+description: GritQL is a query language for searching, linting, and modifying code.
 repo: "https://github.com/biomejs/gritql"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [765]
 updated: "2026-03-30T04:48:12Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:21:10Z"
 ---
 
 GritQL is a query language for searching, linting, and modifying code.

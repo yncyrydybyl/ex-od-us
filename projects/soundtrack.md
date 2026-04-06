@@ -1,12 +1,16 @@
 ---
-name: "Soundtrack"
-description: "Self-hosted collaborative music playing application."
+name: Soundtrack
+description: Self-hosted collaborative music playing application.
 repo: "https://github.com/FabricLabs/soundtrack"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2010]
 updated: "2020-10-16T08:16:13Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:24:10Z"
 ---
 
 Self-hosted collaborative music playing application.

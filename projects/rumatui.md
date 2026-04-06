@@ -1,12 +1,17 @@
 ---
-name: "Rumatui"
-description: "WIP Command line Matrix client using matrix-rust-sdk"
+name: Rumatui
+description: WIP Command line Matrix client using matrix-rust-sdk
 repo: "https://github.com/DevinR528/rumatui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [1999]
 updated: "2021-08-20T01:26:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rumatui:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:50Z"
 ---
 
 WIP Command line Matrix client using matrix-rust-sdk

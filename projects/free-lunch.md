@@ -1,11 +1,15 @@
 ---
-name: "Free Lunch"
-description: "A curated list of free Windows software, online services and resources. Feel free to contribute!"
+name: Free Lunch
+description: A curated list of free Windows software, online services and resources. Feel free to contribute!
 repo: "https://github.com/auctors/free-lunch"
 platform: github
-status: "Active"
+status: Active
 issues: [759]
 updated: "2025-05-24T13:55:34Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:20:47Z"
 ---
 
 A curated list of free Windows software, online services and resources. Feel free to contribute!

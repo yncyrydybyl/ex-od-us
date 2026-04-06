@@ -8,7 +8,9 @@ status: Active
 issues: [49]
 updated: "2024-07-27T17:11:26Z"
 exodus_score: 2
-last_scanned: "2026-04-06T12:21:03Z"
+last_scanned: "2026-04-06T15:23:15Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 A command line tool to play any audio/video on an Apple TV.

@@ -1,12 +1,17 @@
 ---
-name: "Excision Mail"
-description: "Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD"
+name: Excision Mail
+description: Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD
 repo: "https://github.com/Excision-Mail/Excision-Mail"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-10-30T06:11:22Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#excision-mail:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:20:04Z"
 ---
 
 Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD

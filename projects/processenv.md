@@ -1,12 +1,16 @@
 ---
-name: "Processenv"
-description: "Capture the shell environment of a Foundation app"
+name: Processenv
+description: Capture the shell environment of a Foundation app
 repo: "https://github.com/ChimeHQ/ProcessEnv"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [1985]
 updated: "2025-05-03T18:05:25Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:23:21Z"
 ---
 
 Capture the shell environment of a Foundation app

@@ -1,12 +1,17 @@
 ---
-name: "Magistrala"
-description: "Industrial IoT Messaging and Device Management Platform"
+name: Magistrala
+description: Industrial IoT Messaging and Device Management Platform
 repo: "https://github.com/absmach/magistrala"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [775]
 updated: "2026-04-06T10:11:24Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#supermq:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:21:55Z"
 ---
 
 Industrial IoT Messaging and Device Management Platform

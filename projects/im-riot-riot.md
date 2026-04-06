@@ -1,11 +1,14 @@
 ---
-name: "Im.Riot.Riot"
+name: Im.Riot.Riot
 repo: "https://github.com/flathub/im.riot.Riot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2026-03-30T00:32:52Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T15:21:26Z"
 ---
 
 ## Stats

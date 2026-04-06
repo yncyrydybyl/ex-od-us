@@ -1,12 +1,17 @@
 ---
-name: "De4Py"
-description: "The ultimate AI-powered toolkit for python reverse engineering"
+name: De4Py
+description: The ultimate AI-powered toolkit for python reverse engineering
 repo: "https://github.com/Fadi002/de4py"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T06:30:53Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#de4py_commiunty:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:18:34Z"
 ---
 
 The ultimate AI-powered toolkit for python reverse engineering

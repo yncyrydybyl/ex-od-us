@@ -1,12 +1,16 @@
 ---
-name: "Keycodes"
-description: "AppKit Carbon key codes to UIKey-compatible enums"
+name: Keycodes
+description: AppKit Carbon key codes to UIKey-compatible enums
 repo: "https://github.com/ChimeHQ/KeyCodes"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-07-12T15:28:16Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:21:38Z"
 ---
 
 AppKit Carbon key codes to UIKey-compatible enums

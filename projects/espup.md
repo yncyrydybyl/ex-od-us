@@ -1,12 +1,17 @@
 ---
-name: "Espup"
-description: "Tool for installing and maintaining Espressif Rust ecosystem."
+name: Espup
+description: Tool for installing and maintaining Espressif Rust ecosystem.
 repo: "https://github.com/esp-rs/espup"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T08:05:22Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:58Z"
 ---
 
 Tool for installing and maintaining Espressif Rust ecosystem.

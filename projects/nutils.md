@@ -1,12 +1,17 @@
 ---
-name: "Nutils"
-description: "The nutils project"
+name: Nutils
+description: The nutils project
 repo: "https://github.com/evalf/nutils"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T12:03:12Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nutils-users:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:22:44Z"
 ---
 
 The nutils project

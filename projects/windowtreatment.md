@@ -1,12 +1,16 @@
 ---
-name: "Windowtreatment"
-description: "Tools for happier work with NSWindow"
+name: Windowtreatment
+description: Tools for happier work with NSWindow
 repo: "https://github.com/ChimeHQ/WindowTreatment"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2036]
 updated: "2024-11-19T12:16:14Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:25:06Z"
 ---
 
 Tools for happier work with NSWindow

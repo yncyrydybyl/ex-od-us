@@ -1,12 +1,15 @@
 ---
-name: "Sliver"
-description: "Adversary Emulation Framework"
+name: Sliver
+description: Adversary Emulation Framework
 repo: "https://github.com/BishopFox/sliver"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [814]
 updated: "2026-04-02T16:17:38Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:24:01Z"
 ---
 
 Adversary Emulation Framework

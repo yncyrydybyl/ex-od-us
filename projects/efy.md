@@ -1,12 +1,17 @@
 ---
-name: "Efy"
-description: "User Customizable CSS / JS framework. Private, modular & convergent apps"
+name: Efy
+description: User Customizable CSS / JS framework. Private, modular & convergent apps
 repo: "https://github.com/dragos-efy/efy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-19T00:11:28Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#efy_ui:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:19:08Z"
 ---
 
 User Customizable CSS / JS framework. Private, modular & convergent apps

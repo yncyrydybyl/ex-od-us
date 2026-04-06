@@ -1,12 +1,17 @@
 ---
-name: "Rimu"
+name: Rimu
 description: "Template language for structured data: functional YAML 🌱"
 repo: "https://github.com/ahdinosaur/rimu"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [810]
 updated: "2026-02-16T01:58:19Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rimu:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:43Z"
 ---
 
 Template language for structured data: functional YAML 🌱

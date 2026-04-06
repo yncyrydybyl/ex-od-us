@@ -1,12 +1,17 @@
 ---
-name: "Frigoligo"
-description: "Your articles with you"
+name: Frigoligo
+description: Your articles with you
 repo: "https://github.com/casimir/frigoligo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [760]
 updated: "2026-04-06T10:34:12Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#frigoligo:one.ems.host]
+exodus_score: 6
+last_scanned: "2026-04-06T15:20:51Z"
 ---
 
 Your articles with you

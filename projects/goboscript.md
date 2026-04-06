@@ -1,12 +1,16 @@
 ---
-name: "Goboscript"
-description: "goboscript is the Scratch compiler"
+name: Goboscript
+description: goboscript is the Scratch compiler
 repo: "https://github.com/aspizu/goboscript"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [764]
 updated: "2026-04-05T18:44:39Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:21:07Z"
 ---
 
 goboscript is the Scratch compiler

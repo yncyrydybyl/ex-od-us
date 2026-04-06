@@ -1,11 +1,14 @@
 ---
-name: "Javascript Mastery"
+name: Javascript Mastery
 repo: "https://github.com/amigoscode/javascript-mastery"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [769]
 updated: "2021-10-11T14:35:33Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:21:32Z"
 ---
 
 ## Stats

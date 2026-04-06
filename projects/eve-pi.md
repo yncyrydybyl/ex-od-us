@@ -1,12 +1,17 @@
 ---
-name: "Eve Pi"
-description: "EVE Online PI tool"
+name: Eve Pi
+description: EVE Online PI tool
 repo: "https://github.com/calli-eve/eve-pi"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [752]
 updated: "2026-02-24T17:47:21Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#eve-pi:calli.fi]
+exodus_score: 5
+last_scanned: "2026-04-06T15:20:01Z"
 ---
 
 EVE Online PI tool

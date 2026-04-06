@@ -1,12 +1,17 @@
 ---
-name: "Std"
-description: "A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!"
+name: Std
+description: A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 repo: "https://github.com/divnix/std"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2011]
 updated: "2025-08-25T16:03:19Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#std-nix:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:24:12Z"
 ---
 
 A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!

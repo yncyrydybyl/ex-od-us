@@ -1,12 +1,16 @@
 ---
-name: "Meter"
-description: "Library for interacting with MetricKit"
+name: Meter
+description: Library for interacting with MetricKit
 repo: "https://github.com/ChimeHQ/Meter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-09-15T10:08:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:22:16Z"
 ---
 
 Library for interacting with MetricKit

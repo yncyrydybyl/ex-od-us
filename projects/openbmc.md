@@ -1,12 +1,15 @@
 ---
-name: "Openbmc"
-description: "OpenBMC for Genoa SP5 socket platforms"
+name: Openbmc
+description: OpenBMC for Genoa SP5 socket platforms
 repo: "https://github.com/AMDESE/OpenBMC"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [796]
 updated: "2025-06-30T11:55:56Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:22:53Z"
 ---
 
 OpenBMC for Genoa SP5 socket platforms

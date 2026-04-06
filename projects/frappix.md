@@ -1,12 +1,17 @@
 ---
-name: "Frappix"
-description: "Frappe on Nix"
+name: Frappix
+description: Frappe on Nix
 repo: "https://github.com/blaggacao/frappix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [758]
 updated: "2025-07-14T09:41:24Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#frappix:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:20:45Z"
 ---
 
 Frappe on Nix

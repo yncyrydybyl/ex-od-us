@@ -1,12 +1,17 @@
 ---
-name: "Solidity"
-description: "Solidity, the Smart Contract Programming Language"
+name: Solidity
+description: Solidity, the Smart Contract Programming Language
 repo: "https://github.com/argotorg/solidity"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [816]
 updated: "2026-04-06T11:45:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T15:24:08Z"
 ---
 
 Solidity, the Smart Contract Programming Language

@@ -1,12 +1,17 @@
 ---
-name: "Flexcyon"
-description: "An Obsidian.md theme combining the colour schemes of Halcyon and Flexoki"
+name: Flexcyon
+description: An Obsidian.md theme combining the colour schemes of Halcyon and Flexoki
 repo: "https://github.com/bladeacer/flexcyon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [756]
 updated: "2026-04-05T13:30:36Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#flexcyon-space:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:20:31Z"
 ---
 
 An Obsidian.md theme combining the colour schemes of Halcyon and Flexoki

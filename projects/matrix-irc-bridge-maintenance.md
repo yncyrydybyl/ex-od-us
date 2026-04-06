@@ -8,7 +8,10 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#irc:matrix.org]
 issues: [9]
 updated: "2026-04-06T08:17:33Z"
-last_scanned: "2026-04-06T12:20:58Z"
+last_scanned: "2026-04-06T15:22:06Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 6
 ---
 
 Maintaining the official Matrix-IRC bridge

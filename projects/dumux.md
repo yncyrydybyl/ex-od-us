@@ -1,12 +1,16 @@
 ---
-name: "Dumux"
+name: Dumux
 description: "DuMux: an open-source simulator for flow and transport processes in porous media (repository mirrored from https://git.iws.uni-stuttgart.de/dumux-repositories/dumux.git)"
 repo: "https://github.com/dumux/dumux"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T10:14:22Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:19:03Z"
 ---
 
 DuMux: an open-source simulator for flow and transport processes in porous media (repository mirrored from https://git.iws.uni-stuttgart.de/dumux-repositories/dumux.git)

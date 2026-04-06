@@ -1,12 +1,16 @@
 ---
-name: "Go Storage"
+name: Go Storage
 description: "A vendor-neutral storage library for Golang: Write once, run on every storage service."
 repo: "https://github.com/beyondstorage/go-storage"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [763]
 updated: "2025-01-07T16:33:54Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:21:06Z"
 ---
 
 A vendor-neutral storage library for Golang: Write once, run on every storage service.

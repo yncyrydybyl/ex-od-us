@@ -1,12 +1,17 @@
 ---
-name: "Trieve"
-description: "All-in-one platform for search, recommendations, RAG, and analytics offered via API"
+name: Trieve
+description: All-in-one platform for search, recommendations, RAG, and analytics offered via API
 repo: "https://github.com/devflowinc/trieve"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2022]
 updated: "2026-01-25T23:25:46Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#trieve-general:trieve.ai]
+exodus_score: 5
+last_scanned: "2026-04-06T15:24:40Z"
 ---
 
 All-in-one platform for search, recommendations, RAG, and analytics offered via API

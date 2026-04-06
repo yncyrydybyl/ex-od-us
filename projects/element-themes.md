@@ -1,12 +1,17 @@
 ---
-name: "Element Themes"
-description: "A place to share themes for Element. PRs with new themes are welcome!"
+name: Element Themes
+description: A place to share themes for Element. PRs with new themes are welcome!
 repo: "https://github.com/aaronraimist/element-themes"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: [747]
 updated: "2025-10-24T23:32:44Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#element-themes:raim.ist]
+exodus_score: 6
+last_scanned: "2026-04-06T15:19:21Z"
 ---
 
 A place to share themes for Element. PRs with new themes are welcome!

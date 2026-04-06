@@ -1,12 +1,17 @@
 ---
-name: "Scat"
+name: Scat
 description: "SCAT: Signaling Collection and Analysis Tool"
 repo: "https://github.com/fgsect/scat"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [2000]
 updated: "2026-04-04T19:10:32Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#scat-users:tchncs.de]
+exodus_score: 5
+last_scanned: "2026-04-06T15:23:53Z"
 ---
 
 SCAT: Signaling Collection and Analysis Tool
