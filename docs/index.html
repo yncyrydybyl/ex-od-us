@@ -64,7 +64,11 @@ header p { color: #8b949e; max-width: 600px; }
 }
 .card:hover { border-color: #58a6ff; }
 .card-accent { height: 4px; }
-.card-body { padding: 0.875rem 1rem; }
+.card-body {
+  padding: 0.875rem 1rem; display: flex; flex-direction: column;
+  min-height: 160px;
+}
+.card-grow { flex: 1; }
 .card-header { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.5rem; }
 .card-avatar {
   width: 32px; height: 32px; border-radius: 6px;
@@ -79,6 +83,16 @@ header p { color: #8b949e; max-width: 600px; }
   background: #0d1117; border: 1px solid #21262d;
   padding: 0.1rem 0.4rem; border-radius: 4px;
 }
+.card-matrix-link {
+  position: absolute; top: 8px; right: 48px;
+  display: flex; align-items: center; justify-content: center;
+  width: 24px; height: 24px; border-radius: 6px;
+  background: #0d1117; border: 1px solid #238636;
+  color: #3fb950; font-size: 0.7rem; font-weight: 800;
+  text-decoration: none; transition: background 0.15s, border-color 0.15s;
+}
+.card-matrix-link:hover { background: #238636; color: #fff; text-decoration: none; }
+.card-matrix-link[data-empty] { border-color: #30363d; color: #484f58; cursor: default; }
 .card-title { font-size: 0.95rem; font-weight: 600; color: #f0f6fc; flex: 1; min-width: 0; }
 .card-title a { color: inherit; }
 .card-title a:hover { color: #58a6ff; text-decoration: none; }
@@ -430,6 +444,9 @@ function enrich(p) {
   else if (ch.mattermost)p.primaryPlatform = { icon: 'Mm', color: '#0058CC' };
   else                   p.primaryPlatform = null;
 
+  // Detect Matrix user link (for projects with @user:server but no room)
+  p.matrixUser = p.channels?.matrix_user || '';
+
   // Parse matrix rooms into {name, url} pairs
   p.matrixRoomsParsed = (p.channels.matrix_rooms || []).map(line => {
     line = line.replace(/^-\s*/, '').trim();
@@ -495,9 +512,23 @@ function renderCards(projects) {
         <span class="exodus-bar-label">${sc}/10</span>
       </div>` : '';
 
+    // Matrix badge: detect type from URL (room #, space +, user @)
+    let matrixBadge;
+    const matrixLink = firstRoom ? firstRoom.url : (p.matrixUser || '');
+    if (matrixLink) {
+      let mLabel = '#';  // room
+      let mTitle = 'Matrix room';
+      if (matrixLink.includes('/#/+')) { mLabel = '+'; mTitle = 'Matrix space'; }
+      else if (matrixLink.includes('/#/@')) { mLabel = '@'; mTitle = 'Matrix user'; }
+      matrixBadge = `<a class="card-matrix-link" href="${esc(matrixLink)}" target="_blank" onclick="event.stopPropagation()" title="${mTitle}: ${esc(matrixLink)}">${mLabel}</a>`;
+    } else {
+      matrixBadge = `<span class="card-matrix-link" data-empty title="No Matrix presence">&ndash;</span>`;
+    }
+
     return `
     <div class="card" data-idx="${i}">
       <div class="card-accent accent-${p.platform}"></div>
+      ${matrixBadge}
       <span class="card-rank">#${rank}</span>
       <div class="card-body">
         <div class="card-header">
@@ -506,12 +537,13 @@ function renderCards(projects) {
           ${scoreBadge}
         </div>
         <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
-        ${exodusBar}
         <div class="card-meta">
           ${platformBadge} ${cats}
           ${p.status ? `<span class="badge badge-status">${esc(p.status)}</span>` : ''}
         </div>
         ${cardLinks.length ? `<div class="card-links">${cardLinks.join('')}</div>` : ''}
+        <div class="card-grow"></div>
+        ${exodusBar}
         <div class="card-footer">
           <span>${p.last_scanned ? `Scanned ${timeAgo(p.last_scanned)}` : `Updated ${timeAgo(p.updated)}`}</span>
           <button class="card-info-btn" onclick="event.stopPropagation(); openModal(${i})" title="Details">i</button>
@@ -536,15 +568,21 @@ function openModal(idx) {
 
   const sc = p.exodus_score;
   const scoreColor = sc != null ? getScoreColor(sc) : '#30363d';
+  const pp = p.primaryPlatform;
+  const modalLeftIcon = pp && sc != null && sc < 9
+    ? `<span style="font-weight:700;color:${pp.color};font-size:0.9rem" title="${esc(pp.icon)}">${esc(pp.icon)}</span>`
+    : '';
   const scoreSection = sc != null ? `
     <div class="modal-score">
+      ${modalLeftIcon}
       <div class="modal-score-num" style="color:${scoreColor}">${sc}</div>
       <div style="flex:1">
         <div style="font-size:0.7rem;color:#8b949e;margin-bottom:0.25rem">Exodus Score</div>
         <div class="modal-score-bar">
-          <div class="modal-score-fill" style="width:${sc*10}%;background:${scoreColor}"></div>
+          <div class="modal-score-fill" style="width:${sc*10}%;background:linear-gradient(90deg,#f85149 0%,#d29922 40%,#3fb950 100%)"></div>
         </div>
       </div>
+      <span style="font-weight:700;color:#3fb950;font-size:0.9rem">M</span>
       <div style="font-size:0.7rem;color:#8b949e">/10</div>
     </div>` : '';
 

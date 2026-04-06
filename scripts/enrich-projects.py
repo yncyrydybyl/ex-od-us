@@ -187,6 +187,7 @@ def write_frontmatter(fm, body):
 
 # ── Matrix scoring ──────────────────────────────────────────────
 ROOM_PATTERN = re.compile(r'matrix\.to/#/(#[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
+USER_PATTERN = re.compile(r'matrix\.to/#/(@[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
 
 def score_readme(content):
     """Score Matrix presence in a README. Returns (score, signals, rooms)."""
@@ -194,9 +195,15 @@ def score_readme(content):
     signals = []
     rooms = list(set(ROOM_PATTERN.findall(content)))
 
+    # Also detect user links (@user:server)
+    users = list(set(USER_PATTERN.findall(content)))
+
     if rooms:
         score += 2
-        signals.append(f'matrix.to links: {len(rooms)}')
+        signals.append(f'matrix.to room links: {len(rooms)}')
+    elif users:
+        score += 1
+        signals.append(f'matrix.to user links: {len(users)}')
 
     if re.search(r'shields\.io/matrix|matrix-badge|badge.*matrix', content, re.I):
         score += 1
