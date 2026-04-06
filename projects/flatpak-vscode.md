@@ -1,12 +1,17 @@
 ---
-name: "Flatpak Vscode"
+name: Flatpak Vscode
 description: "Integrate Flatpak with VSCode "
 repo: "https://github.com/bilelmoussaoui/flatpak-vscode"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [755]
 updated: "2026-03-29T14:10:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#flatpak-vscode:gnome.org]
+exodus_score: 6
+last_scanned: "2026-04-06T15:20:30Z"
 ---
 
 Integrate Flatpak with VSCode 

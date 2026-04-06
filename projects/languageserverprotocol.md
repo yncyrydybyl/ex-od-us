@@ -1,12 +1,16 @@
 ---
-name: "Languageserverprotocol"
-description: "Swift library for working with Language Server Protocol (LSP)"
+name: Languageserverprotocol
+description: Swift library for working with Language Server Protocol (LSP)
 repo: "https://github.com/ChimeHQ/LanguageServerProtocol"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-28T16:09:07Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:21:41Z"
 ---
 
 Swift library for working with Language Server Protocol (LSP)

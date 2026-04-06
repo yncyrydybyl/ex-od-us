@@ -1,12 +1,17 @@
 ---
-name: "Asteroid"
-description: "Build script for AsteroidOS, an open-source operating system for smartwatches"
+name: Asteroid
+description: Build script for AsteroidOS, an open-source operating system for smartwatches
 repo: "https://github.com/AsteroidOS/asteroid"
 platform: github
 categories: [Infrastructure]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-15T18:49:26Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#Asteroid:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:16:16Z"
 ---
 
 Build script for AsteroidOS, an open-source operating system for smartwatches

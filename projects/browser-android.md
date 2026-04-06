@@ -1,12 +1,17 @@
 ---
-name: "Browser Android"
-description: "Dot Browser for Android"
+name: Browser Android
+description: Dot Browser for Android
 repo: "https://github.com/dothq/browser-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-05-06T15:34:07Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#dothq:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T15:17:19Z"
 ---
 
 Dot Browser for Android

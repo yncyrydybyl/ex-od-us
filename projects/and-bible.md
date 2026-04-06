@@ -1,12 +1,17 @@
 ---
-name: "And Bible"
+name: And Bible
 description: "AndBible: Bible Study"
 repo: "https://github.com/AndBible/and-bible"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T06:55:36Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#andbible:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:15:42Z"
 ---
 
 AndBible: Bible Study

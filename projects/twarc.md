@@ -1,12 +1,17 @@
 ---
-name: "Twarc"
-description: "A command line tool (and Python library) for archiving Twitter JSON"
+name: Twarc
+description: A command line tool (and Python library) for archiving Twitter JSON
 repo: "https://github.com/DocNow/twarc"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2027]
 updated: "2025-10-31T18:03:47Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#docnow:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T15:24:46Z"
 ---
 
 A command line tool (and Python library) for archiving Twitter JSON

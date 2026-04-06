@@ -1,12 +1,17 @@
 ---
-name: "Upgradeall"
-description: "Check updates for Android apps, Magisk modules and more!"
+name: Upgradeall
+description: Check updates for Android apps, Magisk modules and more!
 repo: "https://github.com/DUpdateSystem/UpgradeAll"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2029]
 updated: "2026-03-27T14:52:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#upgradeall:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:24:50Z"
 ---
 
 Check updates for Android apps, Magisk modules and more!

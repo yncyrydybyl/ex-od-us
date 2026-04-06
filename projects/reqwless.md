@@ -1,12 +1,17 @@
 ---
-name: "Reqwless"
-description: "Rust async HTTP client for embedded/no_std"
+name: Reqwless
+description: Rust async HTTP client for embedded/no_std
 repo: "https://github.com/drogue-iot/reqwless"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1995]
 updated: "2026-02-02T07:45:46Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:39Z"
 ---
 
 Rust async HTTP client for embedded/no_std

@@ -1,12 +1,17 @@
 ---
-name: "Robonomics"
+name: Robonomics
 description: "Robonomics node implementation for Polkadot ecosystem; Kusama parachain slot #2048 since January 2022"
 repo: "https://github.com/airalab/robonomics"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [811]
 updated: "2026-04-01T10:42:51Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#robonomics:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:45Z"
 ---
 
 Robonomics node implementation for Polkadot ecosystem; Kusama parachain slot #2048 since January 2022

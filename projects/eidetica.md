@@ -1,12 +1,17 @@
 ---
-name: "Eidetica"
-description: "Decentralized DB. Remember Everything. Everywhere. All At Once."
+name: Eidetica
+description: Decentralized DB. Remember Everything. Everywhere. All At Once.
 repo: "https://github.com/arcuru/eidetica"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [745]
 updated: "2026-04-01T05:45:01Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#eidetica-general:jackson.dev, https://matrix.to/#/#eidetica:jackson.dev]
+exodus_score: 5
+last_scanned: "2026-04-06T15:19:09Z"
 ---
 
 Decentralized DB. Remember Everything. Everywhere. All At Once.

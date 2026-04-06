@@ -1,12 +1,17 @@
 ---
-name: "Somtoday Api Docs"
-description: "Documentation for the SOMtoday API"
+name: Somtoday Api Docs
+description: Documentation for the SOMtoday API
 repo: "https://github.com/elisaado/somtoday-api-docs"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2009]
 updated: "2026-04-05T17:36:52Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#somtoday:elisaado.com]
+exodus_score: 6
+last_scanned: "2026-04-06T15:24:09Z"
 ---
 
 Documentation for the SOMtoday API

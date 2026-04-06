@@ -1,12 +1,16 @@
 ---
-name: "Flexer"
-description: "Lexing library for Swift"
+name: Flexer
+description: Lexing library for Swift
 repo: "https://github.com/ChimeHQ/Flexer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-05-05T12:16:27Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:20:32Z"
 ---
 
 Lexing library for Swift

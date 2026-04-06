@@ -1,12 +1,17 @@
 ---
-name: "Consensusj"
-description: "Bitcoin components for JVM & Android (JSON client & server support, services, DSL, CLI)"
+name: Consensusj
+description: Bitcoin components for JVM & Android (JSON client & server support, services, DSL, CLI)
 repo: "https://github.com/ConsensusJ/consensusj"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-15T04:32:17Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#consensusj:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:18:15Z"
 ---
 
 Bitcoin components for JVM & Android (JSON client & server support, services, DSL, CLI)

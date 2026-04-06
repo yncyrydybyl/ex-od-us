@@ -1,12 +1,15 @@
 ---
-name: "Queen Bixby Md Pro New"
-description: "✡ QUEEN BIXBY PRO RELEASE ✡"
+name: Queen Bixby Md Pro New
+description: ✡ QUEEN BIXBY PRO RELEASE ✡
 repo: "https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1990]
 updated: "2023-09-16T10:28:19Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:23:29Z"
 ---
 
 ✡ QUEEN BIXBY PRO RELEASE ✡

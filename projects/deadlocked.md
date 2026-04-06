@@ -1,12 +1,16 @@
 ---
-name: "Deadlocked"
-description: "linux-only external aimbot/esp cheat for counter-strike 2"
+name: Deadlocked
+description: linux-only external aimbot/esp cheat for counter-strike 2
 repo: "https://github.com/avitran0/deadlocked"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [737]
 updated: "2026-04-02T11:01:48Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:18:35Z"
 ---
 
 linux-only external aimbot/esp cheat for counter-strike 2

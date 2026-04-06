@@ -1,12 +1,15 @@
 ---
-name: "Boxedwine"
-description: "Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine"
+name: Boxedwine
+description: Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
 repo: "https://github.com/danoon2/Boxedwine"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T15:00:38Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:17:11Z"
 ---
 
 Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine

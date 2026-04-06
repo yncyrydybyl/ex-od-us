@@ -1,12 +1,16 @@
 ---
-name: "Blend2D"
-description: "2D Vector Graphics Engine Powered by a JIT Compiler"
+name: Blend2D
+description: 2D Vector Graphics Engine Powered by a JIT Compiler
 repo: "https://github.com/blend2d/blend2d"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [709]
 updated: "2025-11-29T08:14:34Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:17:04Z"
 ---
 
 2D Vector Graphics Engine Powered by a JIT Compiler

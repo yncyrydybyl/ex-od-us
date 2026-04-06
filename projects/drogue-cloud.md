@@ -1,12 +1,17 @@
 ---
-name: "Drogue Cloud"
-description: "Cloud Native IoT"
+name: Drogue Cloud
+description: Cloud Native IoT
 repo: "https://github.com/drogue-iot/drogue-cloud"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-05-24T13:20:00Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:18:57Z"
 ---
 
 Cloud Native IoT

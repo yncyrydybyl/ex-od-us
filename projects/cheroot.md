@@ -1,12 +1,16 @@
 ---
-name: "Cheroot"
-description: "Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs -->"
+name: Cheroot
+description: Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs -->
 repo: "https://github.com/cherrypy/cheroot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-06T22:59:58Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:17:46Z"
 ---
 
 Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs -->

@@ -1,12 +1,17 @@
 ---
-name: "Pokem"
+name: Pokem
 description: "A notification bot for Matrix. Listens on HTTP and forwards to Matrix. Similar to https://ntfy.sh"
 repo: "https://github.com/arcuru/pokem"
 platform: github
 categories: [Matrix, Development]
-status: "Active"
+status: Active
 issues: [801]
 updated: "2025-08-06T20:26:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#pokem:jackson.dev, https://matrix.to/#/#pokem-example:jackson.dev]
+exodus_score: 7
+last_scanned: "2026-04-06T15:23:16Z"
 ---
 
 A notification bot for Matrix. Listens on HTTP and forwards to Matrix. Similar to https://ntfy.sh

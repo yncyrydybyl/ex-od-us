@@ -1,12 +1,17 @@
 ---
-name: "Element Android"
-description: "A Matrix collaboration client for Android."
+name: Element Android
+description: A Matrix collaboration client for Android.
 repo: "https://github.com/element-hq/element-android"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T10:01:11Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#element-android:matrix.org]
+exodus_score: 6
+last_scanned: "2026-04-06T15:19:15Z"
 ---
 
 A Matrix collaboration client for Android.

@@ -1,12 +1,17 @@
 ---
-name: "Boa"
-description: "Boa is an embeddable Javascript engine written in Rust."
+name: Boa
+description: Boa is an embeddable Javascript engine written in Rust.
 repo: "https://github.com/boa-dev/boa"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [713]
 updated: "2026-04-06T03:11:05Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#boa:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:17:09Z"
 ---
 
 Boa is an embeddable Javascript engine written in Rust.

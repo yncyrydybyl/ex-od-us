@@ -1,12 +1,17 @@
 ---
-name: "Microceph"
-description: "MicroCeph is snap-deployed Ceph with built-in clustering"
+name: Microceph
+description: MicroCeph is snap-deployed Ceph with built-in clustering
 repo: "https://github.com/canonical/microceph"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [782]
 updated: "2026-04-03T17:23:31Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ubuntu-ceph:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:22:18Z"
 ---
 
 MicroCeph is snap-deployed Ceph with built-in clustering

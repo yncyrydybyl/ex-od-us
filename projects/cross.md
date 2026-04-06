@@ -9,7 +9,9 @@ issues: [38]
 updated: "2026-03-25T16:00:29Z"
 matrix_rooms: [https://matrix.to/#/#cross-rs:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-06T12:20:52Z"
+last_scanned: "2026-04-06T15:18:22Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 “Zero setup” cross compilation and “cross testing” of Rust crates

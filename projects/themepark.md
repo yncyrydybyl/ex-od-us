@@ -1,12 +1,16 @@
 ---
-name: "Themepark"
-description: "A Swift library for working with syntax highlighting/IDE themes"
+name: Themepark
+description: A Swift library for working with syntax highlighting/IDE themes
 repo: "https://github.com/ChimeHQ/ThemePark"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2019]
 updated: "2025-04-09T13:38:10Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:24:30Z"
 ---
 
 A Swift library for working with syntax highlighting/IDE themes

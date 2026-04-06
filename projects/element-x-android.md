@@ -1,12 +1,17 @@
 ---
-name: "Element X Android"
-description: "Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose"
+name: Element X Android
+description: Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 repo: "https://github.com/element-hq/element-x-android"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T12:57:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#element-x-android:matrix.org]
+exodus_score: 6
+last_scanned: "2026-04-06T15:19:23Z"
 ---
 
 Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose

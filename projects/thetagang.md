@@ -1,12 +1,17 @@
 ---
-name: "Thetagang"
-description: "ThetaGang is an IBKR bot for collecting money"
+name: Thetagang
+description: ThetaGang is an IBKR bot for collecting money
 repo: "https://github.com/brndnmtthws/thetagang"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 issues: [820]
 updated: "2026-03-09T13:27:01Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#thetagang:frens.io]
+exodus_score: 5
+last_scanned: "2026-04-06T15:24:32Z"
 ---
 
 ThetaGang is an IBKR bot for collecting money

@@ -1,12 +1,16 @@
 ---
-name: "Asmjit"
-description: "Low-latency machine code generation"
+name: Asmjit
+description: Low-latency machine code generation
 repo: "https://github.com/asmjit/asmjit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-26T08:20:00Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:16:14Z"
 ---
 
 Low-latency machine code generation

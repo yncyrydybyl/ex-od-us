@@ -1,12 +1,17 @@
 ---
-name: "Neon"
-description: "WIP Prototype of a modern CFD core"
+name: Neon
+description: WIP Prototype of a modern CFD core
 repo: "https://github.com/exasim-project/NeoN"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T19:39:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#NeoN:gitter.im, https://matrix.to/#/#NeoFOAM:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T15:22:31Z"
 ---
 
 WIP Prototype of a modern CFD core

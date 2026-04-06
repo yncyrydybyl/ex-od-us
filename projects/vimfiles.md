@@ -1,12 +1,15 @@
 ---
-name: "Vimfiles"
+name: Vimfiles
 description: "Mike's Vim configuration"
 repo: "https://github.com/drmikehenry/vimfiles"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2030]
 updated: "2026-04-05T14:16:56Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:24:52Z"
 ---
 
 Mike's Vim configuration

@@ -1,12 +1,17 @@
 ---
-name: "Core"
-description: "An extensible micro-framework for PHP"
+name: Core
+description: An extensible micro-framework for PHP
 repo: "https://github.com/flightphp/core"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T17:21:22Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#flight-php-framework:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:18:19Z"
 ---
 
 An extensible micro-framework for PHP

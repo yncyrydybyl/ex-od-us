@@ -1,12 +1,17 @@
 ---
-name: "Esp Hal"
-description: "no_std Hardware Abstraction Layers for ESP32 microcontrollers"
+name: Esp Hal
+description: no_std Hardware Abstraction Layers for ESP32 microcontrollers
 repo: "https://github.com/esp-rs/esp-hal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T18:58:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:48Z"
 ---
 
 no_std Hardware Abstraction Layers for ESP32 microcontrollers

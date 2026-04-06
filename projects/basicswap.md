@@ -1,12 +1,17 @@
 ---
-name: "Basicswap"
-description: "Basic Atomic Swap Proof of Concept"
+name: Basicswap
+description: Basic Atomic Swap Proof of Concept
 repo: "https://github.com/basicswap/basicswap"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [701]
 updated: "2026-03-18T10:46:57Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#basicswap:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:16:49Z"
 ---
 
 Basic Atomic Swap Proof of Concept

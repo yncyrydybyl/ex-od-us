@@ -7,9 +7,11 @@ categories: [Development]
 status: Dead
 issues: [46]
 updated: "2026-02-23T16:22:53Z"
-verified: false
-verified_note: repo not found (404)
-last_scanned: "2026-04-06T12:21:00Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:22:20Z"
+matrix_rooms: [https://matrix.to/#/#minosoft:matrix.org]
+exodus_score: 5
 ---
 
 An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft

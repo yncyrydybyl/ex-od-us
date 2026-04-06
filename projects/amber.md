@@ -1,12 +1,16 @@
 ---
-name: "Amber"
-description: "💎 Amber the programming language compiled to Bash"
+name: Amber
+description: 💎 Amber the programming language compiled to Bash
 repo: "https://github.com/amber-lang/amber"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T06:15:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:15:40Z"
 ---
 
 💎 Amber the programming language compiled to Bash

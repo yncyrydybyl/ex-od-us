@@ -1,12 +1,17 @@
 ---
-name: "Marlin"
-description: "🦀 No-nonsense hardware testing/simulation in Rust 🛠️ | Verilog, Spade, Veryl"
+name: Marlin
+description: 🦀 No-nonsense hardware testing/simulation in Rust 🛠️ | Verilog, Spade, Veryl
 repo: "https://github.com/ethanuppal/marlin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-22T20:24:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#marlin-project:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:21:58Z"
 ---
 
 🦀 No-nonsense hardware testing/simulation in Rust 🛠️ | Verilog, Spade, Veryl

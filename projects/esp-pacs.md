@@ -1,12 +1,17 @@
 ---
-name: "Esp Pacs"
-description: "Peripheral Access Crates for Espressif SoCs and modules"
+name: Esp Pacs
+description: Peripheral Access Crates for Espressif SoCs and modules
 repo: "https://github.com/esp-rs/esp-pacs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-25T17:29:47Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:55Z"
 ---
 
 Peripheral Access Crates for Espressif SoCs and modules

@@ -1,11 +1,16 @@
 ---
-name: "Matrix Authentication Service"
+name: Matrix Authentication Service
 repo: "https://github.com/element-hq/matrix-authentication-service"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T22:55:46Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#matrix-auth:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:22:02Z"
 ---
 
 ## Stats

@@ -1,12 +1,17 @@
 ---
-name: "Ecmaos"
+name: Ecmaos
 description: "ecmaOS: Micro-kernel and framework for web technologies"
 repo: "https://github.com/ecmaos/ecmaos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-26T21:08:37Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ecmaos:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:19:07Z"
 ---
 
 ecmaOS: Micro-kernel and framework for web technologies

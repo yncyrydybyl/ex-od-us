@@ -9,7 +9,7 @@ issues: [54]
 updated: "2026-04-04T08:43:22Z"
 verified: false
 verified_note: repo not found (404)
-last_scanned: "2026-04-06T12:21:09Z"
+last_scanned: "2026-04-06T15:24:48Z"
 ---
 
 A treesitter supported autopairing plugin with extensions, and much more

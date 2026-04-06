@@ -1,12 +1,16 @@
 ---
-name: "Pyhafas"
-description: "A python client for the HAFAS (HaCon Fahrplan Auskunfts System)"
+name: Pyhafas
+description: A python client for the HAFAS (HaCon Fahrplan Auskunfts System)
 repo: "https://github.com/FahrplanDatenGarten/pyhafas"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1989]
 updated: "2025-01-19T20:58:42Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:23:27Z"
 ---
 
 A python client for the HAFAS (HaCon Fahrplan Auskunfts System)

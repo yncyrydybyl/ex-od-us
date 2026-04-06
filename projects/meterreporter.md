@@ -1,12 +1,16 @@
 ---
-name: "Meterreporter"
-description: "Lightweight MetricKit-based diagnostics reporting"
+name: Meterreporter
+description: Lightweight MetricKit-based diagnostics reporting
 repo: "https://github.com/ChimeHQ/MeterReporter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-07-05T17:18:38Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:22:17Z"
 ---
 
 Lightweight MetricKit-based diagnostics reporting

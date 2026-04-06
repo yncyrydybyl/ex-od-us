@@ -1,12 +1,17 @@
 ---
-name: "Arbor"
-description: "The Arbor multi-compartment neural network simulation library."
+name: Arbor
+description: The Arbor multi-compartment neural network simulation library.
 repo: "https://github.com/arbor-sim/arbor"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-03T10:36:11Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#arbor-sim_community:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T15:15:59Z"
 ---
 
 The Arbor multi-compartment neural network simulation library.

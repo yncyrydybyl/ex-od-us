@@ -1,12 +1,17 @@
 ---
-name: "Esp Idf Svc"
-description: "Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)"
+name: Esp Idf Svc
+description: Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)
 repo: "https://github.com/esp-rs/esp-idf-svc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-29T11:45:55Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:51Z"
 ---
 
 Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)

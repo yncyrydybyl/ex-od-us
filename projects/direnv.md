@@ -1,12 +1,17 @@
 ---
-name: "Direnv"
-description: "unclutter your .profile"
+name: Direnv
+description: unclutter your .profile
 repo: "https://github.com/direnv/direnv"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T18:52:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#direnv:numtide.com]
+exodus_score: 6
+last_scanned: "2026-04-06T15:18:45Z"
 ---
 
 unclutter your .profile

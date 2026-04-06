@@ -1,12 +1,17 @@
 ---
-name: "Omorfi"
-description: "Open morphology for Finnish"
+name: Omorfi
+description: Open morphology for Finnish
 repo: "https://github.com/flammie/omorfi"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-24T14:10:57Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#omorfi:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:22:49Z"
 ---
 
 Open morphology for Finnish

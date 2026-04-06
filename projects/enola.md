@@ -1,12 +1,17 @@
 ---
-name: "Enola"
-description: "Enola 🕵🏾‍♀️ Holmes was an SRE."
+name: Enola
+description: Enola 🕵🏾‍♀️ Holmes was an SRE.
 repo: "https://github.com/enola-dev/enola"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-25T20:40:13Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#enola.dev:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:42Z"
 ---
 
 Enola 🕵🏾‍♀️ Holmes was an SRE.

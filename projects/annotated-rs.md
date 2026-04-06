@@ -1,12 +1,15 @@
 ---
-name: "Annotated Rs"
-description: "rust 项目源码分析"
+name: Annotated Rs
+description: rust 项目源码分析
 repo: "https://github.com/better-rs/annotated-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-08-19T08:00:27Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:15:46Z"
 ---
 
 rust 项目源码分析

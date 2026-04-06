@@ -1,12 +1,17 @@
 ---
-name: "Brackets"
-description: "An open source code editor for the web, written in JavaScript, HTML and CSS."
+name: Brackets
+description: An open source code editor for the web, written in JavaScript, HTML and CSS.
 repo: "https://github.com/brackets-cont/brackets"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [714]
 updated: "2026-03-30T21:32:08Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#brackets-cont:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T15:17:12Z"
 ---
 
 An open source code editor for the web, written in JavaScript, HTML and CSS.

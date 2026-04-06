@@ -1,12 +1,17 @@
 ---
-name: "Pybikes"
-description: "bike sharing + python = pybikes"
+name: Pybikes
+description: bike sharing + python = pybikes
 repo: "https://github.com/eskerda/pybikes"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1987]
 updated: "2026-04-01T11:00:25Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#citybikes:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:23:24Z"
 ---
 
 bike sharing + python = pybikes

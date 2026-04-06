@@ -1,12 +1,16 @@
 ---
-name: "Glyph"
-description: "Abstractions for working with TextKit 1 and 2"
+name: Glyph
+description: Abstractions for working with TextKit 1 and 2
 repo: "https://github.com/ChimeHQ/Glyph"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-02-27T18:22:12Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:21:02Z"
 ---
 
 Abstractions for working with TextKit 1 and 2

@@ -9,7 +9,9 @@ issues: [41]
 updated: "2026-04-06T01:31:11Z"
 matrix_rooms: [https://matrix.to/#/#webrtc:matrix.org, https://matrix.to/#/#translators:element.io]
 exodus_score: 8
-last_scanned: "2026-04-06T12:20:55Z"
+last_scanned: "2026-04-06T15:19:16Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 Group calls powered by Matrix

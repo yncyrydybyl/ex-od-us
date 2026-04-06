@@ -1,12 +1,17 @@
 ---
-name: "Forgefed"
-description: "ForgeFed - Federation Protocol for Forge Services"
+name: Forgefed
+description: ForgeFed - Federation Protocol for Forge Services
 repo: "https://github.com/forgefed/forgefed"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-26T08:50:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#forgefed:libera.chat]
+exodus_score: 5
+last_scanned: "2026-04-06T15:20:43Z"
 ---
 
 ForgeFed - Federation Protocol for Forge Services

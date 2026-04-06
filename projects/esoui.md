@@ -1,12 +1,17 @@
 ---
-name: "Esoui"
+name: Esoui
 description: "ESOUI is the Lua source code of the ZenimaxOnline's MMORPG \"The Elder Scrolls Online\""
 repo: "https://github.com/esoui/esoui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T20:07:14Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#esoui_esoui:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:46Z"
 ---
 
 ESOUI is the Lua source code of the ZenimaxOnline's MMORPG \"The Elder Scrolls Online\"

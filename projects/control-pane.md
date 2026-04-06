@@ -1,12 +1,15 @@
 ---
-name: "Control Pane"
+name: Control Pane
 description: "ClonOS: CBSD WEB UI"
 repo: "https://github.com/clonos/control-pane"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-06T08:51:29Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:18:18Z"
 ---
 
 ClonOS: CBSD WEB UI

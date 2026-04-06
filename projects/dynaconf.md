@@ -1,12 +1,17 @@
 ---
-name: "Dynaconf"
-description: "Configuration Management for Python ⚙"
+name: Dynaconf
+description: Configuration Management for Python ⚙
 repo: "https://github.com/dynaconf/dynaconf"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-17T19:39:15Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#dynaconf:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:19:04Z"
 ---
 
 Configuration Management for Python ⚙

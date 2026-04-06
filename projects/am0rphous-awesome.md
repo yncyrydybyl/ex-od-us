@@ -1,12 +1,16 @@
 ---
-name: "Awesome"
-description: "Awesome collection of resources 😎 Work in progress🔥"
+name: Awesome
+description: Awesome collection of resources 😎 Work in progress🔥
 repo: "https://github.com/Am0rphous/Awesome"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-29T21:44:51Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T15:15:35Z"
 ---
 
 Awesome collection of resources 😎 Work in progress🔥

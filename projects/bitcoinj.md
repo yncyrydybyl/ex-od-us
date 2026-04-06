@@ -1,12 +1,17 @@
 ---
-name: "Bitcoinj"
-description: "A library for working with Bitcoin"
+name: Bitcoinj
+description: A library for working with Bitcoin
 repo: "https://github.com/bitcoinj/bitcoinj"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [706]
 updated: "2026-04-05T22:43:34Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#bitcoinj-users:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:16:59Z"
 ---
 
 A library for working with Bitcoin

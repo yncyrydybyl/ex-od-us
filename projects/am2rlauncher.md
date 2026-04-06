@@ -1,12 +1,17 @@
 ---
-name: "Am2Rlauncher"
-description: "Host respository for the AM2RLauncher."
+name: Am2Rlauncher
+description: Host respository for the AM2RLauncher.
 repo: "https://github.com/AM2R-Community-Developers/AM2RLauncher"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-26T23:23:16Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#am2r-space:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T15:15:38Z"
 ---
 
 Host respository for the AM2RLauncher.

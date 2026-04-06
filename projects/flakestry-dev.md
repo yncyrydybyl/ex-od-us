@@ -1,12 +1,15 @@
 ---
-name: "Flakestry.Dev"
-description: "A public central registry of Nix flakes."
+name: Flakestry.Dev
+description: A public central registry of Nix flakes.
 repo: "https://github.com/flakestry/flakestry.dev"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2024-10-24T16:22:11Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T15:20:25Z"
 ---
 
 A public central registry of Nix flakes.

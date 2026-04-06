@@ -1,12 +1,17 @@
 ---
-name: "Syng"
-description: "All in one karaoke software"
+name: Syng
+description: All in one karaoke software
 repo: "https://github.com/christofsteel/syng"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [2014]
 updated: "2026-04-05T14:03:02Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#syng:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:24:19Z"
 ---
 
 All in one karaoke software

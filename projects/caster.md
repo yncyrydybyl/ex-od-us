@@ -1,12 +1,16 @@
 ---
-name: "Caster"
-description: "Dragonfly-Based Voice Programming and Accessibility Toolkit"
+name: Caster
+description: Dragonfly-Based Voice Programming and Accessibility Toolkit
 repo: "https://github.com/dictation-toolbox/Caster"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-26T03:35:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:17:35Z"
 ---
 
 Dragonfly-Based Voice Programming and Accessibility Toolkit

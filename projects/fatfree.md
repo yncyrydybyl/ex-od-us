@@ -1,12 +1,17 @@
 ---
-name: "Fatfree"
-description: "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!"
+name: Fatfree
+description: A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!
 repo: "https://github.com/bcosca/fatfree"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [753]
 updated: "2025-12-02T00:49:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#fat-free-framework:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:20:12Z"
 ---
 
 A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!

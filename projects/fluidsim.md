@@ -1,12 +1,17 @@
 ---
-name: "Fluidsim"
+name: Fluidsim
 description: ":ocean: Framework for studying fluid dynamics with numerical simulations using Python (publish-only mirror). The main repo is hosted on https://foss.heptapod.net (Gitlab fork supporting Mercurial)."
 repo: "https://github.com/fluiddyn/fluidsim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-18T13:31:47Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#fluiddyn-users:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:20:38Z"
 ---
 
 :ocean: Framework for studying fluid dynamics with numerical simulations using Python (publish-only mirror). The main repo is hosted on https://foss.heptapod.net (Gitlab fork supporting Mercurial).

@@ -1,12 +1,15 @@
 ---
-name: "Fooocusplus"
-description: "FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus."
+name: Fooocusplus
+description: FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.
 repo: "https://github.com/DavidDragonsage/FooocusPlus"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T03:53:19Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:20:40Z"
 ---
 
 FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.

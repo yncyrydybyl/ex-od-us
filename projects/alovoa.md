@@ -1,12 +1,17 @@
 ---
-name: "Alovoa"
-description: "Free and open-source dating platform that respects your privacy"
+name: Alovoa
+description: Free and open-source dating platform that respects your privacy
 repo: "https://github.com/Alovoa/alovoa"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-05T13:51:01Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#alovoa_love:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:15:31Z"
 ---
 
 Free and open-source dating platform that respects your privacy

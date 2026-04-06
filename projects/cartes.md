@@ -9,7 +9,9 @@ issues: [35]
 updated: "2025-06-18T11:11:51Z"
 matrix_rooms: [https://matrix.to/#/#cartes:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T12:20:49Z"
+last_scanned: "2026-04-06T15:17:34Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 ⚠️ Migré sur https://codeberg.org/cartes/web. L'appli Web de cartes grand public. 

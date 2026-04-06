@@ -1,12 +1,17 @@
 ---
-name: "Cemu"
-description: "Cemu - Wii U emulator"
+name: Cemu
+description: Cemu - Wii U emulator
 repo: "https://github.com/cemu-project/Cemu"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [725]
 updated: "2026-04-04T17:14:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#cemu:cemu.info]
+exodus_score: 5
+last_scanned: "2026-04-06T15:17:38Z"
 ---
 
 Cemu - Wii U emulator

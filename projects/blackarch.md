@@ -1,12 +1,17 @@
 ---
-name: "Blackarch"
-description: "An ArchLinux based distribution for penetration testers and security researchers."
+name: Blackarch
+description: An ArchLinux based distribution for penetration testers and security researchers.
 repo: "https://github.com/BlackArch/blackarch"
 platform: github
 categories: [Infrastructure]
-status: "Active"
+status: Active
 issues: [708]
 updated: "2026-04-06T09:22:18Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#BlackArch:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:17:03Z"
 ---
 
 An ArchLinux based distribution for penetration testers and security researchers.

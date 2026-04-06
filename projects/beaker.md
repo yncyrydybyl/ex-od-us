@@ -1,12 +1,17 @@
 ---
-name: "Beaker"
-description: "Hardware integration testing system and lab automation for Fedora and RHEL"
+name: Beaker
+description: Hardware integration testing system and lab automation for Fedora and RHEL
 repo: "https://github.com/beaker-project/beaker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [703]
 updated: "2026-02-17T21:54:29Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#beaker:fedora.im]
+exodus_score: 6
+last_scanned: "2026-04-06T15:16:51Z"
 ---
 
 Hardware integration testing system and lab automation for Fedora and RHEL

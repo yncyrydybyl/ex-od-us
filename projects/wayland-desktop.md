@@ -1,12 +1,17 @@
 ---
-name: "Wayland Desktop"
-description: "Gentoo overlay for Wayland related ebuilds"
+name: Wayland Desktop
+description: Gentoo overlay for Wayland related ebuilds
 repo: "https://github.com/bsd-ac/wayland-desktop"
 platform: github
 categories: [Infrastructure]
-status: "Active"
+status: Active
 issues: [826]
 updated: "2024-09-21T17:08:54Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#gentoo:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:24:59Z"
 ---
 
 Gentoo overlay for Wayland related ebuilds

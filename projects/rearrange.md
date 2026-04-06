@@ -1,12 +1,16 @@
 ---
-name: "Rearrange"
+name: Rearrange
 description: "Swift library for working with ranges types: NSRange, IndexSet, and String.Index"
 repo: "https://github.com/ChimeHQ/Rearrange"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1992]
 updated: "2025-05-19T16:52:00Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:23:33Z"
 ---
 
 Swift library for working with ranges types: NSRange, IndexSet, and String.Index

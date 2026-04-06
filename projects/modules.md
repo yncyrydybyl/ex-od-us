@@ -9,7 +9,9 @@ issues: [47]
 updated: "2026-03-20T11:25:29Z"
 matrix_rooms: [https://matrix.to/#/#modules:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T12:21:01Z"
+last_scanned: "2026-04-06T15:22:26Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 Environment Modules: provides dynamic modification of a user's environment

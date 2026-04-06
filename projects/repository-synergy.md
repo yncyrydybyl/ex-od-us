@@ -1,12 +1,15 @@
 ---
-name: "Repository Synergy"
-description: "The code and data for the SEKE 2021 paper"
+name: Repository Synergy
+description: The code and data for the SEKE 2021 paper
 repo: "https://github.com/DLR-SC/repository-synergy"
 platform: github
 categories: [Development]
-status: "Active"
-issues: []
+status: Active
+issues: [1994]
 updated: "2021-05-08T20:43:36Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:23:38Z"
 ---
 
 The code and data for the SEKE 2021 paper

@@ -1,12 +1,15 @@
 ---
-name: "Chromium"
-description: "The official GitHub mirror of the Chromium source"
+name: Chromium
+description: The official GitHub mirror of the Chromium source
 repo: "https://github.com/chromium/chromium"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T14:30:43Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:17:49Z"
 ---
 
 The official GitHub mirror of the Chromium source

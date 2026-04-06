@@ -1,12 +1,17 @@
 ---
-name: "Hypnagonia"
-description: "Therapy through Nightmares"
+name: Hypnagonia
+description: Therapy through Nightmares
 repo: "https://github.com/db0/hypnagonia"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-04-10T12:53:02Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#hypnagonia-support:matrix.org, https://matrix.to/#/#hypnagonia:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:21:23Z"
 ---
 
 Therapy through Nightmares

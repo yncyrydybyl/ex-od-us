@@ -1,12 +1,16 @@
 ---
-name: "Asyncxpcconnection"
-description: "Concurrency support for NSXPCConnection"
+name: Asyncxpcconnection
+description: Concurrency support for NSXPCConnection
 repo: "https://github.com/ChimeHQ/AsyncXPCConnection"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-03-17T13:37:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:16:19Z"
 ---
 
 Concurrency support for NSXPCConnection

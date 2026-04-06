@@ -8,7 +8,9 @@ issues: [31]
 updated: "2026-04-06T07:43:38Z"
 matrix_rooms: [https://matrix.to/#/#bisq.v2.dev:bitcoin.kyoto]
 exodus_score: 5
-last_scanned: "2026-04-06T12:20:47Z"
+last_scanned: "2026-04-06T15:16:58Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 ## Stats
