@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T12:24:03Z",
+  "generated": "2026-04-06T14:31:49Z",
   "count": 243,
   "projects": [
     {
@@ -710,6 +710,56 @@
       "last_scanned": "2026-04-06T12:20:46Z",
       "verified": null,
       "verified_note": ""
+    },
+    {
+      "slug": "asteroidossync",
+      "name": "Asteroidossync",
+      "description": "Android application to synchronize a phone with a watch running asteroid-btsyncd.",
+      "website": "",
+      "repo": "https://github.com/AsteroidOS/AsteroidOSSync",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#asteroid:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        688
+      ],
+      "avatar_url": "https://github.com/AsteroidOS.png?size=64",
+      "notes": "Android application to synchronize a phone with a watch running asteroid-btsyncd.\n\n## Stats\n\n- Stars: 110\n- Forks: 41\n- Language: Java\n- Topics: android, asteroidos, hacktoberfest, smartwatch",
+      "updated": "2026-03-25T03:09:52Z",
+      "last_scanned": "2026-04-06T12:28:51Z",
+      "verified": true,
+      "verified_note": "repo alive, room alive"
     },
     {
       "slug": "cargo-generate",
@@ -3332,52 +3382,6 @@
       "verified_note": ""
     },
     {
-      "slug": "asteroidossync",
-      "name": "Asteroidossync",
-      "description": "Android application to synchronize a phone with a watch running asteroid-btsyncd.",
-      "website": "",
-      "repo": "https://github.com/AsteroidOS/AsteroidOSSync",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [],
-      "avatar_url": "https://github.com/AsteroidOS.png?size=64",
-      "notes": "Android application to synchronize a phone with a watch running asteroid-btsyncd.\n\n## Stats\n\n- Stars: 110\n- Forks: 41\n- Language: Java\n- Topics: android, asteroidos, hacktoberfest, smartwatch",
-      "updated": "2026-03-25T03:09:52Z",
-      "last_scanned": "",
-      "verified": null,
-      "verified_note": ""
-    },
-    {
       "slug": "async-lru",
       "name": "Async Lru",
       "description": "Simple LRU cache for asyncio",
@@ -3415,7 +3419,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        689
+      ],
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "Simple LRU cache for asyncio\n\n## Stats\n\n- Stars: 937\n- Forks: 67\n- Language: Python\n- Topics: asyncio, lru, lru-cache",
       "updated": "2026-04-01T20:17:28Z",
@@ -3461,7 +3467,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        690
+      ],
       "avatar_url": "https://github.com/ataraxialinux.png?size=64",
       "notes": "Simple and lightweight source-based multi-platform Linux distribution with musl libc.\n\n## Stats\n\n- Stars: 280\n- Forks: 15\n- Language: Shell\n- Topics: arm, compact, cross-compiler, cross-platform, distribution, fast, linux, linux-distribution, mips, musl, musl-libc, powerpc, privacy, risc-v, safe, simple, x86",
       "updated": "2021-06-01T22:26:35Z",
@@ -3507,7 +3515,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        691
+      ],
       "avatar_url": "https://github.com/authelia.png?size=64",
       "notes": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified\u2122\n\n## Stats\n\n- Stars: 27425\n- Forks: 1370\n- Language: Go\n- Topics: 2fa, authentication, docker, golang, kubernetes, ldap, mfa, multifactor, oauth2, openid-connect, passkeys, push-notifications, security, sso, sso-authentication, totp, two-factor, two-factor-authentication, webauthn, yubikey",
       "updated": "2026-04-06T11:05:06Z",
@@ -3597,7 +3607,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        699
+      ],
       "avatar_url": "https://github.com/alpine-collective.png?size=64",
       "notes": "\ud83d\ude80A curated list of awesome resources related to Alpine.\n\n## Stats\n\n- Stars: 1083\n- Forks: 56\n- Topics: alpine, alpinejs, awesome, awesome-alpine, dom, javascript",
       "updated": "2024-05-17T18:01:00Z",
@@ -3641,7 +3653,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        692
+      ],
       "avatar_url": "https://github.com/Akipe.png?size=64",
       "notes": "A collection of Android AOSP and ROM development related resources\n\n## Stats\n\n- Stars: 314\n- Forks: 60\n- Topics: android, android-devices, android-kernel, android-system, aosp, aosp-android, awesome, awesome-list",
       "updated": "2024-02-12T17:59:30Z",
@@ -3685,7 +3699,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        693
+      ],
       "avatar_url": "https://github.com/bunturx.png?size=64",
       "notes": "## Stats\n\n- Stars: 80\n- Forks: 5",
       "updated": "2023-03-24T14:13:35Z",
@@ -3731,7 +3747,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        694
+      ],
       "avatar_url": "https://github.com/awesome-jellyfin.png?size=64",
       "notes": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!\n\n## Stats\n\n- Stars: 7290\n- Forks: 209\n- Language: Shell\n- Topics: awesome, awesome-list, jellyfin",
       "updated": "2026-04-05T19:52:50Z",
@@ -3775,7 +3793,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        695
+      ],
       "avatar_url": "https://github.com/chaihahaha.png?size=64",
       "notes": "My collection of useful open source programs.\n\n## Stats\n\n- Stars: 127\n- Forks: 20",
       "updated": "2025-12-28T09:40:25Z",
@@ -3821,7 +3841,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        696
+      ],
       "avatar_url": "https://github.com/Astrosp.png?size=64",
       "notes": "OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.\n\n## Stats\n\n- Stars: 2821\n- Forks: 348\n- Language: Shell\n- Topics: blue-team, bugbounty, information-gathering, osint, osint-tools, osinttool, recon, reconnaissance, red-team, security-tools, web",
       "updated": "2026-04-06T10:49:43Z",
@@ -3865,7 +3887,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        697
+      ],
       "avatar_url": "https://github.com/awesome-selfhosted.png?size=64",
       "notes": "A list of Free Software network services and web applications which can be hosted on your own servers\n\n## Stats\n\n- Stars: 284379\n- Forks: 13091\n- Topics: awesome, awesome-list, cloud, free-software, hosting, privacy, self-hosted, selfhosted",
       "updated": "2026-04-05T10:45:12Z",
@@ -3909,7 +3933,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        698
+      ],
       "avatar_url": "https://github.com/0PandaDEV.png?size=64",
       "notes": "An awesome & curated list of tools and apps for Windows 10/11.\n\n## Stats\n\n- Stars: 2111\n- Forks: 107\n- Topics: awesome, awesome-list, microsoft, windows",
       "updated": "2026-04-03T20:56:58Z",
@@ -3955,7 +3981,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        700
+      ],
       "avatar_url": "https://github.com/ansible.png?size=64",
       "notes": "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. \ud83e\udd16\n\n## Stats\n\n- Stars: 1472\n- Forks: 707\n- Language: Jinja\n- Topics: awx, awx-operator, hacktoberfest, kubernetes, kubernetes-operator, openshift, operator-sdk, operators",
       "updated": "2026-03-24T20:03:44Z",
@@ -4001,7 +4029,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        701
+      ],
       "avatar_url": "https://github.com/basicswap.png?size=64",
       "notes": "Basic Atomic Swap Proof of Concept\n\n## Stats\n\n- Stars: 291\n- Forks: 79\n- Language: Python",
       "updated": "2026-03-18T10:46:57Z",
@@ -4047,7 +4077,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        702
+      ],
       "avatar_url": "https://github.com/brainstorm.png?size=64",
       "notes": "Experimenting with Blackberry trackball for keyboard ergonomics\n\n## Stats\n\n- Stars: 32\n- Forks: 3\n- Language: Rust",
       "updated": "2023-10-29T05:42:27Z",
@@ -4093,7 +4125,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        703
+      ],
       "avatar_url": "https://github.com/beaker-project.png?size=64",
       "notes": "Hardware integration testing system and lab automation for Fedora and RHEL\n\n## Stats\n\n- Stars: 88\n- Forks: 51\n- Language: Python\n- Topics: beaker, hacktoberfest, infrastructure, lab-automation, netboot, provisioning, pxe, python, testing",
       "updated": "2026-02-17T21:54:29Z",
@@ -4139,7 +4173,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        704
+      ],
       "avatar_url": "https://github.com/BibleNotify.png?size=64",
       "notes": "Offline, privacy-friendly daily Bible verse notification app for Android\n\n## Stats\n\n- Stars: 39\n- Forks: 10\n- Language: Java\n- Topics: android, android-app, app, app-design, bible, bible-notify, bible-verse, java, notifications, scripture",
       "updated": "2026-03-25T23:59:50Z",
@@ -4185,7 +4221,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        705
+      ],
       "avatar_url": "https://github.com/bisq-network.png?size=64",
       "notes": "@bisq-network website at https://bisq.network\n\n## Stats\n\n- Stars: 38\n- Forks: 81\n- Language: HTML\n- Topics: bisq, jekyll, website",
       "updated": "2026-03-17T18:46:15Z",
@@ -4231,7 +4269,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        706
+      ],
       "avatar_url": "https://github.com/bitcoinj.png?size=64",
       "notes": "A library for working with Bitcoin\n\n## Stats\n\n- Stars: 5215\n- Forks: 2563\n- Language: Java\n- Topics: bech32, bip141, bip143, bip144, bip173, bip32, bip37, bip70, bitcoin, bitcoinj, blockchain, java, library, segwit, taproot",
       "updated": "2026-04-05T22:43:34Z",
@@ -4277,7 +4317,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        707
+      ],
       "avatar_url": "https://github.com/bitcoinjs.png?size=64",
       "notes": "A javascript Bitcoin library for node.js and browsers.\n\n## Stats\n\n- Stars: 5983\n- Forks: 2238\n- Language: JavaScript\n- Topics: bitcoin, bitcoinjs, bitcoinjs-lib, browserify, javascript, nodejs",
       "updated": "2026-02-17T01:08:49Z",
@@ -4323,7 +4365,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        708
+      ],
       "avatar_url": "https://github.com/BlackArch.png?size=64",
       "notes": "An ArchLinux based distribution for penetration testers and security researchers.\n\n## Stats\n\n- Stars: 3303\n- Forks: 642\n- Language: Shell\n- Topics: cyber-security, cybersecurity, distribution, hacker, hacking, it-security, linux, pentest, pentesting, red-team, red-teaming, security, security-tools, tools, tools-and-automation",
       "updated": "2026-04-06T09:22:18Z",
@@ -4369,7 +4413,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        709
+      ],
       "avatar_url": "https://github.com/blend2d.png?size=64",
       "notes": "2D Vector Graphics Engine Powered by a JIT Compiler\n\n## Stats\n\n- Stars: 1901\n- Forks: 145\n- Language: C++\n- Topics: 2d-graphics, asmjit, cpp, jit, rasterization",
       "updated": "2025-11-29T08:14:34Z",
@@ -4413,7 +4459,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        710
+      ],
       "avatar_url": "https://github.com/blend-os.png?size=64",
       "notes": "[READ-ONLY] A seamless blend of all Linux distributions.\n\n## Stats\n\n- Stars: 792\n- Forks: 23",
       "updated": "2025-10-21T17:42:15Z",
@@ -4459,7 +4507,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        711
+      ],
       "avatar_url": "https://github.com/ahdinosaur.png?size=64",
       "notes": "Rust no-std, no-alloc LED control for spatial layouts \ud83d\udfe5\ud83d\udfe9\ud83d\udfe6\n\n## Stats\n\n- Stars: 152\n- Forks: 10\n- Language: Rust",
       "updated": "2026-01-28T10:26:00Z",
@@ -4505,7 +4555,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        712
+      ],
       "avatar_url": "https://github.com/blobcache.png?size=64",
       "notes": "Content-Addressed Storage\n\n## Stats\n\n- Stars: 71\n- Forks: 2\n- Language: Go\n- Topics: content-addressed-storage, cryptography, e2ee, inet256, network, p2p, storage",
       "updated": "2026-04-04T21:47:55Z",
@@ -4551,7 +4603,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        713
+      ],
       "avatar_url": "https://github.com/boa-dev.png?size=64",
       "notes": "Boa is an embeddable Javascript engine written in Rust.\n\n## Stats\n\n- Stars: 7155\n- Forks: 619\n- Language: Rust\n- Topics: ecmascript, hacktoberfest, interpreter, javascript, javascript-engine, javascript-interpreter, parser, runtime, rust, rust-crate, wasm, webassembly",
       "updated": "2026-04-06T03:11:05Z",
@@ -4597,7 +4651,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        714
+      ],
       "avatar_url": "https://github.com/brackets-cont.png?size=64",
       "notes": "An open source code editor for the web, written in JavaScript, HTML and CSS.\n\n## Stats\n\n- Stars: 1502\n- Forks: 195\n- Language: JavaScript",
       "updated": "2026-03-30T21:32:08Z",
@@ -4643,7 +4699,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        715
+      ],
       "avatar_url": "https://github.com/brave.png?size=64",
       "notes": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues\n\n## Stats\n\n- Stars: 3083\n- Forks: 1182\n- Language: C++",
       "updated": "2026-04-06T11:45:44Z",
@@ -4689,7 +4747,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        716
+      ],
       "avatar_url": "https://github.com/breezy-team.png?size=64",
       "notes": "A Distributed Version Control System with a Friendly UI\n\n## Stats\n\n- Stars: 181\n- Forks: 34\n- Language: Python\n- Topics: bazaar, breezy, brz, bzr, version-control, version-control-system",
       "updated": "2026-03-31T18:26:13Z",
@@ -4735,7 +4795,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        717
+      ],
       "avatar_url": "https://github.com/beeper.png?size=64",
       "notes": "A tool for running self-hosted bridges with the Beeper Matrix server.\n\n## Stats\n\n- Stars: 1303\n- Forks: 90\n- Language: Go",
       "updated": "2026-03-27T18:02:58Z",
@@ -4781,7 +4843,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        718
+      ],
       "avatar_url": "https://github.com/buddypond.png?size=64",
       "notes": "Cloud OS and Instant Messenger\n\n## Stats\n\n- Stars: 178\n- Forks: 23\n- Language: JavaScript",
       "updated": "2026-03-01T00:30:03Z",
@@ -4827,7 +4891,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        719
+      ],
       "avatar_url": "https://github.com/BuddiesOfBudgie.png?size=64",
       "notes": "Budgie Desktop View is the official Budgie desktop icons application / implementation.\n\n## Stats\n\n- Stars: 33\n- Forks: 10\n- Language: Vala\n- Topics: desktop-application, desktop-icons, linux",
       "updated": "2026-03-07T16:29:49Z",
@@ -4873,7 +4939,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        720
+      ],
       "avatar_url": "https://github.com/aarch64-laptops.png?size=64",
       "notes": "Build an Linux OS based image\n\n## Stats\n\n- Stars: 263\n- Forks: 68\n- Language: ASL",
       "updated": "2026-03-07T22:42:27Z",
@@ -4919,7 +4987,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        721
+      ],
       "avatar_url": "https://github.com/cachix.png?size=64",
       "notes": "Command line client for Nix binary cache hosting:\n\n## Stats\n\n- Stars: 1023\n- Forks: 53\n- Language: Haskell\n- Topics: dhall, haskell, nix, nixos, servant",
       "updated": "2026-04-01T11:16:47Z",
@@ -4965,7 +5035,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        722
+      ],
       "avatar_url": "https://github.com/capy-ui.png?size=64",
       "notes": "\ud83d\udcbbBuild one codebase and get native UI on Windows, Linux and Web\n\n## Stats\n\n- Stars: 2588\n- Forks: 98\n- Language: Zig\n- Topics: cross-platform, cross-platform-gui, gui, gui-library, linux, ui, user-interface, windows, zig, zig-package, ziglang",
       "updated": "2025-12-25T10:49:42Z",
@@ -5011,7 +5083,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        723
+      ],
       "avatar_url": "https://github.com/bnjbvr.png?size=64",
       "notes": "Remove unused Rust dependencies with this one weird trick!\n\n## Stats\n\n- Stars: 1272\n- Forks: 50\n- Language: Rust\n- Topics: cargo, cargo-subcommand, rust, rust-lang",
       "updated": "2026-03-23T15:05:52Z",
@@ -5057,7 +5131,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        724
+      ],
       "avatar_url": "https://github.com/Carnap.png?size=64",
       "notes": "A formal logic framework that runs in the browser\n\n## Stats\n\n- Stars: 329\n- Forks: 31\n- Language: Haskell",
       "updated": "2024-12-15T21:37:52Z",
@@ -5103,7 +5179,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        725
+      ],
       "avatar_url": "https://github.com/cemu-project.png?size=64",
       "notes": "Cemu - Wii U emulator\n\n## Stats\n\n- Stars: 9204\n- Forks: 803\n- Language: C++\n- Topics: cemu, cemu-emulator, cpp, emulation, emulator, nintendo, wiiu",
       "updated": "2026-04-04T17:14:49Z",
@@ -5149,7 +5227,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        726
+      ],
       "avatar_url": "https://github.com/awesome-windows11.png?size=64",
       "notes": "\ud83d\udd75 Privacy guide, data security, anonymity techniques\n\n## Stats\n\n- Stars: 218\n- Forks: 9\n- Language: HTML\n- Topics: android, anticensorship, debloat, encryption, privacy, russia, russia-ukraine-war, russian, tor, vpn",
       "updated": "2025-06-03T11:56:04Z",
@@ -5195,7 +5275,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        727
+      ],
       "avatar_url": "https://github.com/authelia.png?size=64",
       "notes": "Authelia Helm Charts\n\n## Stats\n\n- Stars: 103\n- Forks: 72\n- Language: Go Template\n- Topics: authelia, authelia-helm-chart, charts, helm",
       "updated": "2026-03-18T08:34:58Z",
@@ -5241,7 +5323,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        728
+      ],
       "avatar_url": "https://github.com/Automattic.png?size=64",
       "notes": "Matrix client for WordPress\n\n## Stats\n\n- Stars: 45\n- Forks: 2\n- Language: TypeScript\n- Topics: matrix, wordpress, wordpress-plugin",
       "updated": "2026-03-27T00:01:56Z",
@@ -5287,7 +5371,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        729
+      ],
       "avatar_url": "https://github.com/ansible-collections.png?size=64",
       "notes": "Ansible Network Collection for Cisco IOS\n\n## Stats\n\n- Stars: 364\n- Forks: 196\n- Language: Python\n- Topics: ansible-collections, cisco, cisco-ios, cisco-iosxe, iosxe",
       "updated": "2026-03-18T11:33:07Z",
@@ -5333,7 +5419,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        730
+      ],
       "avatar_url": "https://github.com/ansible-collections.png?size=64",
       "notes": "Ansible Network Collection for Cisco IOSXR\n\n## Stats\n\n- Stars: 79\n- Forks: 58\n- Language: Python\n- Topics: ansible-collections, cisco-iosxr",
       "updated": "2026-03-18T11:33:39Z",
@@ -5379,7 +5467,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        731
+      ],
       "avatar_url": "https://github.com/backbay-labs.png?size=64",
       "notes": "Runtime security enforcement and threat hunting engine for autonomous AI fleets. Build Swarm Detection & Response (SDR) platforms with Clawdstrike.\n\n## Stats\n\n- Stars: 273\n- Forks: 29\n- Language: TypeScript\n- Topics: agent-security, agentic-security, agents, ai-security, ai-security-tool, cyber-defense, cyber-security, cybersecurity, cybersecurity-tools, detection-engineering, endpoint-security, multi-agent, multi-agent-systems, openclaw-security, security, security-tools, swarm-intelligence, threat-detection, threat-hunting, threat-intelligence",
       "updated": "2026-04-05T13:36:57Z",
@@ -5425,7 +5515,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        732
+      ],
       "avatar_url": "https://github.com/brendanzab.png?size=64",
       "notes": "Beautiful diagnostic reporting for text-based programming languages.\n\n## Stats\n\n- Stars: 1287\n- Forks: 68\n- Language: Rust\n- Topics: diagnostics, error-reporting, programming-languages, rust, source-code, terminal",
       "updated": "2026-02-28T10:33:10Z",
@@ -5569,7 +5661,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        733
+      ],
       "avatar_url": "https://github.com/ansible-collections.png?size=64",
       "notes": "MySQL Ansible Collection\n\n## Stats\n\n- Stars: 126\n- Forks: 104\n- Language: Python\n- Topics: ansible-collection, hacktoberfest, mysql",
       "updated": "2026-03-30T21:04:46Z",
@@ -5615,7 +5709,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        734
+      ],
       "avatar_url": "https://github.com/ansible-collections.png?size=64",
       "notes": "Manage PostgreSQL with Ansible\n\n## Stats\n\n- Stars: 137\n- Forks: 112\n- Language: Python\n- Topics: ansible-collection, hacktoberfest, postgresql",
       "updated": "2026-03-30T13:51:02Z",
@@ -5709,7 +5805,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        735
+      ],
       "avatar_url": "https://github.com/anyswap.png?size=64",
       "notes": "## Stats\n\n- Stars: 70\n- Forks: 87\n- Language: Go",
       "updated": "2023-06-12T01:32:48Z",
@@ -5755,7 +5853,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        736
+      ],
       "avatar_url": "https://github.com/ANSSI-FR.png?size=64",
       "notes": "CRY.ME (CRYptographic MEssaging application)\n\n## Stats\n\n- Stars: 180\n- Forks: 11\n- Language: Kotlin\n- Topics: android, challenge, crypto, cryptography, ctf, ctf-challenges",
       "updated": "2025-11-24T13:35:48Z",
@@ -5801,7 +5901,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        737
+      ],
       "avatar_url": "https://github.com/avitran0.png?size=64",
       "notes": "linux-only external aimbot/esp cheat for counter-strike 2\n\n## Stats\n\n- Stars: 220\n- Forks: 41\n- Language: Rust\n- Topics: counter-strike-2, cs2",
       "updated": "2026-04-02T11:01:48Z",
@@ -5893,7 +5995,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        738
+      ],
       "avatar_url": "https://github.com/2gatherproject.png?size=64",
       "notes": "An awesome overview of existing open-source decentralized apps, platforms, protocols and concepts for social networking, engagement and collaboration\n\n## Stats\n\n- Stars: 138\n- Forks: 18\n- Topics: apps, awesome, blockchain, blockchains, collaboration, dao, dapps, decentralized, decentralized-protocols, ethereum, ipfs, p2p, platforms, social, social-network",
       "updated": "2024-05-12T17:36:14Z",
@@ -5939,7 +6043,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        739
+      ],
       "avatar_url": "https://github.com/blckswmngbrd.png?size=64",
       "notes": "\"High Frequency\" style trading algo based on the Dempster-Shafer fusion theory in C# using the Interactive Brokers API.  \n\n## Stats\n\n- Stars: 34\n- Forks: 20\n- Language: C#\n- Topics: bid, dempster-shafer-theory, depth, hft-trading, interactive-brokers, mass-functions, price-improvement-degree, style-trading-algo, trading-algorithms, trading-bot",
       "updated": "2019-04-27T10:47:23Z",
@@ -5985,7 +6091,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        740
+      ],
       "avatar_url": "https://github.com/bRuttaZz.png?size=64",
       "notes": "Containers For Developers (container in a directory)\n\n## Stats\n\n- Stars: 40\n- Forks: 2\n- Language: Go\n- Topics: buildah, chroot, chroot-environment, container-venv, containerised, containerized-dev-tools, containers, developer-tools, development-tools, docker, oci, oci-image, podman, proot, virtualenv",
       "updated": "2024-02-25T16:43:37Z",
@@ -6081,7 +6189,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        741
+      ],
       "avatar_url": "https://github.com/89luca89.png?size=64",
       "notes": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you\u2019re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox\n\n## Stats\n\n- Stars: 12245\n- Forks: 509\n- Language: Shell\n- Topics: almalinux, alpine, archlinux, bash, centos, command-line, containers, debian, development, docker, fedora, linux, opensuse, podman, posix, posix-sh, rockylinux, suse, tools, ubuntu",
       "updated": "2026-04-06T09:18:09Z",
@@ -6127,7 +6237,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        742
+      ],
       "avatar_url": "https://github.com/AmanPathak-DevOps.png?size=64",
       "notes": "## Stats\n\n- Stars: 31\n- Forks: 86\n- Language: HTML",
       "updated": "2023-12-15T15:46:06Z",
@@ -6171,7 +6283,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        743
+      ],
       "avatar_url": "https://github.com/A75G.png?size=64",
       "notes": "Unraid Docker Templates\n\n## Stats\n\n- Stars: 107\n- Forks: 33\n- Topics: docker, docker-templates, unraid, unraid-server, unraid-templates",
       "updated": "2025-08-29T12:17:19Z",
@@ -6217,7 +6331,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        744
+      ],
       "avatar_url": "https://github.com/brndnmtthws.png?size=64",
       "notes": "Don't Roll Your Own Crypto: pure-Rust, hard to misuse cryptography library\n\n## Stats\n\n- Stars: 332\n- Forks: 19\n- Language: Rust\n- Topics: crypto, cryptography, cryptography-library, libsodium, nacl, rust",
       "updated": "2026-02-18T13:13:50Z",
@@ -6263,7 +6379,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        745
+      ],
       "avatar_url": "https://github.com/arcuru.png?size=64",
       "notes": "Decentralized DB. Remember Everything. Everywhere. All At Once.\n\n## Stats\n\n- Stars: 99\n- Forks: 3\n- Language: Rust\n- Topics: crdt, database, decentralized, merkle-crdt, p2p, peer-to-peer, rust",
       "updated": "2026-04-01T05:45:01Z",
@@ -6309,7 +6427,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        748
+      ],
       "avatar_url": "https://github.com/catppuccin.png?size=64",
       "notes": "\ud83d\udcab\ufe0f Soothing pastel theme for Element\n\n## Stats\n\n- Stars: 65\n- Forks: 6\n- Topics: catppuccin, element, hacktoberfest, matrix, theme",
       "updated": "2026-03-27T20:39:05Z",
@@ -6355,7 +6475,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        746
+      ],
       "avatar_url": "https://github.com/amiirsadeghi.png?size=64",
       "notes": "Production-ready Docker stack for Matrix Synapse and Element Web \u2014 includes Synapse with PostgreSQL, LDAP integration, Nginx reverse proxy with SSL, and customized Element Web client. Fully deployed and running in production.\n\n## Stats\n\n- Stars: 55\n- Forks: 10\n- Language: Shell",
       "updated": "2026-02-09T06:59:40Z",
@@ -6401,7 +6523,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        747
+      ],
       "avatar_url": "https://github.com/aaronraimist.png?size=64",
       "notes": "A place to share themes for Element. PRs with new themes are welcome!\n\n## Stats\n\n- Stars: 275\n- Forks: 68\n- Language: Python\n- Topics: element, hacktoberfest, matrix-org, riot-web",
       "updated": "2025-10-24T23:32:44Z",
@@ -6495,7 +6619,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        749
+      ],
       "avatar_url": "https://github.com/bernii.png?size=64",
       "notes": "Generic framebuffer implementation in Rust for use with embedded-graphics library\n\n## Stats\n\n- Stars: 35\n- Forks: 7\n- Language: Rust",
       "updated": "2024-11-11T17:42:59Z",
@@ -6541,7 +6667,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        750
+      ],
       "avatar_url": "https://github.com/alphapapa.png?size=64",
       "notes": "A Matrix client for GNU Emacs\n\n## Stats\n\n- Stars: 584\n- Forks: 47\n- Language: Emacs Lisp\n- Topics: emacs, matrix, matrix-client",
       "updated": "2025-11-18T01:18:37Z",
@@ -6683,7 +6811,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        751
+      ],
       "avatar_url": "https://github.com/alpine9000.png?size=64",
       "notes": "68k debugger profiler for Amiga, Neo Geo and Mega Drive\n\n## Stats\n\n- Stars: 43\n- Forks: 4\n- Language: C",
       "updated": "2026-04-03T03:52:47Z",
@@ -6777,7 +6907,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        752
+      ],
       "avatar_url": "https://github.com/calli-eve.png?size=64",
       "notes": "EVE Online PI tool\n\n## Stats\n\n- Stars: 39\n- Forks: 20\n- Language: TypeScript",
       "updated": "2026-02-24T17:47:21Z",
@@ -6823,7 +6955,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        753
+      ],
       "avatar_url": "https://github.com/bcosca.png?size=64",
       "notes": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!\n\n## Stats\n\n- Stars: 2708\n- Forks: 442\n- Language: HTML\n- Topics: cache-engine, database-engine, datamapper, html-template, php, php-template, route-handler, sql-engine, sql-mapper, template-engine",
       "updated": "2025-12-02T00:49:45Z",
@@ -6869,7 +7003,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        754
+      ],
       "avatar_url": "https://github.com/bakpakin.png?size=64",
       "notes": "Lua Lisp Language\n\n## Stats\n\n- Stars: 2722\n- Forks: 132\n- Language: Fennel\n- Topics: compiler, language, lisp, lua",
       "updated": "2026-02-08T04:40:28Z",
@@ -6915,7 +7051,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        755
+      ],
       "avatar_url": "https://github.com/bilelmoussaoui.png?size=64",
       "notes": "Integrate Flatpak with VSCode \n\n## Stats\n\n- Stars: 99\n- Forks: 11\n- Language: TypeScript\n- Topics: flatpak, flatpak-builder, flatpak-vscode, visual-studio-code-extension",
       "updated": "2026-03-29T14:10:38Z",
@@ -6961,7 +7099,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        756
+      ],
       "avatar_url": "https://github.com/bladeacer.png?size=64",
       "notes": "An Obsidian.md theme combining the colour schemes of Halcyon and Flexoki\n\n## Stats\n\n- Stars: 57\n- Forks: 0\n- Language: CSS\n- Topics: css, dark-theme, light-theme, obsidian-md, obsidian-md-theme, scss, terminal-theme, theme",
       "updated": "2026-04-05T13:30:36Z",
@@ -7007,7 +7147,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        757
+      ],
       "avatar_url": "https://github.com/alex-ameen.png?size=64",
       "notes": "Using Nix to put NPM and Yarn in a coffin\n\n## Stats\n\n- Stars: 100\n- Forks: 4\n- Language: Nix",
       "updated": "2023-09-16T14:09:10Z",
@@ -7053,7 +7195,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        758
+      ],
       "avatar_url": "https://github.com/blaggacao.png?size=64",
       "notes": "Frappe on Nix\n\n## Stats\n\n- Stars: 42\n- Forks: 16\n- Language: Nix\n- Topics: erpnext, erpnext-customization, frappe, frappe-framework",
       "updated": "2025-07-14T09:41:24Z",
@@ -7097,7 +7241,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        759
+      ],
       "avatar_url": "https://github.com/auctors.png?size=64",
       "notes": "A curated list of free Windows software, online services and resources. Feel free to contribute!\n\n## Stats\n\n- Stars: 2196\n- Forks: 93\n- Topics: free, microsoft-store, privacy, resources, webapps, windows, windows-10, windows-11",
       "updated": "2025-05-24T13:55:34Z",
@@ -7143,7 +7289,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        760
+      ],
       "avatar_url": "https://github.com/casimir.png?size=64",
       "notes": "Your articles with you\n\n## Stats\n\n- Stars: 147\n- Forks: 8\n- Language: Dart\n- Topics: desktop-app, mobile-app, wallabag, web-app",
       "updated": "2026-04-06T10:34:12Z",
@@ -7189,7 +7337,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        761
+      ],
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "FrozenList is a list-like structure that implements collections.abc.MutableSequence and can be made immutable.\n\n## Stats\n\n- Stars: 120\n- Forks: 36\n- Language: Python\n- Topics: aiohttp, frozenlist",
       "updated": "2026-02-09T11:08:00Z",
@@ -7235,7 +7385,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        762
+      ],
       "avatar_url": "https://github.com/alvinhochun.png?size=64",
       "notes": "Trying embedded Rust on the Pinecil GD32VF103 RISC-V device.\n\n## Stats\n\n- Stars: 48\n- Forks: 1\n- Language: Rust\n- Topics: embedded-rust, gd32vf103, risc-v, rust, rustlang",
       "updated": "2021-02-21T15:02:20Z",
@@ -7281,7 +7433,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        763
+      ],
       "avatar_url": "https://github.com/beyondstorage.png?size=64",
       "notes": "A vendor-neutral storage library for Golang: Write once, run on every storage service.\n\n## Stats\n\n- Stars: 624\n- Forks: 55\n- Language: Go\n- Topics: azblob, cloud-storage, dropbox, files, fs, gcs, golang, qingstor, s3, storage",
       "updated": "2025-01-07T16:33:54Z",
@@ -7327,7 +7481,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        764
+      ],
       "avatar_url": "https://github.com/aspizu.png?size=64",
       "notes": "goboscript is the Scratch compiler\n\n## Stats\n\n- Stars: 477\n- Forks: 49\n- Language: Rust\n- Topics: compiler, goboscript, programming-language, rust, scratch",
       "updated": "2026-04-05T18:44:39Z",
@@ -7373,7 +7529,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        765
+      ],
       "avatar_url": "https://github.com/biomejs.png?size=64",
       "notes": "GritQL is a query language for searching, linting, and modifying code.\n\n## Stats\n\n- Stars: 4463\n- Forks: 121\n- Language: Rust\n- Topics: ast, codemod, javascript, linter, refactoring, rust, search, tree-sitter",
       "updated": "2026-03-30T04:48:12Z",
@@ -7419,7 +7577,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        766
+      ],
       "avatar_url": "https://github.com/bugzilla.png?size=64",
       "notes": "next generation bugzilla\n\n## Stats\n\n- Stars: 83\n- Forks: 29\n- Language: Perl",
       "updated": "2025-12-17T22:59:49Z",
@@ -7513,7 +7673,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        767
+      ],
       "avatar_url": "https://github.com/argrento.png?size=64",
       "notes": "Script to obtain watch or band bluetooth token from Huami servers. Mirrored from https://codeberg.org/argrento/huami-token\n\n## Stats\n\n- Stars: 437\n- Forks: 99\n- Language: Python\n- Topics: amazfit, gadgetbridge, hacktoberfest, huami, python, reverse-engineering, xiaomi",
       "updated": "2026-03-31T13:17:07Z",
@@ -7559,7 +7721,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        768
+      ],
       "avatar_url": "https://github.com/ArmenAg.png?size=64",
       "notes": "A program that learns music structure of given midi files and able to generate new melodies by judmental of other compositions. E.g. generate melody in style of Armstrong as negatively judged by Eminem and positively by Bach.\n\n## Stats\n\n- Stars: 134\n- Forks: 13\n- Language: C#",
       "updated": "2020-10-01T11:00:01Z",
@@ -7605,7 +7769,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        769
+      ],
       "avatar_url": "https://github.com/amigoscode.png?size=64",
       "notes": "## Stats\n\n- Stars: 35\n- Forks: 21\n- Language: JavaScript\n- Topics: babel-es6, es6, expressjs, javascript, node, nodejs, reactjs",
       "updated": "2021-10-11T14:35:33Z",
@@ -7651,7 +7817,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        770
+      ],
       "avatar_url": "https://github.com/bayang.png?size=64",
       "notes": "Self hosted read and to-read list book tracker\n\n## Stats\n\n- Stars: 666\n- Forks: 25\n- Language: Kotlin\n- Topics: book, books, booktracker, goodreads, kotlin, librarything, reading, reading-list, self-hosted, to-read, tracker, vue, vue3",
       "updated": "2026-03-30T08:38:05Z",
@@ -7745,7 +7913,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        771
+      ],
       "avatar_url": "https://github.com/bragefuglseth.png?size=64",
       "notes": "Practice your typing skills\n\n## Stats\n\n- Stars: 268\n- Forks: 43\n- Language: Rust\n- Topics: gnome, typingtest",
       "updated": "2026-03-25T17:22:32Z",
@@ -7791,7 +7961,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        772
+      ],
       "avatar_url": "https://github.com/arsedler9.png?size=64",
       "notes": "A PyTorch implementation of Latent Factor Analysis via Dynamical Systems (LFADS) and AutoLFADS.\n\n## Stats\n\n- Stars: 133\n- Forks: 38\n- Language: Jupyter Notebook\n- Topics: deep-learning, dynamical-systems, hyperparameter-optimization, neuroscience, recurrent-neural-networks, time-series",
       "updated": "2026-03-30T14:01:40Z",
@@ -7837,7 +8009,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        773
+      ],
       "avatar_url": "https://github.com/Aryan20.png?size=64",
       "notes": "Quick access menu for the GNOME panel with options that help ease the workflow for newcomers and power users alike.\n\n## Stats\n\n- Stars: 93\n- Forks: 52\n- Language: JavaScript\n- Topics: gnome, gnome-shell-extension, hacktoberfest",
       "updated": "2026-03-09T21:48:00Z",
@@ -7883,7 +8057,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        774
+      ],
       "avatar_url": "https://github.com/bkuhlmann.png?size=64",
       "notes": "Shell scripts for customized macOS machine setup.\n\n## Stats\n\n- Stars: 424\n- Forks: 160\n- Language: Shell\n- Topics: homebrew, macos, setup",
       "updated": "2026-03-29T22:00:13Z",
@@ -7929,7 +8105,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        775
+      ],
       "avatar_url": "https://github.com/absmach.png?size=64",
       "notes": "Industrial IoT Messaging and Device Management Platform\n\n## Stats\n\n- Stars: 189\n- Forks: 59\n- Language: Go\n- Topics: authentication, authorization, certificates-generator, coap, configuration-management, devices, edge, edge-computing, go, golang, iot, iot-gateway, iot-platform, messaging, mqtt, web-sockets",
       "updated": "2026-04-06T10:11:24Z",
@@ -7975,7 +8153,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        776
+      ],
       "avatar_url": "https://github.com/cfengine.png?size=64",
       "notes": "Policy masterfiles that are shipped with CFEngine packages\n\n## Stats\n\n- Stars: 54\n- Forks: 105\n- Language: Python",
       "updated": "2026-03-23T17:36:19Z",
@@ -8021,7 +8201,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        777
+      ],
       "avatar_url": "https://github.com/avanisubbiah.png?size=64",
       "notes": "Python port of material-color-utilities used for Material You colors\n\n## Stats\n\n- Stars: 44\n- Forks: 8\n- Language: Python",
       "updated": "2022-08-26T14:21:05Z",
@@ -8164,7 +8346,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        778
+      ],
       "avatar_url": "https://github.com/acterglobal.png?size=64",
       "notes": "CLI to migrate your matrix account from one to the other\n\n## Stats\n\n- Stars: 36\n- Forks: 8\n- Language: Rust\n- Topics: cli, matrix, migrate, rust",
       "updated": "2024-09-16T08:16:24Z",
@@ -8208,7 +8392,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        779
+      ],
       "avatar_url": "https://github.com/AmirDez.png?size=64",
       "notes": "How to Self-Host synapse Matrix + Element + NGINX + Coturn + Admin Web UI (Docker Compose)\n\n## Stats\n\n- Stars: 87\n- Forks: 14",
       "updated": "2026-01-11T19:58:53Z",
@@ -8254,7 +8440,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        780
+      ],
       "avatar_url": "https://github.com/anoadragon453.png?size=64",
       "notes": "A bot to remind you about stuff. Supports encrypted rooms\n\n## Stats\n\n- Stars: 63\n- Forks: 26\n- Language: Python",
       "updated": "2026-03-12T06:33:30Z",
@@ -8591,7 +8779,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        781
+      ],
       "avatar_url": "https://github.com/42wim.png?size=64",
       "notes": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)\n\n## Stats\n\n- Stars: 7439\n- Forks: 719\n- Language: Go\n- Topics: bridge, counter-strike, discord, facebook-messenger, gitter, irc, matrix, mattermost, microsoft-teams, minecraft-chat, mumble, nextcloud, rocketchat, slack, telegram, twitch, vk, whatsapp, xmpp, zulip",
       "updated": "2024-12-12T00:20:34Z",
@@ -8637,7 +8827,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        782
+      ],
       "avatar_url": "https://github.com/canonical.png?size=64",
       "notes": "MicroCeph is snap-deployed Ceph with built-in clustering\n\n## Stats\n\n- Stars: 374\n- Forks: 67\n- Language: Go\n- Topics: block, ceph, cloud, cluster, filesystem, micro, object, storage",
       "updated": "2026-04-03T17:23:31Z",
@@ -8731,7 +8923,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        783
+      ],
       "avatar_url": "https://github.com/AMythicDev.png?size=64",
       "notes": "An asynchronous, runtime data feedable terminal paging library for Rust\n\n## Stats\n\n- Stars: 362\n- Forks: 29\n- Language: Rust\n- Topics: paging-library, rust-lang, terminal, tui",
       "updated": "2025-12-22T14:59:18Z",
@@ -8777,7 +8971,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        784
+      ],
       "avatar_url": "https://github.com/almindor.png?size=64",
       "notes": "MIPI Display Serial Interface unified driver\n\n## Stats\n\n- Stars: 248\n- Forks: 75\n- Language: Rust",
       "updated": "2026-02-17T03:03:56Z",
@@ -8823,7 +9019,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        785
+      ],
       "avatar_url": "https://github.com/Ancurio.png?size=64",
       "notes": "Free Software implementation of the Ruby Game Scripting System (RGSS)\n\n## Stats\n\n- Stars: 575\n- Forks: 202\n- Language: C++\n- Topics: game-engine, game-engine-2d, mkxp, rpg, rpg-maker, rpg-maker-vx, rpg-maker-vxace, rpg-maker-xp",
       "updated": "2026-01-18T20:37:34Z",
@@ -8917,7 +9115,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        786
+      ],
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "The multidict implementation\n\n## Stats\n\n- Stars: 484\n- Forks: 121\n- Language: Python\n- Topics: aiohttp, hacktoberfest, headers, multidict",
       "updated": "2026-04-02T23:38:37Z",
@@ -8963,7 +9163,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        787
+      ],
       "avatar_url": "https://github.com/acaloiaro.png?size=64",
       "notes": "Queue-agnostic background job library for Go, with a pleasant API and powerful features.\n\n## Stats\n\n- Stars: 330\n- Forks: 5\n- Language: Go\n- Topics: async, asynchronous-tasks, background-jobs, distributed-systems, golang, postgres, task-queue, worker-pool, worker-pool-go",
       "updated": "2026-02-11T04:11:23Z",
@@ -9055,7 +9257,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        788
+      ],
       "avatar_url": "https://github.com/ansible-collections.png?size=64",
       "notes": "Announcements of changes impacting collection contributors and maintainers\n\n## Stats\n\n- Stars: 31\n- Forks: 4",
       "updated": "2023-03-23T12:07:26Z",
@@ -9101,7 +9305,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        789
+      ],
       "avatar_url": "https://github.com/bnmgh1.png?size=64",
       "notes": "\u9b54\u6539Node\u8865\u73af\u5883\u6846\u67b6\n\n## Stats\n\n- Stars: 239\n- Forks: 96\n- Language: JavaScript",
       "updated": "2023-09-02T07:02:04Z",
@@ -9147,7 +9353,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        790
+      ],
       "avatar_url": "https://github.com/blackhole89.png?size=64",
       "notes": "A GTK3 hierarchical markdown notetaking application with tablet support.\n\n## Stats\n\n- Stars: 1560\n- Forks: 70\n- Language: C++\n- Topics: markdown-editor, notetaking-applications, tablet, vector-graphics",
       "updated": "2026-01-29T00:39:14Z",
@@ -9193,7 +9401,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        791
+      ],
       "avatar_url": "https://github.com/andir.png?size=64",
       "notes": "Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.\n\n## Stats\n\n- Stars: 504\n- Forks: 39\n- Language: Rust",
       "updated": "2026-04-03T20:53:28Z",
@@ -9239,7 +9449,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        793
+      ],
       "avatar_url": "https://github.com/binwiederhier.png?size=64",
       "notes": "Send push notifications to your phone or desktop using PUT/POST\n\n## Stats\n\n- Stars: 29585\n- Forks: 1222\n- Language: Go\n- Topics: curl, notifications, ntfy, ntfysh, pubsub, push-notifications, rest-api",
       "updated": "2026-04-05T11:27:07Z",
@@ -9285,7 +9497,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        792
+      ],
       "avatar_url": "https://github.com/binwiederhier.png?size=64",
       "notes": "iOS App for ntfy\n\n## Stats\n\n- Stars: 276\n- Forks: 58\n- Language: Swift",
       "updated": "2026-03-27T21:12:48Z",
@@ -9331,7 +9545,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        794
+      ],
       "avatar_url": "https://github.com/canonical.png?size=64",
       "notes": "Learn open-source software documentation skills with Canonical\n\n## Stats\n\n- Stars: 113\n- Forks: 88\n- Language: Python",
       "updated": "2026-03-25T09:49:32Z",
@@ -9375,7 +9591,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        795
+      ],
       "avatar_url": "https://github.com/btw-so.png?size=64",
       "notes": "List of open-source alternatives to everyday SaaS products.\n\n## Stats\n\n- Stars: 8308\n- Forks: 340",
       "updated": "2024-11-08T10:26:57Z",
@@ -9421,7 +9639,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        796
+      ],
       "avatar_url": "https://github.com/AMDESE.png?size=64",
       "notes": "OpenBMC for Genoa SP5 socket platforms\n\n## Stats\n\n- Stars: 38\n- Forks: 13\n- Language: BitBake",
       "updated": "2025-06-30T11:55:56Z",
@@ -9467,7 +9687,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        797
+      ],
       "avatar_url": "https://github.com/200ok-ch.png?size=64",
       "notes": "An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers\n\n## Stats\n\n- Stars: 2621\n- Forks: 165\n- Language: JavaScript\n- Topics: emacs, org-mode, productivity, progressive-web-app, project-management",
       "updated": "2026-04-02T07:37:33Z",
@@ -9513,7 +9735,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        798
+      ],
       "avatar_url": "https://github.com/ananthakumaran.png?size=64",
       "notes": "Paisa \u2013 Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi\n\n## Stats\n\n- Stars: 3124\n- Forks: 203\n- Language: TypeScript\n- Topics: ledger, ledger-cli, personal-finance, plaintext-accounting, visualization",
       "updated": "2025-12-02T02:38:32Z",
@@ -9559,7 +9783,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        799
+      ],
       "avatar_url": "https://github.com/AdminTurnedDevOps.png?size=64",
       "notes": "## Stats\n\n- Stars: 192\n- Forks: 266\n- Language: Go",
       "updated": "2025-10-26T13:23:54Z",
@@ -9653,7 +9879,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        800
+      ],
       "avatar_url": "https://github.com/avanc.png?size=64",
       "notes": "Operating System for digital photo frames\n\n## Stats\n\n- Stars: 122\n- Forks: 16\n- Language: Makefile",
       "updated": "2025-03-19T19:49:45Z",
@@ -9700,7 +9928,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        801
+      ],
       "avatar_url": "https://github.com/arcuru.png?size=64",
       "notes": "A notification bot for Matrix. Listens on HTTP and forwards to Matrix. Similar to https://ntfy.sh\n\n## Stats\n\n- Stars: 35\n- Forks: 1\n- Language: Rust\n- Topics: matrix, matrix-org, nix-flake, notifications, rust",
       "updated": "2025-08-06T20:26:59Z",
@@ -9746,7 +9976,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        802
+      ],
       "avatar_url": "https://github.com/addyosmani.png?size=64",
       "notes": "A tutorial app for generator-polymer\n\n## Stats\n\n- Stars: 32\n- Forks: 8\n- Language: JavaScript",
       "updated": "2013-09-24T13:37:32Z",
@@ -9792,7 +10024,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        803
+      ],
       "avatar_url": "https://github.com/BlackPanther-svg.png?size=64",
       "notes": "World best multi device whatsapp bot\ud83d\udda4\n\n## Stats\n\n- Stars: 45\n- Forks: 364\n- Language: JavaScript\n- Topics: multi-device-bot, whatsapp-bot",
       "updated": "2022-08-08T10:35:00Z",
@@ -9838,7 +10072,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        804
+      ],
       "avatar_url": "https://github.com/AlfaazPlus.png?size=64",
       "notes": "An ad-free and privacy-focused app for exploring the Holy Qur\u2019an.\n\n## Stats\n\n- Stars: 346\n- Forks: 51\n- Language: Kotlin\n- Topics: android, islam, kotlin, muslim, quran, religion",
       "updated": "2026-04-05T21:08:33Z",
@@ -9884,7 +10120,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        805
+      ],
       "avatar_url": "https://github.com/archcraft-os.png?size=64",
       "notes": "// Releases : ISO\n\n## Stats\n\n- Stars: 163\n- Forks: 9\n- Language: Shell",
       "updated": "2024-02-05T23:58:54Z",
@@ -9930,7 +10168,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        806
+      ],
       "avatar_url": "https://github.com/antoyo.png?size=64",
       "notes": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust\n\n## Stats\n\n- Stars: 2455\n- Forks: 78\n- Language: Rust\n- Topics: hacktoberfest",
       "updated": "2024-04-19T11:46:46Z",
@@ -9976,7 +10216,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        807
+      ],
       "avatar_url": "https://github.com/abathelt.png?size=64",
       "notes": "Learning resources, blogs, news, SQL, PowerShell, SQL, Linux, Revers Engineering, Malware\n\n## Stats\n\n- Stars: 33\n- Forks: 2\n- Language: Shell\n- Topics: linux, malware, security, sql",
       "updated": "2025-12-11T08:13:04Z",
@@ -10022,7 +10264,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        808
+      ],
       "avatar_url": "https://github.com/celzero.png?size=64",
       "notes": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.\n\n## Stats\n\n- Stars: 4725\n- Forks: 264\n- Language: Kotlin\n- Topics: android, android-app, android-application, android-firewall, anti-censorship, anti-surveillance, censorship-circumvention, censorship-resistance, dns, dns-over-https, dnscrypt, firewall, internet-freedom, open-source, privacy-enhancing-technologies, wireguard",
       "updated": "2026-03-11T14:35:36Z",
@@ -10068,7 +10312,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        809
+      ],
       "avatar_url": "https://github.com/aperezdc.png?size=64",
       "notes": "Better desktop integration for Riot.im (not only) for GNOME\n\n## Stats\n\n- Stars: 94\n- Forks: 9\n- Language: Python\n- Topics: chat, client, gnome, webapp",
       "updated": "2023-02-16T15:27:01Z",
@@ -10114,7 +10360,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        810
+      ],
       "avatar_url": "https://github.com/ahdinosaur.png?size=64",
       "notes": "Template language for structured data: functional YAML \ud83c\udf31\n\n## Stats\n\n- Stars: 53\n- Forks: 1\n- Language: Rust\n- Topics: configuration, configuration-language, data, data-structures, expression-evaluator, expression-language, functional, json, serde, string-interpolation, template, template-engine, toml, untrusted-values, yaml",
       "updated": "2026-02-16T01:58:19Z",
@@ -10160,7 +10408,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        811
+      ],
       "avatar_url": "https://github.com/airalab.png?size=64",
       "notes": "Robonomics node implementation for Polkadot ecosystem; Kusama parachain slot #2048 since January 2022\n\n## Stats\n\n- Stars: 228\n- Forks: 60\n- Language: Rust\n- Topics: iot, node, polkadot, polkadot-sdk, robotics, rust, substrate",
       "updated": "2026-04-01T10:42:51Z",
@@ -10206,7 +10456,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        812
+      ],
       "avatar_url": "https://github.com/ananace.png?size=64",
       "notes": "Ruby SDK for the Matrix communication protocol\n\n## Stats\n\n- Stars: 93\n- Forks: 12\n- Language: Ruby\n- Topics: matrix-protocol, ruby",
       "updated": "2026-01-16T15:08:14Z",
@@ -10252,7 +10504,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        813
+      ],
       "avatar_url": "https://github.com/aboutcode-org.png?size=64",
       "notes": ":bar_chart: ScanCode Workbench is a desktop app to review and conclude license and origin from code scans generated by ScanCode Toolkit.\n\n## Stats\n\n- Stars: 170\n- Forks: 80\n- Language: TypeScript\n- Topics: oss-compliance, scancode, scancode-workbench, software-licensing",
       "updated": "2025-01-17T05:47:11Z",
@@ -10346,7 +10600,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        814
+      ],
       "avatar_url": "https://github.com/BishopFox.png?size=64",
       "notes": "Adversary Emulation Framework\n\n## Stats\n\n- Stars: 10962\n- Forks: 1478\n- Language: Go\n- Topics: adversarial-attacks, adversary-simulation, c2, command-and-control, dns, dns-server, golang, gplv3, http, implant, red-team, red-team-engagement, red-teaming, security-tools, sliver",
       "updated": "2026-04-02T16:17:38Z",
@@ -10392,7 +10648,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        815
+      ],
       "avatar_url": "https://github.com/caliwyr.png?size=64",
       "notes": "Sofware Tools \ud83d\udc7b\n\n## Stats\n\n- Stars: 136\n- Forks: 40\n- Language: HTML",
       "updated": "2025-12-31T22:01:53Z",
@@ -10438,7 +10696,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        816
+      ],
       "avatar_url": "https://github.com/argotorg.png?size=64",
       "notes": "Solidity, the Smart Contract Programming Language\n\n## Stats\n\n- Stars: 25594\n- Forks: 6098\n- Language: C++\n- Topics: blockchain, cpp, ethereum, hacktoberfest, language, programming-language, smartcontracts, solidity",
       "updated": "2026-04-06T11:45:50Z",
@@ -10484,7 +10744,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        817
+      ],
       "avatar_url": "https://github.com/An1g.png?size=64",
       "notes": "## Stats\n\n- Stars: 38\n- Forks: 0\n- Language: TypeScript",
       "updated": "2022-01-17T21:30:45Z",
@@ -10580,7 +10842,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        818
+      ],
       "avatar_url": "https://github.com/arendst.png?size=64",
       "notes": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at\n\n## Stats\n\n- Stars: 24244\n- Forks: 5070\n- Language: C\n- Topics: arduino, automation, esp32, esp8266, firmware, iot, knx, mqtt, ota, smart-home, sonoff, tasmota, tuya",
       "updated": "2026-04-06T10:54:16Z",
@@ -10676,7 +10940,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        819
+      ],
       "avatar_url": "https://github.com/aanderse.png?size=64",
       "notes": "a terraform ops tool which is sure to be a flop\n\n## Stats\n\n- Stars: 59\n- Forks: 3\n- Language: Nix",
       "updated": "2026-03-11T00:30:46Z",
@@ -10722,7 +10988,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        820
+      ],
       "avatar_url": "https://github.com/brndnmtthws.png?size=64",
       "notes": "ThetaGang is an IBKR bot for collecting money\n\n## Stats\n\n- Stars: 2527\n- Forks: 358\n- Language: Python\n- Topics: bot, buying-shares, get-rich-slowly, ibkr, money, strategy, thetagang, trading-bot",
       "updated": "2026-03-09T13:27:01Z",
@@ -10766,7 +11034,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        821
+      ],
       "avatar_url": "https://github.com/Anon-Planet.png?size=64",
       "notes": "The comprehensive guide for online anonymity and OpSec.\n\n## Stats\n\n- Stars: 689\n- Forks: 61\n- Topics: activism, anonymity, anonymization, opsec, privacy, security, tails, tor, whonix",
       "updated": "2026-01-19T02:54:27Z",
@@ -10812,7 +11082,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        822
+      ],
       "avatar_url": "https://github.com/bitbetterde.png?size=64",
       "notes": "Work in Progress: A messenger bridge between Threema and Matrix.\n\n## Stats\n\n- Stars: 106\n- Forks: 2\n- Language: Rust",
       "updated": "2024-03-21T13:16:56Z",
@@ -10858,7 +11130,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        823
+      ],
       "avatar_url": "https://github.com/bilbilak.png?size=64",
       "notes": "ASCII Tree Directory and File Structure Generator\n\n## Stats\n\n- Stars: 69\n- Forks: 5\n- Language: Go\n- Topics: ascii-tree, cli-tool, command-line-tool, directory-generator, directory-structure, directory-tree, file-generator, folder-structure, tree, tree-command, tree-structure",
       "updated": "2024-12-28T01:00:34Z",
@@ -10998,7 +11272,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        825
+      ],
       "avatar_url": "https://github.com/BrowserWorks.png?size=64",
       "notes": "The official Waterfox \ud83d\udca7 source code repository\n\n## Stats\n\n- Stars: 5594\n- Forks: 412\n- Language: JavaScript\n- Topics: browser, gecko, waterfox, web, web-browser",
       "updated": "2026-03-24T12:50:49Z",
@@ -11044,7 +11320,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        824
+      ],
       "avatar_url": "https://github.com/BrowserWorks.png?size=64",
       "notes": "Waterfox for Android\n\n## Stats\n\n- Stars: 275\n- Forks: 23\n- Language: JavaScript",
       "updated": "2026-03-23T20:21:09Z",
@@ -11090,7 +11368,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        826
+      ],
       "avatar_url": "https://github.com/bsd-ac.png?size=64",
       "notes": "Gentoo overlay for Wayland related ebuilds\n\n## Stats\n\n- Stars: 70\n- Forks: 20\n- Language: Shell\n- Topics: gentoo, gentoo-overlay, linux, wayland",
       "updated": "2024-09-21T17:08:54Z",
@@ -11136,7 +11416,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        827
+      ],
       "avatar_url": "https://github.com/bitfireAT.png?size=64",
       "notes": "WebDAV Push: Draft\n\n## Stats\n\n- Stars: 93\n- Forks: 0\n- Language: Shell\n- Topics: caldav, carddav, push, webdav",
       "updated": "2025-05-06T13:57:15Z",
@@ -11182,7 +11464,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        828
+      ],
       "avatar_url": "https://github.com/brendoncarroll.png?size=64",
       "notes": "A Filesystem Built On Top of the Web.\n\n## Stats\n\n- Stars: 340\n- Forks: 4\n- Language: Go\n- Topics: cryptography, dropbox, filesharing, filesystem, ipfs",
       "updated": "2023-03-07T02:14:21Z",
@@ -11276,7 +11560,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        829
+      ],
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "Yet another URL library\n\n## Stats\n\n- Stars: 1476\n- Forks: 186\n- Language: Python\n- Topics: aiohttp, hacktoberfest, url-parsing, urls",
       "updated": "2026-04-03T12:07:21Z",
@@ -11322,7 +11608,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        830
+      ],
       "avatar_url": "https://github.com/bright.png?size=64",
       "notes": "## Stats\n\n- Stars: 32\n- Forks: 19\n- Language: Rust",
       "updated": "2024-07-29T18:29:56Z",
