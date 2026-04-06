@@ -17,6 +17,13 @@ a:hover { text-decoration: underline; }
 header { margin-bottom: 1.5rem; }
 header h1 { font-size: 2rem; color: #f0f6fc; margin-bottom: 0.5rem; }
 header p { color: #8b949e; max-width: 600px; }
+.cta-add {
+  display: inline-block; margin-top: 0.75rem;
+  padding: 0.5rem 1.1rem; font-size: 0.9rem; font-weight: 600;
+  background: #238636; color: #fff; border-radius: 6px;
+  transition: background 0.15s;
+}
+.cta-add:hover { background: #2ea043; text-decoration: none; }
 
 /* Controls */
 .controls {
@@ -284,8 +291,8 @@ header p { color: #8b949e; max-width: 600px; }
     </div>
     <p>Tracking the migration of open-source projects to
       <a href="https://matrix.org">Matrix</a>.
-      <a href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">Add a project</a>
     </p>
+    <a class="cta-add" href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">+ Add a project</a>
     <p style="font-size:0.75rem;color:#484f58;margin-top:0.5rem">a project by <a href="https://datanauten.de" style="color:#6e7681">datanauten.de</a></p>
   </header>
 
