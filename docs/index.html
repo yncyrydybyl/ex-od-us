@@ -195,8 +195,13 @@ header p { color: #8b949e; max-width: 600px; }
   line-height: 1.8;
 }
 .hero-slot {
-  display: inline-flex; position: relative;
-  overflow: hidden; vertical-align: baseline;
+  display: inline-block; position: relative;
+  overflow: hidden; vertical-align: bottom;
+}
+/* Invisible sizer: takes up space in flow so the slot has a real baseline */
+.hero-slot .sizer {
+  display: inline-block; visibility: hidden; white-space: nowrap;
+  height: 0; overflow: hidden;
 }
 .hero-slot span {
   display: block; white-space: nowrap;
@@ -724,15 +729,30 @@ function startHeroAnimation() {
   if (names.length === 0) return;
 
   function initSlot(slot, items) {
+    // Find the widest item text
     const measure = document.createElement('span');
     measure.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;font:inherit;font-weight:700';
     slot.appendChild(measure);
+    let widest = items[0];
     let maxW = 0;
-    for (const t of items) { measure.textContent = t; maxW = Math.max(maxW, measure.offsetWidth); }
-    const h = measure.offsetHeight;
+    for (const t of items) {
+      measure.textContent = t;
+      if (measure.offsetWidth > maxW) { maxW = measure.offsetWidth; widest = t; }
+    }
     slot.removeChild(measure);
-    slot.style.width = (maxW + 4) + 'px';
-    slot.style.height = h + 'px';
+
+    // Sizer: in-flow element that sets the slot's width and baseline
+    const sizer = document.createElement('span');
+    sizer.className = 'sizer';
+    sizer.textContent = widest;
+    sizer.style.width = (maxW + 4) + 'px';
+    slot.appendChild(sizer);
+
+    // Set slot height from line-height
+    const lineH = parseFloat(getComputedStyle(slot.parentElement).lineHeight);
+    slot.style.height = lineH + 'px';
+
+    // Add rotating spans
     items.forEach((t, i) => {
       const s = document.createElement('span');
       s.textContent = t;
