@@ -510,8 +510,7 @@ function renderCards(projects) {
     const cats = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join('');
     const platformLabel = {github:'GitHub',gitlab:'GitLab',codeberg:'Codeberg',other:'Other'}[p.platform] || '';
     const platformBadge = platformLabel ? `<span class="badge badge-platform badge-${p.platform}">${platformLabel}</span>` : '';
-    const scoreBadge = p.exodus_score != null
-      ? `<span class="badge score-${scoreClass(p.exodus_score)}">${p.exodus_score}/10</span>` : '';
+    // Score shown via exodus bar only, no badge
     const avatar = p.avatar_url
       ? `<div class="card-avatar"><img src="${esc(p.avatar_url)}" alt="" loading="lazy" onerror="this.parentElement.textContent='${esc(p.initials)}'"></div>`
       : `<div class="card-avatar">${esc(p.initials)}</div>`;
@@ -570,7 +569,6 @@ function renderCards(projects) {
         <div class="card-header">
           ${avatar}
           <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.name)}</a></div>
-          ${scoreBadge}
         </div>
         <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
         <div class="card-meta">
