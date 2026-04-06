@@ -1,0 +1,19 @@
+---
+name: "Jot"
+description: "Very simple JWT/JWK library for Swift"
+repo: "https://github.com/mattmassicotte/Jot"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-07-24T05:10:00Z"
+---
+
+Very simple JWT/JWK library for Swift
+
+## Stats
+
+- Stars: 31
+- Forks: 0
+- Language: Swift
+- Topics: json, jsonwebtoken, jwk, jwt, swift

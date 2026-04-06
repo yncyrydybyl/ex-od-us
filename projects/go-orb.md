@@ -1,0 +1,18 @@
+---
+name: "Go Orb"
+description: "Go-Orb is a framework for building both monoliths and distributed systems in Go."
+repo: "https://github.com/go-orb/go-orb"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-05-23T17:17:23Z"
+---
+
+Go-Orb is a framework for building both monoliths and distributed systems in Go.
+
+## Stats
+
+- Stars: 207
+- Forks: 6
+- Language: Go

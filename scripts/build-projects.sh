@@ -175,7 +175,7 @@ for fname in sorted(os.listdir(projects_dir)):
     projects.append(project)
 
 # Sort by exodus_score descending (None last), then name
-projects.sort(key=lambda p: (-(p['exodus_score'] or -1), p['name'].lower()))
+projects.sort(key=lambda p: (-(p['exodus_score'] or -1), str(p['name']).lower()))
 
 result = {
     'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),

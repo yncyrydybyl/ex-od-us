@@ -1,0 +1,19 @@
+---
+name: "Universal Pidff"
+description: "PIDFF driver with patches for initialization of FFB-capable devices."
+repo: "https://github.com/JacKeTUs/universal-pidff"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-03T14:36:22Z"
+---
+
+PIDFF driver with patches for initialization of FFB-capable devices.
+
+## Stats
+
+- Stars: 230
+- Forks: 13
+- Language: C
+- Topics: driver, ffb, linux-kernel, pid
