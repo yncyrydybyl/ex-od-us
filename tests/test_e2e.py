@@ -178,7 +178,7 @@ class TestSiteHTML:
 
     @pytest.fixture(autouse=True)
     def load_html(self):
-        path = os.path.join(ROOT, 'docs', 'index.html')
+        path = os.path.join(ROOT, 'src', 'index.html')
         with open(path) as f:
             self.html = f.read()
 
@@ -186,7 +186,7 @@ class TestSiteHTML:
         assert '<title>Exodus Project Tracker</title>' in self.html
 
     def test_loads_projects_json(self):
-        assert 'projects.json' in self.html
+        assert 'projects-slim.json' in self.html
 
     def test_has_hero_animation(self):
         assert 'hero-slot' in self.html
