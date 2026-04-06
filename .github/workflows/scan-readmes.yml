@@ -1,0 +1,58 @@
+name: Scan tracked READMEs
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: 'Dry run (scan but do not comment)'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan READMEs
+        id: scan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CHANGED=$(bash scripts/scan-readmes.sh)
+          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
+
+          # Check if anything changed
+          CHANGE_COUNT=$(echo "$CHANGED" | jq 'length')
+          echo "change_count=$CHANGE_COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Commit cache updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/readme-cache.json data/scan-report.json
+          if git diff --staged --quiet; then
+            echo "No cache changes to commit."
+          else
+            git commit -m "Update README scan cache $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Notify on changed READMEs
+        if: steps.scan.outputs.change_count != '0' && github.event.inputs.dry-run != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo '${{ steps.scan.outputs.changed }}' | bash scripts/notify-changes.sh
