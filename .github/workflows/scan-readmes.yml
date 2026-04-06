@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/readme-cache.json data/scan-report.json
+          git add data/readme-cache.json data/scan-report.json 2>/dev/null || git add data/readme-cache.json
           if git diff --staged --quiet; then
             echo "No cache changes to commit."
           else
