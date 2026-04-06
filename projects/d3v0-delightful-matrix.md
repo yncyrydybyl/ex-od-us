@@ -6,7 +6,7 @@ platform: codeberg
 categories: [Development]
 exodus_score: 1
 status: "Active"
-issues: []
+issues: [7020]
 updated: "2025-04-30T19:37:57+02:00"
 last_scanned: "2026-04-06T21:03:51Z"
 ---

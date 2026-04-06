@@ -9,7 +9,7 @@ status: "Active"
 matrix_rooms:
   - "https://matrix.to/#/#continuwuity:continuwuity.org"
   - "https://matrix.to/#/#space:continuwuity.org"
-issues: []
+issues: [7017]
 updated: "2026-04-06T22:06:01+02:00"
 last_scanned: "2026-04-06T21:00:34Z"
 ---

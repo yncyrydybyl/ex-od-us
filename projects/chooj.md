@@ -8,7 +8,7 @@ exodus_score: 6
 status: "Archived"
 matrix_rooms:
   - "https://matrix.to/#/#chooj:mozilla.org"
-issues: []
+issues: [7016]
 updated: "2025-08-03T09:55:42+02:00"
 last_scanned: "2026-04-06T21:01:17Z"
 ---
