@@ -1,0 +1,19 @@
+---
+name: "Openciviwiki"
+description: "Building a Better Democracy for the Internet Age"
+repo: "https://github.com/CiviWiki/OpenCiviWiki"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2024-12-11T21:01:17Z"
+---
+
+Building a Better Democracy for the Internet Age
+
+## Stats
+
+- Stars: 620
+- Forks: 348
+- Language: Python
+- Topics: activism, civic-engagement, civic-tech, congress, democracy, django, django-rest-framework, hacktoberfest, legislation, legislative-bill-analysis, participatory-democracy, politics, python, senate, volunteers

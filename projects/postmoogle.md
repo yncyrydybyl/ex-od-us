@@ -1,0 +1,19 @@
+---
+name: "Postmoogle"
+description: "Postmoogle is Matrix <-> Email bridge in a form of an SMTP server"
+repo: "https://github.com/etkecc/postmoogle"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-24T23:07:10Z"
+---
+
+Postmoogle is Matrix <-> Email bridge in a form of an SMTP server
+
+## Stats
+
+- Stars: 72
+- Forks: 7
+- Language: Go
+- Topics: email, matrix-org, mautrix-go, smtp-server

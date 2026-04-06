@@ -1,0 +1,19 @@
+---
+name: "Soundtrack"
+description: "Self-hosted collaborative music playing application."
+repo: "https://github.com/FabricLabs/soundtrack"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2020-10-16T08:16:13Z"
+---
+
+Self-hosted collaborative music playing application.
+
+## Stats
+
+- Stars: 128
+- Forks: 55
+- Language: JavaScript
+- Topics: music, radio, soundtrack, streaming

@@ -1,0 +1,19 @@
+---
+name: "Ess Helm"
+description: "Element Server Suite Community Edition"
+repo: "https://github.com/element-hq/ess-helm"
+platform: github
+categories: [Matrix]
+status: "Active"
+issues: []
+updated: "2026-04-02T22:09:09Z"
+---
+
+Element Server Suite Community Edition
+
+## Stats
+
+- Stars: 749
+- Forks: 109
+- Language: Python
+- Topics: element, helm, helm-chart, kubernetes, matrix, matrix-authentication-service, synapse, voip, voip-server

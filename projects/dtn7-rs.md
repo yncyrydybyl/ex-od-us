@@ -1,0 +1,19 @@
+---
+name: "Dtn7 Rs"
+description: "Rust implementation of a DTN based on RFC 9171"
+repo: "https://github.com/dtn7/dtn7-rs"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-05T07:44:56Z"
+---
+
+Rust implementation of a DTN based on RFC 9171
+
+## Stats
+
+- Stars: 107
+- Forks: 28
+- Language: Rust
+- Topics: bundle-protocol, delay-tolerant-network, dtn, dtn-bpbis, opportunistic-networking, rust

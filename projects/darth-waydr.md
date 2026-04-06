@@ -1,0 +1,19 @@
+---
+name: "Darth Waydr"
+description: "automates waydroid installation steps on debian-based distributions"
+repo: "https://github.com/aditya24raj/darth_waydr"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2022-03-10T07:11:47Z"
+---
+
+automates waydroid installation steps on debian-based distributions
+
+## Stats
+
+- Stars: 45
+- Forks: 1
+- Language: Shell
+- Topics: debian, waydroid

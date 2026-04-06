@@ -1,0 +1,19 @@
+---
+name: "Electricpy"
+description: "Electrical Engineering Formulas in Python"
+repo: "https://github.com/engineerjoe440/ElectricPy"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-01T19:52:04Z"
+---
+
+Electrical Engineering Formulas in Python
+
+## Stats
+
+- Stars: 120
+- Forks: 23
+- Language: Python
+- Topics: bode-plot, calculations, calculators, digital-filter, digital-filters, digital-signal-processing, electrical, electrical-circuits, electrical-engineering, electrical-grid, electrical-motors, electrical-system, electricity, formulas, impedance, plotting, python, research, university

@@ -311,7 +311,7 @@ def repo_slug(url):
     """Extract owner/repo from a GitHub URL."""
     m = re.search(r'github\.com[/:]([^/]+/[^/\s#?.]+)', url)
     if m:
-        return m.group(1).rstrip('.git').rstrip('/')
+        return m.group(1).removesuffix('.git').rstrip('/')
     return None
 
 # ── Main pipeline ───────────────────────────────────────────────

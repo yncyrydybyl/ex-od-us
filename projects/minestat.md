@@ -1,0 +1,19 @@
+---
+name: "Minestat"
+description: ":chart_with_upwards_trend: A Minecraft server status checker"
+repo: "https://github.com/FragLand/minestat"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-04-27T00:39:53Z"
+---
+
+:chart_with_upwards_trend: A Minecraft server status checker
+
+## Stats
+
+- Stars: 360
+- Forks: 75
+- Language: C#
+- Topics: checker, csharp, go, golang, java, javascript, js, minecraft, minecraft-server, network-monitoring, packet, perl, php, poll, powershell, protocol, python, query, ruby, status

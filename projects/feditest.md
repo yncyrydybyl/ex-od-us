@@ -1,0 +1,18 @@
+---
+name: "Feditest"
+description: "A testing framework for distributed, heterogeneous systems communicating with complex protocols, such as the Fediverse"
+repo: "https://github.com/fediverse-devnet/feditest"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2024-12-29T19:22:13Z"
+---
+
+A testing framework for distributed, heterogeneous systems communicating with complex protocols, such as the Fediverse
+
+## Stats
+
+- Stars: 36
+- Forks: 6
+- Language: Python

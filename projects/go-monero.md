@@ -1,0 +1,19 @@
+---
+name: "Go Monero"
+description: "Monero's p2p and RPC in go"
+repo: "https://github.com/cirocosta/go-monero"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2023-04-10T01:07:11Z"
+---
+
+Monero's p2p and RPC in go
+
+## Stats
+
+- Stars: 39
+- Forks: 8
+- Language: Go
+- Topics: golang, monero
