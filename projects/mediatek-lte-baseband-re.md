@@ -5,7 +5,7 @@ repo: "https://github.com/cyrozap/mediatek-lte-baseband-re"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [45]
 updated: "2024-10-30T03:04:15Z"
 ---
 

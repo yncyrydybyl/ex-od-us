@@ -5,7 +5,7 @@ repo: "https://github.com/absmach/supermq"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [52]
 updated: "2026-04-06T08:19:30Z"
 ---
 

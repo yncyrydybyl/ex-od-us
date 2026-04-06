@@ -5,7 +5,7 @@ repo: "https://github.com/cartesapp/cartes"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [35]
 updated: "2025-06-18T11:11:51Z"
 ---
 

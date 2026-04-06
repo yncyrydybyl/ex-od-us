@@ -5,7 +5,7 @@ repo: "https://github.com/Bixilon/Minosoft"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [46]
 updated: "2026-02-23T16:22:53Z"
 ---
 

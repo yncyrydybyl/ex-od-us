@@ -5,7 +5,7 @@ repo: "https://github.com/altermo/ultimate-autopair.nvim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [54]
 updated: "2026-04-04T08:43:22Z"
 ---
 

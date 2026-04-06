@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T08:54:31Z",
+  "generated": "2026-04-06T09:23:59Z",
   "count": 54,
   "projects": [
     {
@@ -40,7 +40,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        27
+      ],
       "avatar_url": "https://github.com/acterglobal.png?size=64",
       "notes": "Community Communication and casual social organising platform (App)\n\n## Stats\n\n- Stars: 103\n- Forks: 21\n- Language: Dart\n- Topics: flutter, matrix-org, organizing, social-network",
       "updated": "2026-03-21T09:31:43Z"
@@ -83,7 +85,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        28
+      ],
       "avatar_url": "https://github.com/Aardwolf-Social.png?size=64",
       "notes": "Powering connected social communities with open software.\n\n## Stats\n\n- Stars: 510\n- Forks: 47\n- Language: Rust\n- Topics: aardwolf, activitypub, activitystreams, decentralized, federated, fediverse, hacktoberfest, hacktoberfest-accepted, hacktoberfest2024, mastodon, rust, rust-lang, social, social-media, social-network, social-plattforms",
       "updated": "2026-02-03T19:21:37Z"
@@ -126,7 +130,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        29
+      ],
       "avatar_url": "https://github.com/amaranth-lang.png?size=64",
       "notes": "A modern hardware definition language and toolchain based on Python\n\n## Stats\n\n- Stars: 1975\n- Forks: 195\n- Language: Python\n- Topics: amaranth-hdl, fpga, hdl",
       "updated": "2026-03-16T16:43:17Z"
@@ -169,7 +175,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        30
+      ],
       "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
       "notes": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 1848\n- Forks: 150\n- Topics: arch, arch-linux, archlinux, archlinuxinstall, bitcoin, blockchain, censorship-circumvention, chinese, cryptocurrency, ebook, ethereum, freedom, freesoftware, fsf, linux, linux-desktop, qv2ray, v2ray, v2raya, virtualcurrency",
       "updated": "2026-01-27T16:37:54Z"
@@ -212,7 +220,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        31
+      ],
       "avatar_url": "https://github.com/bisq-network.png?size=64",
       "notes": "## Stats\n\n- Stars: 296\n- Forks: 114\n- Language: Java",
       "updated": "2026-04-06T07:43:38Z"
@@ -255,7 +265,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        32
+      ],
       "avatar_url": "https://github.com/baskerville.png?size=64",
       "notes": "A tiling window manager based on binary space partitioning\n\n## Stats\n\n- Stars: 8222\n- Forks: 439\n- Language: C",
       "updated": "2025-10-08T16:42:10Z"
@@ -298,7 +310,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        33
+      ],
       "avatar_url": "https://github.com/cargo-generate.png?size=64",
       "notes": "cargo, make me a project\n\n## Stats\n\n- Stars: 2399\n- Forks: 192\n- Language: Rust\n- Topics: cargo, cargo-generate, liquid, placeholders, rust, template-generator, template-project",
       "updated": "2026-04-01T20:29:45Z"
@@ -341,7 +355,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        34
+      ],
       "avatar_url": "https://github.com/CarnetApp.png?size=64",
       "notes": "## Stats\n\n- Stars: 254\n- Forks: 11\n- Language: Shell",
       "updated": "2023-08-21T09:35:00Z"
@@ -384,7 +400,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        35
+      ],
       "avatar_url": "https://github.com/cartesapp.png?size=64",
       "notes": "\u26a0\ufe0f Migr\u00e9 sur https://codeberg.org/cartes/web. L'appli Web de cartes grand public. \n\n## Stats\n\n- Stars: 294\n- Forks: 30\n- Language: TypeScript\n- Topics: cartes, climate, cycling, ecology, maps, public-transport, transit, walking",
       "updated": "2025-06-18T11:11:51Z"
@@ -565,7 +583,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        36
+      ],
       "avatar_url": "https://github.com/continuwuity.png?size=64",
       "notes": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.\n\n## Stats\n\n- Stars: 694\n- Forks: 19\n- Language: Rust\n- Topics: chat, conduit, conduwuit, homeserver, matrix, rust, server",
       "updated": "2026-04-06T02:09:35Z"
@@ -608,7 +628,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        37
+      ],
       "avatar_url": "https://github.com/CorsixTH.png?size=64",
       "notes": "Open source clone of Theme Hospital\n\n## Stats\n\n- Stars: 4397\n- Forks: 395\n- Language: Lua\n- Topics: game, opensource, remake, strategy-game, theme-hospital",
       "updated": "2026-04-05T13:12:38Z"
@@ -652,7 +674,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        38
+      ],
       "avatar_url": "https://github.com/cross-rs.png?size=64",
       "notes": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates\n\n## Stats\n\n- Stars: 8092\n- Forks: 444\n- Language: Rust\n- Topics: aarch64, arm, bsd, cargo, cross-compilation, cross-testing, linux, mips, powerpc, rust, s390x, sparc, windows, x86",
       "updated": "2026-03-25T16:00:29Z"
@@ -740,7 +764,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        39
+      ],
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Dendrite is a second-generation Matrix homeserver written in Go! \n\n## Stats\n\n- Stars: 875\n- Forks: 85\n- Language: Go",
       "updated": "2026-04-02T15:00:29Z"
@@ -828,7 +854,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        40
+      ],
       "avatar_url": "https://github.com/dictation-toolbox.png?size=64",
       "notes": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx\n\n## Stats\n\n- Stars: 412\n- Forks: 78\n- Language: Python\n- Topics: python, speech-recognition",
       "updated": "2026-01-22T01:03:47Z"
@@ -871,7 +899,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        41
+      ],
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Group calls powered by Matrix\n\n## Stats\n\n- Stars: 927\n- Forks: 183\n- Language: TypeScript\n- Topics: matrix, matrixrtc, videoconference, voip",
       "updated": "2026-04-06T01:31:11Z"
@@ -914,7 +944,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        42
+      ],
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "A glossy Matrix collaboration client for iOS\n\n## Stats\n\n- Stars: 1822\n- Forks: 543\n- Language: Swift",
       "updated": "2026-04-01T09:51:12Z"
@@ -1137,7 +1169,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        43
+      ],
       "avatar_url": "https://github.com/capnproto.png?size=64",
       "notes": "Cap'n Proto library and code generator for Go\n\n## Stats\n\n- Stars: 1392\n- Forks: 119\n- Language: Go\n- Topics: capabilities, capability-based, capn-proto, capnp, capnproto, go, golang, object-capabilities, rpc, serialization",
       "updated": "2025-10-25T23:54:54Z"
@@ -1180,7 +1214,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        44
+      ],
       "avatar_url": "https://github.com/conveyal.png?size=64",
       "notes": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage\n\n## Stats\n\n- Stars: 80\n- Forks: 41\n- Language: Java",
       "updated": "2024-05-16T08:51:49Z"
@@ -1673,7 +1709,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        45
+      ],
       "avatar_url": "https://github.com/cyrozap.png?size=64",
       "notes": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.\n\n## Stats\n\n- Stars: 210\n- Forks: 43\n- Language: Python",
       "updated": "2024-10-30T03:04:15Z"
@@ -1716,7 +1754,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        46
+      ],
       "avatar_url": "https://github.com/Bixilon.png?size=64",
       "notes": "An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft\n\n## Stats\n\n- Stars: 1215\n- Forks: 61\n- Language: Kotlin\n- Topics: java, kotlin, minecraft, networking, opengl, reversing",
       "updated": "2026-02-23T16:22:53Z"
@@ -1759,7 +1799,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        47
+      ],
       "avatar_url": "https://github.com/envmodules.png?size=64",
       "notes": "Environment Modules: provides dynamic modification of a user's environment\n\n## Stats\n\n- Stars: 837\n- Forks: 118\n- Language: Tcl\n- Topics: environment, environment-modules, hpc, module, modulefiles, shell, tcl",
       "updated": "2026-03-20T11:25:29Z"
@@ -1892,7 +1934,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        48
+      ],
       "avatar_url": "https://github.com/derhuerst.png?size=64",
       "notes": "Run the PostgreSQL Explain Visualizer 2 (pev2) from the command line.\n\n## Stats\n\n- Stars: 25\n- Forks: 1\n- Language: JavaScript\n- Topics: pev2, postgres, postgresql, query-optimization, query-optimizer, query-plan, query-planner, query-planning",
       "updated": "2026-03-11T13:39:12Z"
@@ -1935,7 +1979,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        49
+      ],
       "avatar_url": "https://github.com/derhuerst.png?size=64",
       "notes": "A command line tool to play any audio/video on an Apple TV.\n\n## Stats\n\n- Stars: 26\n- Forks: 6\n- Language: JavaScript\n- Topics: airplay, airtunes, apple-tv, audio, cli",
       "updated": "2024-07-27T17:11:26Z"
@@ -1978,7 +2024,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        50
+      ],
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "Fast property caching\n\n## Stats\n\n- Stars: 33\n- Forks: 18\n- Language: Python",
       "updated": "2026-04-02T21:46:08Z"
@@ -2021,7 +2069,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        51
+      ],
       "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
       "notes": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 370\n- Forks: 37\n- Topics: linux, shell",
       "updated": "2023-08-21T05:34:41Z"
@@ -2109,7 +2159,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        52
+      ],
       "avatar_url": "https://github.com/absmach.png?size=64",
       "notes": "IoT Platform Framework\n\n## Stats\n\n- Stars: 2570\n- Forks: 676\n- Language: Go\n- Topics: coap, distributed-systems, edge, edge-computing, golang, iiot, internet-of-things, iot, iot-cloud, iot-gateway, iot-platform, lora, lorawan, lwm2m, message-broker, messaging, mqtt, opc-ua, telecom, web-socket",
       "updated": "2026-04-06T08:19:30Z"
@@ -2242,7 +2294,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        53
+      ],
       "avatar_url": "https://github.com/apfaudio.png?size=64",
       "notes": "A powerful, hackable FPGA-based audio multitool for Eurorack.\n\n## Stats\n\n- Stars: 132\n- Forks: 14\n- Language: Python",
       "updated": "2026-04-03T17:41:30Z"
@@ -2285,7 +2339,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        54
+      ],
       "avatar_url": "https://github.com/altermo.png?size=64",
       "notes": "A treesitter supported autopairing plugin with extensions, and much more\n\n## Stats\n\n- Stars: 570\n- Forks: 8\n- Language: Lua\n- Topics: autopair, lua, neovim, neovim-lua, neovim-lua-plugin, neovim-plugin, nvim, nvim-lua, nvim-plugin",
       "updated": "2026-04-04T08:43:22Z"
@@ -2328,7 +2384,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        55
+      ],
       "avatar_url": "https://github.com/canonical.png?size=64",
       "notes": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.\n\n## Stats\n\n- Stars: 950\n- Forks: 198\n- Language: HTML\n- Topics: css, css-framework, hack, hacktoberfest, html, npm, npm-package, package, sass, vanilla-framework, web-and-design",
       "updated": "2026-04-04T13:11:18Z"
@@ -2371,7 +2429,9 @@
         "migration_intent": "",
         "features": []
       },
-      "issues": [],
+      "issues": [
+        56
+      ],
       "avatar_url": "https://github.com/eclipse-xtext.png?size=64",
       "notes": "Eclipse Xtext\u2122 is a language development framework \n\n## Stats\n\n- Stars: 823\n- Forks: 330\n- Language: Java",
       "updated": "2026-04-03T03:50:32Z"

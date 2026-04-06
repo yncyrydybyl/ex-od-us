@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/dendrite"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [39]
 updated: "2026-04-02T15:00:29Z"
 ---
 

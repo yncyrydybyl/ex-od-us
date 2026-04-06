@@ -5,7 +5,7 @@ repo: "https://github.com/Aardwolf-Social/aardwolf-social"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [28]
 updated: "2026-02-03T19:21:37Z"
 ---
 

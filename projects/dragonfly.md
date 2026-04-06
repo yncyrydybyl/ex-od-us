@@ -5,7 +5,7 @@ repo: "https://github.com/dictation-toolbox/dragonfly"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [40]
 updated: "2026-01-22T01:03:47Z"
 ---
 

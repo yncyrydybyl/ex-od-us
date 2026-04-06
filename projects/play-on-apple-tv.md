@@ -5,7 +5,7 @@ repo: "https://github.com/derhuerst/play-on-apple-tv"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [49]
 updated: "2024-07-27T17:11:26Z"
 ---
 

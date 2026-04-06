@@ -5,7 +5,7 @@ repo: "https://github.com/cargo-generate/cargo-generate"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [33]
 updated: "2026-04-01T20:29:45Z"
 ---
 

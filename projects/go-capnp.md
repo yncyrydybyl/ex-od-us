@@ -5,7 +5,7 @@ repo: "https://github.com/capnproto/go-capnp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [43]
 updated: "2025-10-25T23:54:54Z"
 ---
 
