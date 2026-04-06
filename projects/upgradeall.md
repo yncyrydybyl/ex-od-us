@@ -1,0 +1,19 @@
+---
+name: "Upgradeall"
+description: "Check updates for Android apps, Magisk modules and more!"
+repo: "https://github.com/DUpdateSystem/UpgradeAll"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-27T14:52:45Z"
+---
+
+Check updates for Android apps, Magisk modules and more!
+
+## Stats
+
+- Stars: 1287
+- Forks: 43
+- Language: Kotlin
+- Topics: android, kotlin, magisk, magisk-modules

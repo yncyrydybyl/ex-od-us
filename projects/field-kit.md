@@ -1,0 +1,18 @@
+---
+name: "Field Kit"
+description: "A modular, offline-first companion app to farmOS."
+repo: "https://github.com/farmOS/field-kit"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2024-04-07T18:11:21Z"
+---
+
+A modular, offline-first companion app to farmOS.
+
+## Stats
+
+- Stars: 64
+- Forks: 40
+- Language: JavaScript

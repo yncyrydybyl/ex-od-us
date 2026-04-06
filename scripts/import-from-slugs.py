@@ -68,7 +68,7 @@ def main():
             url = m.group(1).strip().rstrip('/')
             gm = re.search(r'github\.com/([^/]+/[^/\s#?.]+)', url)
             if gm:
-                existing_repos.add(gm.group(1).lower().rstrip('.git'))
+                existing_repos.add(gm.group(1).lower().removesuffix('.git'))
 
     print(f"Already tracking {len(existing_repos)} repos", file=sys.stderr)
 

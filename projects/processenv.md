@@ -1,0 +1,19 @@
+---
+name: "Processenv"
+description: "Capture the shell environment of a Foundation app"
+repo: "https://github.com/ChimeHQ/ProcessEnv"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-05-03T18:05:25Z"
+---
+
+Capture the shell environment of a Foundation app
+
+## Stats
+
+- Stars: 36
+- Forks: 7
+- Language: Swift
+- Topics: appkit, cocoa, foundation, shell, swift
