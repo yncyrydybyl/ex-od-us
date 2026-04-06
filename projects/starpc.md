@@ -5,6 +5,10 @@ repo: "https://github.com/aperturerobotics/starpc"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#aperturerobotics:matrix.org"
 issues: []
 updated: "2026-04-05T06:47:41Z"
 ---

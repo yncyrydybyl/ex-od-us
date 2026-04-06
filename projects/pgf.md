@@ -5,6 +5,10 @@ repo: "https://github.com/pgf-tikz/pgf"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pgf-tikz:matrix.org"
 issues: []
 updated: "2026-04-04T22:22:26Z"
 ---

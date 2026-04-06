@@ -5,6 +5,10 @@ repo: "https://github.com/matrix-org/pinecone"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#p2p:matrix.org"
 issues: []
 updated: "2025-03-04T15:56:00Z"
 ---

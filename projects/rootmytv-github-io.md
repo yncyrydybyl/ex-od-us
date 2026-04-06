@@ -5,6 +5,10 @@ repo: "https://github.com/RootMyTV/RootMyTV.github.io"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#openlgtv:netserve.live"
 issues: []
 updated: "2025-01-05T12:36:20Z"
 ---

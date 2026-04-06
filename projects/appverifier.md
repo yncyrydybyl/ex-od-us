@@ -5,6 +5,10 @@ repo: "https://github.com/soupslurpr/AppVerifier"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#appverifier-space:matrix.org"
 issues: [5231]
 updated: "2025-08-29T11:13:23Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/unmojang/FjordLauncher"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#unmojang:matrix.org"
 issues: [6196]
 updated: "2026-04-05T00:30:02Z"
 ---

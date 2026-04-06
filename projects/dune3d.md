@@ -5,6 +5,10 @@ repo: "https://github.com/dune3d/dune3d"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dune3d:selfnet.de"
 issues: [5962]
 updated: "2026-04-04T11:43:07Z"
 ---

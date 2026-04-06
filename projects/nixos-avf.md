@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nixos-avf"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nixos-avf:mkg20001.io"
 issues: []
 updated: "2026-01-23T01:34:49Z"
 ---

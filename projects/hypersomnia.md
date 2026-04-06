@@ -5,6 +5,10 @@ repo: "https://github.com/TeamHypersomnia/Hypersomnia"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#FOSSGralnia.gamedev:noevil.pl"
 issues: [6584]
 updated: "2026-03-26T00:59:12Z"
 ---

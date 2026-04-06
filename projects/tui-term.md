@@ -5,6 +5,10 @@ repo: "https://github.com/a-kenji/tui-term"
 platform: github
 categories: [Integrations]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#tui-term-main:matrix.org"
 issues: []
 updated: "2026-04-06T14:08:04Z"
 ---

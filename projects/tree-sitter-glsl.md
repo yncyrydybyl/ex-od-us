@@ -5,6 +5,10 @@ repo: "https://github.com/tree-sitter-grammars/tree-sitter-glsl"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#tree-sitter-chat:matrix.org"
 issues: []
 updated: "2025-05-16T11:15:37Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/pyproject-nix/uv2nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pyproject.nix:blad.is"
 issues: []
 updated: "2026-04-05T10:49:07Z"
 ---

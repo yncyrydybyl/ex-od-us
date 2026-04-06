@@ -5,6 +5,10 @@ repo: "https://github.com/eza-community/eza"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#eza-community:gitter.im"
 issues: [6131]
 updated: "2026-04-04T21:29:47Z"
 ---

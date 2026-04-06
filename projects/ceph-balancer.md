@@ -5,6 +5,10 @@ repo: "https://github.com/TheJJ/ceph-balancer"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#sfttech:matrix.org"
 issues: [5573]
 updated: "2026-02-13T15:34:08Z"
 ---

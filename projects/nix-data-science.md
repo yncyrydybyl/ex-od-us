@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nix-data-science"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#datascience:nixos.org"
 issues: []
 updated: "2021-06-05T21:09:24Z"
 ---

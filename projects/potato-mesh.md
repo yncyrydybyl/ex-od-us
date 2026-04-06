@@ -5,6 +5,10 @@ repo: "https://github.com/l5yth/potato-mesh"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#potatomesh:dod.ngo"
 issues: []
 updated: "2026-04-06T14:24:47Z"
 ---

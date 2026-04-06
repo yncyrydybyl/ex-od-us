@@ -5,6 +5,10 @@ repo: "https://github.com/Quill-OS/quill"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#inkbox-os-project:matrix.org"
 issues: []
 updated: "2026-01-03T05:00:33Z"
 ---

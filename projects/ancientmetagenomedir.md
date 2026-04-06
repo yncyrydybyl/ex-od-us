@@ -5,6 +5,10 @@ repo: "https://github.com/SPAAM-community/AncientMetagenomeDir"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ancientmetagenomedir:matrix.org"
 issues: [5165]
 updated: "2026-04-01T12:49:06Z"
 ---

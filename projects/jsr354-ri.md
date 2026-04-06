@@ -5,6 +5,10 @@ repo: "https://github.com/JavaMoney/jsr354-ri"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#JavaMoney_jsr354-ri:gitter.im"
 issues: [6765]
 updated: "2026-04-01T01:32:46Z"
 ---

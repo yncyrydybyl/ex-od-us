@@ -5,6 +5,8 @@ repo: "https://github.com/openiked/openiked-portable"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2025-08-27T13:05:41Z"
 ---

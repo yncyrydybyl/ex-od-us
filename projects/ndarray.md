@@ -5,6 +5,10 @@ repo: "https://github.com/rust-ndarray/ndarray"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rust-sci:matrix.org"
 issues: []
 updated: "2026-02-16T14:20:45Z"
 ---

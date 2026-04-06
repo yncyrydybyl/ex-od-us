@@ -4,6 +4,10 @@ repo: "https://github.com/sublinks/sublinks-api"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#sublinks:discuss.online"
 issues: []
 updated: "2024-11-16T09:29:37Z"
 ---

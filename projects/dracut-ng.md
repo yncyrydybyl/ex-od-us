@@ -5,6 +5,10 @@ repo: "https://github.com/dracut-ng/dracut-ng"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dracut-ng:matrix.org"
 issues: [5931]
 updated: "2026-04-05T17:55:35Z"
 ---

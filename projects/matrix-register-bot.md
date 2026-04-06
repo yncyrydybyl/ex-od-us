@@ -5,6 +5,10 @@ repo: "https://github.com/krombel/matrix-register-bot"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#matrix-register-bot:msg-net.de"
 issues: []
 updated: "2021-06-22T15:28:28Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/realaravinth/gitpad"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gitpad:matrix.batsense.net"
 issues: [6376]
 updated: "2022-06-13T17:04:53Z"
 ---

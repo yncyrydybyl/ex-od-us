@@ -5,6 +5,10 @@ repo: "https://github.com/btcpay-monero/btcpayserver-monero-plugin"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#btcpay-monero:matrix.org"
 issues: [5530]
 updated: "2026-04-06T16:43:27Z"
 ---

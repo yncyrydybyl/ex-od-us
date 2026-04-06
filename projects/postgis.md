@@ -5,6 +5,10 @@ repo: "https://github.com/postgis/postgis"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#postgis:osgeo.org"
 issues: []
 updated: "2026-04-02T19:28:07Z"
 ---

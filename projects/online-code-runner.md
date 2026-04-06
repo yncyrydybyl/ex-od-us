@@ -5,6 +5,8 @@ repo: "https://github.com/jigyansunanda/Online-Code-Runner"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2023-01-13T05:17:13Z"
 ---

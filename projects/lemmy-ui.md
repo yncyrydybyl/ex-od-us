@@ -5,6 +5,10 @@ repo: "https://github.com/LemmyNet/lemmy-ui"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lemmy-space:matrix.org"
 issues: [6872]
 updated: "2026-04-06T13:16:01Z"
 ---

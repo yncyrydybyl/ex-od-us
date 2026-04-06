@@ -5,6 +5,10 @@ repo: "https://github.com/haskell-game/dear-imgui.hs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dear-imgui.hs:ocharles.org.uk"
 issues: [5826]
 updated: "2026-01-19T09:09:05Z"
 ---

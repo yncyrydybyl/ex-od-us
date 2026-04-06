@@ -5,6 +5,10 @@ repo: "https://github.com/gomuks/gomuks"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gomuks:gomuks.app"
 issues: [6441]
 updated: "2026-04-04T14:12:59Z"
 ---

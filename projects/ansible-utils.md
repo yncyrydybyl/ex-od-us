@@ -5,6 +5,10 @@ repo: "https://github.com/ansible-collections/ansible.utils"
 platform: github
 categories: [Development]
 status: Dead
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#network:ansible.com"
 issues: [5192]
 updated: "2026-03-24T17:01:07Z"
 verified: false

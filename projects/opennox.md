@@ -5,6 +5,10 @@ repo: "https://github.com/opennox/opennox"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#opennox:nwca.xyz"
 issues: []
 updated: "2025-12-09T11:06:49Z"
 ---

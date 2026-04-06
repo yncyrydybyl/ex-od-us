@@ -5,6 +5,10 @@ repo: "https://github.com/litestar-org/litestar-fullstack"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#litestar:matrix.org"
 issues: [6945]
 updated: "2026-02-27T18:03:36Z"
 ---

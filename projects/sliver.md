@@ -5,6 +5,8 @@ repo: "https://github.com/BishopFox/sliver"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [814]
 updated: "2026-04-02T16:17:38Z"
 verified: true

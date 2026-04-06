@@ -5,6 +5,10 @@ repo: "https://github.com/XeraPlugins/8b8tCore"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#xera-general:matrix.xera.ca"
 issues: [5087]
 updated: "2026-03-24T20:20:53Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/Cyrix126/gupaxx"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#xmrvsbeast:monero.social"
 issues: [6495]
 updated: "2026-03-09T13:19:15Z"
 ---

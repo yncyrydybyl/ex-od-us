@@ -5,6 +5,10 @@ repo: "https://github.com/mautrix/bluesky"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#bluesky:maunium.net"
 issues: [5482]
 updated: "2026-02-16T14:19:39Z"
 ---

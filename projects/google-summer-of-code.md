@@ -5,6 +5,11 @@ repo: "https://github.com/rust-lang/google-summer-of-code"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#serialport-rs-gsoc-2026:matrix.org"
+  - "https://matrix.to/#/#serialport-rs:matrix.org"
 issues: [6445]
 updated: "2026-03-22T14:09:51Z"
 ---

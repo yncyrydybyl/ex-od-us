@@ -5,6 +5,10 @@ repo: "https://github.com/vengefulplas/mauliasproxy"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#maunium:mau.dev"
 issues: []
 updated: "2025-05-18T07:17:48Z"
 ---

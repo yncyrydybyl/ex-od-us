@@ -5,6 +5,10 @@ repo: "https://github.com/happyDomain/happydomain"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#happyDNS:matrix.org"
 issues: [6500]
 updated: "2026-04-06T05:07:20Z"
 ---

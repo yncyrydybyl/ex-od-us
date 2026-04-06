@@ -5,6 +5,10 @@ repo: "https://github.com/suhr/awesome-microtonal"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#xenharmony:matrix.org"
 issues: [5347]
 updated: "2020-12-26T20:49:52Z"
 ---

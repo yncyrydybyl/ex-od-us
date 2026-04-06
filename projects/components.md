@@ -5,6 +5,10 @@ repo: "https://github.com/bottlesdevs/components"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#UseBottles:matrix.org"
 issues: [5682]
 updated: "2026-04-06T08:44:35Z"
 ---

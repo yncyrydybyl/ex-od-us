@@ -5,6 +5,10 @@ repo: "https://github.com/jashkenas/backbone"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jashkenas_backbone:gitter.im"
 issues: [5410]
 updated: "2025-04-01T11:14:31Z"
 ---

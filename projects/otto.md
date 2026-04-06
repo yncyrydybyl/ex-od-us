@@ -5,6 +5,10 @@ repo: "https://github.com/nongio/otto"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#otto-compositor:matrix.org"
 issues: []
 updated: "2026-04-04T23:18:12Z"
 ---

@@ -5,6 +5,11 @@ repo: "https://github.com/gfx-rs/wgpu"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wgpu-users:matrix.org"
+  - "https://matrix.to/#/#wgpu:matrix.org"
 issues: []
 updated: "2026-04-06T00:31:17Z"
 ---

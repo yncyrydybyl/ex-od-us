@@ -5,6 +5,10 @@ repo: "https://github.com/Arcadia-Solutions/arcadia"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Arcadia-Solutions:matrix.org"
 issues: [5241]
 updated: "2026-04-05T22:49:21Z"
 ---

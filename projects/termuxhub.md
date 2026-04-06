@@ -5,6 +5,8 @@ repo: "https://github.com/maazm7d/TermuxHub"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2026-04-06T06:46:00Z"
 ---

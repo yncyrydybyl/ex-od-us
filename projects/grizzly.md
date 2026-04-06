@@ -5,6 +5,10 @@ repo: "https://github.com/MozillaSecurity/grizzly"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#fuzzing:mozilla.org"
 issues: [6476]
 updated: "2026-04-06T16:06:46Z"
 ---

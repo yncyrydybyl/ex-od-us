@@ -5,6 +5,10 @@ repo: "https://github.com/laem/futureco-data"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#futureco:matrix.org"
 issues: [6313]
 updated: "2025-07-10T13:48:03Z"
 ---

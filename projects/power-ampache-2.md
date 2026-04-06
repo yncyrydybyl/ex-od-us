@@ -5,6 +5,10 @@ repo: "https://github.com/icefields/Power-Ampache-2"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#power-ampache:matrix.org"
 issues: []
 updated: "2026-02-02T21:58:10Z"
 ---

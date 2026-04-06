@@ -5,6 +5,10 @@ repo: "https://github.com/qjcg/awesome-typst"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#typst:matrix.org"
 issues: [5395]
 updated: "2025-12-07T18:06:13Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/TheFuseLab/VL.Fuse"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2026-04-03T01:01:13Z"
 ---

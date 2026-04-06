@@ -5,6 +5,10 @@ repo: "https://github.com/Exiv2/exiv2"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#exiv2-chat:matrix.org"
 issues: [6118]
 updated: "2026-04-01T14:06:52Z"
 ---

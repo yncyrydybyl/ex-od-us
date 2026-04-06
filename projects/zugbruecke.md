@@ -5,6 +5,10 @@ repo: "https://github.com/pleiszenburg/zugbruecke"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#zugbruecke:matrix.org"
 issues: []
 updated: "2024-09-20T12:51:34Z"
 ---

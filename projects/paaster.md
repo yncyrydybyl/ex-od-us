@@ -5,6 +5,10 @@ repo: "https://github.com/WardPearce/paaster"
 platform: github
 categories: [Security]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ward:matrix.org"
 issues: []
 updated: "2026-04-06T10:47:35Z"
 ---

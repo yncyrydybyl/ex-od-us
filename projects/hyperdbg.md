@@ -5,6 +5,10 @@ repo: "https://github.com/HyperDbg/HyperDbg"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#hyperdbg-discussion:matrix.org"
 issues: [6582]
 updated: "2026-04-06T14:45:41Z"
 ---

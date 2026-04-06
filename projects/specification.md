@@ -5,6 +5,10 @@ repo: "https://github.com/solid/specification"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#solid_specification:gitter.im"
 issues: []
 updated: "2026-04-06T13:26:08Z"
 ---

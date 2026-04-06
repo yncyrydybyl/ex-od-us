@@ -5,6 +5,10 @@ repo: "https://github.com/willghatch/racket-rash"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rash-lang:matrix.org"
 issues: []
 updated: "2024-01-29T17:20:08Z"
 ---

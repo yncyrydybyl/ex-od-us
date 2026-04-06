@@ -5,6 +5,8 @@ repo: "https://github.com/iAnonymous3000/awesome-privacy-tools"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5368]
 updated: "2024-11-19T05:31:56Z"
 ---

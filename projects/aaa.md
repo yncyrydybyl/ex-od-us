@@ -5,6 +5,8 @@ repo: "https://github.com/Psyhackological/AAA"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5089]
 updated: "2026-02-05T19:20:07Z"
 ---

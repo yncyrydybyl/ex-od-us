@@ -5,6 +5,10 @@ repo: "https://github.com/FreeTubeApp/FreeTube"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#freetube:matrix.org"
 issues: [6285]
 updated: "2026-04-06T09:10:00Z"
 ---

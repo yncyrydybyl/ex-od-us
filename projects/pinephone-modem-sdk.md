@@ -5,6 +5,8 @@ repo: "https://github.com/the-modem-distro/pinephone_modem_sdk"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2024-11-20T05:15:01Z"
 ---

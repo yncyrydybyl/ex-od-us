@@ -5,6 +5,10 @@ repo: "https://github.com/jellyflix-app/jellyflix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jellyflix-space:matrix.org"
 issues: [6735]
 updated: "2026-04-06T15:52:38Z"
 ---

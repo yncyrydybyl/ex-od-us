@@ -5,6 +5,10 @@ repo: "https://github.com/etkecc/baibot"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#baibot:etke.cc"
 issues: [5418]
 updated: "2026-04-04T12:52:33Z"
 ---

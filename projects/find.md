@@ -5,6 +5,10 @@ repo: "https://github.com/internet4000/find"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#i4k-find:matrix.org"
 issues: [6182]
 updated: "2025-12-11T09:16:52Z"
 ---

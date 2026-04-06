@@ -5,6 +5,10 @@ repo: "https://github.com/ansible-collections/arista.eos"
 platform: github
 categories: [Development]
 status: Dead
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#network:ansible.com"
 issues: [5260]
 updated: "2026-04-02T10:14:42Z"
 verified: false

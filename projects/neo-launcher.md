@@ -5,6 +5,10 @@ repo: "https://github.com/NeoApplications/Neo-Launcher"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#neo-launcher:matrix.org"
 issues: []
 updated: "2026-04-06T13:43:36Z"
 ---

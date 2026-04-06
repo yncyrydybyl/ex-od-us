@@ -5,6 +5,8 @@ repo: "https://github.com/mTvare6/hello-world.rs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6524]
 updated: "2025-05-28T17:25:31Z"
 ---

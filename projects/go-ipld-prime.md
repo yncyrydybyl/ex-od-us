@@ -5,6 +5,8 @@ repo: "https://github.com/ipld/go-ipld-prime"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6415]
 updated: "2026-04-02T10:53:23Z"
 ---

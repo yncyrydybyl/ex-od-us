@@ -5,6 +5,10 @@ repo: "https://github.com/ansible-collections/community.mysql"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#mysql:ansible.com"
 issues: [733]
 updated: "2026-03-30T21:04:46Z"
 verified: true

@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/authentik-nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#authentik-nix:nixos.org"
 issues: [5303]
 updated: "2026-03-21T07:49:22Z"
 ---

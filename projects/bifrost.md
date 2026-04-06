@@ -5,6 +5,10 @@ repo: "https://github.com/aperturerobotics/bifrost"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#aperturerobotics:matrix.org"
 issues: [5437]
 updated: "2026-04-04T20:50:52Z"
 ---

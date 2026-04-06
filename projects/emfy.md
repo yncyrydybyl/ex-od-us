@@ -5,6 +5,10 @@ repo: "https://github.com/susam/emfy"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#susam:matrix.org"
 issues: [6040]
 updated: "2024-09-09T07:56:24Z"
 ---

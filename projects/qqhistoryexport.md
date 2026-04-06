@@ -5,6 +5,10 @@ repo: "https://github.com/Hakuuyosei/QQHistoryExport"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#qq_history_export:matrix.org"
 issues: []
 updated: "2024-01-20T13:40:42Z"
 ---

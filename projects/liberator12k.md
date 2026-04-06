@@ -5,6 +5,8 @@ repo: "https://github.com/JeffreyRodriguez/Liberator12k"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6888]
 updated: "2024-04-14T20:19:41Z"
 ---

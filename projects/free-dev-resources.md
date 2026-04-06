@@ -5,6 +5,8 @@ repo: "https://github.com/leogopal/free-dev-resources"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6270]
 updated: "2025-01-10T12:58:16Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/turt2live/matrix-bot-sdk-bot-template"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#matrix-bot-sdk:t2bot.io"
 issues: []
 updated: "2023-01-06T02:17:03Z"
 ---

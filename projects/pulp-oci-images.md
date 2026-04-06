@@ -5,6 +5,11 @@ repo: "https://github.com/pulp/pulp-oci-images"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pulp:matrix.org"
+  - "https://matrix.to/#/#pulp-dev:matrix.org"
 issues: []
 updated: "2026-03-24T21:55:43Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/rosenpass/rosenpass"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rosenpass:matrix.org"
 issues: []
 updated: "2026-03-30T17:14:58Z"
 ---

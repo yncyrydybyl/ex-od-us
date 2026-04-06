@@ -5,6 +5,10 @@ repo: "https://github.com/GNOME/gnome-music"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gnome-music:gnome.org"
 issues: [6399]
 updated: "2026-04-03T20:45:44Z"
 ---

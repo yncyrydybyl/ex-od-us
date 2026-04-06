@@ -5,6 +5,10 @@ repo: "https://github.com/VHDL-LS/rust_hdl"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#VHDL-LS:matrix.org"
 issues: []
 updated: "2026-04-04T17:17:05Z"
 ---

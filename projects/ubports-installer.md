@@ -5,6 +5,8 @@ repo: "https://github.com/ubports/ubports-installer"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2026-03-20T17:02:12Z"
 last_scanned: "2026-04-06T20:35:19Z"

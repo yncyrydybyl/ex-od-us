@@ -5,6 +5,10 @@ repo: "https://github.com/ipfs/in-web-browsers"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lobby:ipfs.io"
 issues: [6631]
 updated: "2025-07-22T14:00:41Z"
 ---

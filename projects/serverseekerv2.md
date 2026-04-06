@@ -5,6 +5,10 @@ repo: "https://github.com/Funtimes909/ServerSeekerV2"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#projects:funtimes909.xyz"
 issues: []
 updated: "2026-04-06T00:29:33Z"
 ---

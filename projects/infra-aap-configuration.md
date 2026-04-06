@@ -5,6 +5,10 @@ repo: "https://github.com/redhat-cop/infra.aap_configuration"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#aap_config_as_code:ansible.com"
 issues: [6637]
 updated: "2026-04-02T00:21:40Z"
 ---

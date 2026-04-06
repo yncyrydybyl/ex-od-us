@@ -5,6 +5,10 @@ repo: "https://github.com/ariel-os/ariel-os"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ariel-os:matrix.org"
 issues: [5258]
 updated: "2026-04-02T08:20:02Z"
 ---

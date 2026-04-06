@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/home-manager"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#hm:rycee.net"
 issues: [6553]
 updated: "2026-04-06T06:39:46Z"
 ---

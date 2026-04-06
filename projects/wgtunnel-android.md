@@ -5,6 +5,10 @@ repo: "https://github.com/wgtunnel/android"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wg-tunnel-space:matrix.org"
 issues: []
 updated: "2026-04-02T12:10:26Z"
 ---

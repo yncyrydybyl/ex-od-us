@@ -5,6 +5,10 @@ repo: "https://github.com/l3montree-dev/devguard"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#devguard:matrix.org"
 issues: [5864]
 updated: "2026-04-03T20:25:54Z"
 ---

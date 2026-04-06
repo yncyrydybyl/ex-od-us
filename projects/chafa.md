@@ -5,6 +5,10 @@ repo: "https://github.com/hpjansson/chafa"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#chafa:matrix.org"
 issues: [5576]
 updated: "2026-02-25T16:05:51Z"
 ---

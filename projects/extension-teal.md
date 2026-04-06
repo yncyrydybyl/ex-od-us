@@ -5,6 +5,8 @@ repo: "https://github.com/defold/extension-teal"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6126]
 updated: "2025-09-09T20:21:40Z"
 verified: true

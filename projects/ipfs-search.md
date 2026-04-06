@@ -5,6 +5,10 @@ repo: "https://github.com/ipfs-search/ipfs-search"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ipfs-search:matrix.org"
 issues: [6672]
 updated: "2023-10-27T07:11:40Z"
 ---

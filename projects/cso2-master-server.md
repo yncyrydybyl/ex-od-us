@@ -5,6 +5,10 @@ repo: "https://github.com/lateleite/cso2-master-server"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#cso2:matrix.leite.xyz"
 issues: [5743]
 updated: "2021-08-16T08:51:42Z"
 ---

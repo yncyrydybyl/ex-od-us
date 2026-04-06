@@ -5,6 +5,10 @@ repo: "https://github.com/sugarlabs/GSoC"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#sugar:matrix.org"
 issues: [6482]
 updated: "2026-03-24T13:04:32Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/patractlabs/redspot"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2022-07-09T05:09:04Z"
 ---

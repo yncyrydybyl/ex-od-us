@@ -5,6 +5,12 @@ repo: "https://github.com/monthlyliaoyuan/monthlyliaoyuan"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ribaoxiaozu:oblak.be"
+  - "https://matrix.to/#/#zlibrary:oblak.be"
+  - "https://matrix.to/#/#jinggangshan:matrix.org"
 issues: []
 updated: "2025-04-01T11:16:06Z"
 ---

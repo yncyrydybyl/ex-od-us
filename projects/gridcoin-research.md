@@ -5,6 +5,10 @@ repo: "https://github.com/gridcoin-community/Gridcoin-Research"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gridcoin:matrix.org"
 issues: [6473]
 updated: "2026-04-04T21:50:39Z"
 ---

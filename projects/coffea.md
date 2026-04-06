@@ -5,6 +5,10 @@ repo: "https://github.com/scikit-hep/coffea"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#coffea-hep_community:gitter.im"
 issues: [5644]
 updated: "2026-04-03T02:11:05Z"
 ---

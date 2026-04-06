@@ -5,6 +5,8 @@ repo: "https://github.com/westerndigitalcorporation/zenfs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2025-03-27T16:33:35Z"
 ---

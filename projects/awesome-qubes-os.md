@@ -5,6 +5,11 @@ repo: "https://github.com/xn0px90/awesome-qubes-os"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org"
+  - "https://matrix.to/#/#cybersec-qubes_os:matrix.org"
 issues: [5376]
 updated: "2026-03-20T19:20:18Z"
 ---

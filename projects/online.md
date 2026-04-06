@@ -5,6 +5,10 @@ repo: "https://github.com/CollaboraOnline/online"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#cool-dev:matrix.org"
 issues: []
 updated: "2026-04-06T12:53:58Z"
 ---

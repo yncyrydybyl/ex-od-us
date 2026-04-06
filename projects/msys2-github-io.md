@@ -5,6 +5,10 @@ repo: "https://github.com/msys2/msys2.github.io"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#msys2_msys2:gitter.im"
 issues: []
 updated: "2026-04-05T10:11:21Z"
 ---

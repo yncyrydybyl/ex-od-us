@@ -5,6 +5,10 @@ repo: "https://github.com/PDAL/PDAL"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pdal:osgeo.org"
 issues: []
 updated: "2026-04-03T01:21:09Z"
 ---

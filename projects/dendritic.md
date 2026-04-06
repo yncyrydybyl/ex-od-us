@@ -5,6 +5,10 @@ repo: "https://github.com/mightyiam/dendritic"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dendritic:matrix.org"
 issues: [5847]
 updated: "2026-02-22T09:07:15Z"
 ---

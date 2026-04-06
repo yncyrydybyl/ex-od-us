@@ -5,6 +5,10 @@ repo: "https://github.com/KDE/atcore"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#kde-atelier:kde.org"
 issues: [5296]
 updated: "2026-04-02T01:45:52Z"
 ---

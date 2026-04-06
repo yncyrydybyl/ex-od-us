@@ -5,6 +5,10 @@ repo: "https://github.com/jsdom/jsdom"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jsdom:matrix.org"
 issues: [6758]
 updated: "2026-04-06T07:09:27Z"
 ---

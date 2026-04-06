@@ -5,6 +5,10 @@ repo: "https://github.com/pixlwave/Watch-The-Matrix"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#watchthe:matrix.org"
 issues: []
 updated: "2026-03-10T19:29:19Z"
 ---

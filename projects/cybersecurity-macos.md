@@ -5,6 +5,8 @@ repo: "https://github.com/paulveillard/cybersecurity-macOS"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5765]
 updated: "2022-01-23T01:05:02Z"
 ---

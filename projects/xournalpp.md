@@ -5,6 +5,10 @@ repo: "https://github.com/xournalpp/xournalpp"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#xournalpp_xournalpp:gitter.im"
 issues: []
 updated: "2026-04-05T05:03:16Z"
 ---

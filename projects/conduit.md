@@ -5,6 +5,10 @@ repo: "https://github.com/timokoesters/conduit"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 8
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#conduit:fachschaften.org"
 issues: [5688]
 updated: "2026-04-05T15:54:29Z"
 ---

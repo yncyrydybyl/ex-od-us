@@ -5,6 +5,10 @@ repo: "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-S
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pussthecat.org:pussthecat.org"
 issues: []
 updated: "2025-06-17T12:05:27Z"
 ---

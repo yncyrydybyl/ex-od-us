@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/buildbot-nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#buildbot-nix:thalheim.io"
 issues: [5540]
 updated: "2026-04-05T04:55:43Z"
 ---

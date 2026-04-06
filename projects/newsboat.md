@@ -5,6 +5,10 @@ repo: "https://github.com/newsboat/newsboat"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#newsboat:libera.chat"
 issues: []
 updated: "2026-04-05T11:03:01Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/JingOS-team/JingOS"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jingos:matrix.org"
 issues: [6739]
 updated: "2022-01-24T08:29:03Z"
 ---

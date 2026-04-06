@@ -5,6 +5,10 @@ repo: "https://github.com/git-bug/git-bug"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#git-bug:matrix.org"
 issues: [6367]
 updated: "2026-04-05T21:30:31Z"
 ---

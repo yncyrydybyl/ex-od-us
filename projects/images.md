@@ -5,6 +5,10 @@ repo: "https://github.com/osbuild/images"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#image-builder:fedoraproject.org"
 issues: [6614]
 updated: "2026-04-06T06:28:54Z"
 ---

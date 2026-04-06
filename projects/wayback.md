@@ -5,6 +5,10 @@ repo: "https://github.com/wabarc/wayback"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wabarc:matrix.org"
 issues: []
 updated: "2026-03-30T20:30:27Z"
 ---

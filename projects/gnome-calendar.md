@@ -5,6 +5,10 @@ repo: "https://github.com/GNOME/gnome-calendar"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gnome-calendar:gnome.org"
 issues: [6395]
 updated: "2026-04-03T21:44:46Z"
 ---

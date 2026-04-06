@@ -5,6 +5,10 @@ repo: "https://github.com/voxa-org/Voxa"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#voxa:matrix.org"
 issues: []
 updated: "2025-03-24T00:50:37Z"
 ---

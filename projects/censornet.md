@@ -5,6 +5,8 @@ repo: "https://github.com/awesome-windows11/CensorNet"
 platform: github
 categories: [Security]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [726]
 updated: "2025-06-03T11:56:04Z"
 verified: true

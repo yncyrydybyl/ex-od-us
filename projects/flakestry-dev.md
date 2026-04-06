@@ -5,6 +5,8 @@ repo: "https://github.com/flakestry/flakestry.dev"
 platform: github
 categories: [Development]
 status: Dead
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6213]
 updated: "2024-10-24T16:22:11Z"
 verified: false

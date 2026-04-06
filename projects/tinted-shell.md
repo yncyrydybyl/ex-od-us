@@ -5,6 +5,10 @@ repo: "https://github.com/tinted-theming/tinted-shell"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#tinted-theming:matrix.org"
 issues: []
 updated: "2026-03-30T18:29:16Z"
 ---

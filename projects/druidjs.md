@@ -5,6 +5,8 @@ repo: "https://github.com/saehm/DruidJS"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5951]
 updated: "2026-03-27T13:59:19Z"
 ---

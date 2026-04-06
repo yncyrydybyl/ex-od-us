@@ -5,6 +5,11 @@ repo: "https://github.com/marius-wieschollek/passwords"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nextcloud-passwords:chat.passwordsapp.org"
+  - "https://matrix.to/#/#developers:chat.passwordsapp.org"
 issues: []
 updated: "2026-03-30T21:22:07Z"
 ---

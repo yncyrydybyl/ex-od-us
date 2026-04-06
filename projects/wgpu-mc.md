@@ -5,6 +5,10 @@ repo: "https://github.com/wgpu-mc/wgpu-mc"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wgpu-mc:matrix.org"
 issues: []
 updated: "2025-05-03T12:29:27Z"
 ---

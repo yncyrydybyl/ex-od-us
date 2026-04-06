@@ -5,6 +5,10 @@ repo: "https://github.com/Nandanrmenon/florid"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#florid:matrix.org"
 issues: [6238]
 updated: "2026-03-27T15:47:01Z"
 ---

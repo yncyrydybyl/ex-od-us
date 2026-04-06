@@ -5,6 +5,10 @@ repo: "https://github.com/tinted-theming/base24"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#base16:libera.chat"
 issues: [5423]
 updated: "2026-01-07T20:09:18Z"
 ---

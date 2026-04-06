@@ -5,6 +5,10 @@ repo: "https://github.com/fairyglade/ly"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ly-dm:matrix.org"
 issues: [6985]
 updated: "2026-04-01T17:00:48Z"
 ---

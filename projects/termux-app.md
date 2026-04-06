@@ -5,6 +5,11 @@ repo: "https://github.com/termux/termux-app"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#termux_termux:gitter.im"
+  - "https://matrix.to/#/#termux_dev:gitter.im"
 issues: []
 updated: "2026-03-23T19:42:57Z"
 ---

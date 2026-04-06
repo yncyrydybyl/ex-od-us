@@ -5,6 +5,8 @@ repo: "https://github.com/web-platform-tests/interop"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6648]
 updated: "2026-03-24T13:36:01Z"
 ---

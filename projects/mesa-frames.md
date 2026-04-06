@@ -5,6 +5,10 @@ repo: "https://github.com/mesa/mesa-frames"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#project-mesa:matrix.org"
 issues: []
 updated: "2026-03-02T22:04:17Z"
 ---

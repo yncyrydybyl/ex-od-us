@@ -5,6 +5,10 @@ repo: "https://github.com/petrovvlad/freeLib"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#freeLib:matrix.p-vlad.ru"
 issues: [6281]
 updated: "2026-01-25T08:44:01Z"
 ---

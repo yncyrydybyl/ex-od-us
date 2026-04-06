@@ -5,6 +5,10 @@ repo: "https://github.com/joinmarket-webui/jam"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jam:bitcoin.kyoto"
 issues: [6699]
 updated: "2026-04-05T06:03:39Z"
 ---

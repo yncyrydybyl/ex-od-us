@@ -5,6 +5,10 @@ repo: "https://github.com/ulyssa/iamb"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#iamb:0x.badd.cafe"
 issues: [6591]
 updated: "2026-01-20T00:46:03Z"
 ---

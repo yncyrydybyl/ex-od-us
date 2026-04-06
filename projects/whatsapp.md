@@ -5,6 +5,10 @@ repo: "https://github.com/mautrix/whatsapp"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#whatsapp:maunium.net"
 issues: []
 updated: "2026-03-31T16:57:20Z"
 ---

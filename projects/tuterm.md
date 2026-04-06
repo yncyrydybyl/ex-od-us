@@ -5,6 +5,10 @@ repo: "https://github.com/veracioux/tuterm"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#tuterm:matrix.org"
 issues: []
 updated: "2025-12-04T00:01:21Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/pyproject-nix/pyproject.nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pyproject.nix:blad.is"
 issues: []
 updated: "2026-04-06T01:32:39Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/eclipse-apoapsis/ort-server"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#apoapsis:matrix.eclipse.org"
 issues: []
 updated: "2026-04-06T07:53:21Z"
 ---

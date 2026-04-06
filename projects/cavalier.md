@@ -5,6 +5,10 @@ repo: "https://github.com/NickvisionApps/Cavalier"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nickvision:matrix.org"
 issues: [5568]
 updated: "2025-04-21T03:46:31Z"
 ---

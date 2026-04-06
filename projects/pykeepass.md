@@ -5,6 +5,10 @@ repo: "https://github.com/libkeepass/pykeepass"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pykeepass:matrix.org"
 issues: []
 updated: "2026-03-30T18:38:35Z"
 ---

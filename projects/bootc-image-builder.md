@@ -5,6 +5,10 @@ repo: "https://github.com/osbuild/bootc-image-builder"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#image-builder:fedoraproject.org"
 issues: [5495]
 updated: "2026-04-02T05:49:48Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/rust-psutil/rust-psutil"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rust-psutil:matrix.org"
 issues: []
 updated: "2025-07-25T14:03:49Z"
 ---

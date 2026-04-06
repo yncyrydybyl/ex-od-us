@@ -5,6 +5,10 @@ repo: "https://github.com/meli/meli"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#meli:matrix.org"
 issues: []
 updated: "2026-04-03T08:51:28Z"
 ---

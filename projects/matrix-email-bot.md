@@ -5,6 +5,10 @@ repo: "https://github.com/t2bot/matrix-email-bot"
 platform: github
 categories: [Integrations, Matrix]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#email:t2bot.io"
 issues: []
 updated: "2024-02-16T00:07:10Z"
 ---

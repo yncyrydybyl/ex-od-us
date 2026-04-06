@@ -5,6 +5,8 @@ repo: "https://github.com/paulveillard/cybersecurity-self-hosted"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5768]
 updated: "2021-12-31T18:32:06Z"
 ---

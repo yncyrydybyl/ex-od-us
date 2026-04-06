@@ -5,6 +5,10 @@ repo: "https://github.com/jsonresume/jsonresume-theme-class"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#json-resume:one.ems.host"
 issues: [6761]
 updated: "2026-03-04T21:18:01Z"
 ---

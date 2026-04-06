@@ -5,6 +5,10 @@ repo: "https://github.com/Michael-Sebero/Algiz-Linux"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#algiz-linux:matrix.org"
 issues: [5138]
 updated: "2026-04-04T21:12:28Z"
 ---

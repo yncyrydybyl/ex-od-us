@@ -5,6 +5,10 @@ repo: "https://github.com/redhat-cop/ee_utilities"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#aap_config_as_code:ansible.com"
 issues: [5973]
 updated: "2026-04-03T06:11:29Z"
 ---

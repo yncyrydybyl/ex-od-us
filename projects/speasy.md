@@ -5,6 +5,10 @@ repo: "https://github.com/SciQLop/speasy"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#speasy:matrix.org"
 issues: []
 updated: "2026-04-03T06:03:12Z"
 ---

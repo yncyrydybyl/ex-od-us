@@ -5,6 +5,10 @@ repo: "https://github.com/RevenantX/LiteNetLib"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#litenetlib:matrix.org"
 issues: [6943]
 updated: "2026-03-27T17:46:15Z"
 ---

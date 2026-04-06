@@ -5,6 +5,10 @@ repo: "https://github.com/haecker-felix/hebbot"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#hebbot:haecker.io"
 issues: [6515]
 updated: "2025-12-14T10:17:13Z"
 ---

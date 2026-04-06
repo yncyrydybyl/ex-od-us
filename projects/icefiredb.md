@@ -5,6 +5,8 @@ repo: "https://github.com/IceFireDB/IceFireDB"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6597]
 updated: "2026-04-06T11:43:26Z"
 ---

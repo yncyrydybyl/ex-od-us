@@ -5,6 +5,10 @@ repo: "https://github.com/WiVRn/WiVRn"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#linux-vr-adventures:matrix.org"
 issues: []
 updated: "2026-04-04T13:27:45Z"
 ---

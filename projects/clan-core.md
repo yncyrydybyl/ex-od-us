@@ -5,6 +5,10 @@ repo: "https://github.com/clan-lol/clan-core"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#clan:clan.lol"
 issues: [5605]
 updated: "2026-04-06T11:28:44Z"
 ---

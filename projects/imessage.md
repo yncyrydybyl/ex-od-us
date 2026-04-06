@@ -5,6 +5,10 @@ repo: "https://github.com/mautrix/imessage"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#imessage:maunium.net"
 issues: [6619]
 updated: "2025-07-15T12:14:54Z"
 ---

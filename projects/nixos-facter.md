@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nixos-facter"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#clan:clan.lol"
 issues: []
 updated: "2026-04-06T04:45:01Z"
 ---

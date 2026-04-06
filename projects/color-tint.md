@@ -5,6 +5,8 @@ repo: "https://github.com/MattByName/color-tint"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5649]
 updated: "2024-08-19T22:24:57Z"
 ---

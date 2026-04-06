@@ -5,6 +5,10 @@ repo: "https://github.com/SilkMC/silk"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#kotlinmc:axay.net"
 issues: []
 updated: "2026-03-30T20:53:16Z"
 ---

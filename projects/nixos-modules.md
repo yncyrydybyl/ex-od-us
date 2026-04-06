@@ -5,6 +5,10 @@ repo: "https://github.com/NuschtOS/nixos-modules"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nuschtos:c3d2.de"
 issues: []
 updated: "2026-04-04T19:40:29Z"
 ---

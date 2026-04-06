@@ -5,6 +5,11 @@ repo: "https://github.com/google/dawn"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#webgpu-dawn:matrix.org"
+  - "https://matrix.to/#/#WebGPU:matrix.org"
 issues: [6442]
 updated: "2026-04-06T09:44:57Z"
 ---

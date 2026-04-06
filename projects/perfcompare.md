@@ -5,6 +5,11 @@ repo: "https://github.com/mozilla/perfcompare"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#perfcompare:mozilla.org"
+  - "https://matrix.to/#/#perfcompare-user-research:mozilla.org"
 issues: []
 updated: "2026-04-03T16:43:40Z"
 ---

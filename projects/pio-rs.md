@@ -5,6 +5,10 @@ repo: "https://github.com/rp-rs/pio-rs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rp-rs:matrix.org"
 issues: []
 updated: "2025-03-03T18:40:48Z"
 ---
