@@ -1,0 +1,18 @@
+---
+name: "Shelltutorial"
+description: "✨Linux命令行与Shell脚本教程 | 包含常见命令行使用，Bash基础、高级编程，以及实用范例！ | 提供在线网页文档 ✨"
+repo: "https://github.com/ArchLinuxStudio/ShellTutorial"
+platform: github
+categories: [Infrastructure]
+status: "Active"
+issues: []
+updated: "2023-08-21T05:34:41Z"
+---
+
+✨Linux命令行与Shell脚本教程 | 包含常见命令行使用，Bash基础、高级编程，以及实用范例！ | 提供在线网页文档 ✨
+
+## Stats
+
+- Stars: 370
+- Forks: 37
+- Topics: linux, shell

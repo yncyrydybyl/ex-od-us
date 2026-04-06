@@ -1,0 +1,18 @@
+---
+name: "Dendrite"
+description: "Dendrite is a second-generation Matrix homeserver written in Go! "
+repo: "https://github.com/element-hq/dendrite"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-02T15:00:29Z"
+---
+
+Dendrite is a second-generation Matrix homeserver written in Go! 
+
+## Stats
+
+- Stars: 875
+- Forks: 85
+- Language: Go

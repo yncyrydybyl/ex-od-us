@@ -1,0 +1,18 @@
+---
+name: "Bspwm"
+description: "A tiling window manager based on binary space partitioning"
+repo: "https://github.com/baskerville/bspwm"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-10-08T16:42:10Z"
+---
+
+A tiling window manager based on binary space partitioning
+
+## Stats
+
+- Stars: 8222
+- Forks: 439
+- Language: C

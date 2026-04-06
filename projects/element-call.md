@@ -1,0 +1,19 @@
+---
+name: "Element Call"
+description: "Group calls powered by Matrix"
+repo: "https://github.com/element-hq/element-call"
+platform: github
+categories: [Matrix]
+status: "Active"
+issues: []
+updated: "2026-04-06T01:31:11Z"
+---
+
+Group calls powered by Matrix
+
+## Stats
+
+- Stars: 927
+- Forks: 183
+- Language: TypeScript
+- Topics: matrix, matrixrtc, videoconference, voip
