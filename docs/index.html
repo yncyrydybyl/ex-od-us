@@ -670,13 +670,12 @@ function openModal(idx) {
     ${scoreSection}
     <div class="modal-section">
       <div class="modal-section-title">About</div>
-      <div class="modal-desc">${esc(p.description || p.notes || '').replace(/\n/g, '<br>')}</div>
+      <div class="modal-desc">${esc([p.description, p.notes].filter(Boolean).join('\n\n')).replace(/\n/g, '<br>')}</div>
     </div>
     ${p.categories.length ? `<div class="modal-section"><div class="modal-section-title">Categories</div><div>${cats}</div></div>` : ''}
     ${channelsHTML}
     ${p.website ? `<div class="modal-section"><div class="modal-section-title">Website</div><a href="${esc(p.website)}" target="_blank">${esc(p.website)}</a></div>` : ''}
     ${p.repo ? `<div class="modal-section"><div class="modal-section-title">Repository</div><a href="${esc(p.repo)}" target="_blank">${esc(p.repo)}</a></div>` : ''}
-    ${p.notes && p.description ? `<div class="modal-section"><div class="modal-section-title">Notes</div><div class="modal-desc">${esc(p.notes).replace(/\n/g, '<br>')}</div></div>` : ''}
     <div class="modal-tracker">
       ${issueLinks ? `<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank">View in tracker</a>` : ''}
       ${p.slug ? `<a href="${REPO_URL}/blob/main/projects/${esc(p.slug)}.md" target="_blank">Edit project file</a>` : ''}
