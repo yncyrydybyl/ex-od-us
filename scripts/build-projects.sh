@@ -211,9 +211,26 @@ for p in projects:
         'ch': ch if ch else None,
     })
 
+# Load score history for trend data
+history_file = output_file.replace('projects.json', 'score-history.jsonl')
+history = []
+if os.path.exists(history_file):
+    with open(history_file) as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    history.append(json.loads(line))
+                except json.JSONDecodeError:
+                    pass
+
+# Include last 30 snapshots as trend data
+trend = [{'ts': h['ts'], 'avg': h['avg'], 'scored': h['scored'], 'dist': h.get('distribution', {})}
+         for h in history[-30:]]
+
 slim_file = output_file.replace('projects.json', 'projects-slim.json')
 with open(slim_file, 'w') as f:
-    json.dump({'c': len(slim), 'p': slim}, f, separators=(',', ':'))
+    json.dump({'c': len(slim), 'p': slim, 'trend': trend}, f, separators=(',', ':'))
 
 full_kb = os.path.getsize(output_file) // 1024
 slim_kb = os.path.getsize(slim_file) // 1024

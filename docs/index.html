@@ -76,6 +76,19 @@ header p { color: var(--text-muted); max-width: 600px; }
 }
 .howto-bar a:hover { background: var(--border); border-color: var(--blue); text-decoration: none; }
 
+/* Stats bar */
+.stats-bar {
+  display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center;
+  margin-bottom: 1rem; padding: 0.625rem 1rem;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  font-size: 0.8rem; color: var(--text-muted);
+}
+.stat { display: flex; align-items: baseline; gap: 0.3rem; }
+.stat-num { font-size: 1.1rem; font-weight: 800; color: var(--text); font-family: 'JetBrains Mono', monospace; }
+.stat-label { font-size: 0.7rem; color: var(--text-faint); }
+.stat-bar { display: flex; gap: 1px; align-items: flex-end; height: 20px; }
+.stat-bar-seg { width: 4px; border-radius: 1px; min-height: 1px; transition: height 0.3s; }
+
 /* Grid */
 .grid {
   display: grid;
@@ -341,6 +354,8 @@ header p { color: var(--text-muted); max-width: 600px; }
     <a href="https://github.com/yncyrydybyl/ex-od-us/issues/26">Bots &amp; widgets</a>
   </nav>
 
+  <div class="stats-bar" id="stats-bar"></div>
+
   <div class="controls">
     <input type="text" id="search" placeholder="Search projects...">
     <select id="filter-category"><option value="">All Categories</option></select>
@@ -375,6 +390,7 @@ const API_URL = `https://api.github.com/repos/${REPO}/issues`;
 
 let allProjects = [];
 let currentFiltered = [];
+let trendData = [];
 
 // ── Map slim JSON keys to full names ────────────────────────────
 function unslim(p) {
@@ -393,8 +409,11 @@ async function loadProjects() {
     const res = await fetch(DATA_URL);
     if (res.ok) {
       const data = await res.json();
-      // Slim format: {c: count, p: projects}
-      if (data.p && data.p.length > 0) return data.p.map(unslim);
+      // Slim format: {c: count, p: projects, trend: [...]}
+      if (data.p && data.p.length > 0) {
+        trendData = data.trend || [];
+        return data.p.map(unslim);
+      }
       // Full format fallback
       if (data.projects && data.projects.length > 0) return data.projects;
     }
@@ -795,6 +814,7 @@ function syncToURL() {
     syncFromURL();
     applyFilters();
     startHeroAnimation();
+    renderStats();
     for (const id of ['search','filter-category','sort']) {
       document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', () => { syncToURL(); applyFilters(); });
     }
@@ -874,6 +894,35 @@ function observeCards() {
     entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
   }, { threshold: 0.2 });
   document.querySelectorAll('.card').forEach(c => observer.observe(c));
+}
+
+// ── Stats bar ───────────────────────────────────────────────────
+function renderStats() {
+  const bar = document.getElementById('stats-bar');
+  if (!bar) return;
+
+  const total = allProjects.length;
+  const scored = allProjects.filter(p => p.exodus_score != null).length;
+  const avg = scored > 0 ? (allProjects.reduce((s, p) => s + (p.exodus_score || 0), 0) / scored).toFixed(1) : '—';
+  const withRooms = allProjects.filter(p => (p.channels?.matrix_rooms?.length || 0) > 0).length;
+
+  // Score distribution mini-bar chart
+  const dist = Array(11).fill(0);
+  allProjects.forEach(p => { if (p.exodus_score != null) dist[p.exodus_score]++; });
+  const maxDist = Math.max(...dist, 1);
+  const barSegs = dist.map((count, i) => {
+    const h = Math.max(1, Math.round(count / maxDist * 20));
+    const color = getScoreColor(i);
+    return `<div class="stat-bar-seg" style="height:${h}px;background:${color}" title="Score ${i}: ${count}"></div>`;
+  }).join('');
+
+  bar.innerHTML = `
+    <div class="stat"><span class="stat-num">${total}</span><span class="stat-label">projects</span></div>
+    <div class="stat"><span class="stat-num">${scored}</span><span class="stat-label">scored</span></div>
+    <div class="stat"><span class="stat-num">${avg}</span><span class="stat-label">avg score</span></div>
+    <div class="stat"><span class="stat-num">${withRooms}</span><span class="stat-label">with Matrix rooms</span></div>
+    <div class="stat-bar" title="Score distribution 0-10">${barSegs}</div>
+  `;
 }
 </script>
 </body>
