@@ -196,9 +196,8 @@ class TestSiteHTML:
         assert 'exodus-bar' in self.html
         assert 'exodus-bar-fill' in self.html
 
-    def test_has_matrix_badge(self):
-        assert 'card-matrix-badge' in self.html
-        assert 'enter room' in self.html
+    def test_has_corner_badge(self):
+        assert 'card-corner' in self.html
 
     def test_has_modal(self):
         assert 'modal-overlay' in self.html
