@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Exodus Project Tracker</title>
 <style>
-/* ── Reset & Base ──────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -14,15 +13,12 @@ body {
 }
 a { color: #58a6ff; text-decoration: none; }
 a:hover { text-decoration: underline; }
-
-/* ── Layout ────────────────────────────────────────────────────── */
 .container { max-width: 1200px; margin: 0 auto; }
-
 header { margin-bottom: 1.5rem; }
 header h1 { font-size: 2rem; color: #f0f6fc; margin-bottom: 0.5rem; }
 header p { color: #8b949e; max-width: 600px; }
 
-/* ── Controls ──────────────────────────────────────────────────── */
+/* Controls */
 .controls {
   display: flex; flex-wrap: wrap; gap: 0.75rem;
   margin-bottom: 1.5rem; align-items: center;
@@ -31,13 +27,11 @@ header p { color: #8b949e; max-width: 600px; }
   background: #161b22; border: 1px solid #30363d; color: #c9d1d9;
   padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.875rem;
 }
-.controls select:focus, .controls input:focus {
-  outline: none; border-color: #58a6ff;
-}
+.controls select:focus, .controls input:focus { outline: none; border-color: #58a6ff; }
 #search { min-width: 200px; }
 #count { color: #8b949e; font-size: 0.875rem; margin-left: auto; }
 
-/* ── Howto Menu ────────────────────────────────────────────────── */
+/* Howto bar */
 .howto-bar {
   display: flex; flex-wrap: wrap; gap: 0.5rem;
   margin-bottom: 1.5rem; padding: 0.75rem 1rem;
@@ -51,18 +45,18 @@ header p { color: #8b949e; max-width: 600px; }
 .howto-bar a {
   font-size: 0.8rem; padding: 0.25rem 0.6rem;
   background: #21262d; border: 1px solid #30363d; border-radius: 4px;
-  color: #c9d1d9; transition: background 0.15s, border-color 0.15s;
+  color: #c9d1d9; transition: background 0.15s;
 }
 .howto-bar a:hover { background: #30363d; border-color: #58a6ff; text-decoration: none; }
 
-/* ── Card Grid ─────────────────────────────────────────────────── */
+/* Grid */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 1rem;
 }
 
-/* ── Card ──────────────────────────────────────────────────────── */
+/* Card */
 .card {
   background: #161b22; border-radius: 8px; overflow: hidden;
   border: 1px solid #30363d; transition: border-color 0.15s;
@@ -71,38 +65,31 @@ header p { color: #8b949e; max-width: 600px; }
 .card:hover { border-color: #58a6ff; }
 .card-accent { height: 4px; }
 .card-body { padding: 0.875rem 1rem; }
-
-.card-header {
-  display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.5rem;
-}
+.card-header { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.5rem; }
 .card-avatar {
   width: 32px; height: 32px; border-radius: 6px;
-  background: #21262d; flex-shrink: 0;
+  background: #21262d; flex-shrink: 0; display: flex;
+  align-items: center; justify-content: center;
+  font-size: 0.75rem; font-weight: 700; color: #8b949e;
 }
+.card-avatar img { width: 100%; height: 100%; border-radius: 6px; object-fit: cover; }
 .card-rank {
   position: absolute; top: 8px; right: 8px;
   font-size: 0.7rem; font-weight: 700; color: #484f58;
   background: #0d1117; border: 1px solid #21262d;
   padding: 0.1rem 0.4rem; border-radius: 4px;
 }
-.card-title {
-  font-size: 0.95rem; font-weight: 600; color: #f0f6fc;
-  flex: 1; min-width: 0;
-}
+.card-title { font-size: 0.95rem; font-weight: 600; color: #f0f6fc; flex: 1; min-width: 0; }
 .card-title a { color: inherit; }
 .card-title a:hover { color: #58a6ff; text-decoration: none; }
 .card-summary {
   font-size: 0.8rem; color: #8b949e; margin-bottom: 0.5rem;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-  overflow: hidden;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
-.card-meta {
-  display: flex; flex-wrap: wrap; gap: 0.375rem; align-items: center;
-}
+.card-meta { display: flex; flex-wrap: wrap; gap: 0.375rem; align-items: center; }
 .badge {
   display: inline-block; font-size: 0.7rem; font-weight: 500;
-  padding: 0.1rem 0.45rem; border-radius: 999px;
-  border: 1px solid transparent;
+  padding: 0.1rem 0.45rem; border-radius: 999px; border: 1px solid transparent;
 }
 .badge-category { background: #21262d; color: #c9d1d9; border-color: #30363d; }
 .badge-status { background: #1f2328; color: #8b949e; border-color: #30363d; font-style: italic; }
@@ -115,16 +102,15 @@ header p { color: #8b949e; max-width: 600px; }
   background: none; border: 1px solid #30363d; color: #8b949e;
   border-radius: 50%; width: 22px; height: 22px; cursor: pointer;
   font-size: 0.7rem; font-weight: 700; line-height: 20px; text-align: center;
-  transition: border-color 0.15s, color 0.15s;
 }
 .card-info-btn:hover { border-color: #58a6ff; color: #58a6ff; }
 
-/* ── Score ─────────────────────────────────────────────────────── */
+/* Score badges */
 .score-low  { background: #f85149; color: #fff; border-color: #f85149; }
 .score-mid  { background: #d29922; color: #fff; border-color: #d29922; }
 .score-high { background: #3fb950; color: #fff; border-color: #3fb950; }
 
-/* ── Platform accent colors ────────────────────────────────────── */
+/* Platform accents */
 .accent-github   { background: #f0f6fc; }
 .accent-gitlab   { background: #fc6d26; }
 .accent-codeberg { background: #2185d0; }
@@ -136,18 +122,16 @@ header p { color: #8b949e; max-width: 600px; }
 .badge-codeberg { background: #1a2a3a; color: #2185d0; border-color: #2185d0; }
 .badge-other    { background: #1f2328; color: #8b949e; border-color: #30363d; }
 
-/* ── Modal ─────────────────────────────────────────────────────── */
+/* Modal */
 .modal-overlay {
   display: none; position: fixed; inset: 0;
   background: rgba(0,0,0,0.7); z-index: 100;
-  align-items: center; justify-content: center;
-  padding: 1rem;
+  align-items: center; justify-content: center; padding: 1rem;
 }
 .modal-overlay.active { display: flex; }
 .modal {
   background: #161b22; border: 1px solid #30363d; border-radius: 12px;
-  max-width: 640px; width: 100%; max-height: 90vh; overflow-y: auto;
-  position: relative;
+  max-width: 640px; width: 100%; max-height: 90vh; overflow-y: auto; position: relative;
 }
 .modal-accent { height: 4px; border-radius: 12px 12px 0 0; }
 .modal-body { padding: 1.5rem; }
@@ -157,39 +141,28 @@ header p { color: #8b949e; max-width: 600px; }
   font-size: 1.25rem; line-height: 1; padding: 0.25rem;
 }
 .modal-close:hover { color: #f0f6fc; }
-
-.modal-header {
-  display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;
-}
-.modal-avatar { width: 48px; height: 48px; border-radius: 8px; background: #21262d; }
+.modal-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; }
+.modal-avatar { width: 48px; height: 48px; border-radius: 8px; background: #21262d;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.1rem; font-weight: 700; color: #8b949e; }
+.modal-avatar img { width: 100%; height: 100%; border-radius: 8px; object-fit: cover; }
 .modal-title { font-size: 1.25rem; font-weight: 700; color: #f0f6fc; }
 .modal-title a { color: inherit; }
 .modal-title a:hover { color: #58a6ff; }
-
 .modal-score {
   display: flex; align-items: center; gap: 0.75rem;
-  margin-bottom: 1rem; padding: 0.75rem;
-  background: #0d1117; border-radius: 8px;
+  margin-bottom: 1rem; padding: 0.75rem; background: #0d1117; border-radius: 8px;
 }
-.modal-score-num {
-  font-size: 1.5rem; font-weight: 800; line-height: 1;
-}
-.modal-score-bar {
-  flex: 1; height: 8px; background: #21262d; border-radius: 4px; overflow: hidden;
-}
+.modal-score-num { font-size: 1.5rem; font-weight: 800; line-height: 1; }
+.modal-score-bar { flex: 1; height: 8px; background: #21262d; border-radius: 4px; overflow: hidden; }
 .modal-score-fill { height: 100%; border-radius: 4px; transition: width 0.3s; }
-
 .modal-section { margin-bottom: 1rem; }
 .modal-section-title {
   font-size: 0.75rem; font-weight: 600; color: #8b949e;
-  text-transform: uppercase; letter-spacing: 0.05em;
-  margin-bottom: 0.375rem;
+  text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.375rem;
 }
 .modal-desc { font-size: 0.875rem; color: #c9d1d9; }
-
-.modal-channels {
-  display: flex; flex-direction: column; gap: 0.375rem;
-}
+.modal-channels { display: flex; flex-direction: column; gap: 0.375rem; }
 .modal-channel {
   display: flex; align-items: center; gap: 0.5rem;
   font-size: 0.8rem; padding: 0.375rem 0.5rem;
@@ -197,11 +170,9 @@ header p { color: #8b949e; max-width: 600px; }
 }
 .modal-channel-icon { color: #8b949e; width: 16px; text-align: center; font-size: 0.7rem; }
 .modal-channel a { word-break: break-all; }
-
 .modal-tracker {
-  display: flex; gap: 0.75rem; margin-top: 1rem;
-  padding-top: 1rem; border-top: 1px solid #21262d;
-  font-size: 0.8rem;
+  display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem;
+  padding-top: 1rem; border-top: 1px solid #21262d; font-size: 0.8rem;
 }
 .modal-tracker a {
   padding: 0.35rem 0.75rem;
@@ -210,11 +181,9 @@ header p { color: #8b949e; max-width: 600px; }
 }
 .modal-tracker a:hover { border-color: #58a6ff; text-decoration: none; }
 
-/* ── Loading / Error ───────────────────────────────────────────── */
 .loading { text-align: center; padding: 3rem; color: #8b949e; }
 .error { text-align: center; padding: 3rem; color: #f85149; }
 
-/* ── Responsive ────────────────────────────────────────────────── */
 @media (max-width: 600px) {
   .grid { grid-template-columns: 1fr; }
   .controls { flex-direction: column; align-items: stretch; }
@@ -224,7 +193,6 @@ header p { color: #8b949e; max-width: 600px; }
 </style>
 </head>
 <body>
-
 <div class="container">
   <header>
     <h1>Exodus Project Tracker</h1>
@@ -247,9 +215,7 @@ header p { color: #8b949e; max-width: 600px; }
 
   <div class="controls">
     <input type="text" id="search" placeholder="Search projects...">
-    <select id="filter-category">
-      <option value="">All Categories</option>
-    </select>
+    <select id="filter-category"><option value="">All Categories</option></select>
     <select id="sort">
       <option value="score-desc">Highest score</option>
       <option value="score-asc">Lowest score</option>
@@ -262,12 +228,9 @@ header p { color: #8b949e; max-width: 600px; }
     <span id="count"></span>
   </div>
 
-  <div id="grid" class="grid">
-    <div class="loading">Loading projects...</div>
-  </div>
+  <div id="grid" class="grid"><div class="loading">Loading projects...</div></div>
 </div>
 
-<!-- Detail modal -->
 <div class="modal-overlay" id="modal">
   <div class="modal">
     <div class="modal-accent" id="modal-accent"></div>
@@ -277,20 +240,31 @@ header p { color: #8b949e; max-width: 600px; }
 </div>
 
 <script>
-// ── Config ──────────────────────────────────────────────────────
 const REPO = 'yncyrydybyl/ex-od-us';
-const API  = `https://api.github.com/repos/${REPO}/issues`;
+const REPO_URL = `https://github.com/${REPO}`;
+const DATA_URL = `https://raw.githubusercontent.com/${REPO}/main/data/projects.json`;
+const API_URL = `https://api.github.com/repos/${REPO}/issues`;
 
-// ── State ───────────────────────────────────────────────────────
-let allIssues = [];
+let allProjects = [];
+let currentFiltered = [];
 
-// ── Fetch all open issues (paginated) ───────────────────────────
-async function fetchAllIssues() {
-  let page = 1;
-  let issues = [];
+// ── Load data: static JSON first, API fallback ──────────────────
+async function loadProjects() {
+  // Try static JSON first (no rate limits, faster)
+  try {
+    const res = await fetch(DATA_URL);
+    if (res.ok) {
+      const data = await res.json();
+      if (data.projects && data.projects.length > 0) {
+        return data.projects;
+      }
+    }
+  } catch (e) { /* fall through */ }
+
+  // Fallback: GitHub Issues API
+  let page = 1, issues = [];
   while (true) {
-    const url = `${API}?state=open&labels=project&per_page=100&page=${page}`;
-    const res = await fetch(url);
+    const res = await fetch(`${API_URL}?state=open&labels=project&per_page=100&page=${page}`);
     if (!res.ok) throw new Error(`GitHub API returned ${res.status}`);
     const data = await res.json();
     if (data.length === 0) break;
@@ -298,253 +272,220 @@ async function fetchAllIssues() {
     if (data.length < 100) break;
     page++;
   }
-  return issues;
+  return issues.map(parseIssueToProject);
 }
 
-// ── Parse issue into card data ──────────────────────────────────
-function parseIssue(issue) {
+// ── Parse issue (fallback) ──────────────────────────────────────
+function parseIssueToProject(issue) {
   const body = issue.body || '';
   const fields = {};
-  const sections = body.split(/^### /m).filter(Boolean);
-  for (const section of sections) {
+  for (const section of body.split(/^### /m).filter(Boolean)) {
     const nl = section.indexOf('\n');
     if (nl === -1) continue;
     const key = section.slice(0, nl).trim().toLowerCase();
     const val = section.slice(nl + 1).trim();
     if (val && val !== '_No response_') fields[key] = val;
   }
-
   const rawCats = fields['category'] || '';
   const categories = rawCats.split(',').map(c => c.trim()).filter(Boolean);
-
-  const scoreRaw = fields['exodus score'] || '';
-  const scoreMatch = scoreRaw.match(/^(\d+)/);
-  const exodusScore = scoreMatch ? parseInt(scoreMatch[1], 10) : null;
-
-  // Detect platform from repo URL
+  const scoreMatch = (fields['exodus score'] || '').match(/^(\d+)/);
   const repoUrl = fields['source repository'] || '';
   let platform = 'none';
-  let avatarUrl = null;
-  if (/github\.com/i.test(repoUrl)) {
-    platform = 'github';
-    const m = repoUrl.match(/github\.com\/([^/]+)/);
-    if (m) avatarUrl = `https://github.com/${m[1]}.png?size=64`;
-  } else if (/gitlab\.com/i.test(repoUrl)) {
-    platform = 'gitlab';
-  } else if (/codeberg\.org/i.test(repoUrl)) {
-    platform = 'codeberg';
-    const m = repoUrl.match(/codeberg\.org\/([^/]+)/);
-    if (m) avatarUrl = `https://codeberg.org/${m[1]}.png?size=64`;
-  } else if (repoUrl) {
-    platform = 'other';
-  }
-
-  // Try website for avatar fallback
-  if (!avatarUrl) {
-    const websiteUrl = fields['website'] || '';
-    const wm = websiteUrl.match(/github\.com\/([^/]+)/) || websiteUrl.match(/codeberg\.org\/([^/]+)/);
-    if (wm) avatarUrl = `https://github.com/${wm[1]}.png?size=64`;
-  }
-
-  const projectLink = fields['website'] || repoUrl || issue.html_url;
-
-  // Parse matrix rooms into array of {name, url}
-  const matrixRoomsRaw = fields['matrix rooms'] || '';
-  const matrixRooms = matrixRoomsRaw.split('\n').map(line => {
-    const m = line.match(/^([^:]+):\s*(https?:\/\/.+)/);
-    if (m) return { name: m[1].trim(), url: m[2].trim() };
-    const url = line.trim();
-    if (url.startsWith('http')) return { name: 'Matrix', url };
-    return null;
-  }).filter(Boolean);
+  if (/github\.com/i.test(repoUrl)) platform = 'github';
+  else if (/gitlab\.com/i.test(repoUrl)) platform = 'gitlab';
+  else if (/codeberg\.org/i.test(repoUrl)) platform = 'codeberg';
+  else if (repoUrl) platform = 'other';
 
   return {
-    title: fields['project name'] || issue.title.replace(/^\[Project\]:\s*/, ''),
-    summary: fields['project description'] || fields['short summary'] || '',
-    description: fields['description'] || fields['project description'] || '',
-    categories,
-    exodusScore,
-    status: fields['migration status'] || fields['status'] || '',
-    matrixRooms,
-    matrixSpace: fields['matrix space'] || '',
-    discord: fields['discord'] || '',
-    telegram: fields['telegram'] || '',
-    slack: fields['slack'] || '',
-    irc: fields['irc'] || '',
-    signal: fields['signal'] || '',
-    whatsapp: fields['whatsapp'] || '',
-    xmpp: fields['xmpp / jabber'] || '',
+    slug: '',
+    name: fields['project name'] || issue.title.replace(/^\[Project\]:\s*/, ''),
+    description: fields['project description'] || fields['short summary'] || '',
     website: fields['website'] || '',
     repo: repoUrl,
-    notes: fields['notes'] || '',
-    communitySize: fields['estimated community size'] || '',
     platform,
-    avatarUrl,
-    projectLink,
-    issueUrl: issue.html_url,
-    created: issue.created_at,
+    categories,
+    exodus_score: scoreMatch ? parseInt(scoreMatch[1], 10) : null,
+    status: fields['migration status'] || fields['status'] || '',
+    channels: {
+      matrix_space: fields['matrix space'] || '',
+      matrix_rooms: (fields['matrix rooms'] || '').split('\n').filter(l => l.trim()),
+      discord: fields['discord'] || '',
+      telegram: fields['telegram'] || '',
+      slack: fields['slack'] || '',
+      irc: fields['irc'] || '',
+      signal: fields['signal'] || '',
+      whatsapp: fields['whatsapp'] || '',
+      xmpp: fields['xmpp / jabber'] || '',
+      zulip: fields['zulip'] || '',
+      mattermost: fields['mattermost'] || '',
+      rocketchat: fields['rocket.chat'] || '',
+      other: [],
+    },
+    issues: [issue.number],
+    avatar_url: '',
+    notes: fields['notes'] || '',
     updated: issue.updated_at,
-    number: issue.number,
+    community_size: fields['estimated community size'] || '',
   };
 }
 
-// ── Render cards ────────────────────────────────────────────────
-function renderCards(issues) {
+// ── Derived fields ──────────────────────────────────────────────
+function enrich(p) {
+  // Project link
+  p.projectLink = p.website || p.repo || (p.issues.length ? `${REPO_URL}/issues/${p.issues[0]}` : REPO_URL);
+
+  // Avatar
+  if (!p.avatar_url) {
+    const gh = (p.repo || '').match(/github\.com\/([^/]+)/);
+    const cb = (p.repo || '').match(/codeberg\.org\/([^/]+)/);
+    if (gh) p.avatar_url = `https://github.com/${gh[1]}.png?size=64`;
+    else if (cb) p.avatar_url = `https://codeberg.org/avatars/${cb[1]}`;
+  }
+
+  // Initials fallback
+  p.initials = p.name.split(/[\s-]+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase();
+
+  // Parse matrix rooms into {name, url} pairs
+  p.matrixRoomsParsed = (p.channels.matrix_rooms || []).map(line => {
+    line = line.replace(/^-\s*/, '').trim();
+    const m = line.match(/^([^:]+):\s*(https?:\/\/.+)/);
+    if (m) return { name: m[1].trim(), url: m[2].trim() };
+    if (line.startsWith('http')) return { name: 'Matrix', url: line };
+    if (line.includes('matrix.to')) return { name: 'Matrix', url: 'https://' + line };
+    return null;
+  }).filter(Boolean);
+
+  return p;
+}
+
+// ── Render ──────────────────────────────────────────────────────
+function renderCards(projects) {
   const grid = document.getElementById('grid');
-  if (issues.length === 0) {
+  if (projects.length === 0) {
     grid.innerHTML = '<div class="loading">No projects match your filters.</div>';
     return;
   }
-  grid.innerHTML = issues.map((p, i) => {
+  grid.innerHTML = projects.map((p, i) => {
     const rank = i + 1;
-    const catBadges = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join('');
-    const accentClass = `accent-${p.platform}`;
-    const platformLabel = { github: 'GitHub', gitlab: 'GitLab', codeberg: 'Codeberg', other: 'Other', none: '' }[p.platform] || '';
+    const cats = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join('');
+    const platformLabel = {github:'GitHub',gitlab:'GitLab',codeberg:'Codeberg',other:'Other'}[p.platform] || '';
     const platformBadge = platformLabel ? `<span class="badge badge-platform badge-${p.platform}">${platformLabel}</span>` : '';
-    const scoreBadge = p.exodusScore !== null
-      ? `<span class="badge score-${scoreClass(p.exodusScore)}">${p.exodusScore}/10</span>`
-      : '';
-    const avatar = p.avatarUrl
-      ? `<img class="card-avatar" src="${esc(p.avatarUrl)}" alt="" loading="lazy" onerror="this.style.display='none'">`
-      : `<div class="card-avatar"></div>`;
-    const updated = timeAgo(p.updated);
+    const scoreBadge = p.exodus_score != null
+      ? `<span class="badge score-${scoreClass(p.exodus_score)}">${p.exodus_score}/10</span>` : '';
+    const avatar = p.avatar_url
+      ? `<div class="card-avatar"><img src="${esc(p.avatar_url)}" alt="" loading="lazy" onerror="this.parentElement.textContent='${esc(p.initials)}'"></div>`
+      : `<div class="card-avatar">${esc(p.initials)}</div>`;
 
     return `
     <div class="card" data-idx="${i}">
-      <div class="card-accent ${accentClass}"></div>
+      <div class="card-accent accent-${p.platform}"></div>
       <span class="card-rank">#${rank}</span>
       <div class="card-body">
         <div class="card-header">
           ${avatar}
-          <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.title)}</a></div>
+          <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.name)}</a></div>
         </div>
-        <div class="card-summary">${esc(p.summary.split('\n')[0].slice(0, 140))}</div>
+        <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
         <div class="card-meta">
-          ${scoreBadge}
-          ${platformBadge}
-          ${catBadges}
+          ${scoreBadge} ${platformBadge} ${cats}
           ${p.status ? `<span class="badge badge-status">${esc(p.status)}</span>` : ''}
         </div>
         <div class="card-footer">
-          <span>Updated ${updated}</span>
+          <span>Updated ${timeAgo(p.updated)}</span>
           <button class="card-info-btn" onclick="event.stopPropagation(); openModal(${i})" title="Details">i</button>
         </div>
       </div>
     </div>`;
   }).join('');
 
-  // Clicking the card opens the modal
-  grid.querySelectorAll('.card').forEach(card => {
-    card.addEventListener('click', () => openModal(+card.dataset.idx));
-  });
+  grid.querySelectorAll('.card').forEach(c =>
+    c.addEventListener('click', () => openModal(+c.dataset.idx)));
 }
 
-// ── Detail modal ────────────────────────────────────────────────
+// ── Modal ───────────────────────────────────────────────────────
 function openModal(idx) {
   const p = currentFiltered[idx];
   if (!p) return;
 
   document.getElementById('modal-accent').className = `modal-accent accent-${p.platform}`;
+  const avatar = p.avatar_url
+    ? `<div class="modal-avatar"><img src="${esc(p.avatar_url)}" alt="" onerror="this.parentElement.textContent='${esc(p.initials)}'"></div>`
+    : `<div class="modal-avatar">${esc(p.initials)}</div>`;
 
-  const avatar = p.avatarUrl
-    ? `<img class="modal-avatar" src="${esc(p.avatarUrl)}" alt="" onerror="this.style.display='none'">`
-    : `<div class="modal-avatar"></div>`;
-
-  // Score bar
-  const scorePercent = p.exodusScore !== null ? p.exodusScore * 10 : 0;
-  const scoreColor = p.exodusScore !== null ? getScoreColor(p.exodusScore) : '#30363d';
-  const scoreSection = p.exodusScore !== null ? `
+  const sc = p.exodus_score;
+  const scoreColor = sc != null ? getScoreColor(sc) : '#30363d';
+  const scoreSection = sc != null ? `
     <div class="modal-score">
-      <div class="modal-score-num" style="color:${scoreColor}">${p.exodusScore}</div>
+      <div class="modal-score-num" style="color:${scoreColor}">${sc}</div>
       <div style="flex:1">
         <div style="font-size:0.7rem;color:#8b949e;margin-bottom:0.25rem">Exodus Score</div>
         <div class="modal-score-bar">
-          <div class="modal-score-fill" style="width:${scorePercent}%;background:${scoreColor}"></div>
+          <div class="modal-score-fill" style="width:${sc*10}%;background:${scoreColor}"></div>
         </div>
       </div>
       <div style="font-size:0.7rem;color:#8b949e">/10</div>
     </div>` : '';
 
   // Channels
-  const channels = [];
-  if (p.matrixSpace) channels.push({ icon: 'M', name: 'Matrix Space', url: p.matrixSpace });
-  p.matrixRooms.forEach(r => channels.push({ icon: 'M', name: r.name, url: r.url }));
-  if (p.discord) channels.push({ icon: 'D', name: 'Discord', url: p.discord });
-  if (p.telegram) channels.push({ icon: 'T', name: 'Telegram', url: p.telegram });
-  if (p.slack) channels.push({ icon: 'S', name: 'Slack', url: p.slack });
-  if (p.signal) channels.push({ icon: 'Si', name: 'Signal', url: p.signal });
-  if (p.whatsapp) channels.push({ icon: 'W', name: 'WhatsApp', url: p.whatsapp });
-  if (p.irc) channels.push({ icon: '#', name: 'IRC', url: null, text: p.irc });
-  if (p.xmpp) channels.push({ icon: 'X', name: 'XMPP', url: null, text: p.xmpp });
+  const ch = p.channels || {};
+  const chList = [];
+  if (ch.matrix_space) chList.push({icon:'M', name:'Matrix Space', url:ch.matrix_space});
+  p.matrixRoomsParsed.forEach(r => chList.push({icon:'M', name:r.name, url:r.url}));
+  if (ch.discord)    chList.push({icon:'D',  name:'Discord',    url:ch.discord});
+  if (ch.telegram)   chList.push({icon:'T',  name:'Telegram',   url:ch.telegram});
+  if (ch.slack)      chList.push({icon:'S',  name:'Slack',      url:ch.slack});
+  if (ch.signal)     chList.push({icon:'Si', name:'Signal',     url:ch.signal});
+  if (ch.whatsapp)   chList.push({icon:'W',  name:'WhatsApp',   url:ch.whatsapp});
+  if (ch.zulip)      chList.push({icon:'Z',  name:'Zulip',      url:ch.zulip});
+  if (ch.mattermost) chList.push({icon:'Mm', name:'Mattermost', url:ch.mattermost});
+  if (ch.rocketchat) chList.push({icon:'R',  name:'Rocket.Chat',url:ch.rocketchat});
+  if (ch.irc)        chList.push({icon:'#',  name:'IRC',        url:ch.irc.startsWith('irc://') ? ch.irc : null, text:ch.irc});
+  if (ch.xmpp)       chList.push({icon:'X',  name:'XMPP',       url:ch.xmpp.startsWith('xmpp:') ? ch.xmpp : null, text:ch.xmpp});
+  if (ch.other && ch.other.length) ch.other.forEach(o => chList.push({icon:'~', name:'Other', text:o}));
 
-  const channelsHTML = channels.length ? `
+  const channelsHTML = chList.length ? `
     <div class="modal-section">
       <div class="modal-section-title">Channels</div>
       <div class="modal-channels">
-        ${channels.map(ch => `
+        ${chList.map(c => `
           <div class="modal-channel">
-            <span class="modal-channel-icon">${esc(ch.icon)}</span>
-            <strong>${esc(ch.name)}</strong>
-            ${ch.url ? `<a href="${esc(ch.url)}" target="_blank">${esc(ch.url)}</a>` : ''}
-            ${ch.text ? `<span style="color:#8b949e">${esc(ch.text)}</span>` : ''}
-          </div>
-        `).join('')}
+            <span class="modal-channel-icon">${esc(c.icon)}</span>
+            <strong>${esc(c.name)}</strong>
+            ${c.url ? `<a href="${esc(c.url)}" target="_blank">${esc(c.url)}</a>` : ''}
+            ${c.text && !c.url ? `<span style="color:#8b949e">${esc(c.text)}</span>` : ''}
+          </div>`).join('')}
       </div>
     </div>` : '';
 
-  const catBadges = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join(' ');
+  const cats = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join(' ');
+  const issueLinks = p.issues.map(n => `<a href="${REPO_URL}/issues/${n}" target="_blank">#${n}</a>`).join(' ');
 
   document.getElementById('modal-body').innerHTML = `
     <div class="modal-header">
       ${avatar}
       <div>
-        <div class="modal-title"><a href="${esc(p.projectLink)}" target="_blank">${esc(p.title)}</a></div>
+        <div class="modal-title"><a href="${esc(p.projectLink)}" target="_blank">${esc(p.name)}</a></div>
         <div style="font-size:0.8rem;color:#8b949e">
           ${p.status ? esc(p.status) : ''}
-          ${p.communitySize ? ` &middot; ${esc(p.communitySize)}` : ''}
+          ${p.community_size ? ` &middot; ${esc(p.community_size)}` : ''}
           &middot; Updated ${timeAgo(p.updated)}
         </div>
       </div>
     </div>
-
     ${scoreSection}
-
     <div class="modal-section">
       <div class="modal-section-title">About</div>
-      <div class="modal-desc">${esc(p.summary).replace(/\n/g, '<br>')}</div>
+      <div class="modal-desc">${esc(p.description || p.notes || '').replace(/\n/g, '<br>')}</div>
     </div>
-
-    ${p.categories.length ? `
-    <div class="modal-section">
-      <div class="modal-section-title">Categories</div>
-      <div>${catBadges}</div>
-    </div>` : ''}
-
+    ${p.categories.length ? `<div class="modal-section"><div class="modal-section-title">Categories</div><div>${cats}</div></div>` : ''}
     ${channelsHTML}
-
-    ${p.website ? `
-    <div class="modal-section">
-      <div class="modal-section-title">Website</div>
-      <a href="${esc(p.website)}" target="_blank">${esc(p.website)}</a>
-    </div>` : ''}
-
-    ${p.repo ? `
-    <div class="modal-section">
-      <div class="modal-section-title">Repository</div>
-      <a href="${esc(p.repo)}" target="_blank">${esc(p.repo)}</a>
-    </div>` : ''}
-
-    ${p.notes ? `
-    <div class="modal-section">
-      <div class="modal-section-title">Notes</div>
-      <div class="modal-desc">${esc(p.notes).replace(/\n/g, '<br>')}</div>
-    </div>` : ''}
-
+    ${p.website ? `<div class="modal-section"><div class="modal-section-title">Website</div><a href="${esc(p.website)}" target="_blank">${esc(p.website)}</a></div>` : ''}
+    ${p.repo ? `<div class="modal-section"><div class="modal-section-title">Repository</div><a href="${esc(p.repo)}" target="_blank">${esc(p.repo)}</a></div>` : ''}
+    ${p.notes && p.description ? `<div class="modal-section"><div class="modal-section-title">Notes</div><div class="modal-desc">${esc(p.notes).replace(/\n/g, '<br>')}</div></div>` : ''}
     <div class="modal-tracker">
-      <a href="${esc(p.issueUrl)}" target="_blank">View in tracker</a>
-      <a href="${esc(p.issueUrl)}#issuecomment" target="_blank">Scanner reports</a>
-    </div>
-  `;
+      ${issueLinks ? `<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank">View in tracker</a>` : ''}
+      ${p.slug ? `<a href="${REPO_URL}/blob/main/projects/${esc(p.slug)}.md" target="_blank">Edit project file</a>` : ''}
+    </div>`;
 
   document.getElementById('modal').classList.add('active');
   document.body.style.overflow = 'hidden';
@@ -554,55 +495,38 @@ function closeModal() {
   document.getElementById('modal').classList.remove('active');
   document.body.style.overflow = '';
 }
-
 document.getElementById('modal-close').addEventListener('click', closeModal);
-document.getElementById('modal').addEventListener('click', e => {
-  if (e.target === e.currentTarget) closeModal();
-});
+document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
 // ── Helpers ─────────────────────────────────────────────────────
-function esc(s) {
-  const d = document.createElement('div');
-  d.textContent = s;
-  return d.innerHTML;
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+function scoreClass(s) { return s >= 8 ? 'high' : s >= 5 ? 'mid' : 'low'; }
+function getScoreColor(s) {
+  return ['#da3633','#f85149','#f0883e','#d29922','#c6a832','#8aba42','#6fae52','#57a362','#3fb950','#2ea043','#238636'][Math.min(s,10)];
 }
-
-function scoreClass(score) {
-  if (score >= 8) return 'high';
-  if (score >= 5) return 'mid';
-  return 'low';
-}
-
-function getScoreColor(score) {
-  const colors = ['#da3633','#f85149','#f0883e','#d29922','#c6a832','#8aba42','#6fae52','#57a362','#3fb950','#2ea043','#238636'];
-  return colors[Math.min(score, 10)];
-}
-
-function timeAgo(dateStr) {
-  const diff = Date.now() - new Date(dateStr).getTime();
-  const mins = Math.floor(diff / 60000);
-  if (mins < 60) return `${mins}m ago`;
-  const hrs = Math.floor(mins / 60);
-  if (hrs < 24) return `${hrs}h ago`;
-  const days = Math.floor(hrs / 24);
+function timeAgo(d) {
+  if (!d) return 'unknown';
+  const ms = Date.now() - new Date(d).getTime();
+  const m = Math.floor(ms/60000);
+  if (m < 60) return `${m}m ago`;
+  const h = Math.floor(m/60);
+  if (h < 24) return `${h}h ago`;
+  const days = Math.floor(h/24);
   if (days < 30) return `${days}d ago`;
-  const months = Math.floor(days / 30);
-  return `${months}mo ago`;
+  return `${Math.floor(days/30)}mo ago`;
 }
 
 // ── Filter & Sort ───────────────────────────────────────────────
-let currentFiltered = [];
-
 function applyFilters() {
   const search = document.getElementById('search').value.toLowerCase();
-  const catFilter = document.getElementById('filter-category').value;
+  const catFilter = document.getElementById('filter-category').value.toLowerCase();
   const sortKey = document.getElementById('sort').value;
 
-  let filtered = allIssues.filter(p => {
-    if (catFilter && !p.categories.some(c => c.toLowerCase() === catFilter.toLowerCase())) return false;
+  let filtered = allProjects.filter(p => {
+    if (catFilter && !p.categories.some(c => c.toLowerCase() === catFilter)) return false;
     if (search) {
-      const hay = `${p.title} ${p.summary} ${p.categories.join(' ')} ${p.notes}`.toLowerCase();
+      const hay = `${p.name} ${p.description} ${p.categories.join(' ')} ${p.notes}`.toLowerCase();
       if (!hay.includes(search)) return false;
     }
     return true;
@@ -610,13 +534,13 @@ function applyFilters() {
 
   filtered.sort((a, b) => {
     switch (sortKey) {
-      case 'created-desc': return new Date(b.created) - new Date(a.created);
-      case 'created-asc':  return new Date(a.created) - new Date(b.created);
-      case 'title-asc':    return a.title.localeCompare(b.title);
-      case 'title-desc':   return b.title.localeCompare(a.title);
+      case 'created-desc': return (b.updated||'').localeCompare(a.updated||'');
+      case 'created-asc':  return (a.updated||'').localeCompare(b.updated||'');
+      case 'title-asc':    return a.name.localeCompare(b.name);
+      case 'title-desc':   return b.name.localeCompare(a.name);
       case 'category':     return (a.categories[0]||'').localeCompare(b.categories[0]||'');
-      case 'score-desc':   return (b.exodusScore ?? -1) - (a.exodusScore ?? -1);
-      case 'score-asc':    return (a.exodusScore ?? -1) - (b.exodusScore ?? -1);
+      case 'score-desc':   return (b.exodus_score ?? -1) - (a.exodus_score ?? -1);
+      case 'score-asc':    return (a.exodus_score ?? -1) - (b.exodus_score ?? -1);
       default: return 0;
     }
   });
@@ -626,56 +550,48 @@ function applyFilters() {
   renderCards(filtered);
 }
 
-// ── Populate filter dropdown ────────────────────────────────────
 function populateFilters() {
-  const catSelect = document.getElementById('filter-category');
-  const usedCats = [...new Set(allIssues.flatMap(p => p.categories))].sort();
-  usedCats.forEach(c => {
-    const opt = document.createElement('option');
-    opt.value = c; opt.textContent = c;
-    catSelect.appendChild(opt);
-  });
+  const sel = document.getElementById('filter-category');
+  // Normalize categories to title case for display, lowercase for comparison
+  const cats = [...new Set(allProjects.flatMap(p => p.categories.map(c => c.trim())).filter(Boolean))].sort((a,b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+  cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o); });
 }
 
-// ── URL state ───────────────────────────────────────────────────
 function syncFromURL() {
-  const params = new URLSearchParams(location.search);
-  if (params.get('category')) document.getElementById('filter-category').value = params.get('category');
-  if (params.get('sort')) document.getElementById('sort').value = params.get('sort');
-  if (params.get('q')) document.getElementById('search').value = params.get('q');
+  const p = new URLSearchParams(location.search);
+  if (p.get('category')) document.getElementById('filter-category').value = p.get('category');
+  if (p.get('sort')) document.getElementById('sort').value = p.get('sort');
+  if (p.get('q')) document.getElementById('search').value = p.get('q');
 }
-
 function syncToURL() {
-  const params = new URLSearchParams();
-  const cat = document.getElementById('filter-category').value;
-  const sort = document.getElementById('sort').value;
+  const p = new URLSearchParams();
+  const c = document.getElementById('filter-category').value;
+  const s = document.getElementById('sort').value;
   const q = document.getElementById('search').value;
-  if (cat) params.set('category', cat);
-  if (sort !== 'score-desc') params.set('sort', sort);
-  if (q) params.set('q', q);
-  const qs = params.toString();
+  if (c) p.set('category', c);
+  if (s !== 'score-desc') p.set('sort', s);
+  if (q) p.set('q', q);
+  const qs = p.toString();
   history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
 }
 
 // ── Init ────────────────────────────────────────────────────────
-(async function init() {
+(async () => {
   try {
-    const issues = await fetchAllIssues();
-    allIssues = issues.map(parseIssue);
+    const projects = await loadProjects();
+    allProjects = projects.map(enrich);
     populateFilters();
     syncFromURL();
     applyFilters();
-
-    document.getElementById('search').addEventListener('input', () => { syncToURL(); applyFilters(); });
-    document.getElementById('filter-category').addEventListener('change', () => { syncToURL(); applyFilters(); });
-    document.getElementById('sort').addEventListener('change', () => { syncToURL(); applyFilters(); });
+    for (const id of ['search','filter-category','sort']) {
+      document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', () => { syncToURL(); applyFilters(); });
+    }
   } catch (err) {
     document.getElementById('grid').innerHTML =
-      `<div class="error">Failed to load issues: ${esc(err.message)}<br>
-       <small>GitHub API rate limit for unauthenticated requests: 60/hour per IP.</small></div>`;
+      `<div class="error">Failed to load: ${esc(err.message)}<br>
+       <small>Try refreshing. GitHub API limit: 60/hour per IP.</small></div>`;
   }
 })();
 </script>
-
 </body>
 </html>

@@ -126,7 +126,7 @@ while IFS= read -r entry; do
   SIGNALS="[]"
 
   # Matrix room links (matrix.to)
-  MATRIX_ROOMS=$(echo "$README_CONTENT" | grep -oP 'matrix\.to/#/[^\s)"\]'"'"']+' | sort -u || true)
+  MATRIX_ROOMS=$(echo "$README_CONTENT" | grep -oP 'matrix\.to/#/[#!+][a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+' | sort -u || true)
   MATRIX_ROOM_COUNT=$(echo "$MATRIX_ROOMS" | grep -c . || echo 0)
   if [[ "$MATRIX_ROOM_COUNT" -gt 0 ]]; then
     SCORE=$((SCORE + 2))
