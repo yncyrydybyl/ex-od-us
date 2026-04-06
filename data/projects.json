@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T14:42:19Z",
+  "generated": "2026-04-06T15:12:24Z",
   "count": 509,
   "projects": [
     {
@@ -7427,7 +7427,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#funding:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -7707,7 +7709,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#conduit:fachschaften.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -8405,7 +8409,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#identity:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -10223,7 +10229,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#element-x:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -10781,7 +10789,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#matrix-dev:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -10829,7 +10839,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#e2ee:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -10971,7 +10983,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#enterprise:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -14635,7 +14649,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -15381,7 +15397,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#jitsi:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -16501,7 +16519,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#design:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -16641,7 +16661,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#governance:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -16926,7 +16948,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#spaces:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -16974,7 +16998,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#matrix-docs:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -17068,7 +17094,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#widgets:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -17166,7 +17194,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#matrix:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -17214,7 +17244,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#matrixconf:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -18017,7 +18049,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#onboarding:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -21198,7 +21232,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#slack-bridge:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
