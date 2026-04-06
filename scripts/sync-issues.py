@@ -88,10 +88,50 @@ def main():
             issues = [int(issues)] if issues else []
         issues = [int(i) for i in issues if i]
 
-        # Skip if already has an issue
+        # Build issue body from project file data
+        def build_issue_body():
+            lines = [f'**Project file:** [`projects/{fname}`](https://github.com/{REPO}/blob/main/projects/{fname})']
+            lines.append('')
+            if desc:
+                lines.append(desc)
+                lines.append('')
+            if repo:
+                lines.append(f'**Repository:** {repo}')
+            if status:
+                lines.append(f'**Status:** {status}')
+            score = fm.get('exodus_score')
+            if score is not None:
+                lines.append(f'**Exodus Score:** {score}/10')
+            verified = fm.get('verified')
+            if verified is not None:
+                v_note = fm.get('verified_note', '')
+                lines.append(f'**Verified:** {"Yes" if verified else "No"}{" — " + v_note if v_note else ""}')
+            rooms = fm.get('matrix_rooms', [])
+            if rooms:
+                lines.append('')
+                lines.append('**Matrix rooms:**')
+                for r in rooms:
+                    lines.append(f'- {r}')
+            channels = []
+            for ch_name, ch_key in [('Discord', 'discord'), ('Telegram', 'telegram'),
+                                     ('Slack', 'slack'), ('IRC', 'irc')]:
+                v = fm.get(ch_key, '')
+                if v:
+                    channels.append(f'- **{ch_name}:** {v}')
+            if channels:
+                lines.append('')
+                lines.append('**Other channels:**')
+                lines.extend(channels)
+            scanned = fm.get('last_scanned', '')
+            if scanned:
+                lines.append('')
+                lines.append(f'*Last scanned: {scanned}*')
+            return '\n'.join(lines)
+
+        # Existing issue: sync labels + update body
         if issues:
-            # Sync labels on existing issue
             for issue_num in issues:
+                # Labels
                 labels_to_add = ['project'] + categories
                 for label in categories:
                     ensure_label(label)
@@ -105,7 +145,13 @@ def main():
                     gh('issue', 'edit', str(issue_num), '--repo', REPO,
                        '--add-label', ','.join(missing))
                     print(f"  SYNC #{issue_num} ({name}): added labels {missing}", file=sys.stderr)
-                    synced += 1
+
+                # Update body
+                new_body = build_issue_body()
+                gh('issue', 'edit', str(issue_num), '--repo', REPO,
+                   '--body', new_body)
+                print(f"  UPDATE #{issue_num} ({name}): body refreshed", file=sys.stderr)
+                synced += 1
             continue
 
         # Create issue for this project
