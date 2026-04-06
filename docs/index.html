@@ -420,7 +420,7 @@ function renderCards(projects) {
         </div>
         ${cardLinks.length ? `<div class="card-links">${cardLinks.join('')}</div>` : ''}
         <div class="card-footer">
-          <span>Updated ${timeAgo(p.updated)}</span>
+          <span>${p.last_scanned ? `Scanned ${timeAgo(p.last_scanned)}` : `Updated ${timeAgo(p.updated)}`}</span>
           <button class="card-info-btn" onclick="event.stopPropagation(); openModal(${i})" title="Details">i</button>
         </div>
       </div>
@@ -498,6 +498,7 @@ function openModal(idx) {
           ${p.status ? esc(p.status) : ''}
           ${p.community_size ? ` &middot; ${esc(p.community_size)}` : ''}
           &middot; Updated ${timeAgo(p.updated)}
+          ${p.last_scanned ? ` &middot; Scanned ${timeAgo(p.last_scanned)}` : ''}
         </div>
       </div>
     </div>

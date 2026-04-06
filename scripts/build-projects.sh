@@ -140,6 +140,7 @@ for fname in sorted(os.listdir(projects_dir)):
         'avatar_url': fm.get('avatar_url', ''),
         'notes': body if body else fm.get('notes', ''),
         'updated': fm.get('updated', ''),
+        'last_scanned': fm.get('last_scanned', ''),
     }
 
     # Auto-detect platform from repo URL if not set
