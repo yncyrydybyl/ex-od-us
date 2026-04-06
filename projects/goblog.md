@@ -5,7 +5,7 @@ repo: "https://github.com/jlelse/GoBlog"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5961]
 updated: "2026-04-06T08:13:54Z"
 ---
 

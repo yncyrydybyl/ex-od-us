@@ -5,7 +5,7 @@ repo: "https://github.com/coreos/fedora-coreos-tracker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5697]
 updated: "2026-03-10T17:57:40Z"
 ---
 

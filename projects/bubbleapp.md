@@ -5,7 +5,7 @@ repo: "https://github.com/lumaa-dev/BubbleApp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5111]
 updated: "2025-09-10T21:27:41Z"
 ---
 

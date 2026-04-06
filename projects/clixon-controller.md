@@ -5,7 +5,7 @@ repo: "https://github.com/clicon/clixon-controller"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5204]
 updated: "2026-04-04T16:22:44Z"
 ---
 

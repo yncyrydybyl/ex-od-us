@@ -5,7 +5,7 @@ repo: "https://github.com/kaito-tokyo/live-backgroundremoval-lite"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6472]
 updated: "2026-03-26T08:18:58Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/espflash"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5637]
 updated: "2026-04-01T08:56:12Z"
 verified: true
 verified_note: repo alive, room not checked

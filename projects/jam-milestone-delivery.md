@@ -4,7 +4,7 @@ repo: "https://github.com/w3f/jam-milestone-delivery"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6221]
 updated: "2026-02-10T17:06:29Z"
 ---
 

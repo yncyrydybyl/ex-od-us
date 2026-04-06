@@ -5,7 +5,7 @@ repo: "https://github.com/numtide/nix-filter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6930]
 updated: "2025-09-14T20:36:21Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/merkuro"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6675]
 updated: "2026-04-06T14:19:45Z"
 ---
 

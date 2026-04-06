@@ -5,7 +5,7 @@ repo: "https://github.com/filecoin-project/community"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5254]
 updated: "2026-03-30T07:56:37Z"
 verified: true
 verified_note: repo alive, room not checked

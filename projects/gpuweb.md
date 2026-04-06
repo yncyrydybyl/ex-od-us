@@ -5,7 +5,7 @@ repo: "https://github.com/gpuweb/gpuweb"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5992]
 updated: "2026-03-24T21:32:20Z"
 ---
 

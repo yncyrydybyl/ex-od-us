@@ -5,7 +5,7 @@ repo: "https://github.com/aiida-vasp/aiida-vasp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4892]
 updated: "2026-04-01T13:56:21Z"
 ---
 

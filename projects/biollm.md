@@ -4,7 +4,7 @@ repo: "https://github.com/BGIResearch/BioLLM"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5054]
 updated: "2025-12-31T01:55:10Z"
 ---
 

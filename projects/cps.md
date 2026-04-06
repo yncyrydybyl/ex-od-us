@@ -5,7 +5,7 @@ repo: "https://github.com/nim-works/cps"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5302]
 updated: "2026-02-16T23:47:47Z"
 ---
 

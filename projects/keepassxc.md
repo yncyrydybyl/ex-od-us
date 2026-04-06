@@ -5,7 +5,7 @@ repo: "https://github.com/keepassxreboot/keepassxc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6324]
 updated: "2026-03-15T10:06:23Z"
 ---
 

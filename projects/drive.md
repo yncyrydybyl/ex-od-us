@@ -5,7 +5,7 @@ repo: "https://github.com/suitenumerique/drive"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5506]
 updated: "2026-04-06T02:00:44Z"
 ---
 

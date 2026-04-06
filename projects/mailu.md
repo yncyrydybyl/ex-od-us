@@ -5,7 +5,7 @@ repo: "https://github.com/Mailu/Mailu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6525]
 updated: "2026-04-02T20:36:45Z"
 ---
 

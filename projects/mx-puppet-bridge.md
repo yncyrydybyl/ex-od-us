@@ -5,7 +5,7 @@ repo: "https://github.com/Sorunome/mx-puppet-bridge"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6830]
 updated: "2023-03-04T03:56:07Z"
 ---
 

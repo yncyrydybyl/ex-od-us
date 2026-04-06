@@ -5,7 +5,7 @@ repo: "https://github.com/paritytech/helm-charts"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6049]
 updated: "2026-03-03T16:05:18Z"
 ---
 

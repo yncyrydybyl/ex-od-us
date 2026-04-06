@@ -5,7 +5,7 @@ repo: "https://github.com/nomacs/nomacs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6994]
 updated: "2026-04-04T12:23:46Z"
 ---
 

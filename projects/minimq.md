@@ -5,7 +5,7 @@ repo: "https://github.com/quartiq/minimq"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6734]
 updated: "2025-01-27T11:09:30Z"
 ---
 

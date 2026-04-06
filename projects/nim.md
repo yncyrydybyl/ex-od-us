@@ -5,7 +5,7 @@ repo: "https://github.com/nim-lang/Nim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6907]
 updated: "2026-04-06T08:43:00Z"
 ---
 

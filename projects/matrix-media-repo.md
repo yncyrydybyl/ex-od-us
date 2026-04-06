@@ -5,7 +5,7 @@ repo: "https://github.com/t2bot/matrix-media-repo"
 platform: github
 categories: [Infrastructure, Matrix]
 status: "Active"
-issues: []
+issues: [6585]
 updated: "2025-11-20T01:15:49Z"
 ---
 

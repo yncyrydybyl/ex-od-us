@@ -5,7 +5,7 @@ repo: "https://github.com/KaspianDev/AntiPopup"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4933]
 updated: "2026-01-14T13:06:24Z"
 ---
 

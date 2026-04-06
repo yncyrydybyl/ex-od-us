@@ -5,7 +5,7 @@ repo: "https://github.com/rpm-software-management/mock"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6773]
 updated: "2026-03-24T06:12:45Z"
 ---
 

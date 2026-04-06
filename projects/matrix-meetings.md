@@ -5,7 +5,7 @@ repo: "https://github.com/nordeck/matrix-meetings"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6587]
 updated: "2026-04-06T01:42:11Z"
 ---
 

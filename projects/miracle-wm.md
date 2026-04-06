@@ -5,7 +5,7 @@ repo: "https://github.com/miracle-wm-org/miracle-wm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6742]
 updated: "2026-04-06T11:15:36Z"
 ---
 

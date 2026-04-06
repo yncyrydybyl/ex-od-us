@@ -5,7 +5,7 @@ repo: "https://github.com/xapp-project/libadapta"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6409]
 updated: "2025-06-08T08:40:11Z"
 ---
 

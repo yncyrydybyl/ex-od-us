@@ -5,7 +5,7 @@ repo: "https://github.com/snowfallorg/icicle"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6123]
 updated: "2026-01-26T01:09:32Z"
 ---
 

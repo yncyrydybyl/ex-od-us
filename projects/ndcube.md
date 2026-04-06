@@ -5,7 +5,7 @@ repo: "https://github.com/sunpy/ndcube"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6855]
 updated: "2026-03-30T08:59:04Z"
 ---
 

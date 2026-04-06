@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-spec"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6630]
 updated: "2026-04-04T12:57:22Z"
 ---
 

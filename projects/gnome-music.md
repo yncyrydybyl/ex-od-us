@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/gnome-music"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5928]
 updated: "2026-04-03T20:45:44Z"
 ---
 

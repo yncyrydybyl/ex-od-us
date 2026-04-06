@@ -5,7 +5,7 @@ repo: "https://github.com/MMachado05/floss-alternatives"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5776]
 updated: "2026-01-21T22:16:50Z"
 ---
 

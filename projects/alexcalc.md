@@ -5,7 +5,7 @@ repo: "https://github.com/alexbarry/AlexCalc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4898]
 updated: "2026-04-02T15:22:31Z"
 ---
 

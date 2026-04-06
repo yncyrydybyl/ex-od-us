@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nixos-wiki-infra"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6974]
 updated: "2026-04-06T03:52:13Z"
 ---
 

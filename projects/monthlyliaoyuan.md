@@ -5,7 +5,7 @@ repo: "https://github.com/monthlyliaoyuan/monthlyliaoyuan"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6794]
 updated: "2025-04-01T11:16:06Z"
 ---
 

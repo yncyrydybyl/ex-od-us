@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/kubo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6349]
 updated: "2026-04-04T03:27:49Z"
 ---
 

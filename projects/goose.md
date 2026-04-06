@@ -5,7 +5,7 @@ repo: "https://github.com/nickjfree/goose"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5978]
 updated: "2026-01-08T12:28:26Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nixos-facter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6962]
 updated: "2026-04-06T04:45:01Z"
 ---
 

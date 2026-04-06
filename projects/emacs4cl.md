@@ -5,7 +5,7 @@ repo: "https://github.com/susam/emacs4cl"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5571]
 updated: "2024-02-27T00:01:08Z"
 ---
 

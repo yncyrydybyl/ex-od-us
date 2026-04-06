@@ -5,7 +5,7 @@ repo: "https://github.com/eclipse-kuksa/kuksa-databroker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6352]
 updated: "2026-04-01T11:37:37Z"
 ---
 

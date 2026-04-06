@@ -5,7 +5,7 @@ repo: "https://github.com/db0/godot-card-game-framework"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5966]
 updated: "2025-05-20T11:42:56Z"
 verified: true
 verified_note: repo alive, room not checked

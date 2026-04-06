@@ -5,7 +5,7 @@ repo: "https://github.com/dougmasten/awesome-coco"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4993]
 updated: "2026-03-01T03:55:19Z"
 verified: true
 verified_note: repo alive, room not checked

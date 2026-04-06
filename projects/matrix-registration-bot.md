@@ -5,7 +5,7 @@ repo: "https://github.com/moan0s/matrix-registration-bot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6617]
 updated: "2023-12-18T10:21:53Z"
 ---
 

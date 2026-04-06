@@ -5,7 +5,7 @@ repo: "https://github.com/kairos-io/kairos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6303]
 updated: "2026-04-06T09:40:12Z"
 ---
 

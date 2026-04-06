@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS-CN/NixOS-CN-telegram"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6954]
 updated: "2026-01-28T02:58:02Z"
 ---
 

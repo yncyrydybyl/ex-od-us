@@ -5,7 +5,7 @@ repo: "https://github.com/Spacefreak18/monocoque"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6790]
 updated: "2026-04-04T14:02:20Z"
 ---
 

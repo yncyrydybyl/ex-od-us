@@ -5,7 +5,7 @@ repo: "https://github.com/fediverse-devnet/feditest"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5695]
 updated: "2024-12-29T19:22:13Z"
 verified: true
 verified_note: repo alive, room not checked

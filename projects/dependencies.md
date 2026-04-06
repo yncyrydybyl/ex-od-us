@@ -5,7 +5,7 @@ repo: "https://github.com/bottlesdevs/dependencies"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5426]
 updated: "2026-02-18T20:14:10Z"
 verified: true
 verified_note: repo alive, room not checked

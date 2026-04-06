@@ -5,7 +5,7 @@ repo: "https://github.com/CommunitySolidServer/CommunitySolidServer"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5259]
 updated: "2026-03-31T01:37:00Z"
 verified: true
 verified_note: repo alive, room not checked

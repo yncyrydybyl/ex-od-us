@@ -5,7 +5,7 @@ repo: "https://github.com/jryans/awesome-matrix"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [5007]
 updated: "2026-03-23T11:39:05Z"
 ---
 

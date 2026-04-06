@@ -5,7 +5,7 @@ repo: "https://github.com/Nandanrmenon/florid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5772]
 updated: "2026-03-27T15:47:01Z"
 ---
 

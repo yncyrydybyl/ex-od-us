@@ -5,7 +5,7 @@ repo: "https://github.com/JeffreyRodriguez/Liberator12k"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6414]
 updated: "2024-04-14T20:19:41Z"
 ---
 

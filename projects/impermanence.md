@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/impermanence"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6151]
 updated: "2026-01-27T21:09:45Z"
 ---
 

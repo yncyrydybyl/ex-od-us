@@ -5,7 +5,7 @@ repo: "https://github.com/KenOokamiHoro/it_has_not_get_a_name_yet"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6214]
 updated: "2021-02-27T14:48:50Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/susam/emfy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5588]
 updated: "2024-09-09T07:56:24Z"
 ---
 

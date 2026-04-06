@@ -5,7 +5,7 @@ repo: "https://github.com/droidian/droidian"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5510]
 updated: "2024-06-09T11:58:48Z"
 verified: true
 verified_note: repo alive, room not checked

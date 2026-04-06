@@ -5,7 +5,7 @@ repo: "https://github.com/mlemgroup/mlem"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6760]
 updated: "2026-04-06T07:22:10Z"
 ---
 

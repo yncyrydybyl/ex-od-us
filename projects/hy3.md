@@ -5,7 +5,7 @@ repo: "https://github.com/outfoxxed/hy3"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6097]
 updated: "2026-04-06T00:35:03Z"
 ---
 

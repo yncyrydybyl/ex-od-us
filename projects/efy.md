@@ -5,7 +5,7 @@ repo: "https://github.com/dragos-efy/efy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5535]
 updated: "2026-01-19T00:11:28Z"
 verified: true
 verified_note: repo alive, room not checked

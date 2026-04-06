@@ -5,7 +5,7 @@ repo: "https://github.com/minibikini/pleroma"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6730]
 updated: "2026-02-14T16:51:15Z"
 ---
 

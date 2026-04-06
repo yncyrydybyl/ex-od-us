@@ -5,7 +5,7 @@ repo: "https://github.com/jellyflix-app/jellyflix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6256]
 updated: "2026-04-06T15:52:38Z"
 ---
 

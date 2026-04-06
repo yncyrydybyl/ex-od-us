@@ -5,7 +5,7 @@ repo: "https://github.com/newsboat/newsboat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6891]
 updated: "2026-04-05T11:03:01Z"
 ---
 

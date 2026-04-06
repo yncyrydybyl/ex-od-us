@@ -5,7 +5,7 @@ repo: "https://github.com/imxrt-rs/imxrt-hal"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6154]
 updated: "2026-04-03T10:25:06Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/outbit/ansible-docgen"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4926]
 updated: "2024-04-10T00:43:18Z"
 ---
 

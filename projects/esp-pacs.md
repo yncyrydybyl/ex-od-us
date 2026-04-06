@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-pacs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5634]
 updated: "2026-03-25T17:29:47Z"
 verified: true
 verified_note: repo alive, room not checked

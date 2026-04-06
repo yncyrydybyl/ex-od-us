@@ -5,7 +5,7 @@ repo: "https://github.com/ulyssa/modalkit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6774]
 updated: "2026-01-19T23:26:21Z"
 ---
 

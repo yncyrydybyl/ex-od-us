@@ -5,7 +5,7 @@ repo: "https://github.com/Rezivure/Grid-Mobile"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5997]
 updated: "2026-04-06T01:34:07Z"
 ---
 

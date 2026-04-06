@@ -5,7 +5,7 @@ repo: "https://github.com/LuckyTurtleDev/mstickereditor"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6810]
 updated: "2026-03-07T16:52:08Z"
 ---
 

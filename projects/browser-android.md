@@ -5,7 +5,7 @@ repo: "https://github.com/dothq/browser-android"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5098]
 updated: "2025-05-06T15:34:07Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/mattmassicotte/MainOffender"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6527]
 updated: "2025-09-27T20:22:35Z"
 ---
 

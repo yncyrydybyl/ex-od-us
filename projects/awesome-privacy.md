@@ -5,7 +5,7 @@ repo: "https://github.com/Lissy93/awesome-privacy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5019]
 updated: "2026-04-04T05:31:44Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-web"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [5556]
 updated: "2026-04-06T14:16:43Z"
 verified: true
 verified_note: repo alive, room not checked

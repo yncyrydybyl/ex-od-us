@@ -5,7 +5,7 @@ repo: "https://github.com/NuschtOS/nixos-modules"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6970]
 updated: "2026-04-04T19:40:29Z"
 ---
 

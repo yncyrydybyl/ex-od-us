@@ -5,7 +5,7 @@ repo: "https://github.com/mesa/mesa-llm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6680]
 updated: "2026-04-01T15:16:14Z"
 ---
 

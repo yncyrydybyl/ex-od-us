@@ -5,7 +5,7 @@ repo: "https://github.com/Skylar-Tech/node-red-contrib-matrix-chat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6990]
 updated: "2026-02-20T05:07:36Z"
 ---
 

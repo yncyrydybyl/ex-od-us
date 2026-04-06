@@ -5,7 +5,7 @@ repo: "https://github.com/Kur01234/music-downloader"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6824]
 updated: "2025-05-23T06:54:56Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/nrenner/brouter-web"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5097]
 updated: "2026-04-01T20:05:47Z"
 ---
 

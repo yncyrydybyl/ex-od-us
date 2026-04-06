@@ -5,7 +5,7 @@ repo: "https://github.com/Blorp-Labs/blorp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5070]
 updated: "2026-04-06T03:48:42Z"
 ---
 

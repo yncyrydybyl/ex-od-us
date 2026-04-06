@@ -5,7 +5,7 @@ repo: "https://github.com/suitenumerique/messages"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6692]
 updated: "2026-04-06T10:22:06Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/cup-lang/cup"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5329]
 updated: "2023-01-04T12:34:15Z"
 ---
 

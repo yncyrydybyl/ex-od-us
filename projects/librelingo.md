@@ -5,7 +5,7 @@ repo: "https://github.com/kantord/LibreLingo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6425]
 updated: "2025-01-16T10:20:48Z"
 ---
 

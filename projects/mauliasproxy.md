@@ -5,7 +5,7 @@ repo: "https://github.com/vengefulplas/mauliasproxy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6652]
 updated: "2025-05-18T07:17:48Z"
 ---
 

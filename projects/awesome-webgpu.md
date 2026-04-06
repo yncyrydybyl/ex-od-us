@@ -5,7 +5,7 @@ repo: "https://github.com/mikbry/awesome-webgpu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5033]
 updated: "2026-01-21T09:09:35Z"
 ---
 

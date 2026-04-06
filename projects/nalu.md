@@ -5,7 +5,7 @@ repo: "https://github.com/NaluKit/nalu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6842]
 updated: "2026-03-26T08:28:11Z"
 ---
 

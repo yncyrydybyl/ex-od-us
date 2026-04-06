@@ -5,7 +5,7 @@ repo: "https://github.com/cylc/cylc-ui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5355]
 updated: "2026-04-02T07:12:28Z"
 ---
 

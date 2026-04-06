@@ -5,7 +5,7 @@ repo: "https://github.com/w3f/Grant-Milestone-Delivery"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5993]
 updated: "2026-03-18T22:26:57Z"
 ---
 

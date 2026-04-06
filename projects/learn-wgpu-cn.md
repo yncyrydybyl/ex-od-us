@@ -5,7 +5,7 @@ repo: "https://github.com/doodlewind/learn-wgpu-cn"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6385]
 updated: "2022-04-30T14:55:56Z"
 verified: true
 verified_note: repo alive, room not checked

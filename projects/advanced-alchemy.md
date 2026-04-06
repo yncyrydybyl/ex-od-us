@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/advanced-alchemy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4886]
 updated: "2026-04-03T20:38:16Z"
 ---
 

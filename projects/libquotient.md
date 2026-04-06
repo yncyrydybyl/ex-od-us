@@ -5,7 +5,7 @@ repo: "https://github.com/quotient-im/libQuotient"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [6422]
 updated: "2026-03-21T12:17:53Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/piyoki/nixos-config"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6959]
 updated: "2026-04-01T03:19:48Z"
 ---
 

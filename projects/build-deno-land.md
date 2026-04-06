@@ -5,7 +5,7 @@ repo: "https://github.com/polkadot-js/build-deno.land"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5116]
 updated: "2026-03-24T19:05:28Z"
 ---
 

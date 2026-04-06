@@ -5,7 +5,7 @@ repo: "https://github.com/danilw/godot-utils-and-other"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5968]
 updated: "2026-02-11T14:13:11Z"
 ---
 

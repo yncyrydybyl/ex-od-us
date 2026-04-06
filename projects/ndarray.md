@@ -5,7 +5,7 @@ repo: "https://github.com/rust-ndarray/ndarray"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6853]
 updated: "2026-02-16T14:20:45Z"
 ---
 

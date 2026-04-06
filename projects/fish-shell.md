@@ -5,7 +5,7 @@ repo: "https://github.com/fish-shell/fish-shell"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5727]
 updated: "2026-04-05T05:20:20Z"
 verified: true
 verified_note: repo alive, room not checked

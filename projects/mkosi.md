@@ -5,7 +5,7 @@ repo: "https://github.com/systemd/mkosi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6756]
 updated: "2026-04-03T12:50:09Z"
 ---
 

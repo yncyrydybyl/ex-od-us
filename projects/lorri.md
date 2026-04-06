@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/lorri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6494]
 updated: "2025-04-19T22:07:58Z"
 ---
 

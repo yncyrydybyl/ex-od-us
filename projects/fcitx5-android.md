@@ -5,7 +5,7 @@ repo: "https://github.com/fcitx5-android/fcitx5-android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5689]
 updated: "2026-04-04T18:18:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/alvr-org/ALVR"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4909]
 updated: "2026-04-01T08:28:28Z"
 verified: true
 verified_note: repo alive, room not checked

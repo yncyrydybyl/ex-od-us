@@ -5,7 +5,7 @@ repo: "https://github.com/TeamNewPipe/NewPipe"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6889]
 updated: "2026-04-03T15:22:28Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/stryan/materia"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6545]
 updated: "2026-04-04T19:33:17Z"
 ---
 

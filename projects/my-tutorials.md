@@ -4,7 +4,7 @@ repo: "https://github.com/mikec3/my_tutorials"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6836]
 updated: "2022-01-01T21:43:51Z"
 ---
 

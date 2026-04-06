@@ -5,7 +5,7 @@ repo: "https://github.com/turt2live/matrix-bot-sdk-bot-template"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6562]
 updated: "2023-01-06T02:17:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/soupslurpr/AppVerifier"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4950]
 updated: "2025-08-29T11:13:23Z"
 ---
 

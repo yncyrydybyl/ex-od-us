@@ -5,7 +5,7 @@ repo: "https://github.com/pimalaya/mirador"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6743]
 updated: "2026-03-17T22:51:19Z"
 ---
 

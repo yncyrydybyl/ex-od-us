@@ -5,7 +5,7 @@ repo: "https://github.com/icssw-org/MeshCom-Firmware"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6684]
 updated: "2026-04-06T13:35:53Z"
 ---
 

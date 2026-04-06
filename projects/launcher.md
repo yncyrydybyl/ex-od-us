@@ -5,7 +5,7 @@ repo: "https://github.com/jrpie/Launcher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6372]
 updated: "2026-04-03T21:21:24Z"
 ---
 

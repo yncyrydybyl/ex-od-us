@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/cloud-init"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5207]
 updated: "2026-04-04T03:38:58Z"
 ---
 

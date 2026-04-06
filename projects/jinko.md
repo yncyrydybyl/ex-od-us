@@ -5,7 +5,7 @@ repo: "https://github.com/jinko-core/jinko"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6267]
 updated: "2024-12-02T11:59:43Z"
 ---
 

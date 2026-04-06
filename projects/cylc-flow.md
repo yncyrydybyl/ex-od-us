@@ -5,7 +5,7 @@ repo: "https://github.com/cylc/cylc-flow"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5353]
 updated: "2026-03-31T08:56:37Z"
 ---
 

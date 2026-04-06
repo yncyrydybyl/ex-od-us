@@ -5,7 +5,7 @@ repo: "https://github.com/Naxdy/niri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6919]
 updated: "2026-03-31T14:08:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/RRZE-HPC/likwid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6449]
 updated: "2026-04-01T16:40:29Z"
 ---
 

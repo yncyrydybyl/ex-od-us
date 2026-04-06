@@ -5,7 +5,7 @@ repo: "https://github.com/Arcticons-Team/Arcticons"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4962]
 updated: "2026-04-06T08:36:31Z"
 ---
 

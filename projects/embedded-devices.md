@@ -5,7 +5,7 @@ repo: "https://github.com/oddlama/embedded-devices"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5578]
 updated: "2026-03-10T20:34:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/vihar/awesome-oss-saas"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5016]
 updated: "2024-12-30T22:33:13Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/leptos-rs/leptos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6402]
 updated: "2026-04-03T18:21:06Z"
 ---
 

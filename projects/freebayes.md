@@ -5,7 +5,7 @@ repo: "https://github.com/freebayes/freebayes"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5810]
 updated: "2026-02-08T09:51:49Z"
 verified: true
 verified_note: repo alive, room not checked

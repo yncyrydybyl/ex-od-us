@@ -5,7 +5,7 @@ repo: "https://github.com/datenanfragen/data"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5373]
 updated: "2026-03-31T18:14:10Z"
 ---
 

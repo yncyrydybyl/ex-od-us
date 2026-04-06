@@ -5,7 +5,7 @@ repo: "https://github.com/beemdevelopment/Aegis"
 platform: github
 categories: [Security]
 status: Active
-issues: []
+issues: [4887]
 updated: "2026-02-24T19:51:57Z"
 verified: true
 verified_note: repo alive, room not checked

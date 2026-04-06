@@ -5,7 +5,7 @@ repo: "https://github.com/etkecc/baibot"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [5042]
 updated: "2026-04-04T12:52:33Z"
 ---
 

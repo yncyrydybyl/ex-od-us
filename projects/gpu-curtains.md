@@ -5,7 +5,7 @@ repo: "https://github.com/martinlaxenaire/gpu-curtains"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5987]
 updated: "2026-03-24T11:03:49Z"
 ---
 

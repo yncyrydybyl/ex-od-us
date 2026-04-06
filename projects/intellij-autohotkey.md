@@ -5,7 +5,7 @@ repo: "https://github.com/Nordgedanken/intellij-autohotkey"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6169]
 updated: "2025-10-29T02:53:40Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/fzyzcjy/flutter_rust_bridge"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5784]
 updated: "2026-04-05T13:37:04Z"
 ---
 

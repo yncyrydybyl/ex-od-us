@@ -5,7 +5,7 @@ repo: "https://github.com/Cosmian/kms"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6336]
 updated: "2026-04-06T16:15:26Z"
 ---
 

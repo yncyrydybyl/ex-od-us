@@ -5,7 +5,7 @@ repo: "https://github.com/public-transport/hafas-client"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6022]
 updated: "2026-01-09T17:00:05Z"
 ---
 

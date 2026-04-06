@@ -5,7 +5,7 @@ repo: "https://github.com/ansible/ansible-documentation"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4927]
 updated: "2026-04-05T00:23:17Z"
 ---
 

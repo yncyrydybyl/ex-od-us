@@ -5,7 +5,7 @@ repo: "https://github.com/muvox-io/euphonium"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5647]
 updated: "2025-06-02T13:49:22Z"
 ---
 

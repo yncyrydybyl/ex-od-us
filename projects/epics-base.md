@@ -5,7 +5,7 @@ repo: "https://github.com/epics-base/epics-base"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5608]
 updated: "2026-04-01T16:53:39Z"
 ---
 

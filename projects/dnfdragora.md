@@ -5,7 +5,7 @@ repo: "https://github.com/manatools/dnfdragora"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5467]
 updated: "2026-04-06T15:27:43Z"
 ---
 

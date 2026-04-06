@@ -5,7 +5,7 @@ repo: "https://github.com/gfx-rs/gfx"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5876]
 updated: "2023-02-27T01:05:58Z"
 ---
 

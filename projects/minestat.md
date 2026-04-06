@@ -5,7 +5,7 @@ repo: "https://github.com/FragLand/minestat"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6726]
 updated: "2025-04-27T00:39:53Z"
 verified: true
 verified_note: repo alive, room not checked

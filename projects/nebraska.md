@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/nebraska"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6857]
 updated: "2026-04-06T07:59:35Z"
 verified: true
 verified_note: repo alive, room not checked

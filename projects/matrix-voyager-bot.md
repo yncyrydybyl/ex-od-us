@@ -5,7 +5,7 @@ repo: "https://github.com/turt2live/matrix-voyager-bot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6638]
 updated: "2023-03-01T12:07:36Z"
 ---
 

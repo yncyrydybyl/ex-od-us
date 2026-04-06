@@ -4,7 +4,7 @@ repo: "https://github.com/pytest-dev/apipkg"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4944]
 updated: "2026-03-23T21:03:05Z"
 ---
 

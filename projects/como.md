@@ -5,7 +5,7 @@ repo: "https://github.com/winft/como"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5261]
 updated: "2025-06-23T10:25:37Z"
 ---
 

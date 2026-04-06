@@ -5,7 +5,7 @@ repo: "https://github.com/Azure-Samples/ms-identity-javascript-nodejs-tutorial"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6808]
 updated: "2024-05-30T09:58:04Z"
 ---
 

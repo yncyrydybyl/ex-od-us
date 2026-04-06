@@ -5,7 +5,7 @@ repo: "https://github.com/nooesc/convex-doctor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5290]
 updated: "2026-03-08T02:32:12Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/wimpysworld/deb-get"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5407]
 updated: "2026-04-06T14:56:44Z"
 ---
 

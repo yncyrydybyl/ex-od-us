@@ -5,7 +5,7 @@ repo: "https://github.com/google/dawn"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5972]
 updated: "2026-04-06T09:44:57Z"
 ---
 

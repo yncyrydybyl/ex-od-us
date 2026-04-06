@@ -5,7 +5,7 @@ repo: "https://github.com/caryyu/jellyfin-plugin-opendouban"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6239]
 updated: "2022-07-25T11:02:47Z"
 verified: true
 verified_note: repo alive, room not checked

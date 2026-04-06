@@ -5,7 +5,7 @@ repo: "https://github.com/MinBZK/mijn-bureau-infra"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6721]
 updated: "2026-04-06T08:28:53Z"
 ---
 

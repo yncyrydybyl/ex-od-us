@@ -5,7 +5,7 @@ repo: "https://github.com/flaskbb/flaskbb"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5750]
 updated: "2026-03-30T20:10:15Z"
 verified: true
 verified_note: repo alive, room not checked

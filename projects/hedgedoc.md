@@ -5,7 +5,7 @@ repo: "https://github.com/hedgedoc/hedgedoc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6041]
 updated: "2026-03-29T10:27:04Z"
 ---
 

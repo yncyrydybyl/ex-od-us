@@ -5,7 +5,7 @@ repo: "https://github.com/rofrol/awesome-wgpu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5034]
 updated: "2022-11-03T08:38:56Z"
 ---
 

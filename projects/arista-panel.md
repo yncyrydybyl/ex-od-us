@@ -4,7 +4,7 @@ description: About A GUI Panel providing Worker subscriptions for VLESS and Shad
 repo: "https://github.com/arista-project/Arista-Panel"
 platform: github
 status: Active
-issues: []
+issues: [4967]
 updated: "2025-12-18T08:05:08Z"
 verified: true
 verified_note: repo alive, room not checked

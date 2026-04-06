@@ -5,7 +5,7 @@ repo: "https://github.com/openstreetmap/chef"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5170]
 updated: "2026-04-04T15:42:23Z"
 ---
 

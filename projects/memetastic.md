@@ -5,7 +5,7 @@ repo: "https://github.com/gsantner/memetastic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6673]
 updated: "2026-03-06T20:36:42Z"
 ---
 

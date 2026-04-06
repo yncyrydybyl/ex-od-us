@@ -5,7 +5,7 @@ repo: "https://github.com/t2bot/matrix-email-bot"
 platform: github
 categories: [Integrations, Matrix]
 status: "Active"
-issues: []
+issues: [6574]
 updated: "2024-02-16T00:07:10Z"
 ---
 

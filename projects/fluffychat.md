@@ -5,7 +5,7 @@ repo: "https://github.com/krille-chan/fluffychat"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [5780]
 updated: "2026-04-06T05:42:41Z"
 ---
 

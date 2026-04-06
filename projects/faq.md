@@ -5,7 +5,7 @@ repo: "https://github.com/ru-crypto-anarchy/faq"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5677]
 updated: "2022-10-13T20:25:21Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/arcolinuxd/arco-xfce"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4961]
 updated: "2025-04-13T18:04:00Z"
 verified: true
 verified_note: repo alive, room not checked

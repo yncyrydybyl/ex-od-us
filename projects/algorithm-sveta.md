@@ -5,7 +5,7 @@ repo: "https://github.com/LanaLob/algorithm_sveta"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4901]
 updated: "2021-08-28T12:21:35Z"
 ---
 

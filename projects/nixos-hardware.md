@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nixos-hardware"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6966]
 updated: "2026-04-06T15:56:22Z"
 ---
 

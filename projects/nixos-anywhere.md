@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nixos-anywhere"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6948]
 updated: "2026-04-05T03:50:57Z"
 ---
 

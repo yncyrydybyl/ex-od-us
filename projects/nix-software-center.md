@@ -5,7 +5,7 @@ repo: "https://github.com/snowfallorg/nix-software-center"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6938]
 updated: "2026-04-06T00:10:57Z"
 ---
 

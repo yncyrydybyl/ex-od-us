@@ -5,7 +5,7 @@ repo: "https://github.com/mawoka-myblock/ClassQuiz"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5196]
 updated: "2026-04-01T21:41:06Z"
 ---
 

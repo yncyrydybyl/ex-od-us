@@ -5,7 +5,7 @@ repo: "https://github.com/najaeda/naja-verilog"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6838]
 updated: "2026-03-20T13:53:47Z"
 ---
 

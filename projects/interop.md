@@ -5,7 +5,7 @@ repo: "https://github.com/web-platform-tests/interop"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6171]
 updated: "2026-03-24T13:36:01Z"
 ---
 

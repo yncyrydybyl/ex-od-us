@@ -4,7 +4,7 @@ repo: "https://github.com/ibm-openbmc/openbmc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6117]
 updated: "2025-12-11T19:58:27Z"
 ---
 

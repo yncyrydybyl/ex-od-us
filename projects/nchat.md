@@ -5,7 +5,7 @@ repo: "https://github.com/d99kris/nchat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6851]
 updated: "2026-04-04T02:53:33Z"
 ---
 

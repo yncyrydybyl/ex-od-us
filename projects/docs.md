@@ -5,7 +5,7 @@ repo: "https://github.com/HoolockLinux/docs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5471]
 updated: "2026-03-30T06:51:47Z"
 ---
 

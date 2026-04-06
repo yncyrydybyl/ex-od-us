@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nixos-avf"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6950]
 updated: "2026-01-23T01:34:49Z"
 ---
 

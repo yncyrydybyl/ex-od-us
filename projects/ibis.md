@@ -5,7 +5,7 @@ repo: "https://github.com/Nutomic/ibis"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6115]
 updated: "2025-10-23T10:32:15Z"
 ---
 

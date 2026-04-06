@@ -5,7 +5,7 @@ repo: "https://github.com/jeremiah-k/meshtastic-matrix-relay"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6688]
 updated: "2026-04-06T16:14:23Z"
 ---
 

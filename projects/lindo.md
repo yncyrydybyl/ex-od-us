@@ -5,7 +5,7 @@ repo: "https://github.com/prixe/lindo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6455]
 updated: "2024-07-11T15:12:50Z"
 ---
 

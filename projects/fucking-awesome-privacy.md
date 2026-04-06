@@ -5,7 +5,7 @@ repo: "https://github.com/Correia-jpv/fucking-awesome-privacy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5840]
 updated: "2026-04-06T07:47:46Z"
 verified: true
 verified_note: repo alive, room not checked

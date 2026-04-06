@@ -5,7 +5,7 @@ repo: "https://github.com/haskell-miso/miso-lynx"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6750]
 updated: "2026-03-07T15:53:39Z"
 ---
 

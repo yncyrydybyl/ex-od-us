@@ -5,7 +5,7 @@ repo: "https://github.com/msm8916-mainline/lk2nd"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6477]
 updated: "2026-04-05T14:41:28Z"
 ---
 

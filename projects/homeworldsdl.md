@@ -4,7 +4,7 @@ repo: "https://github.com/HomeworldSDL/HomeworldSDL"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6084]
 updated: "2024-10-13T14:35:21Z"
 ---
 

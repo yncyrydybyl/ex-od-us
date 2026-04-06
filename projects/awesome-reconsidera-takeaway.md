@@ -5,7 +5,7 @@ repo: "https://github.com/reconsidera/awesome-reconsidera-takeaway"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5024]
 updated: "2023-02-07T14:28:18Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/gematik/api-ti-messenger"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [4942]
 updated: "2026-03-12T09:55:16Z"
 ---
 

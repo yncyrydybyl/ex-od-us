@@ -5,7 +5,7 @@ repo: "https://github.com/Nokse22/high-tide"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6059]
 updated: "2026-02-16T21:35:57Z"
 ---
 

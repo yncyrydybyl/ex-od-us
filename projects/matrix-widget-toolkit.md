@@ -5,7 +5,7 @@ repo: "https://github.com/nordeck/matrix-widget-toolkit"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6644]
 updated: "2026-04-06T16:28:44Z"
 ---
 

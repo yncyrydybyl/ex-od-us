@@ -5,7 +5,7 @@ repo: "https://github.com/numtide/devshell"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5440]
 updated: "2026-03-23T11:08:00Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/frictionlessdata/frictionlessdata.io"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5824]
 updated: "2026-02-11T20:13:39Z"
 ---
 

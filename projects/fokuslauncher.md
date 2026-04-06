@@ -5,7 +5,7 @@ repo: "https://github.com/luantak/FokusLauncher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5788]
 updated: "2026-04-05T10:56:10Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/wechaty/matrix-appservice"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6557]
 updated: "2022-09-09T08:01:55Z"
 ---
 

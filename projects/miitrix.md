@@ -5,7 +5,7 @@ repo: "https://github.com/Sorunome/miitrix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6718]
 updated: "2020-08-03T16:24:11Z"
 ---
 

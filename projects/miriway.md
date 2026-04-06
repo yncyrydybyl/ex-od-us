@@ -5,7 +5,7 @@ repo: "https://github.com/Miriway/Miriway"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6747]
 updated: "2026-04-03T14:34:30Z"
 ---
 

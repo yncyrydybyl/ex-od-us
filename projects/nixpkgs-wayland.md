@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nixpkgs-wayland"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6978]
 updated: "2026-04-05T19:10:25Z"
 ---
 

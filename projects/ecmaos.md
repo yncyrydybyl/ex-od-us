@@ -5,7 +5,7 @@ repo: "https://github.com/ecmaos/ecmaos"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5531]
 updated: "2026-03-26T21:08:37Z"
 verified: true
 verified_note: repo alive, room not checked

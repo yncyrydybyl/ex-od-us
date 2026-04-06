@@ -5,7 +5,7 @@ repo: "https://github.com/small-hack/matrix-chart"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6568]
 updated: "2026-03-23T21:24:50Z"
 ---
 

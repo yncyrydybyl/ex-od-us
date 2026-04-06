@@ -5,7 +5,7 @@ repo: "https://github.com/RS485/LogisticsPipes"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6483]
 updated: "2023-11-08T00:29:05Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/suitenumerique/meet"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6662]
 updated: "2026-04-03T17:30:15Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/nim-works/nimskull"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6909]
 updated: "2026-04-03T06:21:22Z"
 ---
 

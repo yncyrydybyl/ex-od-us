@@ -5,7 +5,7 @@ repo: "https://github.com/TriForceX/MiyooCFW"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6754]
 updated: "2026-04-06T09:00:35Z"
 ---
 

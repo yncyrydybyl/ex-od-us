@@ -5,7 +5,7 @@ repo: "https://github.com/pimalaya/comodoro"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5263]
 updated: "2026-02-11T19:26:19Z"
 ---
 

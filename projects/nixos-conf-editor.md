@@ -5,7 +5,7 @@ repo: "https://github.com/snowfallorg/nixos-conf-editor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6956]
 updated: "2026-02-15T09:55:35Z"
 ---
 

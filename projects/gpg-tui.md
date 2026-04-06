@@ -5,7 +5,7 @@ repo: "https://github.com/orhun/gpg-tui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5985]
 updated: "2026-04-02T11:06:28Z"
 ---
 

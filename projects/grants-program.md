@@ -5,7 +5,7 @@ repo: "https://github.com/w3f/Grants-Program"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5995]
 updated: "2026-03-19T15:16:40Z"
 ---
 

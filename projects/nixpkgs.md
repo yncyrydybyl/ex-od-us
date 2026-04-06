@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nixpkgs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6982]
 updated: "2026-04-06T17:26:13Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/waycrate/NextWM"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6897]
 updated: "2023-10-29T19:33:23Z"
 ---
 

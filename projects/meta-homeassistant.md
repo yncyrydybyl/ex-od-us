@@ -5,7 +5,7 @@ repo: "https://github.com/meta-homeassistant/meta-homeassistant"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6694]
 updated: "2026-03-14T16:28:17Z"
 ---
 

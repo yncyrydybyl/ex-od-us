@@ -5,7 +5,7 @@ repo: "https://github.com/Michael-Sebero/Algiz-Linux"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4900]
 updated: "2026-04-04T21:12:28Z"
 ---
 

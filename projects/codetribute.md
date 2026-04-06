@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla-frontend-infra/codetribute"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5223]
 updated: "2026-04-01T20:42:30Z"
 ---
 

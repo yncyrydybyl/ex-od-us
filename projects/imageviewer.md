@@ -5,7 +5,7 @@ repo: "https://github.com/AlienCowEatCake/ImageViewer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6138]
 updated: "2026-03-02T19:07:48Z"
 ---
 

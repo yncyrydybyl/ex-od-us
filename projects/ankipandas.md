@@ -5,7 +5,7 @@ repo: "https://github.com/klieret/AnkiPandas"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4922]
 updated: "2026-03-02T22:58:09Z"
 ---
 

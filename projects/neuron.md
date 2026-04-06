@@ -5,7 +5,7 @@ repo: "https://github.com/srid/neuron"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6884]
 updated: "2026-04-03T17:21:58Z"
 ---
 

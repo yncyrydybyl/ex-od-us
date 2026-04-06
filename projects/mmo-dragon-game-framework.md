@@ -5,7 +5,7 @@ repo: "https://github.com/judah4/MMO-Dragon-Game-Framework"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6762]
 updated: "2024-11-28T18:48:35Z"
 ---
 

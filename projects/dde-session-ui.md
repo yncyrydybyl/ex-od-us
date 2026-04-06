@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dde-session-ui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5402]
 updated: "2026-03-26T11:43:02Z"
 ---
 

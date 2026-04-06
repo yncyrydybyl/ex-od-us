@@ -5,7 +5,7 @@ repo: "https://github.com/lockekk/dshare-hid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5514]
 updated: "2026-04-01T05:15:18Z"
 ---
 

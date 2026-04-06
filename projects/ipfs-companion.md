@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/ipfs-companion"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6187]
 updated: "2026-01-27T04:46:04Z"
 ---
 

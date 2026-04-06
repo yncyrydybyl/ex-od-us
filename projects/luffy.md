@@ -5,7 +5,7 @@ repo: "https://github.com/DemonKingSwarn/luffy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6501]
 updated: "2026-03-09T17:13:59Z"
 verified: true
 verified_note: repo alive, room not checked

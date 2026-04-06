@@ -5,7 +5,7 @@ repo: "https://github.com/AM2R-Community-Developers/AM2RLauncher"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4912]
 updated: "2026-02-26T23:23:16Z"
 verified: true
 verified_note: repo alive, room not checked

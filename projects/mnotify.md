@@ -5,7 +5,7 @@ repo: "https://github.com/rumpelsepp/mnotify"
 platform: github
 categories: [Security, Matrix]
 status: "Active"
-issues: []
+issues: [6767]
 updated: "2024-05-13T16:05:13Z"
 ---
 

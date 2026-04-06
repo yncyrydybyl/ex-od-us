@@ -5,7 +5,7 @@ repo: "https://github.com/LemmyNet/jerboa"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6258]
 updated: "2026-04-04T02:12:05Z"
 ---
 

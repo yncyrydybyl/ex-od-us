@@ -5,7 +5,7 @@ repo: "https://github.com/denoland/deno"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5425]
 updated: "2026-04-06T16:43:48Z"
 ---
 

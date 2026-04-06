@@ -5,7 +5,7 @@ repo: "https://github.com/ipld/ipld"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6201]
 updated: "2026-04-02T07:51:37Z"
 ---
 

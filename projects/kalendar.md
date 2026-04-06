@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/kalendar"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6305]
 updated: "2023-07-12T04:52:28Z"
 ---
 

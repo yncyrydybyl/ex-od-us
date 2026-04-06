@@ -5,7 +5,7 @@ repo: "https://github.com/Linen-dev/linen.dev"
 platform: github
 categories: [Messaging]
 status: "Active"
-issues: []
+issues: [6456]
 updated: "2024-12-09T14:19:31Z"
 ---
 

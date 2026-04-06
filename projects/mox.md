@@ -5,7 +5,7 @@ repo: "https://github.com/mjl-/mox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6798]
 updated: "2025-12-21T19:27:41Z"
 ---
 

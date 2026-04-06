@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/bluesky"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [5072]
 updated: "2026-02-16T14:19:39Z"
 ---
 

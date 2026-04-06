@@ -5,7 +5,7 @@ repo: "https://github.com/Devolutions/IronRDP"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6206]
 updated: "2026-04-03T00:07:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/jaywink/matrix-alertmanager"
 platform: github
 categories: [Integrations, Matrix]
 status: "Active"
-issues: []
+issues: [6552]
 updated: "2026-03-30T11:21:38Z"
 ---
 

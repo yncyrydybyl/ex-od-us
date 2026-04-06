@@ -5,7 +5,7 @@ repo: "https://github.com/monogon/monogon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6793]
 updated: "2025-11-24T19:40:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/faervan/bar-rs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5043]
 updated: "2026-03-11T14:36:01Z"
 verified: true
 verified_note: repo alive, room not checked

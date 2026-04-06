@@ -5,7 +5,7 @@ repo: "https://github.com/SFTtech/kevin-ci"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6328]
 updated: "2025-08-17T23:12:35Z"
 ---
 

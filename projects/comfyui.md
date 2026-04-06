@@ -5,7 +5,7 @@ repo: "https://github.com/Comfy-Org/ComfyUI"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5246]
 updated: "2026-04-05T23:37:31Z"
 verified: true
 verified_note: repo alive, room not checked

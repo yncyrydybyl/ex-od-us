@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nixfmt"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6942]
 updated: "2026-03-31T19:23:32Z"
 ---
 

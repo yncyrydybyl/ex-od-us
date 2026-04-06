@@ -5,7 +5,7 @@ repo: "https://github.com/nordeck/matrix-neoboard"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6590]
 updated: "2026-04-06T16:47:45Z"
 ---
 

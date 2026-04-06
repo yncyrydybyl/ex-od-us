@@ -5,7 +5,7 @@ repo: "https://github.com/bottlesdevs/components"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5269]
 updated: "2026-04-06T08:44:35Z"
 ---
 

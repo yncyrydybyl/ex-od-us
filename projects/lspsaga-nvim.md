@@ -5,7 +5,7 @@ repo: "https://github.com/nvimdev/lspsaga.nvim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6496]
 updated: "2026-03-03T04:02:31Z"
 ---
 

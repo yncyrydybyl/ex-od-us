@@ -5,7 +5,7 @@ repo: "https://github.com/embassy-rs/embassy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5577]
 updated: "2026-04-06T14:24:10Z"
 verified: true
 verified_note: repo alive, room not checked

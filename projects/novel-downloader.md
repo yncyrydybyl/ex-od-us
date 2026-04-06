@@ -5,7 +5,7 @@ repo: "https://github.com/404-novel-project/novel-downloader"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [7003]
 updated: "2026-04-01T17:35:47Z"
 ---
 

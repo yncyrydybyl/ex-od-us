@@ -5,7 +5,7 @@ repo: "https://github.com/dnglab/dnglab"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5469]
 updated: "2026-03-27T07:50:28Z"
 verified: true
 verified_note: repo alive, room not checked

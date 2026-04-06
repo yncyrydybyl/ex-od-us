@@ -5,7 +5,7 @@ repo: "https://github.com/limine-bootloader/limine"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6453]
 updated: "2026-04-06T05:24:25Z"
 ---
 

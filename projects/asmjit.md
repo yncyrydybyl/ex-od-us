@@ -5,7 +5,7 @@ repo: "https://github.com/asmjit/asmjit"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4975]
 updated: "2026-03-26T08:20:00Z"
 verified: true
 verified_note: repo alive, room not checked

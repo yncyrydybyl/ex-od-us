@@ -5,7 +5,7 @@ repo: "https://github.com/R1tschY/harbour-sailfishconnect"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6025]
 updated: "2025-08-29T13:30:57Z"
 ---
 

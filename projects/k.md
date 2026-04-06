@@ -5,7 +5,7 @@ repo: "https://github.com/runtimeverification/k"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6297]
 updated: "2026-03-30T18:30:28Z"
 ---
 

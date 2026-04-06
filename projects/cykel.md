@@ -5,7 +5,7 @@ repo: "https://github.com/transportkollektiv/cykel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5352]
 updated: "2023-05-23T00:12:38Z"
 ---
 

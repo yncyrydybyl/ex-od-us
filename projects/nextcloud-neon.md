@@ -5,7 +5,7 @@ repo: "https://github.com/nextcloud/neon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6893]
 updated: "2026-04-06T16:27:21Z"
 ---
 

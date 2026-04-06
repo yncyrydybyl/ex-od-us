@@ -5,7 +5,7 @@ repo: "https://github.com/petrovvlad/freeLib"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5816]
 updated: "2026-01-25T08:44:01Z"
 ---
 

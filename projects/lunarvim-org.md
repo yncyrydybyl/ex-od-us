@@ -5,7 +5,7 @@ repo: "https://github.com/LunarVim/lunarvim.org"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6504]
 updated: "2024-07-26T22:20:35Z"
 ---
 

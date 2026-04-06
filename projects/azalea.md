@@ -5,7 +5,7 @@ repo: "https://github.com/azalea-rs/azalea"
 platform: github
 categories: [Integrations]
 status: "Active"
-issues: []
+issues: [5037]
 updated: "2026-04-05T22:13:21Z"
 ---
 

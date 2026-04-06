@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-community/antsibull-changelog"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4935]
 updated: "2026-02-16T11:47:02Z"
 verified: true
 verified_note: repo alive, room not checked

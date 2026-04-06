@@ -5,7 +5,7 @@ repo: "https://github.com/esoui/esoui"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5619]
 updated: "2026-03-30T20:07:14Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/OpenRailAssociation/netzgrafik-editor-frontend"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6882]
 updated: "2026-04-06T13:55:38Z"
 ---
 

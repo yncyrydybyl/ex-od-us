@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/buildbot-nix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5119]
 updated: "2026-04-05T04:55:43Z"
 ---
 

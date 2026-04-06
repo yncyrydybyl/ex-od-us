@@ -5,7 +5,7 @@ repo: "https://github.com/neovim/neovim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6881]
 updated: "2026-04-06T16:48:42Z"
 ---
 

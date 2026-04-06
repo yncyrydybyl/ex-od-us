@@ -5,7 +5,7 @@ repo: "https://github.com/libre-tube/LibreTube"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6436]
 updated: "2026-03-28T13:42:40Z"
 ---
 

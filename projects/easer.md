@@ -5,7 +5,7 @@ repo: "https://github.com/renyuneyun/Easer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5527]
 updated: "2026-02-12T12:09:53Z"
 ---
 

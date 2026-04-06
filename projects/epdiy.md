@@ -5,7 +5,7 @@ repo: "https://github.com/vroland/epdiy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5603]
 updated: "2026-03-20T07:19:16Z"
 ---
 

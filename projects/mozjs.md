@@ -5,7 +5,7 @@ repo: "https://github.com/servo/mozjs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6802]
 updated: "2026-04-06T14:33:49Z"
 ---
 

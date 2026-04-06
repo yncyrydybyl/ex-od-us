@@ -5,7 +5,7 @@ repo: "https://github.com/dothq/browser"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5104]
 updated: "2024-12-25T12:14:58Z"
 verified: true
 verified_note: repo alive, room not checked

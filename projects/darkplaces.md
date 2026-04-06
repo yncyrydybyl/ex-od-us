@@ -5,7 +5,7 @@ repo: "https://github.com/DarkPlacesEngine/DarkPlaces"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5365]
 updated: "2026-01-22T18:56:05Z"
 verified: true
 verified_note: repo alive, room not checked

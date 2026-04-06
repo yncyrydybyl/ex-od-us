@@ -5,7 +5,7 @@ repo: "https://github.com/kvark/blade"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5065]
 updated: "2026-03-29T19:27:11Z"
 ---
 

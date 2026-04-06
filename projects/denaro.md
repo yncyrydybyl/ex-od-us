@@ -5,7 +5,7 @@ repo: "https://github.com/NickvisionApps/Denaro"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5422]
 updated: "2025-03-24T09:50:23Z"
 ---
 

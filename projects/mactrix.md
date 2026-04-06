@@ -5,7 +5,7 @@ repo: "https://github.com/viktorstrate/mactrix"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6514]
 updated: "2026-04-06T08:03:34Z"
 ---
 

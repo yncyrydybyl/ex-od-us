@@ -5,7 +5,7 @@ repo: "https://github.com/Vindaar/ggplotnim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5879]
 updated: "2026-02-24T14:19:44Z"
 ---
 

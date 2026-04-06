@@ -5,7 +5,7 @@ repo: "https://github.com/mesa/mesa-frames"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6677]
 updated: "2026-03-02T22:04:17Z"
 ---
 

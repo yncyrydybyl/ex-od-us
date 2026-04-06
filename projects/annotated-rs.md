@@ -5,7 +5,7 @@ repo: "https://github.com/better-rs/annotated-rs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4923]
 updated: "2022-08-19T08:00:27Z"
 verified: true
 verified_note: repo alive, room not checked

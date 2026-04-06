@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/chatterbox"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5163]
 updated: "2025-01-28T06:30:23Z"
 verified: true
 verified_note: repo alive, room not checked

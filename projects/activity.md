@@ -5,7 +5,7 @@ repo: "https://github.com/go-fed/activity"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4880]
 updated: "2022-12-04T15:24:57Z"
 ---
 

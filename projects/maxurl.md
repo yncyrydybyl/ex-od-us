@@ -5,7 +5,7 @@ repo: "https://github.com/qsniyg/maxurl"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6654]
 updated: "2026-04-05T22:15:07Z"
 ---
 

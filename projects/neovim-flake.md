@@ -5,7 +5,7 @@ repo: "https://github.com/jordanisaacs/neovim-flake"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6877]
 updated: "2024-08-01T02:00:03Z"
 ---
 

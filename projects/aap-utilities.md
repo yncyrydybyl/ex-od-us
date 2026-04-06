@@ -5,7 +5,7 @@ repo: "https://github.com/redhat-cop/aap_utilities"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4874]
 updated: "2026-04-02T13:09:30Z"
 ---
 

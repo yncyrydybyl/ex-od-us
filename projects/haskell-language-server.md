@@ -5,7 +5,7 @@ repo: "https://github.com/haskell/haskell-language-server"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6028]
 updated: "2026-04-01T09:37:03Z"
 ---
 

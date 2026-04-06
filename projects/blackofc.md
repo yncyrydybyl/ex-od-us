@@ -5,7 +5,7 @@ repo: "https://github.com/m4thxyz/blackofc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5064]
 updated: "2025-07-27T14:52:03Z"
 ---
 

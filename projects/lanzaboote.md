@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/lanzaboote"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6368]
 updated: "2026-04-06T17:02:45Z"
 ---
 

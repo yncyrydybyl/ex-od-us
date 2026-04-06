@@ -5,7 +5,7 @@ repo: "https://github.com/mTvare6/hello-world.rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6048]
 updated: "2025-05-28T17:25:31Z"
 ---
 

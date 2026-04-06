@@ -5,7 +5,7 @@ repo: "https://github.com/numtide/blueprint"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5071]
 updated: "2026-02-18T17:54:16Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Metron-Project/metron"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6712]
 updated: "2026-04-06T16:04:00Z"
 ---
 

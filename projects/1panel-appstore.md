@@ -5,7 +5,7 @@ repo: "https://github.com/pooneyy/1Panel-Appstore"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4869]
 updated: "2026-04-06T17:01:11Z"
 ---
 

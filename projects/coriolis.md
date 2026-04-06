@@ -5,7 +5,7 @@ repo: "https://github.com/lip6/coriolis"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5295]
 updated: "2026-03-30T15:06:08Z"
 ---
 

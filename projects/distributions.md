@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/distributions"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5459]
 updated: "2026-02-27T17:35:17Z"
 ---
 

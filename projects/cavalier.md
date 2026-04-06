@@ -5,7 +5,7 @@ repo: "https://github.com/NickvisionApps/Cavalier"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5152]
 updated: "2025-04-21T03:46:31Z"
 ---
 

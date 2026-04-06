@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/hydrogen-web"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6102]
 updated: "2025-11-06T10:43:56Z"
 verified: true
 verified_note: repo alive, room not checked

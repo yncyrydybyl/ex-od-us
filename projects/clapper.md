@@ -5,7 +5,7 @@ repo: "https://github.com/Rafostar/clapper"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5195]
 updated: "2026-03-14T08:27:25Z"
 ---
 

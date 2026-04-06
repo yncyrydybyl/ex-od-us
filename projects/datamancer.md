@@ -5,7 +5,7 @@ repo: "https://github.com/SciNim/Datamancer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5375]
 updated: "2025-04-16T18:07:42Z"
 ---
 

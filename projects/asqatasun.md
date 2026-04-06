@@ -5,7 +5,7 @@ repo: "https://github.com/Asqatasun/Asqatasun"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4977]
 updated: "2023-02-22T08:38:21Z"
 verified: true
 verified_note: repo alive, room not checked

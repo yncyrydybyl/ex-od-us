@@ -5,7 +5,7 @@ repo: "https://github.com/mattmassicotte/Multipass"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6817]
 updated: "2026-03-20T18:26:33Z"
 ---
 

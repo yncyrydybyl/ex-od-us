@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/lila"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6451]
 updated: "2026-03-25T09:10:09Z"
 ---
 

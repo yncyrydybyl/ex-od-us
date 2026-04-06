@@ -5,7 +5,7 @@ repo: "https://github.com/nordeck/matrix-poll"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6598]
 updated: "2026-04-02T18:03:39Z"
 ---
 

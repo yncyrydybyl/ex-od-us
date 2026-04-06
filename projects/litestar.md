@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/litestar"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6470]
 updated: "2026-04-04T14:51:37Z"
 ---
 

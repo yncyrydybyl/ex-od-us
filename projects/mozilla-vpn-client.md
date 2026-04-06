@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla-mobile/mozilla-vpn-client"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6800]
 updated: "2026-04-06T06:59:52Z"
 ---
 

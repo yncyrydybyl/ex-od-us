@@ -5,7 +5,7 @@ repo: "https://github.com/nix-darwin/nix-darwin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6924]
 updated: "2026-04-01T10:54:34Z"
 ---
 

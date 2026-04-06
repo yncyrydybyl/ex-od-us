@@ -5,7 +5,7 @@ repo: "https://github.com/antimony-lang/antimony"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4932]
 updated: "2026-04-01T14:24:29Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-appservice-discord"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6554]
 updated: "2024-07-23T22:00:33Z"
 ---
 

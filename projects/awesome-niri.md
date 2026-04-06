@@ -5,7 +5,7 @@ repo: "https://github.com/niri-wm/awesome-niri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5011]
 updated: "2026-04-04T13:10:16Z"
 ---
 

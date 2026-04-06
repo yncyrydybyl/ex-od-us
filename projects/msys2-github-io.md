@@ -5,7 +5,7 @@ repo: "https://github.com/msys2/msys2.github.io"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6811]
 updated: "2026-04-05T10:11:21Z"
 ---
 

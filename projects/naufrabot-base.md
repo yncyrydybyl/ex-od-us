@@ -4,7 +4,7 @@ repo: "https://github.com/NaufraZapp/Naufrabot-base"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6846]
 updated: "2026-03-31T15:12:08Z"
 ---
 

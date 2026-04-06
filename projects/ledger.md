@@ -5,7 +5,7 @@ repo: "https://github.com/howeyc/ledger"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6390]
 updated: "2026-03-28T19:22:01Z"
 ---
 

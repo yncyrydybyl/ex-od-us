@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/meta"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6702]
 updated: "2026-04-02T08:39:58Z"
 ---
 

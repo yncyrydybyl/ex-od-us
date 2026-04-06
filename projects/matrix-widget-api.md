@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-widget-api"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6642]
 updated: "2026-04-01T18:17:48Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/AndBible/and-bible"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4917]
 updated: "2026-04-06T06:55:36Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/croqaz/awesome-decentralized"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4994]
 updated: "2026-01-26T10:24:39Z"
 ---
 

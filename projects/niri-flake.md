@@ -5,7 +5,7 @@ repo: "https://github.com/sodiboo/niri-flake"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6915]
 updated: "2026-04-06T06:41:49Z"
 ---
 

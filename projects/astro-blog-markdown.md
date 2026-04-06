@@ -5,7 +5,7 @@ repo: "https://github.com/rodneylab/astro-blog-markdown"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4979]
 updated: "2025-05-27T17:23:32Z"
 ---
 

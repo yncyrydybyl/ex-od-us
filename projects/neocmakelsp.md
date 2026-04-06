@@ -5,7 +5,7 @@ repo: "https://github.com/neocmakelsp/neocmakelsp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6866]
 updated: "2026-04-02T14:39:58Z"
 ---
 

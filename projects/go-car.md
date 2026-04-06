@@ -5,7 +5,7 @@ repo: "https://github.com/ipld/go-car"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5940]
 updated: "2026-03-14T01:04:17Z"
 ---
 

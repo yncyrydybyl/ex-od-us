@@ -5,7 +5,7 @@ repo: "https://github.com/n0-computer/awesome-iroh"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5002]
 updated: "2026-04-02T07:54:37Z"
 ---
 

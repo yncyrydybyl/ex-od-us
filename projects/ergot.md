@@ -5,7 +5,7 @@ repo: "https://github.com/jamesmunns/ergot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5611]
 updated: "2026-03-28T21:23:52Z"
 ---
 

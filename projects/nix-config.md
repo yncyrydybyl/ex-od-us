@@ -5,7 +5,7 @@ repo: "https://github.com/JayRovacsek/nix-config"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6922]
 updated: "2026-04-05T23:52:14Z"
 ---
 

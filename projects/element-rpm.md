@@ -5,7 +5,7 @@ repo: "https://github.com/taw00/element-rpm"
 platform: github
 categories: [Messaging, Security, Matrix]
 status: "Active"
-issues: []
+issues: [5555]
 updated: "2022-10-06T04:24:03Z"
 ---
 

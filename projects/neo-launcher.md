@@ -5,7 +5,7 @@ repo: "https://github.com/NeoApplications/Neo-Launcher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6861]
 updated: "2026-04-06T13:43:36Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/PapenfussLab/bionix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5055]
 updated: "2025-03-13T23:27:54Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/JarkkoPFC/mini_sxp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6728]
 updated: "2026-04-01T22:08:54Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/OpenPodcastAPI/api-specs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4941]
 updated: "2026-04-06T13:41:41Z"
 ---
 

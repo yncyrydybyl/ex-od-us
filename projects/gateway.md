@@ -5,7 +5,7 @@ repo: "https://github.com/WebThingsIO/gateway"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5860]
 updated: "2026-04-01T20:51:21Z"
 ---
 

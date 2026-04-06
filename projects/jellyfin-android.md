@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6227]
 updated: "2026-04-06T14:13:33Z"
 ---
 

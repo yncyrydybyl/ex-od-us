@@ -5,7 +5,7 @@ repo: "https://github.com/ocaml-multicore/eio"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5541]
 updated: "2025-11-04T15:07:30Z"
 ---
 

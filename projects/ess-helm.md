@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/ess-helm"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [5643]
 updated: "2026-04-02T22:09:09Z"
 verified: true
 verified_note: repo alive, room not checked

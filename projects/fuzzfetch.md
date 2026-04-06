@@ -5,7 +5,7 @@ repo: "https://github.com/MozillaSecurity/fuzzfetch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5846]
 updated: "2025-12-11T17:01:48Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/imessage"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6142]
 updated: "2025-07-15T12:14:54Z"
 ---
 

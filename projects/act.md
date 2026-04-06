@@ -5,7 +5,7 @@ repo: "https://github.com/argotorg/act"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4878]
 updated: "2026-04-03T09:44:59Z"
 ---
 

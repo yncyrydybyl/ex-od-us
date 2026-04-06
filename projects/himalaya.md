@@ -5,7 +5,7 @@ repo: "https://github.com/pimalaya/himalaya"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6063]
 updated: "2026-04-02T10:09:42Z"
 ---
 

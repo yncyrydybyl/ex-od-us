@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/nautilus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6847]
 updated: "2026-04-06T10:39:53Z"
 ---
 

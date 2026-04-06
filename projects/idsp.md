@@ -5,7 +5,7 @@ repo: "https://github.com/quartiq/idsp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6127]
 updated: "2026-04-01T11:03:38Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/fair-acc/gnuradio4"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5937]
 updated: "2026-04-06T16:13:12Z"
 ---
 

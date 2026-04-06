@@ -5,7 +5,7 @@ repo: "https://github.com/SuperIlu/DOjS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5475]
 updated: "2025-11-22T15:47:48Z"
 ---
 

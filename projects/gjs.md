@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/gjs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5908]
 updated: "2026-03-16T15:23:47Z"
 ---
 

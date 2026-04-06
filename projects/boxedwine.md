@@ -5,7 +5,7 @@ repo: "https://github.com/danoon2/Boxedwine"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5080]
 updated: "2026-04-02T15:00:38Z"
 verified: true
 verified_note: repo alive, room not checked

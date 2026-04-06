@@ -5,7 +5,7 @@ repo: "https://github.com/kpfleming/jinjanator"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6264]
 updated: "2026-03-28T10:23:51Z"
 ---
 

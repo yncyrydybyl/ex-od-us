@@ -5,7 +5,7 @@ repo: "https://github.com/nobodywho-ooo/nobodywho"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6988]
 updated: "2026-04-01T09:16:45Z"
 ---
 

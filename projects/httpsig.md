@@ -5,7 +5,7 @@ repo: "https://github.com/go-fed/httpsig"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6090]
 updated: "2024-01-19T14:56:22Z"
 ---
 

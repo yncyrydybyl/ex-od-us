@@ -5,7 +5,7 @@ repo: "https://github.com/Sorunome/mx-puppet-instagram"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6832]
 updated: "2023-01-09T23:15:01Z"
 ---
 

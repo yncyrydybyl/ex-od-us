@@ -5,7 +5,7 @@ repo: "https://github.com/libgeos/geos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5870]
 updated: "2026-04-04T00:23:42Z"
 ---
 

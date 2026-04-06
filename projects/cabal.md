@@ -5,7 +5,7 @@ repo: "https://github.com/haskell/cabal"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5129]
 updated: "2026-04-05T06:56:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/awesome-nix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5012]
 updated: "2026-02-26T00:32:49Z"
 ---
 

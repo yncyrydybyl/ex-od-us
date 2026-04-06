@@ -5,7 +5,7 @@ repo: "https://github.com/RevenantX/LiteNetLib"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6465]
 updated: "2026-03-27T17:46:15Z"
 ---
 

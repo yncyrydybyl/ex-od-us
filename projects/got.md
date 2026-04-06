@@ -5,7 +5,7 @@ repo: "https://github.com/gotvc/got"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [5979]
 updated: "2026-03-16T16:25:17Z"
 ---
 

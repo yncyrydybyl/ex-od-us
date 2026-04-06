@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nix.dev"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6928]
 updated: "2026-04-02T03:37:38Z"
 ---
 

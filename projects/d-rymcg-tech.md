@@ -5,7 +5,7 @@ repo: "https://github.com/EnigmaCurry/d.rymcg.tech"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [5357]
 updated: "2026-03-26T01:01:36Z"
 verified: false
 verified_note: repo not found (404)

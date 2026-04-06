@@ -5,7 +5,7 @@ repo: "https://github.com/dothq/browser-desktop"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5102]
 updated: "2024-04-19T21:12:49Z"
 verified: true
 verified_note: repo alive, room not checked

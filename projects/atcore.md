@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/atcore"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4983]
 updated: "2026-04-02T01:45:52Z"
 ---
 

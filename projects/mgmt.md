@@ -5,7 +5,7 @@ repo: "https://github.com/purpleidea/mgmt"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6714]
 updated: "2026-04-06T03:00:59Z"
 ---
 

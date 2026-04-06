@@ -5,7 +5,7 @@ repo: "https://github.com/aperturerobotics/bifrost"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5051]
 updated: "2026-04-04T20:50:52Z"
 ---
 

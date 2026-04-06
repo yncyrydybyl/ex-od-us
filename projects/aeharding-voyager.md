@@ -5,7 +5,7 @@ repo: "https://github.com/aeharding/voyager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4888]
 updated: "2026-04-02T01:42:49Z"
 ---
 

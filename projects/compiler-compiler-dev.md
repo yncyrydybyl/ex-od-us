@@ -4,7 +4,7 @@ repo: "https://github.com/codehag/compiler-compiler-dev"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5265]
 updated: "2023-01-05T22:21:34Z"
 ---
 

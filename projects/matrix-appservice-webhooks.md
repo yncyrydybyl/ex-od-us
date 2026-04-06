@@ -5,7 +5,7 @@ repo: "https://github.com/turt2live/matrix-appservice-webhooks"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6556]
 updated: "2024-04-18T12:34:49Z"
 ---
 

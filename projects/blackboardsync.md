@@ -5,7 +5,7 @@ repo: "https://github.com/sanjacob/BlackboardSync"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5063]
 updated: "2025-10-27T12:29:16Z"
 ---
 

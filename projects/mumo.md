@@ -5,7 +5,7 @@ repo: "https://github.com/mumble-voip/mumo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6822]
 updated: "2024-07-28T09:26:39Z"
 ---
 

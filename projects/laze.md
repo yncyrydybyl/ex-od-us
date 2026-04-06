@@ -5,7 +5,7 @@ repo: "https://github.com/kaspar030/laze"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6379]
 updated: "2026-04-06T14:56:56Z"
 ---
 

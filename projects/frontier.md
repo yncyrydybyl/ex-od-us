@@ -5,7 +5,7 @@ repo: "https://github.com/polkadot-evm/frontier"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5827]
 updated: "2026-04-02T14:18:30Z"
 ---
 

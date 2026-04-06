@@ -5,7 +5,7 @@ repo: "https://github.com/lilyinstarlight/nixos-cosmic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6960]
 updated: "2026-04-06T11:19:46Z"
 ---
 

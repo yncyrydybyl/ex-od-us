@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/mir"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6740]
 updated: "2026-04-06T17:11:04Z"
 ---
 

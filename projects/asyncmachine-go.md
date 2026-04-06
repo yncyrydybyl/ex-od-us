@@ -5,7 +5,7 @@ repo: "https://github.com/pancsta/asyncmachine-go"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4980]
 updated: "2026-04-02T10:06:32Z"
 ---
 

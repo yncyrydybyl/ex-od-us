@@ -4,7 +4,7 @@ repo: "https://github.com/mises-id/mises-browser-core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6748]
 updated: "2026-01-15T08:54:39Z"
 ---
 

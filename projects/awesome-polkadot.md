@@ -5,7 +5,7 @@ repo: "https://github.com/shawntabrizi/awesome-polkadot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5017]
 updated: "2025-03-30T08:01:41Z"
 ---
 

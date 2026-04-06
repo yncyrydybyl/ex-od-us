@@ -5,7 +5,7 @@ repo: "https://github.com/maubot/github"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5903]
 updated: "2026-04-05T18:12:58Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Acclorite/book-story"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5077]
 updated: "2026-02-20T16:00:38Z"
 verified: true
 verified_note: repo alive, room not checked

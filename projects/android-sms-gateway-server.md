@@ -5,7 +5,7 @@ repo: "https://github.com/RebekkaMa/android-sms-gateway-server"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4919]
 updated: "2021-05-20T09:30:39Z"
 ---
 

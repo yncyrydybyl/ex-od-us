@@ -5,7 +5,7 @@ repo: "https://github.com/sipcapture/homer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6079]
 updated: "2026-04-02T21:41:42Z"
 ---
 

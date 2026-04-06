@@ -5,7 +5,7 @@ repo: "https://github.com/a-kenji/flake-edit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5734]
 updated: "2026-04-06T03:54:52Z"
 ---
 

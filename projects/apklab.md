@@ -5,7 +5,7 @@ repo: "https://github.com/APKLab/APKLab"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4945]
 updated: "2025-11-11T04:28:28Z"
 verified: true
 verified_note: repo alive, room not checked

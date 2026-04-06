@@ -5,7 +5,7 @@ repo: "https://github.com/osandov/drgn"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5505]
 updated: "2026-04-04T08:01:38Z"
 ---
 

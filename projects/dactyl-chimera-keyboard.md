@@ -5,7 +5,7 @@ repo: "https://github.com/WolfIcefang/dactyl-chimera-keyboard"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5359]
 updated: "2023-04-22T15:48:30Z"
 ---
 

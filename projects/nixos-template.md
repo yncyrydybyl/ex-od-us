@@ -5,7 +5,7 @@ repo: "https://github.com/olafkfreund/nixos-template"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6972]
 updated: "2025-08-17T15:35:10Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/magic-wormhole/magic-wormhole-protocols"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6518]
 updated: "2026-04-04T23:47:45Z"
 ---
 

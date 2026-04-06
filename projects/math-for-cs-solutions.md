@@ -5,7 +5,7 @@ repo: "https://github.com/spamegg1/Math-for-CS-solutions"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6549]
 updated: "2024-09-02T10:04:24Z"
 ---
 

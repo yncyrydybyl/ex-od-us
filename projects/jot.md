@@ -5,7 +5,7 @@ repo: "https://github.com/mattmassicotte/Jot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6273]
 updated: "2025-07-24T05:10:00Z"
 ---
 

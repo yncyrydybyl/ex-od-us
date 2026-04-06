@@ -5,7 +5,7 @@ repo: "https://github.com/leftwm/leftwm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6394]
 updated: "2026-02-28T10:53:07Z"
 ---
 

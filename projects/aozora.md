@@ -4,7 +4,7 @@ repo: "https://github.com/blueskyCommunity/aozora"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4937]
 updated: "2022-11-30T23:39:11Z"
 verified: true
 verified_note: repo alive, room not checked

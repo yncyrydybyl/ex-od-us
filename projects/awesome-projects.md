@@ -5,7 +5,7 @@ repo: "https://github.com/imq/awesome-projects"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5020]
 updated: "2026-03-20T03:04:28Z"
 ---
 

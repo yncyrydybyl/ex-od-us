@@ -5,7 +5,7 @@ repo: "https://github.com/phuhl/bspwm-rounded"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5106]
 updated: "2022-11-29T12:35:24Z"
 ---
 

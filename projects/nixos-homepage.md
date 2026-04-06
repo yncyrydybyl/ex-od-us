@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/nixos-homepage"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6968]
 updated: "2026-04-06T14:03:04Z"
 ---
 

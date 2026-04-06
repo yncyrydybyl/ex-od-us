@@ -5,7 +5,7 @@ repo: "https://github.com/SPAAM-community/AncientMetagenomeDir"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4916]
 updated: "2026-04-01T12:49:06Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Nokse22/ascii-draw"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4972]
 updated: "2026-03-22T15:24:45Z"
 ---
 

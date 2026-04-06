@@ -5,7 +5,7 @@ repo: "https://github.com/freenet/freenet-core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5818]
 updated: "2026-04-05T22:07:07Z"
 ---
 

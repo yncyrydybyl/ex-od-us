@@ -5,7 +5,7 @@ repo: "https://github.com/the-draupnir-project/Draupnir"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [5499]
 updated: "2026-04-05T17:37:07Z"
 ---
 

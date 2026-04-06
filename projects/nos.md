@@ -5,7 +5,7 @@ repo: "https://github.com/planetary-social/nos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6996]
 updated: "2025-07-24T22:55:35Z"
 ---
 

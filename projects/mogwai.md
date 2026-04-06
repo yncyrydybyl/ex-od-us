@@ -5,7 +5,7 @@ repo: "https://github.com/schell/mogwai"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6777]
 updated: "2025-06-27T02:29:48Z"
 ---
 

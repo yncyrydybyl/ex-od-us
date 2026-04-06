@@ -5,7 +5,7 @@ repo: "https://github.com/mesonbuild/meson"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6690]
 updated: "2026-04-05T18:55:08Z"
 ---
 

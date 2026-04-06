@@ -5,7 +5,7 @@ repo: "https://github.com/manyfold3d/manyfold"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6537]
 updated: "2026-04-06T11:07:54Z"
 ---
 

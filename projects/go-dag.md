@@ -5,7 +5,7 @@ repo: "https://github.com/rhosocial/go-dag"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5942]
 updated: "2024-08-17T11:51:54Z"
 ---
 

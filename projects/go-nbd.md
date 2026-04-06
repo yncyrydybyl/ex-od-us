@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/go-nbd"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5948]
 updated: "2024-07-30T23:28:42Z"
 ---
 

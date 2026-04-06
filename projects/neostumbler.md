@@ -5,7 +5,7 @@ repo: "https://github.com/mjaakko/NeoStumbler"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6873]
 updated: "2026-04-02T16:45:40Z"
 ---
 

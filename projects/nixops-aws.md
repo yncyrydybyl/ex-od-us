@@ -4,7 +4,7 @@ repo: "https://github.com/NixOS/nixops-aws"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6944]
 updated: "2024-02-29T01:05:42Z"
 ---
 

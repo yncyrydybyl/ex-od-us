@@ -5,7 +5,7 @@ repo: "https://github.com/acelinkio/argocd-homelab"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4964]
 updated: "2026-04-05T13:06:26Z"
 verified: true
 verified_note: repo alive, room not checked

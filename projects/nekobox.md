@@ -5,7 +5,7 @@ repo: "https://github.com/qr243vbi/nekobox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6859]
 updated: "2026-04-06T13:28:09Z"
 ---
 

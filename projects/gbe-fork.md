@@ -5,7 +5,7 @@ repo: "https://github.com/Detanup01/gbe_fork"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5862]
 updated: "2026-04-03T15:50:32Z"
 ---
 

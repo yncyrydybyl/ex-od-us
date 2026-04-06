@@ -5,7 +5,7 @@ repo: "https://github.com/esp32-open-mac/esp32-open-mac"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5635]
 updated: "2025-03-07T19:56:51Z"
 verified: true
 verified_note: repo alive, room not checked

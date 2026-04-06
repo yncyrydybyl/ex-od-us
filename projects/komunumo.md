@@ -5,7 +5,7 @@ repo: "https://github.com/komunumo/komunumo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6340]
 updated: "2026-04-06T13:19:45Z"
 ---
 

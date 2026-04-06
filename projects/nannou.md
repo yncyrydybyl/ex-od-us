@@ -5,7 +5,7 @@ repo: "https://github.com/nannou-org/nannou"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6844]
 updated: "2026-03-13T00:46:35Z"
 ---
 

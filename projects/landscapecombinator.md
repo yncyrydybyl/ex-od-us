@@ -4,7 +4,7 @@ repo: "https://github.com/LandscapeCombinator/LandscapeCombinator"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6364]
 updated: "2026-04-03T07:26:52Z"
 ---
 

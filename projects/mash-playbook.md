@@ -5,7 +5,7 @@ repo: "https://github.com/mother-of-all-self-hosting/mash-playbook"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6542]
 updated: "2026-04-06T16:04:05Z"
 ---
 

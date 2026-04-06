@@ -5,7 +5,7 @@ repo: "https://github.com/ESMValGroup/ESMValCore"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5615]
 updated: "2026-04-02T07:39:40Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/lightspark/lightspark"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6447]
 updated: "2026-03-30T17:58:20Z"
 ---
 

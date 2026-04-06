@@ -5,7 +5,7 @@ repo: "https://github.com/tosc-rs/mnemos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6764]
 updated: "2025-01-21T03:37:30Z"
 ---
 

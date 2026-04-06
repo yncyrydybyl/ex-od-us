@@ -5,7 +5,7 @@ repo: "https://github.com/lora-rs/lora-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6492]
 updated: "2026-04-02T05:35:45Z"
 ---
 

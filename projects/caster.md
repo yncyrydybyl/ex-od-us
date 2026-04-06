@@ -5,7 +5,7 @@ repo: "https://github.com/dictation-toolbox/Caster"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5143]
 updated: "2026-03-26T03:35:15Z"
 verified: true
 verified_note: repo alive, room not checked

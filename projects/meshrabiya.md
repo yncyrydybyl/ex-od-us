@@ -5,7 +5,7 @@ repo: "https://github.com/UstadMobile/Meshrabiya"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6686]
 updated: "2024-12-17T14:38:47Z"
 ---
 

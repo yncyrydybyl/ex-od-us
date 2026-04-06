@@ -5,7 +5,7 @@ repo: "https://github.com/jsdom/jsdom"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6280]
 updated: "2026-04-06T07:09:27Z"
 ---
 

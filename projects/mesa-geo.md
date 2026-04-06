@@ -5,7 +5,7 @@ repo: "https://github.com/mesa/mesa-geo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6679]
 updated: "2026-03-30T14:04:37Z"
 ---
 

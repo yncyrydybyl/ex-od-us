@@ -5,7 +5,7 @@ repo: "https://github.com/jeffvli/feishin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5700]
 updated: "2026-04-06T06:24:01Z"
 ---
 

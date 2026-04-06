@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/atelier"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4984]
 updated: "2026-04-06T01:48:49Z"
 ---
 

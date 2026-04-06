@@ -5,7 +5,7 @@ repo: "https://github.com/ernestwisniewski/kbin"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6317]
 updated: "2023-12-20T11:16:20Z"
 verified: true
 verified_note: repo alive, room not checked

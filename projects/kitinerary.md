@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/kitinerary"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6333]
 updated: "2026-04-01T15:15:01Z"
 ---
 

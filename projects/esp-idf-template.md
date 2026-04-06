@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-idf-template"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5632]
 updated: "2026-03-12T09:26:25Z"
 verified: true
 verified_note: repo alive, room not checked

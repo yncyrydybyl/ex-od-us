@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/flakelight"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5742]
 updated: "2026-04-06T13:21:41Z"
 ---
 

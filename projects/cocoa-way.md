@@ -5,7 +5,7 @@ repo: "https://github.com/J-x-Z/cocoa-way"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5218]
 updated: "2026-03-31T13:53:57Z"
 ---
 

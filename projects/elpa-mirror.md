@@ -5,7 +5,7 @@ repo: "https://github.com/d12frosted/elpa-mirror"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5567]
 updated: "2026-04-06T12:28:52Z"
 ---
 

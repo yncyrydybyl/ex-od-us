@@ -5,7 +5,7 @@ repo: "https://github.com/juju/juju"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6288]
 updated: "2026-04-06T02:20:15Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/SamR1/FitTrackee"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5728]
 updated: "2026-04-06T14:06:19Z"
 ---
 

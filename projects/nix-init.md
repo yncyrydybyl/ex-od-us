@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nix-init"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6934]
 updated: "2026-04-06T08:55:01Z"
 ---
 

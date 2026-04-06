@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-admin"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [5548]
 updated: "2026-04-03T22:27:25Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/nucleus-ffm/foss_warn"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5802]
 updated: "2026-03-21T08:57:29Z"
 ---
 

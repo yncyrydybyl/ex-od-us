@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/embuild"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5585]
 updated: "2026-03-28T16:16:20Z"
 verified: true
 verified_note: repo alive, room not checked

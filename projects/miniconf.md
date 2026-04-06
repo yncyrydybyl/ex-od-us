@@ -5,7 +5,7 @@ repo: "https://github.com/quartiq/miniconf"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6732]
 updated: "2026-02-12T14:26:09Z"
 ---
 

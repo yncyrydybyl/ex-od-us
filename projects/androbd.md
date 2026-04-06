@@ -5,7 +5,7 @@ repo: "https://github.com/fr3ts0n/AndrOBD"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4918]
 updated: "2026-04-04T06:47:11Z"
 ---
 

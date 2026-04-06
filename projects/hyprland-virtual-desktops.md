@@ -5,7 +5,7 @@ repo: "https://github.com/levnikmyskin/hyprland-virtual-desktops"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6112]
 updated: "2026-03-30T10:54:02Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix.to"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6634]
 updated: "2026-01-02T14:58:25Z"
 ---
 

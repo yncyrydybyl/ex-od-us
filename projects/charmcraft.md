@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/charmcraft"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5160]
 updated: "2026-04-06T14:00:11Z"
 ---
 

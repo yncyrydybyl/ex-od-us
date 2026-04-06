@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dde-dock"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5398]
 updated: "2025-01-14T11:32:23Z"
 ---
 

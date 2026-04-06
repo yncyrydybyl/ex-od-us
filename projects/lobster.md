@@ -5,7 +5,7 @@ repo: "https://github.com/justchokingaround/lobster"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6479]
 updated: "2026-04-03T08:28:00Z"
 ---
 

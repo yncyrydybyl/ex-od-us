@@ -5,7 +5,7 @@ repo: "https://github.com/ligurio/awesome-openbsd"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5013]
 updated: "2025-05-05T08:44:07Z"
 ---
 

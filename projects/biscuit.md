@@ -5,7 +5,7 @@ repo: "https://github.com/eclipse-biscuit/biscuit"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5056]
 updated: "2025-10-21T14:58:11Z"
 verified: true
 verified_note: repo alive, room not checked

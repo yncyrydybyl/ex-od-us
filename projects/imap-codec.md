@@ -5,7 +5,7 @@ repo: "https://github.com/duesee/imap-codec"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6140]
 updated: "2026-04-06T01:26:07Z"
 ---
 

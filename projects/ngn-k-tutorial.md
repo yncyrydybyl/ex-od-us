@@ -5,7 +5,7 @@ repo: "https://github.com/razetime/ngn-k-tutorial"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6901]
 updated: "2024-06-06T11:50:28Z"
 ---
 

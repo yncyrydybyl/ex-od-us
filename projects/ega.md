@@ -5,7 +5,7 @@ repo: "https://github.com/ryankeleti/ega"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5537]
 updated: "2025-10-15T23:04:26Z"
 ---
 

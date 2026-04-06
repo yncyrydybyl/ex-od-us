@@ -5,7 +5,7 @@ repo: "https://github.com/rust-embedded/discovery-mb2"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5452]
 updated: "2026-03-22T07:40:35Z"
 ---
 

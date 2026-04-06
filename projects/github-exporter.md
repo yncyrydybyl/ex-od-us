@@ -5,7 +5,7 @@ repo: "https://github.com/promhippie/github_exporter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5902]
 updated: "2026-04-06T09:18:16Z"
 ---
 

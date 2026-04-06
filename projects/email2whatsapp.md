@@ -5,7 +5,7 @@ repo: "https://github.com/dsonbaker/email2whatsapp"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5572]
 updated: "2025-10-31T04:32:22Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/hadronized/luminance-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6503]
 updated: "2023-03-20T04:59:16Z"
 ---
 

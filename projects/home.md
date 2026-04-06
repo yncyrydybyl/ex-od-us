@@ -5,7 +5,7 @@ repo: "https://github.com/tinted-theming/home"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6077]
 updated: "2026-04-02T20:09:13Z"
 ---
 

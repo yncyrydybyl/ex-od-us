@@ -5,7 +5,7 @@ repo: "https://github.com/tryvocalcat/badgefed"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5041]
 updated: "2026-03-23T22:34:30Z"
 ---
 

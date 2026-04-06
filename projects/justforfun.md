@@ -5,7 +5,7 @@ repo: "https://github.com/MahoChan/JustForFun"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6295]
 updated: "2023-02-06T02:40:23Z"
 ---
 

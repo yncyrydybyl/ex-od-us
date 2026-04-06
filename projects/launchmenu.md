@@ -5,7 +5,7 @@ repo: "https://github.com/LaunchMenu/LaunchMenu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6375]
 updated: "2023-01-06T16:15:32Z"
 ---
 

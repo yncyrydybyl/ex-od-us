@@ -5,7 +5,7 @@ repo: "https://github.com/eza-community/eza"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5673]
 updated: "2026-04-04T21:29:47Z"
 ---
 

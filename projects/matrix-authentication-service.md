@@ -4,7 +4,7 @@ repo: "https://github.com/element-hq/matrix-authentication-service"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6559]
 updated: "2026-04-03T22:55:46Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/scionproto/awesome-scion"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5027]
 updated: "2026-03-25T09:35:55Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/tinted-theming/base24"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5045]
 updated: "2026-01-07T20:09:18Z"
 ---
 

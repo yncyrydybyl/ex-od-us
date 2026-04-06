@@ -5,7 +5,7 @@ repo: "https://github.com/jam1garner/binread"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5052]
 updated: "2023-02-24T06:20:07Z"
 ---
 

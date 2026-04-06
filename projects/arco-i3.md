@@ -5,7 +5,7 @@ repo: "https://github.com/arcolinuxd/arco-i3"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4960]
 updated: "2025-04-13T18:02:58Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/nim65s/matrix-webhook"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6640]
 updated: "2026-04-06T16:57:22Z"
 ---
 

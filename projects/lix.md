@@ -5,7 +5,7 @@ repo: "https://github.com/lix-project/lix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6475]
 updated: "2026-03-30T21:17:46Z"
 ---
 

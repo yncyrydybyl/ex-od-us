@@ -5,7 +5,7 @@ repo: "https://github.com/rust-dark-light/dark-light"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5363]
 updated: "2025-11-30T04:50:16Z"
 ---
 

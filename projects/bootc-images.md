@@ -4,7 +4,7 @@ repo: "https://github.com/AlmaLinux/bootc-images"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5079]
 updated: "2026-04-03T13:57:08Z"
 ---
 

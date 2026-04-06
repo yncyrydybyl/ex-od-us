@@ -5,7 +5,7 @@ repo: "https://github.com/pimalaya/himalaya-vim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6061]
 updated: "2026-02-24T22:12:49Z"
 ---
 

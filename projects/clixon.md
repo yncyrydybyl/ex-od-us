@@ -5,7 +5,7 @@ repo: "https://github.com/clicon/clixon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5206]
 updated: "2026-03-30T14:33:55Z"
 ---
 

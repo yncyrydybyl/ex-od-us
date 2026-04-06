@@ -5,7 +5,7 @@ repo: "https://github.com/vranki/hemppa"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6051]
 updated: "2026-02-12T13:42:29Z"
 ---
 

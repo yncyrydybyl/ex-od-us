@@ -5,7 +5,7 @@ repo: "https://github.com/dankamongmen/notcurses"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6997]
 updated: "2026-02-15T03:33:46Z"
 verified: true
 verified_note: repo alive, room not checked

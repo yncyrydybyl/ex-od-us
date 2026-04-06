@@ -5,7 +5,7 @@ repo: "https://github.com/an0nfunc/ALHP"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4902]
 updated: "2025-12-19T19:42:55Z"
 verified: true
 verified_note: repo alive, room not checked

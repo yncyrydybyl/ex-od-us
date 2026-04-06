@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/cisco.asa"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [5185]
 updated: "2026-03-16T20:08:14Z"
 verified: false
 verified_note: repo not found (404)

@@ -5,7 +5,7 @@ repo: "https://github.com/orcwg/cra-attestations"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5304]
 updated: "2026-03-24T21:00:03Z"
 ---
 

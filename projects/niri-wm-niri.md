@@ -5,7 +5,7 @@ repo: "https://github.com/niri-wm/niri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6917]
 updated: "2026-04-05T18:14:45Z"
 ---
 

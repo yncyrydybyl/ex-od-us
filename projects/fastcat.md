@@ -5,7 +5,7 @@ repo: "https://github.com/m3tozz/FastCat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5687]
 updated: "2026-03-29T11:39:07Z"
 ---
 

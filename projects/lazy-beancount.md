@@ -5,7 +5,7 @@ repo: "https://github.com/Evernight/lazy-beancount"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6381]
 updated: "2026-03-06T20:43:07Z"
 verified: true
 verified_note: repo alive, room not checked

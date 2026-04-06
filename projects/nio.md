@@ -5,7 +5,7 @@ repo: "https://github.com/niochat/nio"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [6913]
 updated: "2026-02-16T12:08:41Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/sempruijs/coding-with-eyes-closed"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5228]
 updated: "2025-02-09T13:31:46Z"
 ---
 

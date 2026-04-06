@@ -5,7 +5,7 @@ repo: "https://github.com/nievaflorencia/Empresas-Autocandidatura"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5592]
 updated: "2025-02-27T19:33:43Z"
 ---
 

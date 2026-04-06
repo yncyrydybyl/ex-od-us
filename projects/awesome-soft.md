@@ -5,7 +5,7 @@ repo: "https://github.com/Himura2la/awesome-soft"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5029]
 updated: "2026-01-19T08:18:17Z"
 ---
 

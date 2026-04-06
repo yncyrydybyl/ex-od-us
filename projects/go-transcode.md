@@ -5,7 +5,7 @@ repo: "https://github.com/m1k1o/go-transcode"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5954]
 updated: "2025-06-17T09:06:11Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/flakestry/flakestry.dev"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [5746]
 updated: "2024-10-24T16:22:11Z"
 verified: false
 verified_note: repo not found (404)

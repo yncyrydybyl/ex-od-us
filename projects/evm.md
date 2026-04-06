@@ -5,7 +5,7 @@ repo: "https://github.com/rust-ethereum/evm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5653]
 updated: "2026-03-25T21:30:31Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/flatcar-linux-update-operator"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5752]
 updated: "2026-03-31T14:11:29Z"
 verified: true
 verified_note: repo alive, room not checked

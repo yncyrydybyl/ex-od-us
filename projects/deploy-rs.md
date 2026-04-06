@@ -5,7 +5,7 @@ repo: "https://github.com/serokell/deploy-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5430]
 updated: "2026-04-06T02:01:35Z"
 ---
 

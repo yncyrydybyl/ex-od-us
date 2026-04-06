@@ -5,7 +5,7 @@ repo: "https://github.com/hpjansson/chafa"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5159]
 updated: "2026-02-25T16:05:51Z"
 ---
 

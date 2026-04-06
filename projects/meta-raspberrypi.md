@@ -5,7 +5,7 @@ repo: "https://github.com/agherzan/meta-raspberrypi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6696]
 updated: "2026-03-31T23:01:19Z"
 ---
 
