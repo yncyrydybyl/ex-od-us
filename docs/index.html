@@ -14,16 +14,26 @@ body {
 a { color: #58a6ff; text-decoration: none; }
 a:hover { text-decoration: underline; }
 .container { max-width: 1200px; margin: 0 auto; }
-header { margin-bottom: 1.5rem; }
+header { margin-bottom: 1.5rem; position: relative; }
 header h1 { font-size: 2rem; color: #f0f6fc; margin-bottom: 0.5rem; }
 header p { color: #8b949e; max-width: 600px; }
+.header-right {
+  position: absolute; top: 0; right: 0;
+  display: flex; align-items: center; gap: 0.75rem;
+}
 .cta-add {
-  display: inline-block; margin-top: 0.75rem;
-  padding: 0.5rem 1.1rem; font-size: 0.9rem; font-weight: 600;
+  display: inline-block;
+  padding: 0.45rem 1rem; font-size: 0.8rem; font-weight: 600;
   background: #238636; color: #fff; border-radius: 6px;
   transition: background 0.15s;
 }
 .cta-add:hover { background: #2ea043; text-decoration: none; }
+.header-brand {
+  display: flex; align-items: center; gap: 0.4rem;
+  font-size: 0.75rem; color: #484f58;
+}
+.header-brand a { color: #6e7681; }
+.header-brand img { height: 20px; border-radius: 3px; }
 
 /* Controls */
 .controls {
@@ -84,22 +94,25 @@ header p { color: #8b949e; max-width: 600px; }
   font-size: 0.75rem; font-weight: 700; color: #8b949e;
 }
 .card-avatar img { width: 100%; height: 100%; border-radius: 6px; object-fit: cover; }
-.card-rank {
+.card-matrix-badge {
   position: absolute; top: 8px; right: 8px;
-  font-size: 0.7rem; font-weight: 700; color: #484f58;
-  background: #0d1117; border: 1px solid #21262d;
-  padding: 0.1rem 0.4rem; border-radius: 4px;
+  display: inline-flex; align-items: center; gap: 0;
+  border-radius: 4px; overflow: hidden;
+  font-size: 0.65rem; font-weight: 600; line-height: 1;
+  text-decoration: none; border: 1px solid #30363d;
 }
-.card-matrix-link {
-  position: absolute; top: 8px; right: 48px;
-  display: flex; align-items: center; justify-content: center;
-  width: 24px; height: 24px; border-radius: 6px;
-  background: #0d1117; border: 1px solid #238636;
-  color: #3fb950; font-size: 0.7rem; font-weight: 800;
-  text-decoration: none; transition: background 0.15s, border-color 0.15s;
+.card-matrix-badge:hover { border-color: #3fb950; text-decoration: none; }
+.card-matrix-badge .mbadge-icon {
+  background: #0d1117; padding: 0.2rem 0.35rem; color: #3fb950;
+  display: flex; align-items: center;
 }
-.card-matrix-link:hover { background: #238636; color: #fff; text-decoration: none; }
-.card-matrix-link[data-empty] { border-color: #30363d; color: #484f58; cursor: default; }
+.card-matrix-badge .mbadge-icon img { height: 12px; }
+.card-matrix-badge .mbadge-label {
+  background: #238636; color: #fff; padding: 0.2rem 0.4rem;
+  white-space: nowrap;
+}
+.card-matrix-badge.empty .mbadge-icon { color: #484f58; }
+.card-matrix-badge.empty .mbadge-label { background: #21262d; color: #484f58; }
 .card-title { font-size: 0.95rem; font-weight: 600; color: #f0f6fc; flex: 1; min-width: 0; }
 .card-title a { color: inherit; }
 .card-title a:hover { color: #58a6ff; text-decoration: none; }
@@ -276,14 +289,22 @@ header p { color: #8b949e; max-width: 600px; }
   #count { margin-left: 0; }
   .howto-bar { flex-direction: column; }
   .hero-question { font-size: 1.1rem; }
+  .header-right { position: static; margin-bottom: 0.75rem; }
 }
 </style>
 </head>
 <body>
 <div class="container">
   <header>
+    <div class="header-right">
+      <a class="cta-add" href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">+ Add a project</a>
+      <div class="header-brand">
+        <span>a project by</span>
+        <a href="https://datanauten.de">datanauten.de</a>
+      </div>
+    </div>
     <h1>Exodus Project Tracker</h1>
-    <div class="hero-question">
+    <div class="hero-question" id="hero">
       Where is the
       <span class="hero-slot word" id="hero-word"></span>
       room for
@@ -292,8 +313,6 @@ header p { color: #8b949e; max-width: 600px; }
     <p>Tracking the migration of open-source projects to
       <a href="https://matrix.org">Matrix</a>.
     </p>
-    <a class="cta-add" href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">+ Add a project</a>
-    <p style="font-size:0.75rem;color:#484f58;margin-top:0.5rem">a project by <a href="https://datanauten.de" style="color:#6e7681">datanauten.de</a></p>
   </header>
 
   <nav class="howto-bar">
@@ -519,24 +538,22 @@ function renderCards(projects) {
         <span class="exodus-bar-label">${sc}/10</span>
       </div>` : '';
 
-    // Matrix badge: detect type from URL (room #, space +, user @)
-    let matrixBadge;
+    // Matrix badge (shields-style: [M] enter room / enter space / chat user)
     const matrixLink = firstRoom ? firstRoom.url : (p.matrixUser || '');
+    let matrixBadge;
     if (matrixLink) {
-      let mLabel = '#';  // room
-      let mTitle = 'Matrix room';
-      if (matrixLink.includes('/#/+')) { mLabel = '+'; mTitle = 'Matrix space'; }
-      else if (matrixLink.includes('/#/@')) { mLabel = '@'; mTitle = 'Matrix user'; }
-      matrixBadge = `<a class="card-matrix-link" href="${esc(matrixLink)}" target="_blank" onclick="event.stopPropagation()" title="${mTitle}: ${esc(matrixLink)}">${mLabel}</a>`;
+      let mLabel = 'enter room';
+      if (matrixLink.includes('/#/+')) mLabel = 'enter space';
+      else if (matrixLink.includes('/#/@')) mLabel = 'chat user';
+      matrixBadge = `<a class="card-matrix-badge" href="${esc(matrixLink)}" target="_blank" onclick="event.stopPropagation()" title="${esc(matrixLink)}"><span class="mbadge-icon"><img src="https://matrix.to/img/matrix-badge.svg" alt="M" onerror="this.textContent='[m]'"></span><span class="mbadge-label">${mLabel}</span></a>`;
     } else {
-      matrixBadge = `<span class="card-matrix-link" data-empty title="No Matrix presence">&ndash;</span>`;
+      matrixBadge = `<span class="card-matrix-badge empty"><span class="mbadge-icon">[m]</span><span class="mbadge-label">no room</span></span>`;
     }
 
     return `
     <div class="card" data-idx="${i}">
       <div class="card-accent accent-${p.platform}"></div>
       ${matrixBadge}
-      <span class="card-rank">#${rank}</span>
       <div class="card-body">
         <div class="card-header">
           ${avatar}
@@ -765,7 +782,7 @@ function syncToURL() {
 
 // ── Hero rotation (slot-machine style) ──────────────────────────
 function startHeroAnimation() {
-  const words = ['chat', 'support', 'community', 'hangout'];
+  const words = ['chat', 'support', 'community', 'hangout', 'dev', 'discussion', 'project'];
   const wordSlot = document.getElementById('hero-word');
   const projSlot = document.getElementById('hero-project');
   if (!wordSlot || !projSlot) return;
@@ -797,11 +814,12 @@ function startHeroAnimation() {
     const lineH = parseFloat(getComputedStyle(slot.parentElement).lineHeight);
     slot.style.height = lineH + 'px';
 
-    // Add rotating spans
+    // Add rotating spans (with data-rotate to distinguish from sizer)
     items.forEach((t, i) => {
       const s = document.createElement('span');
       s.textContent = t;
       s.className = i === 0 ? 'active' : 'queued';
+      s.dataset.rotate = '';
       slot.appendChild(s);
     });
     return { slot, count: items.length, idx: 0 };
@@ -811,7 +829,7 @@ function startHeroAnimation() {
   const ps = initSlot(projSlot, names);
 
   function rotate(state) {
-    const spans = state.slot.querySelectorAll('span');
+    const spans = state.slot.querySelectorAll('span[data-rotate]');
     const prev = state.idx;
     state.idx = (state.idx + 1) % state.count;
     spans[prev].className = 'leaving';
