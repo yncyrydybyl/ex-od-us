@@ -177,6 +177,7 @@ for fname in sorted(os.listdir(projects_dir)):
 # Sort by exodus_score descending (None last), then name
 projects.sort(key=lambda p: (-(p['exodus_score'] or -1), str(p['name']).lower()))
 
+# Full output (for enricher, sync, local dev)
 result = {
     'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'count': len(projects),
@@ -187,5 +188,34 @@ os.makedirs(os.path.dirname(output_file), exist_ok=True)
 with open(output_file, 'w') as f:
     json.dump(result, f, indent=2)
 
-print(f"Built {len(projects)} projects → {output_file}", file=sys.stderr)
+# Slim output for the website (short keys, truncated descriptions, no bloat)
+slim = []
+for p in projects:
+    rooms = p.get('channels', {}).get('matrix_rooms', [])
+    ch = {k: v for k, v in p.get('channels', {}).items()
+          if v and k not in ('matrix_rooms', 'other')}
+    slim.append({
+        's': p['slug'],
+        'n': p['name'],
+        'd': (p.get('description') or '')[:140],
+        'x': p.get('exodus_score'),
+        'p': p['platform'],
+        'c': p.get('categories', []),
+        'r': p.get('repo', ''),
+        'w': p.get('website', ''),
+        'm': rooms[:3],  # first 3 matrix rooms
+        'st': p.get('status', ''),
+        'i': p.get('issues', []),
+        'u': p.get('updated', ''),
+        'ls': p.get('last_scanned', ''),
+        'ch': ch if ch else None,
+    })
+
+slim_file = output_file.replace('projects.json', 'projects-slim.json')
+with open(slim_file, 'w') as f:
+    json.dump({'c': len(slim), 'p': slim}, f, separators=(',', ':'))
+
+full_kb = os.path.getsize(output_file) // 1024
+slim_kb = os.path.getsize(slim_file) // 1024
+print(f"Built {len(projects)} projects → {output_file} ({full_kb}KB) + {slim_file} ({slim_kb}KB)", file=sys.stderr)
 PYEOF
