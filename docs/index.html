@@ -93,6 +93,14 @@ header p { color: #8b949e; max-width: 600px; }
 }
 .badge-category { background: #21262d; color: #c9d1d9; border-color: #30363d; }
 .badge-status { background: #1f2328; color: #8b949e; border-color: #30363d; font-style: italic; }
+.card-links {
+  display: flex; flex-wrap: wrap; gap: 0.25rem 0.5rem;
+  margin-top: 0.5rem; font-size: 0.75rem;
+}
+.card-links a {
+  color: #8b949e; transition: color 0.15s;
+}
+.card-links a:hover { color: #58a6ff; text-decoration: none; }
 .card-footer {
   display: flex; justify-content: space-between; align-items: center;
   margin-top: 0.5rem; padding-top: 0.5rem; border-top: 1px solid #21262d;
@@ -376,6 +384,25 @@ function renderCards(projects) {
       ? `<div class="card-avatar"><img src="${esc(p.avatar_url)}" alt="" loading="lazy" onerror="this.parentElement.textContent='${esc(p.initials)}'"></div>`
       : `<div class="card-avatar">${esc(p.initials)}</div>`;
 
+    // Build card links: matrix rooms + matrixrooms.info
+    const cardLinks = [];
+    const firstRoom = p.matrixRoomsParsed[0];
+    if (firstRoom) {
+      cardLinks.push(`<a href="${esc(firstRoom.url)}" target="_blank" onclick="event.stopPropagation()" title="${esc(firstRoom.url)}">${esc(firstRoom.name)}</a>`);
+      // Extract room alias for matrixrooms.info link
+      const aliasMatch = firstRoom.url.match(/matrix\.to\/#\/(#[^?/]+)/);
+      if (aliasMatch) {
+        const encoded = encodeURIComponent(aliasMatch[1]);
+        cardLinks.push(`<a href="https://matrixrooms.info/room/${encoded}" target="_blank" onclick="event.stopPropagation()" title="matrixrooms.info">matrixrooms.info</a>`);
+      }
+    }
+    if (p.matrixRoomsParsed.length > 1) {
+      cardLinks.push(`<span style="color:#484f58">+${p.matrixRoomsParsed.length - 1} more</span>`);
+    }
+    if (p.issues.length) {
+      cardLinks.push(`<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank" onclick="event.stopPropagation()" title="Tracker issue #${p.issues[0]}">#${p.issues[0]}</a>`);
+    }
+
     return `
     <div class="card" data-idx="${i}">
       <div class="card-accent accent-${p.platform}"></div>
@@ -384,14 +411,16 @@ function renderCards(projects) {
         <div class="card-header">
           ${avatar}
           <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.name)}</a></div>
+          ${scoreBadge}
         </div>
         <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
         <div class="card-meta">
-          ${scoreBadge} ${platformBadge} ${cats}
+          ${platformBadge} ${cats}
           ${p.status ? `<span class="badge badge-status">${esc(p.status)}</span>` : ''}
         </div>
+        ${cardLinks.length ? `<div class="card-links">${cardLinks.join('')}</div>` : ''}
         <div class="card-footer">
-          <span>Updated ${timeAgo(p.updated)}</span>
+          <span>${p.last_scanned ? `Scanned ${timeAgo(p.last_scanned)}` : `Updated ${timeAgo(p.updated)}`}</span>
           <button class="card-info-btn" onclick="event.stopPropagation(); openModal(${i})" title="Details">i</button>
         </div>
       </div>
@@ -469,6 +498,7 @@ function openModal(idx) {
           ${p.status ? esc(p.status) : ''}
           ${p.community_size ? ` &middot; ${esc(p.community_size)}` : ''}
           &middot; Updated ${timeAgo(p.updated)}
+          ${p.last_scanned ? ` &middot; Scanned ${timeAgo(p.last_scanned)}` : ''}
         </div>
       </div>
     </div>

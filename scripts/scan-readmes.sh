@@ -297,5 +297,25 @@ if [[ "$CHANGES" -gt 0 ]]; then
   echo "$RESULTS" | jq -r '.[] | select(.changed) | "  \(.slug) (issue #\(.issue)) — score: \(.score)/10"'  >&2
 fi
 
+# ── Update last_scanned in project files ─────────────────────────
+SCAN_TS=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+if [[ -d "projects" ]]; then
+  echo "$RESULTS" | jq -c '.[]' | while IFS= read -r entry; do
+    ENTRY_SLUG=$(echo "$entry" | jq -r '.slug')
+    # Find matching project file by repo URL
+    for pfile in projects/*.md; do
+      if grep -q "$ENTRY_SLUG" "$pfile" 2>/dev/null; then
+        if grep -q '^last_scanned:' "$pfile"; then
+          sed -i "s|^last_scanned:.*|last_scanned: \"$SCAN_TS\"|" "$pfile"
+        else
+          sed -i "/^updated:/a last_scanned: \"$SCAN_TS\"" "$pfile"
+        fi
+        echo "  Updated last_scanned in $pfile" >&2
+        break
+      fi
+    done
+  done
+fi
+
 # Output changed repos for downstream steps
 echo "$RESULTS" | jq '[.[] | select(.changed)]'
