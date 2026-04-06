@@ -10,7 +10,7 @@ updated: "2023-06-07T10:11:59Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:24:15Z"
+last_scanned: "2026-04-06T19:03:58Z"
 ---
 
 A template for kick starting a Substrate based PoS chain.

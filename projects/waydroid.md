@@ -1,12 +1,17 @@
 ---
-name: "Waydroid"
-description: "Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu."
+name: Waydroid
+description: Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 repo: "https://github.com/waydroid/waydroid"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-29T20:28:39Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#waydroid:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:10:01Z"
 ---
 
 Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.

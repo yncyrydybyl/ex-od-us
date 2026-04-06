@@ -1,12 +1,16 @@
 ---
-name: "Sentrypeer"
+name: Sentrypeer
 description: "Protect your SIP Servers from bad actors at https://sentrypeer.org"
 repo: "https://github.com/SentryPeer/SentryPeer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T19:44:18Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:00:58Z"
 ---
 
 Protect your SIP Servers from bad actors at https://sentrypeer.org

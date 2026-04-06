@@ -10,7 +10,7 @@ updated: "2026-04-06T09:26:27Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:20:02Z"
+last_scanned: "2026-04-06T18:53:53Z"
 ---
 
 A user-owned database. Just for ewe 🐑

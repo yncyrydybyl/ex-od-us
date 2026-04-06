@@ -1,12 +1,15 @@
 ---
-name: "Ubports Installer"
-description: "A simple tool to install Ubuntu Touch on UBports devices"
+name: Ubports Installer
+description: A simple tool to install Ubuntu Touch on UBports devices
 repo: "https://github.com/ubports/ubports-installer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-20T17:02:12Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:08:14Z"
 ---
 
 A simple tool to install Ubuntu Touch on UBports devices

@@ -1,12 +1,17 @@
 ---
-name: "Populus Viewer"
-description: "A Social Annotation Tool Powered by Matrix"
+name: Populus Viewer
+description: A Social Annotation Tool Powered by Matrix
 repo: "https://github.com/lottec-ufpb/populus-viewer"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-01T11:13:00Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#opentower:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:37Z"
 ---
 
 A Social Annotation Tool Powered by Matrix

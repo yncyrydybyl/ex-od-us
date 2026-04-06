@@ -1,12 +1,16 @@
 ---
-name: "Privacy Infosec Tools Resources"
-description: "A good selection of Privacy & Infosec tools that will help you understand more about how to protect your online privacy and security."
+name: Privacy Infosec Tools Resources
+description: A good selection of Privacy & Infosec tools that will help you understand more about how to protect your online privacy and security.
 repo: "https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-21T05:32:49Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:08:05Z"
 ---
 
 A good selection of Privacy & Infosec tools that will help you understand more about how to protect your online privacy and security.

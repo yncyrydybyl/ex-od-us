@@ -1,12 +1,16 @@
 ---
-name: "Librelingo"
-description: "🐢 🌎 📚 a community-owned language-learning platform"
+name: Librelingo
+description: 🐢 🌎 📚 a community-owned language-learning platform
 repo: "https://github.com/kantord/LibreLingo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-01-16T10:20:48Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 4
+last_scanned: "2026-04-06T19:04:34Z"
 ---
 
 🐢 🌎 📚 a community-owned language-learning platform

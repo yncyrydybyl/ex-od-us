@@ -9,7 +9,7 @@ issues: [48]
 updated: "2026-03-11T13:39:12Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:23:11Z"
+last_scanned: "2026-04-06T19:06:18Z"
 exodus_score: 3
 ---
 

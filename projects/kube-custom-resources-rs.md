@@ -1,12 +1,17 @@
 ---
-name: "Kube Custom Resources Rs"
-description: "Kubernetes Custom Resource Bindings for Rust"
+name: Kube Custom Resources Rs
+description: Kubernetes Custom Resource Bindings for Rust
 repo: "https://github.com/metio/kube-custom-resources-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T11:00:05Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#talk.metio:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:03:34Z"
 ---
 
 Kubernetes Custom Resource Bindings for Rust

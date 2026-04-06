@@ -1,12 +1,15 @@
 ---
-name: "Nullclaw"
-description: "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+name: Nullclaw
+description: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 repo: "https://github.com/nullclaw/nullclaw"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T21:18:35Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:12:18Z"
 ---
 
 Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig

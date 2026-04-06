@@ -1,12 +1,17 @@
 ---
-name: "Pinnacle"
-description: "A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust"
+name: Pinnacle
+description: A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 repo: "https://github.com/pinnacle-comp/pinnacle"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-28T03:18:01Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#pinnacle:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:06:49Z"
 ---
 
 A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust

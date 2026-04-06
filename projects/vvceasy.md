@@ -1,12 +1,17 @@
 ---
-name: "Vvceasy"
-description: "VVCEasy provides ready prebuilt VVC (Versatile Video Codec) binaries & players. Simple, Easy, Encode and Decode."
+name: Vvceasy
+description: VVCEasy provides ready prebuilt VVC (Versatile Video Codec) binaries & players. Simple, Easy, Encode and Decode.
 repo: "https://github.com/MartinEesmaa/VVCEasy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T07:12:35Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#vvceasy:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:30Z"
 ---
 
 VVCEasy provides ready prebuilt VVC (Versatile Video Codec) binaries & players. Simple, Easy, Encode and Decode.

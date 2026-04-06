@@ -1,12 +1,16 @@
 ---
-name: "Recipya"
-description: "A clean, simple and powerful recipe manager your whole family will enjoy."
+name: Recipya
+description: A clean, simple and powerful recipe manager your whole family will enjoy.
 repo: "https://github.com/reaper47/recipya"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T04:00:40Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:10:29Z"
 ---
 
 A clean, simple and powerful recipe manager your whole family will enjoy.

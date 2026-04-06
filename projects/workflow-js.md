@@ -1,12 +1,17 @@
 ---
-name: "Workflow Js"
-description: "WorkflowJS is a lightweight and flexible library for building workflows and processes with NodeJS. It allows you to define processes using BPMN 2.0"
+name: Workflow Js
+description: WorkflowJS is a lightweight and flexible library for building workflows and processes with NodeJS. It allows you to define processes using BPMN 2.0
 repo: "https://github.com/vhidvz/workflow-js"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-10-23T09:40:52Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#wfjs:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T19:10:59Z"
 ---
 
 WorkflowJS is a lightweight and flexible library for building workflows and processes with NodeJS. It allows you to define processes using BPMN 2.0

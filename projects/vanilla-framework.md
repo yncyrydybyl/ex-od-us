@@ -9,7 +9,7 @@ issues: [55]
 updated: "2026-04-04T13:11:18Z"
 matrix_rooms: [https://matrix.to/#/#vanilla:ubuntu.com]
 exodus_score: 6
-last_scanned: "2026-04-06T15:24:51Z"
+last_scanned: "2026-04-06T19:08:46Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

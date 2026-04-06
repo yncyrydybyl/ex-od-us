@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#kbin-space:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:21:37Z"
+last_scanned: "2026-04-06T19:03:14Z"
 ---
 
 A reddit-like content aggregator and micro-blogging platform for the fediverse.

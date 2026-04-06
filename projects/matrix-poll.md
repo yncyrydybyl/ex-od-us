@@ -1,12 +1,17 @@
 ---
-name: "Matrix Poll"
-description: "This widget allows to conduct polls in Matrix rooms."
+name: Matrix Poll
+description: This widget allows to conduct polls in Matrix rooms.
 repo: "https://github.com/nordeck/matrix-poll"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T18:03:39Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nordeck:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T19:06:51Z"
 ---
 
 This widget allows to conduct polls in Matrix rooms.

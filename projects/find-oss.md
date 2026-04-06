@@ -1,12 +1,16 @@
 ---
-name: "Find Oss"
-description: "A list of popular open source alternatives to proprietary SaaS"
+name: Find Oss
+description: A list of popular open source alternatives to proprietary SaaS
 repo: "https://github.com/SimoMay/find-oss"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-08-30T18:49:28Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T18:54:48Z"
 ---
 
 A list of popular open source alternatives to proprietary SaaS

@@ -1,12 +1,17 @@
 ---
-name: "Mesa Frames"
-description: "Extension of mesa for performance and scalability"
+name: Mesa Frames
+description: Extension of mesa for performance and scalability
 repo: "https://github.com/mesa/mesa-frames"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-02T22:04:17Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:51Z"
 ---
 
 Extension of mesa for performance and scalability

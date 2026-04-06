@@ -1,12 +1,15 @@
 ---
-name: "Hello World.Rs"
-description: "🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀"
+name: Hello World.Rs
+description: 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀
 repo: "https://github.com/mTvare6/hello-world.rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2025-05-28T17:25:31Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T18:59:43Z"
 ---
 
 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀

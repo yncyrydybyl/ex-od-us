@@ -1,12 +1,15 @@
 ---
-name: "Nannou"
-description: "A Creative Coding Framework for Rust."
+name: Nannou
+description: A Creative Coding Framework for Rust.
 repo: "https://github.com/nannou-org/nannou"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-13T00:46:35Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:10:01Z"
 ---
 
 A Creative Coding Framework for Rust.

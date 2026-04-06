@@ -1,12 +1,17 @@
 ---
-name: "Privesc"
-description: "Small utility library for multi-platform privilege escalation"
+name: Privesc
+description: Small utility library for multi-platform privilege escalation
 repo: "https://github.com/quincy-rs/privesc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-25T23:11:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#quincy:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:08:11Z"
 ---
 
 Small utility library for multi-platform privilege escalation

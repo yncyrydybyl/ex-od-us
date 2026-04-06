@@ -1,12 +1,17 @@
 ---
-name: "Xserver"
-description: "XLibre Xserver"
+name: Xserver
+description: XLibre Xserver
 repo: "https://github.com/X11Libre/xserver"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T14:13:02Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#xlibre:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:11:32Z"
 ---
 
 XLibre Xserver

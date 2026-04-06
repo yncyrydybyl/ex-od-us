@@ -1,12 +1,17 @@
 ---
-name: "Owl Rl"
+name: Owl Rl
 description: "A simple implementation of the OWL2 RL Profile on top of RDFLib: it expands the graph with all possible triples that OWL RL defines. It can be used together with RDFLib to expand an RDFLib Graph object, or as a stand alone service with its own serialization."
 repo: "https://github.com/RDFLib/OWL-RL"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T22:59:30Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T19:05:19Z"
 ---
 
 A simple implementation of the OWL2 RL Profile on top of RDFLib: it expands the graph with all possible triples that OWL RL defines. It can be used together with RDFLib to expand an RDFLib Graph object, or as a stand alone service with its own serialization.

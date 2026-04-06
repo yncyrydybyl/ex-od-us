@@ -1,12 +1,15 @@
 ---
-name: "Dotfiles"
-description: "Hyprland Arch config based on pywal"
+name: Dotfiles
+description: Hyprland Arch config based on pywal
 repo: "https://github.com/LierB/dotfiles"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-01-26T19:40:42Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:04:49Z"
 ---
 
 Hyprland Arch config based on pywal

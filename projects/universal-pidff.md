@@ -1,12 +1,17 @@
 ---
-name: "Universal Pidff"
-description: "PIDFF driver with patches for initialization of FFB-capable devices."
+name: Universal Pidff
+description: PIDFF driver with patches for initialization of FFB-capable devices.
 repo: "https://github.com/JacKeTUs/universal-pidff"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-03T14:36:22Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#simracing:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:08:31Z"
 ---
 
 PIDFF driver with patches for initialization of FFB-capable devices.

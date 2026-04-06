@@ -1,12 +1,17 @@
 ---
-name: "Weron"
-description: "Overlay networks based on WebRTC."
+name: Weron
+description: Overlay networks based on WebRTC.
 repo: "https://github.com/pojntfx/weron"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-04-22T00:29:26Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#weron:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:10:29Z"
 ---
 
 Overlay networks based on WebRTC.

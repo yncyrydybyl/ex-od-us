@@ -1,12 +1,17 @@
 ---
-name: "Operon"
-description: "C++ Large Scale Genetic Programming"
+name: Operon
+description: C++ Large Scale Genetic Programming
 repo: "https://github.com/heal-research/operon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T07:25:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#operon:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T19:04:40Z"
 ---
 
 C++ Large Scale Genetic Programming

@@ -1,12 +1,17 @@
 ---
-name: "Webadmin"
-description: "Web-based admin for Stalwart"
+name: Webadmin
+description: Web-based admin for Stalwart
 repo: "https://github.com/stalwartlabs/webadmin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-18T20:06:08Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#stalwart:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:10:13Z"
 ---
 
 Web-based admin for Stalwart

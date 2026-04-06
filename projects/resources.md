@@ -10,7 +10,7 @@ updated: "2025-12-11T08:13:04Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:23:40Z"
+last_scanned: "2026-04-06T19:11:00Z"
 ---
 
 Learning resources, blogs, news, SQL, PowerShell, SQL, Linux, Revers Engineering, Malware

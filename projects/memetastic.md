@@ -1,12 +1,17 @@
 ---
-name: "Memetastic"
-description: "Meme Creator for Android - Simple & Ad-Free"
+name: Memetastic
+description: Meme Creator for Android - Simple & Ad-Free
 repo: "https://github.com/gsantner/memetastic"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-06T20:36:42Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#memetastic:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T19:07:48Z"
 ---
 
 Meme Creator for Android - Simple & Ad-Free

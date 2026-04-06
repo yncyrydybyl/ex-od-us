@@ -1,12 +1,17 @@
 ---
-name: "Iamb"
-description: "A Matrix client for Vim addicts"
+name: Iamb
+description: A Matrix client for Vim addicts
 repo: "https://github.com/ulyssa/iamb"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-20T00:46:03Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#iamb:0x.badd.cafe]
+exodus_score: 6
+last_scanned: "2026-04-06T19:00:35Z"
 ---
 
 A Matrix client for Vim addicts

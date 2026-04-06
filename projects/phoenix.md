@@ -1,12 +1,17 @@
 ---
-name: "Phoenix"
+name: Phoenix
 description: "Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. "
 repo: "https://github.com/celenityy/Phoenix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T21:07:10Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#celenity:unredacted.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:06:21Z"
 ---
 
 Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. 

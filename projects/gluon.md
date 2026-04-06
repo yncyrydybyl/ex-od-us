@@ -1,12 +1,17 @@
 ---
-name: "Gluon"
-description: "a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes"
+name: Gluon
+description: a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 repo: "https://github.com/freifunk-gluon/gluon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T06:45:32Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#gluon:hackint.org]
+exodus_score: 7
+last_scanned: "2026-04-06T18:57:44Z"
 ---
 
 a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes

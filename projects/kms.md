@@ -1,12 +1,15 @@
 ---
-name: "Kms"
-description: "A feature-rich, scalable, Key Management System"
+name: Kms
+description: A feature-rich, scalable, Key Management System
 repo: "https://github.com/Cosmian/kms"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:15:26Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:03:29Z"
 ---
 
 A feature-rich, scalable, Key Management System

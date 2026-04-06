@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#keypunch:gnome.org]
 exodus_score: 6
-last_scanned: "2026-04-06T15:21:39Z"
+last_scanned: "2026-04-06T19:03:24Z"
 ---
 
 Practice your typing skills

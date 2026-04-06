@@ -1,12 +1,15 @@
 ---
-name: "Openaitx"
-description: "Auto-translate platform for your GitHub project readme & wiki."
+name: Openaitx
+description: Auto-translate platform for your GitHub project readme & wiki.
 repo: "https://github.com/OpenAiTx/OpenAiTx"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T05:11:38Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:03:56Z"
 ---
 
 Auto-translate platform for your GitHub project readme & wiki.

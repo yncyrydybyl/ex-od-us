@@ -1,12 +1,15 @@
 ---
-name: "Microvm.Nix"
-description: "NixOS MicroVMs"
+name: Microvm.Nix
+description: NixOS MicroVMs
 repo: "https://github.com/microvm-nix/microvm.nix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2026-04-04T19:01:41Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T19:08:18Z"
 ---
 
 NixOS MicroVMs

@@ -1,12 +1,16 @@
 ---
-name: "Pikelet"
-description: "A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧"
+name: Pikelet
+description: A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
 repo: "https://github.com/pikelet-lang/pikelet"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2021-05-16T05:04:56Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:06:34Z"
 ---
 
 A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧

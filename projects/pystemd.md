@@ -1,12 +1,17 @@
 ---
-name: "Pystemd"
-description: "A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way."
+name: Pystemd
+description: A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 repo: "https://github.com/systemd/pystemd"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-25T06:11:11Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#pystemd:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:03Z"
 ---
 
 A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.

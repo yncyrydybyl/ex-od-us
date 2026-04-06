@@ -1,12 +1,17 @@
 ---
-name: "Py Ipfs Http Client"
-description: "A python client library for the IPFS API"
+name: Py Ipfs Http Client
+description: A python client library for the IPFS API
 repo: "https://github.com/ipfs-shipyard/py-ipfs-http-client"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-05-01T08:39:51Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#py-ipfs:ninetailed.ninja]
+exodus_score: 6
+last_scanned: "2026-04-06T19:08:43Z"
 ---
 
 A python client library for the IPFS API

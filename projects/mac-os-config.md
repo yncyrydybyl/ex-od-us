@@ -10,7 +10,7 @@ updated: "2026-03-29T22:00:13Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:21:53Z"
+last_scanned: "2026-04-06T19:05:42Z"
 ---
 
 Shell scripts for customized macOS machine setup.

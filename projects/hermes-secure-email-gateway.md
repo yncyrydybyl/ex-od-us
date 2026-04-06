@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#hermesseg:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:21:13Z"
+last_scanned: "2026-04-06T18:59:46Z"
 ---
 
 Hermes Secure Email Gateway is a Free Open Source Ubuntu 20.04 LTS Server based Email Gateway that provides Spam, Virus and Malware protection, full in-transit and at-rest email encryption as well as email archiving. It features the latest email authentication techniques such as SPF, DKIM and DMARC.

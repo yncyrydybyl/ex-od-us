@@ -1,12 +1,17 @@
 ---
-name: "Orion"
-description: "Usable, easy and safe pure-Rust crypto"
+name: Orion
+description: Usable, easy and safe pure-Rust crypto
 repo: "https://github.com/orion-rs/orion"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T10:22:03Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#orion-rs:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:04:55Z"
 ---
 
 Usable, easy and safe pure-Rust crypto

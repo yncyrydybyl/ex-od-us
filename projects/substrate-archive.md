@@ -1,12 +1,16 @@
 ---
-name: "Substrate Archive"
-description: "Blockchain Indexing Engine"
+name: Substrate Archive
+description: Blockchain Indexing Engine
 repo: "https://github.com/paritytech/substrate-archive"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-03-06T23:07:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:03:55Z"
 ---
 
 Blockchain Indexing Engine

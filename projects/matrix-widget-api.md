@@ -1,12 +1,17 @@
 ---
-name: "Matrix Widget Api"
-description: "JavaScript/TypeScript API for widgets & web clients to communicate"
+name: Matrix Widget Api
+description: JavaScript/TypeScript API for widgets & web clients to communicate
 repo: "https://github.com/matrix-org/matrix-widget-api"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T18:17:48Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#matrix-widgets:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:07:25Z"
 ---
 
 JavaScript/TypeScript API for widgets & web clients to communicate

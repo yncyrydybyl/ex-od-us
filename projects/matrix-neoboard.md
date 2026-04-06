@@ -1,12 +1,17 @@
 ---
-name: "Matrix Neoboard"
-description: "A collaborative whiteboard widget for Matrix"
+name: Matrix Neoboard
+description: A collaborative whiteboard widget for Matrix
 repo: "https://github.com/nordeck/matrix-neoboard"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:47:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nordeck:matrix.org]
+exodus_score: 6
+last_scanned: "2026-04-06T19:06:42Z"
 ---
 
 A collaborative whiteboard widget for Matrix

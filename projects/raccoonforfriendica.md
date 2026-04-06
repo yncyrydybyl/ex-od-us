@@ -1,12 +1,17 @@
 ---
-name: "Raccoonforfriendica"
-description: "A Kotlin Multiplatform client for Mastodon and Friendica"
+name: Raccoonforfriendica
+description: A Kotlin Multiplatform client for Mastodon and Friendica
 repo: "https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:25:05Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#raccoonforfriendicaapp:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:53Z"
 ---
 
 A Kotlin Multiplatform client for Mastodon and Friendica

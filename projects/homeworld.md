@@ -1,12 +1,15 @@
 ---
-name: "Homeworld"
+name: Homeworld
 description: "Gardens of Kadesh: A WebAssembly port of Homeworld."
 repo: "https://github.com/GardensOfKadesh/Homeworld"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-09-28T21:31:27Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:00:10Z"
 ---
 
 Gardens of Kadesh: A WebAssembly port of Homeworld.

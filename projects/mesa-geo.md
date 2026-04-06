@@ -1,12 +1,17 @@
 ---
-name: "Mesa Geo"
-description: "GIS Extension for Mesa Agent-Based Modeling"
+name: Mesa Geo
+description: GIS Extension for Mesa Agent-Based Modeling
 repo: "https://github.com/mesa/mesa-geo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T14:04:37Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org, https://matrix.to/#/#mesa-geo:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:53Z"
 ---
 
 GIS Extension for Mesa Agent-Based Modeling

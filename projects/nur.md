@@ -1,12 +1,17 @@
 ---
-name: "Nur"
+name: Nur
 description: "Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]"
 repo: "https://github.com/nix-community/NUR"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T17:08:20Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nur:nixos.org]
+exodus_score: 6
+last_scanned: "2026-04-06T19:12:28Z"
 ---
 
 Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]

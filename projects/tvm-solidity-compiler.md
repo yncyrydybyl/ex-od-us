@@ -9,7 +9,7 @@ issues: [2026]
 updated: "2025-02-12T19:48:24Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:44Z"
+last_scanned: "2026-04-06T19:08:04Z"
 ---
 
 Solidity compiler for TVM

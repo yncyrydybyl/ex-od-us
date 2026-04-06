@@ -10,7 +10,7 @@ updated: "2026-02-08T04:40:28Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:20:18Z"
+last_scanned: "2026-04-06T18:54:35Z"
 ---
 
 Lua Lisp Language

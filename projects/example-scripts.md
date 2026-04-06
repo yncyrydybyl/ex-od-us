@@ -1,12 +1,15 @@
 ---
-name: "Example Scripts"
+name: Example Scripts
 description: "Example scripts originally derived from Prof. Dana Tomlin's handouts for his course on Geospatial Software Design. Shared with his permission."
 repo: "https://github.com/gee-community/example-scripts"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2018-06-22T17:29:59Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:53:54Z"
 ---
 
 Example scripts originally derived from Prof. Dana Tomlin's handouts for his course on Geospatial Software Design. Shared with his permission.

@@ -10,7 +10,7 @@ updated: "2024-10-28T20:26:23Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:23:19Z"
+last_scanned: "2026-04-06T19:07:41Z"
 ---
 
 Droidian porting guide

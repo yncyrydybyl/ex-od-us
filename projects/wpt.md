@@ -1,12 +1,16 @@
 ---
-name: "Wpt"
-description: "Test suites for Web platform specs — including WHATWG, W3C, and others"
+name: Wpt
+description: Test suites for Web platform specs — including WHATWG, W3C, and others
 repo: "https://github.com/web-platform-tests/wpt"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:43:29Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:11:09Z"
 ---
 
 Test suites for Web platform specs — including WHATWG, W3C, and others

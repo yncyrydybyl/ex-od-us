@@ -1,12 +1,17 @@
 ---
-name: "Privacyguides.Org"
-description: "Protect your data against global mass surveillance programs."
+name: Privacyguides.Org
+description: Protect your data against global mass surveillance programs.
 repo: "https://github.com/privacyguides/privacyguides.org"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T07:07:30Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#pg-i18n:aragon.sh]
+exodus_score: 5
+last_scanned: "2026-04-06T19:08:10Z"
 ---
 
 Protect your data against global mass surveillance programs.

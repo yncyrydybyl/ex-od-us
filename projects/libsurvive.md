@@ -10,7 +10,7 @@ updated: "2026-03-23T20:55:11Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:21:48Z"
+last_scanned: "2026-04-06T19:04:47Z"
 ---
 
 Open Source Lighthouse Tracking System

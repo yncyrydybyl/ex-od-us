@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#ess-community:element.io]
 exodus_score: 7
-last_scanned: "2026-04-06T15:19:59Z"
+last_scanned: "2026-04-06T18:53:42Z"
 ---
 
 Element Server Suite Community Edition

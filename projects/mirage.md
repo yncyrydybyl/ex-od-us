@@ -1,12 +1,17 @@
 ---
-name: "Mirage"
-description: "A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication."
+name: Mirage
+description: A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
 repo: "https://github.com/mirukana/mirage"
 platform: github
 categories: [Messaging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-11-05T13:36:57Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#mirage-client:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:08:42Z"
 ---
 
 A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.

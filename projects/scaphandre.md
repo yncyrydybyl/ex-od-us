@@ -1,12 +1,16 @@
 ---
-name: "Scaphandre"
+name: Scaphandre
 description: "⚡ Energy consumption metrology agent. Let \"scaph\" dive and bring back the metrics that will help you make your systems and applications more sustainable !"
 repo: "https://github.com/hubblo-org/scaphandre"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T15:35:35Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:00:14Z"
 ---
 
 ⚡ Energy consumption metrology agent. Let \"scaph\" dive and bring back the metrics that will help you make your systems and applications more sustainable !

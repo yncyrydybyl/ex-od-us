@@ -1,12 +1,15 @@
 ---
-name: "Two.Js"
-description: "A renderer agnostic two-dimensional drawing api for the web"
+name: Two.Js
+description: A renderer agnostic two-dimensional drawing api for the web
 repo: "https://github.com/jonobr1/two.js"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2026-02-04T01:35:03Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T19:08:08Z"
 ---
 
 A renderer agnostic two-dimensional drawing api for the web

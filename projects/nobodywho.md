@@ -1,12 +1,17 @@
 ---
-name: "Nobodywho"
+name: Nobodywho
 description: "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  "
 repo: "https://github.com/nobodywho-ooo/nobodywho"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T09:16:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nobodywho:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:11:49Z"
 ---
 
 NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  

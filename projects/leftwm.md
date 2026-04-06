@@ -1,12 +1,17 @@
 ---
-name: "Leftwm"
-description: "A tiling window manager for Adventurers"
+name: Leftwm
+description: A tiling window manager for Adventurers
 repo: "https://github.com/leftwm/leftwm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-28T10:53:07Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#leftwm-announcements:matrix.org, https://matrix.to/#/#leftwm-general:matrix.org, https://matrix.to/#/#leftwm-support:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:04:08Z"
 ---
 
 A tiling window manager for Adventurers

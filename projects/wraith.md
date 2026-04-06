@@ -1,12 +1,16 @@
 ---
-name: "Wraith"
+name: Wraith
 description: "[WIP] A free and open-source, modular Remote Administration Tool (RAT) / Payload Dropper written in Go(lang) with a flexible command and control (C2) system."
 repo: "https://github.com/wraith-labs/wraith"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-12-03T22:16:27Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:11:11Z"
 ---
 
 [WIP] A free and open-source, modular Remote Administration Tool (RAT) / Payload Dropper written in Go(lang) with a flexible command and control (C2) system.

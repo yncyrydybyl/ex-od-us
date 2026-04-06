@@ -1,12 +1,16 @@
 ---
-name: "Objfw"
+name: Objfw
 description: "Mirror of https://git.nil.im/ObjFW/ObjFW • Portable framework for the Objective-C language."
 repo: "https://github.com/ObjFW/ObjFW"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:17:40Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:03:14Z"
 ---
 
 Mirror of https://git.nil.im/ObjFW/ObjFW • Portable framework for the Objective-C language.

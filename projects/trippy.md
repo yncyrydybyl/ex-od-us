@@ -1,12 +1,17 @@
 ---
-name: "Trippy"
+name: Trippy
 description: "A network diagnostic tool "
 repo: "https://github.com/fujiapple852/trippy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T12:53:04Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#trippy-dev:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:45Z"
 ---
 
 A network diagnostic tool 

@@ -1,12 +1,15 @@
 ---
-name: "React"
-description: "React JS"
+name: React
+description: React JS
 repo: "https://github.com/berthutapea/react"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-05-13T19:39:24Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:10:24Z"
 ---
 
 React JS

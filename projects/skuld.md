@@ -1,12 +1,16 @@
 ---
-name: "Skuld"
-description: "Next-Gen Stealer written in Go. Stealing from Discord,  Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For educational purposes only)"
+name: Skuld
+description: Next-Gen Stealer written in Go. Stealing from Discord,  Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For educational purposes only)
 repo: "https://github.com/hackirby/skuld"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-12-11T23:35:31Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:01:51Z"
 ---
 
 Next-Gen Stealer written in Go. Stealing from Discord,  Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For educational purposes only)

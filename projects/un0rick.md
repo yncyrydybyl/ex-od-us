@@ -1,12 +1,16 @@
 ---
-name: "Un0Rick"
-description: "smallish ice40 / raspberrypi ultrasound hardware"
+name: Un0Rick
+description: smallish ice40 / raspberrypi ultrasound hardware
 repo: "https://github.com/kelu124/un0rick"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T21:53:37Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:08:24Z"
 ---
 
 smallish ice40 / raspberrypi ultrasound hardware

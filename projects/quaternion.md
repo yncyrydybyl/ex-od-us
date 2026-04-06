@@ -1,12 +1,17 @@
 ---
-name: "Quaternion"
-description: "A Qt-based IM client for Matrix"
+name: Quaternion
+description: A Qt-based IM client for Matrix
 repo: "https://github.com/quotient-im/Quaternion"
 platform: github
 categories: [Messaging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-27T13:24:34Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#quotient:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:35Z"
 ---
 
 A Qt-based IM client for Matrix

@@ -1,12 +1,17 @@
 ---
-name: "Vmlinux To Elf"
-description: "A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)"
+name: Vmlinux To Elf
+description: A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)
 repo: "https://github.com/marin-m/vmlinux-to-elf"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-27T15:15:25Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#vmlinux-to-elf:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:18Z"
 ---
 
 A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)

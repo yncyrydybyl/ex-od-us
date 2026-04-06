@@ -1,12 +1,17 @@
 ---
-name: "Serenity Js"
-description: "A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!"
+name: Serenity Js
+description: A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 repo: "https://github.com/serenity-js/serenity-js"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T01:57:58Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#serenity-js:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T19:01:04Z"
 ---
 
 A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!

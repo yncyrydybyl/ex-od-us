@@ -1,12 +1,17 @@
 ---
-name: "Fast Query Parsers"
-description: "Ultra-fast query string and url-encoded form-data parsers"
+name: Fast Query Parsers
+description: Ultra-fast query string and url-encoded form-data parsers
 repo: "https://github.com/litestar-org/fast-query-parsers"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T20:22:18Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T18:54:19Z"
 ---
 
 Ultra-fast query string and url-encoded form-data parsers

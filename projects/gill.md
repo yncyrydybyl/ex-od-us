@@ -1,12 +1,17 @@
 ---
-name: "Gill"
-description: "Gill is a free and open-source git-service based on ActivityPub and ForgeFed"
+name: Gill
+description: Gill is a free and open-source git-service based on ActivityPub and ForgeFed
 repo: "https://github.com/oknozor/gill"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-05T16:36:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#general-forgefed:matrix.batsense.net, https://matrix.to/#/#gill:hoohoot.org]
+exodus_score: 6
+last_scanned: "2026-04-06T18:57:29Z"
 ---
 
 Gill is a free and open-source git-service based on ActivityPub and ForgeFed

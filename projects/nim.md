@@ -1,12 +1,17 @@
 ---
-name: "Nim"
-description: "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority)."
+name: Nim
+description: Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 repo: "https://github.com/nim-lang/Nim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T08:43:00Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nim-lang:matrix.org, https://matrix.to/#/#nim:envs.net]
+exodus_score: 6
+last_scanned: "2026-04-06T19:10:44Z"
 ---
 
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).

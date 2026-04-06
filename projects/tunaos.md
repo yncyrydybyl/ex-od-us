@@ -1,12 +1,16 @@
 ---
-name: "Tunaos"
-description: "Bringing a modern cloud-native experience to the Enterprise Linux Desktop"
+name: Tunaos
+description: Bringing a modern cloud-native experience to the Enterprise Linux Desktop
 repo: "https://github.com/tuna-os/tunaOS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T15:07:23Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:07:57Z"
 ---
 
 Bringing a modern cloud-native experience to the Enterprise Linux Desktop

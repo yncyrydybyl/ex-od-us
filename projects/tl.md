@@ -1,12 +1,17 @@
 ---
-name: "Tl"
-description: "The compiler for Teal, a typed dialect of Lua"
+name: Tl
+description: The compiler for Teal, a typed dialect of Lua
 repo: "https://github.com/teal-language/tl"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-24T21:47:24Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#teal-language_community:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T19:06:08Z"
 ---
 
 The compiler for Teal, a typed dialect of Lua

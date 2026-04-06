@@ -9,7 +9,7 @@ issues: [1982]
 updated: "2025-12-26T19:49:29Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:23:14Z"
+last_scanned: "2026-04-06T19:06:29Z"
 ---
 
 Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)

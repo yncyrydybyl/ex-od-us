@@ -1,12 +1,17 @@
 ---
-name: "Saucer"
-description: "🛸 A modern, cross-platform C++ webview library"
+name: Saucer
+description: 🛸 A modern, cross-platform C++ webview library
 repo: "https://github.com/saucer/saucer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-14T13:07:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#saucer:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:00:08Z"
 ---
 
 🛸 A modern, cross-platform C++ webview library

@@ -1,12 +1,17 @@
 ---
-name: "Scribe Data"
-description: "Wikidata and Wiktionary language data extraction"
+name: Scribe Data
+description: Wikidata and Wiktionary language data extraction
 repo: "https://github.com/scribe-org/Scribe-Data"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T10:27:41Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ScribeData:matrix.org, https://matrix.to/#/#scribe_community:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T19:00:39Z"
 ---
 
 Wikidata and Wiktionary language data extraction

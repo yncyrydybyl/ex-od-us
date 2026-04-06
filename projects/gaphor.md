@@ -1,12 +1,16 @@
 ---
-name: "Gaphor"
-description: "Gaphor is the simple modeling tool"
+name: Gaphor
+description: Gaphor is the simple modeling tool
 repo: "https://github.com/gaphor/gaphor"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T12:38:24Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T18:56:56Z"
 ---
 
 Gaphor is the simple modeling tool

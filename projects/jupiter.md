@@ -1,12 +1,16 @@
 ---
-name: "Jupiter"
-description: "Wasm smart contract networks powered by Substrate FRAME Contracts pallet in Polkadot ecosystem."
+name: Jupiter
+description: Wasm smart contract networks powered by Substrate FRAME Contracts pallet in Polkadot ecosystem.
 repo: "https://github.com/patractlabs/jupiter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-05-01T03:42:50Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:02:56Z"
 ---
 
 Wasm smart contract networks powered by Substrate FRAME Contracts pallet in Polkadot ecosystem.

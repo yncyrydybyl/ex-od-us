@@ -1,12 +1,16 @@
 ---
-name: "Sublinear Time Solver"
-description: "Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm cost propagation and verification."
+name: Sublinear Time Solver
+description: Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm cost propagation and verification.
 repo: "https://github.com/ruvnet/sublinear-time-solver"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-10-07T16:20:00Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:03:50Z"
 ---
 
 Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm cost propagation and verification.

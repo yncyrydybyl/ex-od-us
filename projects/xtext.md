@@ -9,7 +9,7 @@ issues: [56]
 updated: "2026-04-03T03:50:32Z"
 verified: false
 verified_note: repo not found (404)
-last_scanned: "2026-04-06T15:25:09Z"
+last_scanned: "2026-04-06T19:11:35Z"
 ---
 
 Eclipse Xtext™ is a language development framework 

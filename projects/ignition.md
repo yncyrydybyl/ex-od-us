@@ -10,7 +10,7 @@ updated: "2026-04-01T16:33:57Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:21:24Z"
+last_scanned: "2026-04-06T19:00:51Z"
 ---
 
 This repo is only used for development and by ClusterAPI. Flatcar builds ignition from github.com/coreos/ignition.

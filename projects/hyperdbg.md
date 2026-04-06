@@ -1,12 +1,17 @@
 ---
-name: "Hyperdbg"
-description: "State-of-the-art native debugging tools"
+name: Hyperdbg
+description: State-of-the-art native debugging tools
 repo: "https://github.com/HyperDbg/HyperDbg"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T14:45:41Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#hyperdbg-discussion:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:00:27Z"
 ---
 
 State-of-the-art native debugging tools

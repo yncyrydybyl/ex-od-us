@@ -1,12 +1,17 @@
 ---
-name: "Ports Gentoo"
-description: "XLibre overlay for Gentoo Linux"
+name: Ports Gentoo
+description: XLibre overlay for Gentoo Linux
 repo: "https://github.com/X11Libre/ports-gentoo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-18T11:04:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#xlibre:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:07:42Z"
 ---
 
 XLibre overlay for Gentoo Linux

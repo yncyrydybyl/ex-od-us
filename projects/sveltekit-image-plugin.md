@@ -1,12 +1,16 @@
 ---
-name: "Sveltekit Image Plugin"
-description: "SvelteKit demo code for using vite-imagetools to add cached, responsive, Next-Gen images to a SvelteKit site with no cumulative layout shift."
+name: Sveltekit Image Plugin
+description: SvelteKit demo code for using vite-imagetools to add cached, responsive, Next-Gen images to a SvelteKit site with no cumulative layout shift.
 repo: "https://github.com/rodneylab/sveltekit-image-plugin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-08-14T09:20:03Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:04:10Z"
 ---
 
 SvelteKit demo code for using vite-imagetools to add cached, responsive, Next-Gen images to a SvelteKit site with no cumulative layout shift.

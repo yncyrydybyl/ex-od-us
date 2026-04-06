@@ -1,12 +1,17 @@
 ---
-name: "Trilium"
-description: "Build your personal knowledge base with Trilium Notes"
+name: Trilium
+description: Build your personal knowledge base with Trilium Notes
 repo: "https://github.com/TriliumNext/trilium"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:48:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#triliumnext:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:42Z"
 ---
 
 Build your personal knowledge base with Trilium Notes

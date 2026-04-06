@@ -1,12 +1,16 @@
 ---
-name: "Sparse"
-description: "Sparse matrix formats for linear algebra supporting scientific and machine learning applications"
+name: Sparse
+description: Sparse matrix formats for linear algebra supporting scientific and machine learning applications
 repo: "https://github.com/james-bowman/sparse"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-16T20:22:47Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:02:59Z"
 ---
 
 Sparse matrix formats for linear algebra supporting scientific and machine learning applications

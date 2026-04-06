@@ -1,12 +1,17 @@
 ---
-name: "Py Ipfs"
-description: "python implementation of ipfs"
+name: Py Ipfs
+description: python implementation of ipfs
 repo: "https://github.com/ipfs-shipyard/py-ipfs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-05-01T08:39:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#py-ipfs:ninetailed.ninja]
+exodus_score: 6
+last_scanned: "2026-04-06T19:08:44Z"
 ---
 
 python implementation of ipfs

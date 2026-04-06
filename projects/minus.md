@@ -10,7 +10,7 @@ updated: "2025-12-22T14:59:18Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:22:21Z"
+last_scanned: "2026-04-06T19:08:35Z"
 ---
 
 An asynchronous, runtime data feedable terminal paging library for Rust

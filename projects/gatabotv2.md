@@ -1,12 +1,15 @@
 ---
-name: "Gatabotv2"
-description: "¡Hola! 😸 este es el repositorio ✅ Oficial de Gata Dios, aquí se hace actualizaciones ⚡️ sobre GataBot ❤️"
+name: Gatabotv2
+description: ¡Hola! 😸 este es el repositorio ✅ Oficial de Gata Dios, aquí se hace actualizaciones ⚡️ sobre GataBot ❤️
 repo: "https://github.com/GataNina-Li/GataBotV2"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-04-27T20:08:41Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:57:00Z"
 ---
 
 ¡Hola! 😸 este es el repositorio ✅ Oficial de Gata Dios, aquí se hace actualizaciones ⚡️ sobre GataBot ❤️

@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#ntfy-space:matrix.org, https://matrix.to/#/#ntfy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:22:43Z"
+last_scanned: "2026-04-06T19:12:16Z"
 ---
 
 Send push notifications to your phone or desktop using PUT/POST

@@ -1,12 +1,17 @@
 ---
-name: "Go Transcode"
-description: "On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration."
+name: Go Transcode
+description: On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.
 repo: "https://github.com/m1k1o/go-transcode"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-06-17T09:06:11Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#go-transcode:proxychat.net, https://matrix.to/#/#go-transcode-general:proxychat.net]
+exodus_score: 6
+last_scanned: "2026-04-06T18:58:17Z"
 ---
 
 On-demand transcoding origin server for live inputs and static files in Go using ffmpeg. Also with NVIDIA GPU hardware acceleration.

@@ -1,12 +1,17 @@
 ---
-name: "Red Moon"
-description: "Android screen filter app for night time phone use."
+name: Red Moon
+description: Android screen filter app for night time phone use.
 repo: "https://github.com/LibreShift/red-moon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-19T07:09:53Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#redmoon:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:10:32Z"
 ---
 
 Android screen filter app for night time phone use.

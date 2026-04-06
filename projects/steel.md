@@ -1,12 +1,17 @@
 ---
-name: "Steel"
-description: "An embedded scheme interpreter in Rust"
+name: Steel
+description: An embedded scheme interpreter in Rust
 repo: "https://github.com/mattwparas/steel"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T14:53:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#steel:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:03:25Z"
 ---
 
 An embedded scheme interpreter in Rust

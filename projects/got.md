@@ -1,12 +1,17 @@
 ---
-name: "Got"
-description: "Git, but for files and directories of any size.  E2E Encrypted"
+name: Got
+description: Git, but for files and directories of any size.  E2E Encrypted
 repo: "https://github.com/gotvc/got"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-16T16:25:17Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#inet256:inet256.org]
+exodus_score: 5
+last_scanned: "2026-04-06T18:58:43Z"
 ---
 
 Git, but for files and directories of any size.  E2E Encrypted

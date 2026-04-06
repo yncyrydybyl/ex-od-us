@@ -1,12 +1,15 @@
 ---
-name: "Gnome Control Center"
+name: Gnome Control Center
 description: "Pop!_OS fork of https://git.launchpad.net/~ubuntu-desktop/ubuntu/+source/gnome-control-center"
 repo: "https://github.com/pop-os/gnome-control-center"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-10-25T00:55:41Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:57:52Z"
 ---
 
 Pop!_OS fork of https://git.launchpad.net/~ubuntu-desktop/ubuntu/+source/gnome-control-center

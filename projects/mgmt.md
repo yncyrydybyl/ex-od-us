@@ -1,12 +1,17 @@
 ---
-name: "Mgmt"
-description: "Next generation distributed, event-driven, parallel config management!"
+name: Mgmt
+description: Next generation distributed, event-driven, parallel config management!
 repo: "https://github.com/purpleidea/mgmt"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T03:00:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#mgmtconfig:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:08:15Z"
 ---
 
 Next generation distributed, event-driven, parallel config management!

@@ -1,12 +1,17 @@
 ---
-name: "Gtk4 Rs"
-description: "Rust bindings of GTK 4"
+name: Gtk4 Rs
+description: Rust bindings of GTK 4
 repo: "https://github.com/gtk-rs/gtk4-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T07:29:13Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rust:gnome.org]
+exodus_score: 5
+last_scanned: "2026-04-06T18:59:11Z"
 ---
 
 Rust bindings of GTK 4

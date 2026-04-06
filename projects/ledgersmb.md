@@ -1,12 +1,16 @@
 ---
-name: "Ledgersmb"
-description: "Double-entry accounting & ERP for the web"
+name: Ledgersmb
+description: Double-entry accounting & ERP for the web
 repo: "https://github.com/ledgersmb/LedgerSMB"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T06:52:13Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:04:07Z"
 ---
 
 Double-entry accounting & ERP for the web

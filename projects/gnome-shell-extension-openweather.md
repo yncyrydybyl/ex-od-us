@@ -1,12 +1,16 @@
 ---
-name: "Gnome Shell Extension Openweather"
-description: "Display weather information for any location on Earth in the GNOME Shell"
+name: Gnome Shell Extension Openweather
+description: Display weather information for any location on Earth in the GNOME Shell
 repo: "https://github.com/toppk/gnome-shell-extension-openweather"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-03-27T15:57:57Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T18:57:55Z"
 ---
 
 Display weather information for any location on Earth in the GNOME Shell

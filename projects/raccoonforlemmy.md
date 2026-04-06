@@ -1,12 +1,17 @@
 ---
-name: "Raccoonforlemmy"
-description: "A Kotlin Multiplatform client for Lemmy"
+name: Raccoonforlemmy
+description: A Kotlin Multiplatform client for Lemmy
 repo: "https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:28:39Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#raccoonforlemmyapp:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:10:00Z"
 ---
 
 A Kotlin Multiplatform client for Lemmy

@@ -1,12 +1,17 @@
 ---
-name: "Squey"
+name: Squey
 description: "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)"
 repo: "https://github.com/squey/squey"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-15T21:21:53Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#squey:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:03:10Z"
 ---
 
 Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)

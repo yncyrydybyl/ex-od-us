@@ -1,12 +1,17 @@
 ---
-name: "Rockcraft"
-description: "Tool to create OCI Images using the language from Snapcraft and Charmcraft."
+name: Rockcraft
+description: Tool to create OCI Images using the language from Snapcraft and Charmcraft.
 repo: "https://github.com/canonical/rockcraft"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T10:33:41Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rockcraft:ubuntu.com]
+exodus_score: 6
+last_scanned: "2026-04-06T19:11:44Z"
 ---
 
 Tool to create OCI Images using the language from Snapcraft and Charmcraft.

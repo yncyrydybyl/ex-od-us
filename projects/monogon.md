@@ -1,12 +1,16 @@
 ---
-name: "Monogon"
+name: Monogon
 description: "The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! [read-only mirror - currently outdated]"
 repo: "https://github.com/monogon/monogon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-11-24T19:40:42Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:09:20Z"
 ---
 
 The Monogon Monorepo. May contain traces of peanuts and a ✨pure Go Linux userland✨. Work in progress! [read-only mirror - currently outdated]

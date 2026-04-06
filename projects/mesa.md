@@ -1,12 +1,17 @@
 ---
-name: "Mesa"
-description: "Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors."
+name: Mesa
+description: Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 repo: "https://github.com/mesa/mesa"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T06:05:33Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:07:56Z"
 ---
 
 Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.

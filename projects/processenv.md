@@ -10,7 +10,7 @@ updated: "2025-05-03T18:05:25Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:23:21Z"
+last_scanned: "2026-04-06T19:08:15Z"
 ---
 
 Capture the shell environment of a Foundation app

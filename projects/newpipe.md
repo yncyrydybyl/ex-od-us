@@ -1,12 +1,17 @@
 ---
-name: "Newpipe"
-description: "A libre lightweight streaming front-end for Android."
+name: Newpipe
+description: A libre lightweight streaming front-end for Android.
 repo: "https://github.com/TeamNewPipe/NewPipe"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T15:22:28Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#newpipe:matrix.newpipe-ev.de]
+exodus_score: 7
+last_scanned: "2026-04-06T19:10:31Z"
 ---
 
 A libre lightweight streaming front-end for Android.

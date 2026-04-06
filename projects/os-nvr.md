@@ -1,12 +1,17 @@
 ---
-name: "Os Nvr"
-description: "OS-NVR is a lightweight extensible CCTV system. Mirror of Codeberg."
+name: Os Nvr
+description: OS-NVR is a lightweight extensible CCTV system. Mirror of Codeberg.
 repo: "https://github.com/OSNVR/OS-NVR"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-09-11T17:57:17Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#os_nvr:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:05:00Z"
 ---
 
 OS-NVR is a lightweight extensible CCTV system. Mirror of Codeberg.

@@ -1,12 +1,17 @@
 ---
-name: "Jumpcutter"
-description: "⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)"
+name: Jumpcutter
+description: ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)
 repo: "https://github.com/WofWca/jumpcutter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-29T16:14:14Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#jump-cutter-extension:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:02:54Z"
 ---
 
 ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)

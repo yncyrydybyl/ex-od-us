@@ -1,12 +1,17 @@
 ---
-name: "Peergos"
-description: "A p2p, secure file storage, social network and application protocol"
+name: Peergos
+description: A p2p, secure file storage, social network and application protocol
 repo: "https://github.com/Peergos/Peergos"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T07:38:14Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#peergos-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:06:12Z"
 ---
 
 A p2p, secure file storage, social network and application protocol

@@ -1,12 +1,17 @@
 ---
-name: "Kevin Ci"
+name: Kevin Ci
 description: "A simple-stupid really fast self-hostable continuous integration service. :see_no_evil: runs ci jobs in lxd, podman or qemu."
 repo: "https://github.com/SFTtech/kevin-ci"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-08-17T23:12:35Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#sfttech:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:03:22Z"
 ---
 
 A simple-stupid really fast self-hostable continuous integration service. :see_no_evil: runs ci jobs in lxd, podman or qemu.

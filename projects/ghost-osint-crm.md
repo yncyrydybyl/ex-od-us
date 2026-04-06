@@ -1,12 +1,15 @@
 ---
-name: "Ghost Osint Crm"
+name: Ghost Osint Crm
 description: "GHOST - Global Human Operations & Surveillance Tracking:  Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for accountants, not investigators. Non-commercial license."
 repo: "https://github.com/elm1nst3r/GHOST-osint-crm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-29T18:02:47Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:57:27Z"
 ---
 
 GHOST - Global Human Operations & Surveillance Tracking:  Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for accountants, not investigators. Non-commercial license.

@@ -1,12 +1,15 @@
 ---
-name: "Tracker Control Android"
+name: Tracker Control Android
 description: "TrackerControl Android: monitor and control trackers and ads."
 repo: "https://github.com/TrackerControl/tracker-control-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T11:14:50Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:06:32Z"
 ---
 
 TrackerControl Android: monitor and control trackers and ads.

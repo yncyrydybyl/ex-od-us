@@ -1,12 +1,17 @@
 ---
-name: "Imessage"
-description: "A Matrix-iMessage puppeting bridge"
+name: Imessage
+description: A Matrix-iMessage puppeting bridge
 repo: "https://github.com/mautrix/imessage"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-07-15T12:14:54Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#imessage:maunium.net]
+exodus_score: 6
+last_scanned: "2026-04-06T19:01:01Z"
 ---
 
 A Matrix-iMessage puppeting bridge

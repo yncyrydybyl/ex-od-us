@@ -9,7 +9,7 @@ issues: []
 updated: "2024-10-24T16:22:11Z"
 verified: false
 verified_note: repo not found (404)
-last_scanned: "2026-04-06T15:20:25Z"
+last_scanned: "2026-04-06T18:55:15Z"
 ---
 
 A public central registry of Nix flakes.

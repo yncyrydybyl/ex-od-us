@@ -1,12 +1,15 @@
 ---
-name: "The Federation.Info"
+name: The Federation.Info
 description: "MIRROR of https://codeberg.org/thefederationinfo/the-federation.info"
 repo: "https://github.com/thefederationinfo/the-federation.info"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Dead
 issues: []
 updated: "2026-03-31T21:07:36Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T19:05:26Z"
 ---
 
 MIRROR of https://codeberg.org/thefederationinfo/the-federation.info

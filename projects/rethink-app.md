@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#rethinkdns:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:23:41Z"
+last_scanned: "2026-04-06T19:11:04Z"
 ---
 
 DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.

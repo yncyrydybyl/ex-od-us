@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#coqui-ai_TTS:gitter.im]
 exodus_score: 4
-last_scanned: "2026-04-06T15:24:43Z"
+last_scanned: "2026-04-06T19:07:52Z"
 ---
 
 🐸TTS recipes for different datasets

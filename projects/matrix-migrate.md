@@ -10,7 +10,7 @@ updated: "2024-09-16T08:16:24Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:22:07Z"
+last_scanned: "2026-04-06T19:06:41Z"
 ---
 
 CLI to migrate your matrix account from one to the other

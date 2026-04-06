@@ -1,12 +1,17 @@
 ---
-name: "Starpc"
-description: "Protobuf 3 RPCs for TypeScript, Go, Rust, C++ with bidirectional streaming."
+name: Starpc
+description: Protobuf 3 RPCs for TypeScript, Go, Rust, C++ with bidirectional streaming.
 repo: "https://github.com/aperturerobotics/starpc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T06:47:41Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#aperturerobotics:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:03:19Z"
 ---
 
 Protobuf 3 RPCs for TypeScript, Go, Rust, C++ with bidirectional streaming.

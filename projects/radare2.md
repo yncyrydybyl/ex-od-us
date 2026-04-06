@@ -1,12 +1,17 @@
 ---
-name: "Radare2"
-description: "UNIX-like reverse engineering framework and command-line toolset"
+name: Radare2
+description: UNIX-like reverse engineering framework and command-line toolset
 repo: "https://github.com/radareorg/radare2"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T11:47:56Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#radare:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T19:10:04Z"
 ---
 
 UNIX-like reverse engineering framework and command-line toolset

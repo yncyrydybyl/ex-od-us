@@ -1,12 +1,17 @@
 ---
-name: "Hyperbook"
-description: "Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast."
+name: Hyperbook
+description: Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast.
 repo: "https://github.com/openpatch/hyperbook"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-18T13:32:01Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#openpatch:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:00:26Z"
 ---
 
 Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast.

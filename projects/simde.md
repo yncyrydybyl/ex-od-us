@@ -1,12 +1,17 @@
 ---
-name: "Simde"
+name: Simde
 description: "Implementations of SIMD instruction sets for systems which don't natively support them."
 repo: "https://github.com/simd-everywhere/simde"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T07:53:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#simd-everywhere_community:gitter.im]
+exodus_score: 4
+last_scanned: "2026-04-06T19:01:38Z"
 ---
 
 Implementations of SIMD instruction sets for systems which don't natively support them.

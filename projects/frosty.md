@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#disruptek:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:20:52Z"
+last_scanned: "2026-04-06T18:56:28Z"
 ---
 
 serialize native Nim types to strings, streams, sockets, whatever ⛄

@@ -9,7 +9,7 @@ updated: "2024-11-08T10:26:57Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:22:52Z"
+last_scanned: "2026-04-06T19:03:53Z"
 ---
 
 List of open-source alternatives to everyday SaaS products.

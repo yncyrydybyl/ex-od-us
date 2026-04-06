@@ -1,12 +1,15 @@
 ---
-name: "Warpnet"
-description: "Warpnet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. Warpnet is censorship-resistant, scalable, and fully open-source."
+name: Warpnet
+description: Warpnet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. Warpnet is censorship-resistant, scalable, and fully open-source.
 repo: "https://github.com/Warp-net/warpnet"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T14:43:02Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:09:41Z"
 ---
 
 Warpnet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. Warpnet is censorship-resistant, scalable, and fully open-source.

@@ -1,12 +1,17 @@
 ---
-name: "Tree Sitter Embedded Template"
-description: "Tree-sitter grammar for embedded template languages like ERB, EJS"
+name: Tree Sitter Embedded Template
+description: Tree-sitter grammar for embedded template languages like ERB, EJS
 repo: "https://github.com/tree-sitter/tree-sitter-embedded-template"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-08-31T18:21:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:06:52Z"
 ---
 
 Tree-sitter grammar for embedded template languages like ERB, EJS

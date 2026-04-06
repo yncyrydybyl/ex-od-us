@@ -1,12 +1,15 @@
 ---
-name: "Ferrocene"
-description: "Source code of Ferrocene, safety-critical Rust toolchain"
+name: Ferrocene
+description: Source code of Ferrocene, safety-critical Rust toolchain
 repo: "https://github.com/ferrocene/ferrocene"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:34:58Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:54:36Z"
 ---
 
 Source code of Ferrocene, safety-critical Rust toolchain

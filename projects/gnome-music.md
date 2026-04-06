@@ -1,12 +1,17 @@
 ---
-name: "Gnome Music"
+name: Gnome Music
 description: "Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-music"
 repo: "https://github.com/GNOME/gnome-music"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T20:45:44Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#gnome-music:gnome.org]
+exodus_score: 5
+last_scanned: "2026-04-06T18:57:54Z"
 ---
 
 Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-music

@@ -10,7 +10,7 @@ updated: "2026-04-03T08:26:30Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:23:22Z"
+last_scanned: "2026-04-06T19:08:16Z"
 ---
 
 Firefox Profiler — Web app for Firefox performance analysis

@@ -1,12 +1,17 @@
 ---
-name: "Fittrackee"
+name: Fittrackee
 description: "Self-hosted outdoor activity tracker :bicyclist:"
 repo: "https://github.com/SamR1/FitTrackee"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T14:06:19Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#fittrackee:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T18:54:56Z"
 ---
 
 Self-hosted outdoor activity tracker :bicyclist:

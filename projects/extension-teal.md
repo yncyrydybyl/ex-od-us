@@ -9,7 +9,7 @@ issues: []
 updated: "2025-09-09T20:21:40Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:20:07Z"
+last_scanned: "2026-04-06T18:54:05Z"
 ---
 
 Defold transpilation support for Teal

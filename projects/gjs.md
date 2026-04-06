@@ -1,12 +1,15 @@
 ---
-name: "Gjs"
+name: Gjs
 description: "Read-only mirror of https://gitlab.gnome.org/GNOME/gjs"
 repo: "https://github.com/GNOME/gjs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-16T15:23:47Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:57:42Z"
 ---
 
 Read-only mirror of https://gitlab.gnome.org/GNOME/gjs

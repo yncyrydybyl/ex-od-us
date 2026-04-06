@@ -1,12 +1,17 @@
 ---
-name: "Plasma Mobile"
-description: "Plasma shell for mobile devices"
+name: Plasma Mobile
+description: Plasma shell for mobile devices
 repo: "https://github.com/KDE/plasma-mobile"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T11:39:12Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#plasmamobile:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:07:06Z"
 ---
 
 Plasma shell for mobile devices

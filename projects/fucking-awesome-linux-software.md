@@ -10,7 +10,7 @@ updated: "2026-04-06T06:33:46Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:20:55Z"
+last_scanned: "2026-04-06T18:56:38Z"
 ---
 
 A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴

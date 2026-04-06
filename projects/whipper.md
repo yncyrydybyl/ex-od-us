@@ -1,12 +1,17 @@
 ---
-name: "Whipper"
-description: "Python CD-DA ripper preferring accuracy over speed"
+name: Whipper
+description: Python CD-DA ripper preferring accuracy over speed
 repo: "https://github.com/whipper-team/whipper"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-17T22:33:18Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#whipper:libera.chat]
+exodus_score: 6
+last_scanned: "2026-04-06T19:10:46Z"
 ---
 
 Python CD-DA ripper preferring accuracy over speed

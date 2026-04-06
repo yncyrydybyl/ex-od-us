@@ -9,7 +9,7 @@ issues: [765]
 updated: "2026-03-30T04:48:12Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:21:10Z"
+last_scanned: "2026-04-06T18:58:59Z"
 ---
 
 GritQL is a query language for searching, linting, and modifying code.

@@ -10,7 +10,7 @@ updated: "2020-10-16T08:16:13Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:24:10Z"
+last_scanned: "2026-04-06T19:02:44Z"
 ---
 
 Self-hosted collaborative music playing application.

@@ -1,12 +1,17 @@
 ---
-name: "Meli"
+name: Meli
 description: "terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli"
 repo: "https://github.com/meli/meli"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T08:51:28Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#meli:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:07:46Z"
 ---
 
 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli

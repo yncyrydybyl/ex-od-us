@@ -1,12 +1,17 @@
 ---
-name: "Precice"
-description: "A coupling library and ecosystem for partitioned multi-physics and multi-scale simulations, including surface and volume coupling."
+name: Precice
+description: A coupling library and ecosystem for partitioned multi-physics and multi-scale simulations, including surface and volume coupling.
 repo: "https://github.com/precice/precice"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T12:27:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#precice_lobby:gitter.im]
+exodus_score: 5
+last_scanned: "2026-04-06T19:07:58Z"
 ---
 
 A coupling library and ecosystem for partitioned multi-physics and multi-scale simulations, including surface and volume coupling.

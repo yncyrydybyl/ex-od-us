@@ -1,12 +1,17 @@
 ---
-name: "Fcitx5 Android"
-description: "Fcitx5 input method framework and engines ported to Android"
+name: Fcitx5 Android
+description: Fcitx5 input method framework and engines ported to Android
 repo: "https://github.com/fcitx5-android/fcitx5-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T18:18:27Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#fcitx5-android:mozilla.org]
+exodus_score: 6
+last_scanned: "2026-04-06T18:54:24Z"
 ---
 
 Fcitx5 input method framework and engines ported to Android

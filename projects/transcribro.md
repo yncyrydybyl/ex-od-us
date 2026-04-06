@@ -1,12 +1,17 @@
 ---
-name: "Transcribro"
-description: "Private and on-device speech recognition keyboard and service for Android."
+name: Transcribro
+description: Private and on-device speech recognition keyboard and service for Android.
 repo: "https://github.com/soupslurpr/Transcribro"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-08-29T11:14:59Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#transcribro:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:06:36Z"
 ---
 
 Private and on-device speech recognition keyboard and service for Android.

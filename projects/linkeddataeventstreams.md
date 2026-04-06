@@ -1,12 +1,17 @@
 ---
-name: "Linkeddataeventstreams"
-description: "The Linked Data Event Streams specification"
+name: Linkeddataeventstreams
+description: The Linked Data Event Streams specification
 repo: "https://github.com/SEMICeu/LinkedDataEventStreams"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-11-25T08:26:02Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ldes:chat.semantic.works]
+exodus_score: 5
+last_scanned: "2026-04-06T19:05:02Z"
 ---
 
 The Linked Data Event Streams specification

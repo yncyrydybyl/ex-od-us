@@ -1,15 +1,20 @@
 ---
-name: "Pymadcad"
+name: Pymadcad
 description: " Simple yet powerful CAD (Computer Aided Design) library, written with Python."
 repo: "https://github.com/jimy-byerley/pymadcad"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T18:03:43Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#madcad:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:08:57Z"
 ---
 
- Simple yet powerful CAD (Computer Aided Design) library, written with Python.
+Simple yet powerful CAD (Computer Aided Design) library, written with Python.
 
 ## Stats
 

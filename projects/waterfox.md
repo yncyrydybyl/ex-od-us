@@ -9,7 +9,7 @@ issues: [825]
 updated: "2026-03-24T12:50:49Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:58Z"
+last_scanned: "2026-04-06T19:09:50Z"
 ---
 
 The official Waterfox 💧 source code repository

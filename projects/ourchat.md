@@ -1,12 +1,17 @@
 ---
-name: "Ourchat"
-description: "A cross-platform instant messaging app, made in flutter and rust, supporting matrix. Gracefully designed, Powerfully featured"
+name: Ourchat
+description: A cross-platform instant messaging app, made in flutter and rust, supporting matrix. Gracefully designed, Powerfully featured
 repo: "https://github.com/SkyUOI/OurChat"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T07:02:48Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#skyuoiourchat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:05:15Z"
 ---
 
 A cross-platform instant messaging app, made in flutter and rust, supporting matrix. Gracefully designed, Powerfully featured

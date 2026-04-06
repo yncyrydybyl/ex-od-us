@@ -1,12 +1,16 @@
 ---
-name: "Privacy Respecting"
-description: "Curated List of Privacy Respecting Services and Software"
+name: Privacy Respecting
+description: Curated List of Privacy Respecting Services and Software
 repo: "https://github.com/nikivdev/privacy-respecting"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-23T19:14:33Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:08:07Z"
 ---
 
 Curated List of Privacy Respecting Services and Software

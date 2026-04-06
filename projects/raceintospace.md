@@ -1,12 +1,17 @@
 ---
-name: "Raceintospace"
-description: "This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.  It was open-sourced in 2005 and a number of improvements have been made o"
+name: Raceintospace
+description: This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.  It was open-sourced in 2005 and a number of improvements have been made o
 repo: "https://github.com/raceintospace/raceintospace"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T17:22:24Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#raceintospace-games:matrix.org, https://matrix.to/#/#raceintospace-general:matrix.org, https://matrix.to/#/#raceintospace:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T19:10:02Z"
 ---
 
 This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions and published by Interplay as a disk-based game in 1993 and a CD-ROM in 1994.  It was open-sourced in 2005 and a number of improvements have been made o

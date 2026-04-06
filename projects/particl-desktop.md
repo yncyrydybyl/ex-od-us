@@ -1,12 +1,16 @@
 ---
-name: "Particl Desktop"
-description: "The GUI application for Particl Markeplace and PART coin wallet. A decentralized peer to peer marketplace –free, secure, private, untraceable."
+name: Particl Desktop
+description: The GUI application for Particl Markeplace and PART coin wallet. A decentralized peer to peer marketplace –free, secure, private, untraceable.
 repo: "https://github.com/particl/particl-desktop"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-07T20:37:55Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:05:53Z"
 ---
 
 The GUI application for Particl Markeplace and PART coin wallet. A decentralized peer to peer marketplace –free, secure, private, untraceable.

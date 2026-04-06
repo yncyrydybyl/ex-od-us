@@ -1,12 +1,17 @@
 ---
-name: "Mox"
-description: "modern full-featured open source secure mail server for low-maintenance self-hosted email"
+name: Mox
+description: modern full-featured open source secure mail server for low-maintenance self-hosted email
 repo: "https://github.com/mjl-/mox"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-21T19:27:41Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#mox:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:09:25Z"
 ---
 
 modern full-featured open source secure mail server for low-maintenance self-hosted email

@@ -1,12 +1,17 @@
 ---
-name: "Taffybar"
-description: "A gtk based status bar for tiling window managers such as XMonad"
+name: Taffybar
+description: A gtk based status bar for tiling window managers such as XMonad
 repo: "https://github.com/taffybar/taffybar"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T19:32:46Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#taffybar:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:04:38Z"
 ---
 
 A gtk based status bar for tiling window managers such as XMonad

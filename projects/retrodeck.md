@@ -1,12 +1,17 @@
 ---
-name: "Retrodeck"
+name: Retrodeck
 description: "RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Machine. "
 repo: "https://github.com/RetroDECK/RetroDECK"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T21:25:00Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#retrodeck:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:11:05Z"
 ---
 
 RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Machine. 

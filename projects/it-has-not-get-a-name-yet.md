@@ -1,12 +1,17 @@
 ---
-name: "It Has Not Get A Name Yet"
+name: It Has Not Get A Name Yet
 description: "A simple Chinese guide for new GNU/Linux user, which it haven't got a title yet."
 repo: "https://github.com/KenOokamiHoro/it_has_not_get_a_name_yet"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2021-02-27T14:48:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nameless:yoitsu.moe]
+exodus_score: 5
+last_scanned: "2026-04-06T19:01:56Z"
 ---
 
 A simple Chinese guide for new GNU/Linux user, which it haven't got a title yet.

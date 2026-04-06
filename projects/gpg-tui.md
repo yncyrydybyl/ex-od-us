@@ -1,12 +1,16 @@
 ---
-name: "Gpg Tui"
-description: "Manage your GnuPG keys with ease! 🔐"
+name: Gpg Tui
+description: Manage your GnuPG keys with ease! 🔐
 repo: "https://github.com/orhun/gpg-tui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T11:06:28Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T18:58:47Z"
 ---
 
 Manage your GnuPG keys with ease! 🔐

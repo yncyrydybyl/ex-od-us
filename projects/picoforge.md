@@ -1,12 +1,16 @@
 ---
-name: "Picoforge"
-description: "A commissioning tool for pico-fido firmware based hardware keys."
+name: Picoforge
+description: A commissioning tool for pico-fido firmware based hardware keys.
 repo: "https://github.com/librekeys/picoforge"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-24T13:40:00Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:06:32Z"
 ---
 
 A commissioning tool for pico-fido firmware based hardware keys.

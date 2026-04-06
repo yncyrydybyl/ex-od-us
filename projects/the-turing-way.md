@@ -1,12 +1,15 @@
 ---
-name: "The Turing Way"
+name: The Turing Way
 description: "Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science"
 repo: "https://github.com/the-turing-way/the-turing-way"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T02:00:40Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:05:30Z"
 ---
 
 Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science

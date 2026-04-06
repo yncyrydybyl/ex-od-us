@@ -1,12 +1,15 @@
 ---
-name: "Oi.Men.Ci"
-description: "Menci 的 OI 博客（源代码与网站文件）"
+name: Oi.Men.Ci
+description: Menci 的 OI 博客（源代码与网站文件）
 repo: "https://github.com/Menci/oi.men.ci"
 platform: github
 categories: [Development]
-status: "Active"
+status: Dead
 issues: []
 updated: "2022-10-04T06:25:48Z"
+verified: false
+verified_note: repo not found (404)
+last_scanned: "2026-04-06T19:03:35Z"
 ---
 
 Menci 的 OI 博客（源代码与网站文件）

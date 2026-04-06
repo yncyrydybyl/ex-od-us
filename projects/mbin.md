@@ -1,12 +1,17 @@
 ---
-name: "Mbin"
+name: Mbin
 description: "Mbin: a federated content aggregator, voting, discussion and microblogging platform"
 repo: "https://github.com/MbinOrg/mbin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T17:12:33Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#mbin:melroy.org]
+exodus_score: 7
+last_scanned: "2026-04-06T19:07:34Z"
 ---
 
 Mbin: a federated content aggregator, voting, discussion and microblogging platform

@@ -10,7 +10,7 @@ updated: "2026-03-31T14:11:29Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:27Z"
+last_scanned: "2026-04-06T18:55:19Z"
 ---
 
 A Kubernetes operator to manage updates of Flatcar Container Linux

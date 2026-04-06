@@ -1,12 +1,16 @@
 ---
-name: "Hafas Client"
-description: "JavaScript client for HAFAS public transport APIs."
+name: Hafas Client
+description: JavaScript client for HAFAS public transport APIs.
 repo: "https://github.com/public-transport/hafas-client"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-09T17:00:05Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T18:59:19Z"
 ---
 
 JavaScript client for HAFAS public transport APIs.

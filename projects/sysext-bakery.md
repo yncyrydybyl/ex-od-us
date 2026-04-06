@@ -10,7 +10,7 @@ updated: "2026-04-03T05:39:43Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:24:20Z"
+last_scanned: "2026-04-06T19:04:25Z"
 ---
 
 Recipes for baking systemd-sysext images

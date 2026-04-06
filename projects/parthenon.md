@@ -1,12 +1,16 @@
 ---
-name: "Parthenon"
+name: Parthenon
 description: "Parthenon AMR infrastructure "
 repo: "https://github.com/parthenon-hpc-lab/parthenon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T23:18:04Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:05:52Z"
 ---
 
 Parthenon AMR infrastructure 

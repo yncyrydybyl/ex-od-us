@@ -1,12 +1,16 @@
 ---
-name: "Ravynos"
-description: "An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience."
+name: Ravynos
+description: An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 repo: "https://github.com/ravynsoft/ravynos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T20:23:07Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:10:19Z"
 ---
 
 An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.

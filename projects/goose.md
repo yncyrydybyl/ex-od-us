@@ -1,12 +1,15 @@
 ---
-name: "Goose"
-description: "very tunnel"
+name: Goose
+description: very tunnel
 repo: "https://github.com/nickjfree/goose"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-08T12:28:26Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:58:42Z"
 ---
 
 very tunnel

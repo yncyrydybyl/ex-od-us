@@ -1,12 +1,17 @@
 ---
-name: "Jellyflix"
+name: Jellyflix
 description: "Jellyfix is an easy-to-use Jellyfin client for movies and shows. It's cross-platform and supports Mobile (iOS, Android) and Desktop (Windows, Mac, Linux)."
 repo: "https://github.com/jellyflix-app/jellyflix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T15:52:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#jellyflix-space:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:02:26Z"
 ---
 
 Jellyfix is an easy-to-use Jellyfin client for movies and shows. It's cross-platform and supports Mobile (iOS, Android) and Desktop (Windows, Mac, Linux).

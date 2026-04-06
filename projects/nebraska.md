@@ -10,7 +10,7 @@ updated: "2026-04-06T07:59:35Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:22:30Z"
+last_scanned: "2026-04-06T19:10:09Z"
 ---
 
 Update monitor & manager for applications using the Omaha protocol, optimized for Flatcar Container Linux.

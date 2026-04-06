@@ -1,12 +1,17 @@
 ---
-name: "Rgfw"
-description: "A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries."
+name: Rgfw
+description: A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.
 repo: "https://github.com/ColleagueRiley/RGFW"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T23:02:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rsgl-is-sili:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:11:15Z"
 ---
 
 A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.

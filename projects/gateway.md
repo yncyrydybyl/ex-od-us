@@ -1,12 +1,17 @@
 ---
-name: "Gateway"
-description: "WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web"
+name: Gateway
+description: WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web
 repo: "https://github.com/WebThingsIO/gateway"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T20:51:21Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#iot:mozilla.org]
+exodus_score: 5
+last_scanned: "2026-04-06T18:57:02Z"
 ---
 
 WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web

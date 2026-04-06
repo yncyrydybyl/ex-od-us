@@ -1,12 +1,15 @@
 ---
-name: "Filament"
-description: "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2"
+name: Filament
+description: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 repo: "https://github.com/google/filament"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T00:35:07Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:54:46Z"
 ---
 
 Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2

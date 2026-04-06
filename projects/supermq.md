@@ -9,7 +9,7 @@ issues: [52]
 updated: "2026-04-06T08:19:30Z"
 matrix_rooms: [https://matrix.to/#/#supermq:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-06T15:24:16Z"
+last_scanned: "2026-04-06T19:04:06Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

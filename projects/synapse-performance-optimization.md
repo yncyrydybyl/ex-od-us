@@ -8,7 +8,7 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#synapse-dev:matrix.org, https://matrix.to/#/#synapse:matrix.org]
 issues: [6]
 updated: "2026-04-06T08:17:35Z"
-last_scanned: "2026-04-06T15:24:18Z"
+last_scanned: "2026-04-06T19:04:16Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 5

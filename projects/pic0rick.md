@@ -1,12 +1,16 @@
 ---
-name: "Pic0Rick"
+name: Pic0Rick
 description: "An rp2040-based acquisition board for pulse-echo ultrasound "
 repo: "https://github.com/kelu124/pic0rick"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T10:59:39Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T19:06:30Z"
 ---
 
 An rp2040-based acquisition board for pulse-echo ultrasound 

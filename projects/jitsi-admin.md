@@ -1,12 +1,17 @@
 ---
-name: "Jitsi Admin"
-description: "Jitsi Admin – Conference Organizer  Manage and control your video conferences with support for Jitsi Meet and LiveKit. Includes an optimized LiveKit frontend for enhanced efficiency and performance."
+name: Jitsi Admin
+description: Jitsi Admin – Conference Organizer  Manage and control your video conferences with support for Jitsi Meet and LiveKit. Includes an optimized LiveKit frontend for enhanced efficiency and performance.
 repo: "https://github.com/H2-invent/jitsi-admin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T11:49:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#jitsi-admin:h2-invent.com]
+exodus_score: 6
+last_scanned: "2026-04-06T19:02:36Z"
 ---
 
 Jitsi Admin – Conference Organizer  Manage and control your video conferences with support for Jitsi Meet and LiveKit. Includes an optimized LiveKit frontend for enhanced efficiency and performance.

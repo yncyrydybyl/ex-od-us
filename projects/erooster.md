@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#erooster:midnightthoughts.space]
 exodus_score: 5
-last_scanned: "2026-04-06T15:19:44Z"
+last_scanned: "2026-04-06T18:53:13Z"
 ---
 
 A mail suite written in rust meant to be easy to use.

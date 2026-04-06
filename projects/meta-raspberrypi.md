@@ -1,12 +1,17 @@
 ---
-name: "Meta Raspberrypi"
-description: "Yocto/OE BSP layer for the Raspberry Pi boards"
+name: Meta Raspberrypi
+description: Yocto/OE BSP layer for the Raspberry Pi boards
 repo: "https://github.com/agherzan/meta-raspberrypi"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T23:01:19Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#meta-raspberrypi:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:08:05Z"
 ---
 
 Yocto/OE BSP layer for the Raspberry Pi boards

@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#hive-std-nix:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:21:14Z"
+last_scanned: "2026-04-06T19:00:01Z"
 ---
 
 The secretly open NixOS-Society

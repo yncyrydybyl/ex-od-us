@@ -1,12 +1,16 @@
 ---
-name: "Oopt Gnpy"
-description: "Optical Route Planning Library, Based on a Gaussian Noise Model"
+name: Oopt Gnpy
+description: Optical Route Planning Library, Based on a Gaussian Noise Model
 repo: "https://github.com/Telecominfraproject/oopt-gnpy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T15:34:34Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 2
+last_scanned: "2026-04-06T19:03:48Z"
 ---
 
 Optical Route Planning Library, Based on a Gaussian Noise Model

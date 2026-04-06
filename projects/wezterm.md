@@ -1,12 +1,16 @@
 ---
-name: "Wezterm"
-description: "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
+name: Wezterm
+description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 repo: "https://github.com/wezterm/wezterm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T00:54:15Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:10:30Z"
 ---
 
 A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust

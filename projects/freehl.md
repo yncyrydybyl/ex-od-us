@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#nuclide:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-06T15:20:50Z"
+last_scanned: "2026-04-06T18:56:17Z"
 ---
 
 Clean-room reimplementation of Half-Life: Deathmatch and Half-Life (Experimental) in QuakeC.

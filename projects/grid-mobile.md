@@ -1,12 +1,15 @@
 ---
-name: "Grid Mobile"
+name: Grid Mobile
 description: "Grid: Private Location Sharing mobile app for iOS/Android. E2EE with Matrix."
 repo: "https://github.com/Rezivure/Grid-Mobile"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T01:34:07Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T18:58:57Z"
 ---
 
 Grid: Private Location Sharing mobile app for iOS/Android. E2EE with Matrix.

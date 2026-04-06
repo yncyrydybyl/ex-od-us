@@ -1,12 +1,17 @@
 ---
-name: "Nxengine Evo"
-description: "nxengine refactoring"
+name: Nxengine Evo
+description: nxengine refactoring
 repo: "https://github.com/nxengine/nxengine-evo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-04T02:13:55Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#nxengine-evo:ninetailed.ninja]
+exodus_score: 5
+last_scanned: "2026-04-06T19:03:07Z"
 ---
 
 nxengine refactoring

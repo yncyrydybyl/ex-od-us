@@ -1,12 +1,17 @@
 ---
-name: "Rust Psutil"
-description: "A process and system monitoring library for Rust"
+name: Rust Psutil
+description: A process and system monitoring library for Rust
 repo: "https://github.com/rust-psutil/rust-psutil"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-07-25T14:03:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#rust-psutil:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T18:59:46Z"
 ---
 
 A process and system monitoring library for Rust

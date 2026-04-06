@@ -1,12 +1,17 @@
 ---
-name: "Himalaya Vim"
-description: "Vim frontend for Himalaya CLI email client"
+name: Himalaya Vim
+description: Vim frontend for Himalaya CLI email client
 repo: "https://github.com/pimalaya/himalaya-vim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-24T22:12:49Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T18:59:56Z"
 ---
 
 Vim frontend for Himalaya CLI email client

@@ -1,12 +1,15 @@
 ---
-name: "Reviews"
-description: "Reviewing some online CS courses I took"
+name: Reviews
+description: Reviewing some online CS courses I took
 repo: "https://github.com/spamegg1/reviews"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-07T07:20:56Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:11:08Z"
 ---
 
 Reviewing some online CS courses I took

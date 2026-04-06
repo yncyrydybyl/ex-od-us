@@ -10,7 +10,7 @@ updated: "2026-04-06T07:47:46Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:20:59Z"
+last_scanned: "2026-04-06T18:56:44Z"
 ---
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. With repository stars⭐ and forks🍴

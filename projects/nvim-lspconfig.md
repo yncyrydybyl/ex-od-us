@@ -1,12 +1,16 @@
 ---
-name: "Nvim Lspconfig"
-description: "Quickstart configs for Nvim LSP"
+name: Nvim Lspconfig
+description: Quickstart configs for Nvim LSP
 repo: "https://github.com/neovim/nvim-lspconfig"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T16:09:02Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:03:01Z"
 ---
 
 Quickstart configs for Nvim LSP

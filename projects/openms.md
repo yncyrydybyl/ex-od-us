@@ -1,12 +1,15 @@
 ---
-name: "Openms"
-description: "The codebase of the OpenMS project"
+name: Openms
+description: The codebase of the OpenMS project
 repo: "https://github.com/OpenMS/OpenMS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T13:14:41Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T19:04:22Z"
 ---
 
 The codebase of the OpenMS project

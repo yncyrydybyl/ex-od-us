@@ -1,12 +1,17 @@
 ---
-name: "Wallabag"
+name: Wallabag
 description: "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely."
 repo: "https://github.com/wallabag/wallabag"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:25:52Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#wallabag:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:09:38Z"
 ---
 
 wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.

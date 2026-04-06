@@ -9,7 +9,7 @@ issues: [824]
 updated: "2026-03-23T20:21:09Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:57Z"
+last_scanned: "2026-04-06T19:09:48Z"
 ---
 
 Waterfox for Android

@@ -1,12 +1,16 @@
 ---
-name: "Labgrid"
-description: "Embedded systems control library for development, testing and installation"
+name: Labgrid
+description: Embedded systems control library for development, testing and installation
 repo: "https://github.com/labgrid-project/labgrid"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T18:02:10Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 4
+last_scanned: "2026-04-06T19:03:44Z"
 ---
 
 Embedded systems control library for development, testing and installation

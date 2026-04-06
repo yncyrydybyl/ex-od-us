@@ -9,7 +9,7 @@ issues: []
 updated: "2026-04-05T03:53:19Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:20:40Z"
+last_scanned: "2026-04-06T18:55:52Z"
 ---
 
 FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.

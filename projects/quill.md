@@ -1,12 +1,17 @@
 ---
-name: "Quill"
-description: "An open-source, Qt-based eBook reader for Kobos (and other devices)."
+name: Quill
+description: An open-source, Qt-based eBook reader for Kobos (and other devices).
 repo: "https://github.com/Quill-OS/quill"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-03T05:00:33Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#inkbox-os-project:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T19:09:43Z"
 ---
 
 An open-source, Qt-based eBook reader for Kobos (and other devices).

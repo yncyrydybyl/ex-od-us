@@ -1,12 +1,17 @@
 ---
-name: "Overte"
-description: "Overte open source virtual worlds platform."
+name: Overte
+description: Overte open source virtual worlds platform.
 repo: "https://github.com/overte-org/overte"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T23:19:45Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#overte:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T19:05:16Z"
 ---
 
 Overte open source virtual worlds platform.

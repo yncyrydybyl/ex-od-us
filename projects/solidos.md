@@ -1,12 +1,16 @@
 ---
-name: "Solidos"
-description: "The operating system for Solid"
+name: Solidos
+description: The operating system for Solid
 repo: "https://github.com/SolidOS/solidos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-29T18:07:50Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T19:02:32Z"
 ---
 
 The operating system for Solid

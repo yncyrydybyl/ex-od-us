@@ -10,7 +10,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#tesseract:ptznetwork.org]
 exodus_score: 5
-last_scanned: "2026-04-06T15:24:27Z"
+last_scanned: "2026-04-06T19:05:19Z"
 ---
 
 ## Stats

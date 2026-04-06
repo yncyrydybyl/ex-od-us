@@ -1,12 +1,17 @@
 ---
-name: "Txproto"
-description: "Scriptable multimedia sandbox. Captures, streams and records from a variety of sources."
+name: Txproto
+description: Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.
 repo: "https://github.com/cyanreg/txproto"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-03-10T03:20:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#txproto:pars.ee]
+exodus_score: 5
+last_scanned: "2026-04-06T19:08:10Z"
 ---
 
 Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.
