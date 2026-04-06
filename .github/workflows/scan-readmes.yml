@@ -28,16 +28,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          CHANGED=$(bash scripts/scan-readmes.sh)
-          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
-
-          # Check if anything changed
-          CHANGE_COUNT=$(echo "$CHANGED" | jq 'length')
+          bash scripts/scan-readmes.sh > /tmp/changed.json
+          CHANGE_COUNT=$(jq 'length' /tmp/changed.json)
           echo "change_count=$CHANGE_COUNT" >> "$GITHUB_OUTPUT"
 
       - name: Commit cache updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -55,4 +50,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo '${{ steps.scan.outputs.changed }}' | bash scripts/notify-changes.sh
+          cat /tmp/changed.json | bash scripts/notify-changes.sh
