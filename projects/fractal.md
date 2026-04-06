@@ -8,7 +8,7 @@ exodus_score: 5
 status: "Active"
 matrix_rooms:
   - "https://matrix.to/#/#fractal:gnome.org"
-issues: []
+issues: [7032]
 updated: "2026-01-23T01:26:25+01:00"
 last_scanned: "2026-04-06T21:05:11Z"
 ---
