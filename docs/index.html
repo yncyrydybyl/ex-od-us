@@ -444,6 +444,9 @@ function enrich(p) {
   else if (ch.mattermost)p.primaryPlatform = { icon: 'Mm', color: '#0058CC' };
   else                   p.primaryPlatform = null;
 
+  // Detect Matrix user link (for projects with @user:server but no room)
+  p.matrixUser = p.channels?.matrix_user || '';
+
   // Parse matrix rooms into {name, url} pairs
   p.matrixRoomsParsed = (p.channels.matrix_rooms || []).map(line => {
     line = line.replace(/^-\s*/, '').trim();
@@ -509,10 +512,18 @@ function renderCards(projects) {
         <span class="exodus-bar-label">${sc}/10</span>
       </div>` : '';
 
-    // Matrix room link for top-right badge
-    const matrixBadge = firstRoom
-      ? `<a class="card-matrix-link" href="${esc(firstRoom.url)}" target="_blank" onclick="event.stopPropagation()" title="${esc(firstRoom.url)}">M</a>`
-      : `<span class="card-matrix-link" data-empty title="No Matrix room">M</span>`;
+    // Matrix badge: detect type from URL (room #, space +, user @)
+    let matrixBadge;
+    const matrixLink = firstRoom ? firstRoom.url : (p.matrixUser || '');
+    if (matrixLink) {
+      let mLabel = '#';  // room
+      let mTitle = 'Matrix room';
+      if (matrixLink.includes('/#/+')) { mLabel = '+'; mTitle = 'Matrix space'; }
+      else if (matrixLink.includes('/#/@')) { mLabel = '@'; mTitle = 'Matrix user'; }
+      matrixBadge = `<a class="card-matrix-link" href="${esc(matrixLink)}" target="_blank" onclick="event.stopPropagation()" title="${mTitle}: ${esc(matrixLink)}">${mLabel}</a>`;
+    } else {
+      matrixBadge = `<span class="card-matrix-link" data-empty title="No Matrix presence">&ndash;</span>`;
+    }
 
     return `
     <div class="card" data-idx="${i}">
