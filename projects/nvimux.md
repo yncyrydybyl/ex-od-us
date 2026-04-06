@@ -5,6 +5,10 @@ repo: "https://github.com/hkupty/nvimux"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nvimux:matrix.org"
 issues: []
 updated: "2022-05-19T09:08:39Z"
 ---

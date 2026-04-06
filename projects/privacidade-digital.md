@@ -5,6 +5,10 @@ repo: "https://github.com/PrivacidadeDigital/Privacidade.Digital"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#privacidade.digital-geral:matrix.org"
 issues: []
 updated: "2024-08-01T23:43:21Z"
 ---

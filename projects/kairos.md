@@ -5,6 +5,10 @@ repo: "https://github.com/kairos-io/kairos"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#kairos-io:matrix.org"
 issues: [6782]
 updated: "2026-04-06T09:40:12Z"
 ---

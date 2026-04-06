@@ -5,6 +5,10 @@ repo: "https://github.com/IntelPython/numba-dpex"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
 issues: []
 updated: "2025-09-26T20:30:33Z"
 ---

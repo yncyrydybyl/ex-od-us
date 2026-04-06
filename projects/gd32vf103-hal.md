@@ -5,6 +5,10 @@ repo: "https://github.com/gd32v-rust/gd32vf103-hal"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gd32v-rust:matrix.org"
 issues: [6332]
 updated: "2021-12-28T04:26:47Z"
 ---

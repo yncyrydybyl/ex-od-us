@@ -5,6 +5,10 @@ repo: "https://github.com/KDE/kclock"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#plasmamobile:matrix.org"
 issues: [6799]
 updated: "2026-03-31T02:42:54Z"
 ---

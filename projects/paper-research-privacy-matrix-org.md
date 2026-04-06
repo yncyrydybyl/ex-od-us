@@ -5,6 +5,8 @@ repo: "https://github.com/libremonde-org/paper-research-privacy-matrix.org"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2023-04-10T20:37:26Z"
 ---

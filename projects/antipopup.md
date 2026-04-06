@@ -5,6 +5,10 @@ repo: "https://github.com/KaspianDev/AntiPopup"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#future-project:matrix.org"
 issues: [5198]
 updated: "2026-01-14T13:06:24Z"
 ---

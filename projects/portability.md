@@ -5,6 +5,10 @@ repo: "https://github.com/gfx-rs/portability"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gfx:matrix.org"
 issues: []
 updated: "2023-06-06T02:15:26Z"
 ---

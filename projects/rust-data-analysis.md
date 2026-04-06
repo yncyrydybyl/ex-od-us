@@ -5,6 +5,10 @@ repo: "https://github.com/wiseaidev/rust-data-analysis"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rusty-data:gitter.im"
 issues: []
 updated: "2024-07-27T06:28:56Z"
 ---

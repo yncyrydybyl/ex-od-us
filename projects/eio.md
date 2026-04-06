@@ -5,6 +5,10 @@ repo: "https://github.com/ocaml-multicore/eio"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#eio:roscidus.com"
 issues: [5982]
 updated: "2025-11-04T15:07:30Z"
 ---

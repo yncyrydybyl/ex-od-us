@@ -5,6 +5,8 @@ repo: "https://github.com/backbay-labs/clawdstrike"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [731]
 updated: "2026-04-05T13:36:57Z"
 verified: true

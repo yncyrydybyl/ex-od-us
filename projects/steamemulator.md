@@ -5,6 +5,10 @@ repo: "https://github.com/metrixmedia/SteamEmulator"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#goldberg:matrix.org"
 issues: []
 updated: "2025-10-05T20:40:54Z"
 ---

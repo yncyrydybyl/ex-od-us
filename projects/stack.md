@@ -5,6 +5,10 @@ repo: "https://github.com/commercialhaskell/stack"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#haskell-stack:matrix.org"
 issues: []
 updated: "2026-04-05T20:50:41Z"
 ---

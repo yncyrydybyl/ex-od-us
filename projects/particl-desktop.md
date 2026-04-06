@@ -5,6 +5,8 @@ repo: "https://github.com/particl/particl-desktop"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2026-01-07T20:37:55Z"
 ---

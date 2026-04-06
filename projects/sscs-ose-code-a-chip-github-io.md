@@ -5,6 +5,10 @@ repo: "https://github.com/sscs-ose/sscs-ose-code-a-chip.github.io"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Code-a-Chip:fossi-chat.org"
 issues: []
 updated: "2026-03-17T00:42:17Z"
 ---

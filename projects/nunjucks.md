@@ -5,6 +5,10 @@ repo: "https://github.com/mozilla/nunjucks"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nunjucks:mozilla.org"
 issues: []
 updated: "2026-02-07T15:11:07Z"
 ---

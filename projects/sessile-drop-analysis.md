@@ -5,6 +5,10 @@ repo: "https://github.com/mvgorcum/Sessile.drop.analysis"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Sessile.Drop.Analysis:matrix.vgorcum.com"
 issues: []
 updated: "2025-05-17T20:37:41Z"
 ---

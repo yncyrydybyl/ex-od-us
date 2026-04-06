@@ -5,6 +5,10 @@ repo: "https://github.com/Correia-jpv/fucking-awesome-selfhosted"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#selfhosted:selfhosted.chat"
 issues: [6310]
 updated: "2026-04-06T06:42:11Z"
 ---

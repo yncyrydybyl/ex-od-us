@@ -5,6 +5,8 @@ repo: "https://github.com/Restioson/xtra"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2024-11-16T12:06:10Z"
 ---

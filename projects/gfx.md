@@ -5,6 +5,10 @@ repo: "https://github.com/gfx-rs/gfx"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gfx:matrix.org"
 issues: [6345]
 updated: "2023-02-27T01:05:58Z"
 ---

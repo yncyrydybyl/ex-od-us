@@ -5,6 +5,10 @@ repo: "https://github.com/cyb3rko/flashdim"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#flashdim:matrix.org"
 issues: [6215]
 updated: "2026-02-23T20:31:07Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/BrunoSobrino/ShadowBotV3"
 platform: github
 categories: [Integrations]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2024-04-15T01:59:37Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/RunaCapital/awesome-oss-alternatives"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5360]
 updated: "2025-09-03T17:43:01Z"
 ---

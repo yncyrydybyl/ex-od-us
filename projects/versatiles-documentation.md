@@ -5,6 +5,10 @@ repo: "https://github.com/versatiles-org/versatiles-documentation"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#versatiles:matrix.org"
 issues: []
 updated: "2026-04-02T03:05:22Z"
 ---

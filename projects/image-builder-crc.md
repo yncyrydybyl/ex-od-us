@@ -5,6 +5,10 @@ repo: "https://github.com/osbuild/image-builder-crc"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#image-builder:fedoraproject.org"
 issues: [6611]
 updated: "2026-04-06T06:41:59Z"
 ---

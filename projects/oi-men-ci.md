@@ -5,6 +5,8 @@ repo: "https://github.com/Menci/oi.men.ci"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2022-10-04T06:25:48Z"
 ---

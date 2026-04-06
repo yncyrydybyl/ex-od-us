@@ -5,6 +5,10 @@ repo: "https://github.com/mautrix/twitter"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#twitter:maunium.net"
 issues: []
 updated: "2026-04-01T14:18:28Z"
 ---

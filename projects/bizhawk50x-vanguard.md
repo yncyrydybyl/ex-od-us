@@ -5,6 +5,8 @@ repo: "https://github.com/redscientistlabs/Bizhawk50X-Vanguard"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5455]
 updated: "2023-01-14T03:20:36Z"
 ---

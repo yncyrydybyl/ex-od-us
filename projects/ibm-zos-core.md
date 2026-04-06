@@ -5,6 +5,10 @@ repo: "https://github.com/ansible-collections/ibm_zos_core"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#users:ansible.com"
 issues: [6596]
 updated: "2026-04-06T04:38:05Z"
 ---

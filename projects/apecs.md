@@ -5,6 +5,8 @@ repo: "https://github.com/jonascarpay/apecs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5210]
 updated: "2026-04-03T22:49:57Z"
 ---

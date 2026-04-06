@@ -5,6 +5,10 @@ repo: "https://github.com/gsantner/memetastic"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#memetastic:matrix.org"
 issues: []
 updated: "2026-03-06T20:36:42Z"
 ---

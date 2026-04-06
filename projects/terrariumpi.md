@@ -5,6 +5,10 @@ repo: "https://github.com/theyosh/TerrariumPI"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#terrariumpi:theyosh.nl"
 issues: []
 updated: "2026-03-30T06:15:41Z"
 ---

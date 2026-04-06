@@ -5,6 +5,10 @@ repo: "https://github.com/ibizaman/selfhostblocks"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#selfhostblocks:matrix.org"
 issues: []
 updated: "2026-04-02T02:54:48Z"
 ---

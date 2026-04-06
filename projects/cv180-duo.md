@@ -5,6 +5,10 @@ repo: "https://github.com/sophgocommunity/CV180-Duo"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#milkv-duo:matrix.org"
 issues: [5757]
 updated: "2023-09-16T08:14:08Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/oreboot/oreboot"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#oreboot-dev:matrix.org"
 issues: []
 updated: "2025-11-21T11:02:14Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/dao-xyz/peerbit"
 platform: github
 categories: [Security]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#peerbit:matrix.org"
 issues: []
 updated: "2026-04-06T07:13:00Z"
 ---

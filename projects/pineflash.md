@@ -5,6 +5,8 @@ repo: "https://github.com/Spagett1/pineflash"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2025-02-06T13:00:19Z"
 ---

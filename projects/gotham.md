@@ -5,6 +5,10 @@ repo: "https://github.com/gotham-rs/gotham"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gotham-rs:matrix.org"
 issues: [6454]
 updated: "2026-03-30T07:02:59Z"
 ---

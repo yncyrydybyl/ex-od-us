@@ -5,6 +5,8 @@ repo: "https://github.com/paritytech/helm-charts"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6526]
 updated: "2026-03-03T16:05:18Z"
 ---

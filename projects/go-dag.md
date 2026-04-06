@@ -5,6 +5,10 @@ repo: "https://github.com/rhosocial/go-dag"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#go-dag.rhosocial:gitter.im"
 issues: [6413]
 updated: "2024-08-17T11:51:54Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/jinko-core/jinko"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jinko-lang:matrix.org"
 issues: [6744]
 updated: "2024-12-02T11:59:43Z"
 ---

@@ -5,6 +5,11 @@ repo: "https://github.com/oknozor/gill"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#general-forgefed:matrix.batsense.net"
+  - "https://matrix.to/#/#gill:hoohoot.org"
 issues: [6363]
 updated: "2026-01-05T16:36:45Z"
 ---

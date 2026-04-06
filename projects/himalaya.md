@@ -5,6 +5,10 @@ repo: "https://github.com/pimalaya/himalaya"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#pimalaya:matrix.org"
 issues: [6543]
 updated: "2026-04-02T10:09:42Z"
 ---

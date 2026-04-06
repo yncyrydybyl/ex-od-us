@@ -5,6 +5,10 @@ repo: "https://github.com/H2-invent/jitsi-admin"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#jitsi-admin:h2-invent.com"
 issues: [6746]
 updated: "2026-03-31T11:49:38Z"
 ---

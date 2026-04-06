@@ -5,6 +5,8 @@ repo: "https://github.com/spamegg1/reviews"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2025-12-07T07:20:56Z"
 ---

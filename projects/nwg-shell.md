@@ -5,6 +5,10 @@ repo: "https://github.com/nwg-piotr/nwg-shell"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nwg-shell:matrix.org"
 issues: []
 updated: "2026-03-31T23:37:06Z"
 ---

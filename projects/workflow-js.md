@@ -5,6 +5,10 @@ repo: "https://github.com/vhidvz/workflow-js"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wfjs:gitter.im"
 issues: []
 updated: "2025-10-23T09:40:52Z"
 ---

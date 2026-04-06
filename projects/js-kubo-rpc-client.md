@@ -5,6 +5,8 @@ repo: "https://github.com/ipfs/js-kubo-rpc-client"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6757]
 updated: "2026-03-01T15:59:39Z"
 ---

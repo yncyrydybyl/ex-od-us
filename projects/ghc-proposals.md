@@ -5,6 +5,10 @@ repo: "https://github.com/ghc-proposals/ghc-proposals"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ghc:matrix.org"
 issues: [6350]
 updated: "2026-03-25T11:01:41Z"
 ---

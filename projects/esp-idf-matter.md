@@ -5,6 +5,10 @@ repo: "https://github.com/sysgrok/esp-idf-matter"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#matter-rs:matrix.org"
 issues: [6080]
 updated: "2026-04-06T13:56:59Z"
 ---

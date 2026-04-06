@@ -5,6 +5,8 @@ repo: "https://github.com/denoland/deno"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5849]
 updated: "2026-04-06T16:43:48Z"
 ---

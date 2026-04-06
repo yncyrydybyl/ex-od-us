@@ -5,6 +5,10 @@ repo: "https://github.com/microvm-nix/microvm.nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#microvm:nixos.org"
 issues: []
 updated: "2026-04-04T19:01:41Z"
 ---

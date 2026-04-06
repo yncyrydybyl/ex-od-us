@@ -5,6 +5,10 @@ repo: "https://github.com/jordanisaacs/neovim-flake"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#neovim-flake:matrix.org"
 issues: []
 updated: "2024-08-01T02:00:03Z"
 ---

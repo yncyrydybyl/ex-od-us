@@ -5,6 +5,10 @@ repo: "https://github.com/imxrt-rs/imxrt-hal"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#imxrt-rs:matrix.org"
 issues: [6629]
 updated: "2026-04-03T10:25:06Z"
 ---

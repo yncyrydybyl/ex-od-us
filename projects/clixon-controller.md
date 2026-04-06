@@ -5,6 +5,10 @@ repo: "https://github.com/clicon/clixon-controller"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#clixonforum:matrix.org"
 issues: [5616]
 updated: "2026-04-04T16:22:44Z"
 ---

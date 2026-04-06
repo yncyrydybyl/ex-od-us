@@ -5,6 +5,10 @@ repo: "https://github.com/turt2live/matrix-appservice-webhooks"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#webhooks:t2bot.io"
 issues: []
 updated: "2024-04-18T12:34:49Z"
 ---

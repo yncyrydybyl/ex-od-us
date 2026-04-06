@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nix-init"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nix-init:nixos.org"
 issues: []
 updated: "2026-04-06T08:55:01Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/GNOME/gnome-shell-extensions"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#gnome-shell:gnome.org"
 issues: [6403]
 updated: "2026-04-05T12:45:26Z"
 ---

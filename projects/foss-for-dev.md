@@ -5,6 +5,8 @@ repo: "https://github.com/tvvocold/FOSS-for-Dev"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6266]
 updated: "2024-04-24T07:50:10Z"
 ---

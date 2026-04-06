@@ -5,6 +5,10 @@ repo: "https://github.com/SatDump/SatDump"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#satdump:altillimity.com"
 issues: []
 updated: "2026-04-06T15:17:08Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/fte-team/fteqw"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#fte:matrix.org"
 issues: [6302]
 updated: "2026-01-27T13:32:36Z"
 ---

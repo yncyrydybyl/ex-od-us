@@ -5,6 +5,8 @@ repo: "https://github.com/ipfs/ipfs-gui"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6670]
 updated: "2025-05-09T19:49:44Z"
 ---

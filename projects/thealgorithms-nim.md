@@ -5,6 +5,10 @@ repo: "https://github.com/TheAlgorithms/Nim"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#TheAlgorithms_community:gitter.im"
 issues: []
 updated: "2026-02-26T00:45:13Z"
 ---

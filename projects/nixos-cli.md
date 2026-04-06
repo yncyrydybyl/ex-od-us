@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nixos-cli"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nixos-cli:matrix.org"
 issues: []
 updated: "2026-04-05T07:24:59Z"
 ---

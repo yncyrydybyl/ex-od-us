@@ -5,6 +5,11 @@ repo: "https://github.com/SignalGap/awesome-meshtastic"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#meshtastic-lv:matrix.org"
+  - "https://matrix.to/#/#meshtasticpl:matrix.org"
 issues: [5345]
 updated: "2025-11-09T01:41:30Z"
 ---

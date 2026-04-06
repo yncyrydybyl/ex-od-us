@@ -5,6 +5,8 @@ repo: "https://github.com/Katello/katello"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6795]
 updated: "2026-04-03T21:06:02Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/serra-allgood/thurim"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#thurim:mozilla.org"
 issues: []
 updated: "2025-04-19T18:41:28Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/lottec-ufpb/populus-viewer"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#opentower:matrix.org"
 issues: []
 updated: "2026-02-01T11:13:00Z"
 ---

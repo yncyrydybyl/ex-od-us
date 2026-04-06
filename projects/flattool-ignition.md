@@ -5,6 +5,10 @@ repo: "https://github.com/flattool/ignition"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#warehouse-development:matrix.org"
 issues: [6226]
 updated: "2026-04-01T23:31:03Z"
 ---

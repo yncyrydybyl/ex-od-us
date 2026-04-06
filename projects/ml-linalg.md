@@ -5,6 +5,8 @@ repo: "https://github.com/gyrdym/ml_linalg"
 platform: github
 categories: [Matrix]
 status: Active
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2026-01-03T16:23:48Z"
 last_scanned: "2026-04-06T20:35:19Z"

@@ -5,6 +5,10 @@ repo: "https://github.com/pojntfx/bofied"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#bofied:matrix.org"
 issues: [5490]
 updated: "2025-02-07T06:32:19Z"
 ---

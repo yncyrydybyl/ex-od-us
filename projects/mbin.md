@@ -5,6 +5,10 @@ repo: "https://github.com/MbinOrg/mbin"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#mbin:melroy.org"
 issues: []
 updated: "2026-04-06T17:12:33Z"
 ---

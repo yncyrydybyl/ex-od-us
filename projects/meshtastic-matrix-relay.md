@@ -5,6 +5,12 @@ repo: "https://github.com/jeremiah-k/meshtastic-matrix-relay"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#meshnetclub:matrix.org"
+  - "https://matrix.to/#/#mmrelay:matrix.org"
+  - "https://matrix.to/#/#mmrelay-relay-room:matrix.org"
 issues: []
 updated: "2026-04-06T16:14:23Z"
 ---

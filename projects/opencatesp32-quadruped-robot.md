@@ -5,6 +5,8 @@ repo: "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2026-02-07T06:42:27Z"
 ---

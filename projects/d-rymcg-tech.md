@@ -5,6 +5,10 @@ repo: "https://github.com/EnigmaCurry/d.rymcg.tech"
 platform: github
 categories: [Development]
 status: Dead
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#d.rymcg.tech:enigmacurry.com"
 issues: [5775]
 updated: "2026-03-26T01:01:36Z"
 verified: false

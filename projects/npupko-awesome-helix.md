@@ -5,6 +5,10 @@ repo: "https://github.com/npupko/awesome-helix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#helix-community:matrix.org"
 issues: []
 updated: "2026-04-02T09:31:40Z"
 ---

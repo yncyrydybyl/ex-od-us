@@ -5,6 +5,8 @@ repo: "https://github.com/ArmenAg/Improvisation"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [768]
 updated: "2020-10-01T11:00:01Z"
 verified: true

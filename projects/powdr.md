@@ -5,6 +5,10 @@ repo: "https://github.com/powdr-labs/powdr"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#powdr:matrix.org"
 issues: []
 updated: "2026-04-06T11:57:33Z"
 ---

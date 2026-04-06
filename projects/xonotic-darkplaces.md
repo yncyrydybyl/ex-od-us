@@ -5,6 +5,10 @@ repo: "https://github.com/xonotic/darkplaces"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#darkplaces:matrix.org"
 issues: []
 updated: "2026-04-01T18:00:07Z"
 ---

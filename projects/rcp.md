@@ -5,6 +5,10 @@ repo: "https://github.com/rabbitControl/RCP"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rcp:matrix.org"
 issues: []
 updated: "2026-03-13T23:34:55Z"
 ---

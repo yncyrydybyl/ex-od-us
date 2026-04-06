@@ -5,6 +5,10 @@ repo: "https://github.com/cryptpad/cryptpad"
 platform: github
 categories: [Security]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#cryptpad:matrix.xwiki.com"
 issues: [5739]
 updated: "2026-04-01T15:24:40Z"
 ---

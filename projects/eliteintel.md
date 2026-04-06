@@ -5,6 +5,10 @@ repo: "https://github.com/stone-alex/EliteIntel"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#krondor:matrix.org"
 issues: [6009]
 updated: "2026-04-06T03:10:42Z"
 ---

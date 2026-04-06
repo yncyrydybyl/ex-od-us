@@ -5,6 +5,10 @@ repo: "https://github.com/KB1RD/matrix-notepad"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#matrix-collaboration:kb1rd.net"
 issues: []
 updated: "2023-01-07T12:02:59Z"
 ---

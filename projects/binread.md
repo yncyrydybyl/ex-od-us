@@ -5,6 +5,10 @@ repo: "https://github.com/jam1garner/binread"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#binrw:matrix.org"
 issues: [5439]
 updated: "2023-02-24T06:20:07Z"
 ---

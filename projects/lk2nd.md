@@ -5,6 +5,10 @@ repo: "https://github.com/msm8916-mainline/lk2nd"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lk2nd:postmarketos.org"
 issues: [6955]
 updated: "2026-04-05T14:41:28Z"
 ---

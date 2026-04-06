@@ -5,6 +5,10 @@ repo: "https://github.com/starcitizen-lug/knowledge-base"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#SCLUG:matrix.org"
 issues: [6816]
 updated: "2026-04-01T03:46:48Z"
 ---

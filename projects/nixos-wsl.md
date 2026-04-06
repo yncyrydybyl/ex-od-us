@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/NixOS-WSL"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#wsl:nixos.org"
 issues: []
 updated: "2026-04-06T01:47:05Z"
 ---

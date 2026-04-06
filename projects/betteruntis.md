@@ -5,6 +5,10 @@ repo: "https://github.com/SapuSeven/BetterUntis"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#github-betteruntis:sapuseven.com"
 issues: [5435]
 updated: "2026-04-01T21:15:48Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/xapp-project/libadapta"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#xapp:matrix.org"
 issues: [6883]
 updated: "2025-06-08T08:40:11Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/danilw/GPU-my-list-of-bugs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#shadertoy:matrix.org"
 issues: [6462]
 updated: "2026-03-16T00:04:10Z"
 ---

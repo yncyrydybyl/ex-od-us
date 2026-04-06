@@ -5,6 +5,8 @@ repo: "https://github.com/Juniper/ansible-junos-stdlib"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5188]
 updated: "2026-04-02T06:37:41Z"
 ---

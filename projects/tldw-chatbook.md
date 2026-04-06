@@ -5,6 +5,8 @@ repo: "https://github.com/rmusser01/tldw_chatbook"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2025-12-12T02:31:14Z"
 ---

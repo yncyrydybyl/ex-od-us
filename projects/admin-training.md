@@ -5,6 +5,8 @@ repo: "https://github.com/galaxyproject/admin-training"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5112]
 updated: "2025-12-05T21:22:01Z"
 ---

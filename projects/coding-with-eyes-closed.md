@@ -5,6 +5,10 @@ repo: "https://github.com/sempruijs/coding-with-eyes-closed"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#coding-with-eyes-closed:matrix.org"
 issues: [5642]
 updated: "2025-02-09T13:31:46Z"
 ---

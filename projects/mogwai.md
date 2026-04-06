@@ -5,6 +5,8 @@ repo: "https://github.com/schell/mogwai"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2025-06-27T02:29:48Z"
 last_scanned: "2026-04-06T20:35:19Z"

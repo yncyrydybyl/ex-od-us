@@ -5,6 +5,10 @@ repo: "https://github.com/turt2live/matrix-voyager-bot"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#voyager-bot:matrix.org"
 issues: []
 updated: "2023-03-01T12:07:36Z"
 ---

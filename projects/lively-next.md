@@ -5,6 +5,10 @@ repo: "https://github.com/LivelyKernel/lively.next"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lively.next:matrix.org"
 issues: [6951]
 updated: "2026-04-02T16:17:11Z"
 ---

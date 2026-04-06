@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/awesome-nix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nix:nixos.org"
 issues: [5354]
 updated: "2026-02-26T00:32:49Z"
 ---

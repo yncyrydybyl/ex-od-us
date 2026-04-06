@@ -5,6 +5,10 @@ repo: "https://github.com/azalea-rs/azalea"
 platform: github
 categories: [Integrations]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#azalea:matdoes.dev"
 issues: [5409]
 updated: "2026-04-05T22:13:21Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/rumpelsepp/mnotify"
 platform: github
 categories: [Security, Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#mnotify:hackbrettl.de"
 issues: []
 updated: "2024-05-13T16:05:13Z"
 ---

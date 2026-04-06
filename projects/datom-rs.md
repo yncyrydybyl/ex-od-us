@@ -5,6 +5,10 @@ repo: "https://github.com/LutrisEng/datom-rs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#datom-rs:lutris.engineering"
 issues: [5804]
 updated: "2023-12-16T00:20:27Z"
 ---

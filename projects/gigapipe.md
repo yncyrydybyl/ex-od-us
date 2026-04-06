@@ -5,6 +5,10 @@ repo: "https://github.com/metrico/gigapipe"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#qryn:matrix.org"
 issues: [6361]
 updated: "2026-04-03T04:25:48Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/neocmakelsp/neocmakelsp"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2026-04-02T14:39:58Z"
 ---

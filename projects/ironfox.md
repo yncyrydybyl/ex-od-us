@@ -5,6 +5,10 @@ repo: "https://github.com/ironfox-oss/IronFox"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ironfox:unredacted.org"
 issues: [6681]
 updated: "2026-04-03T17:40:36Z"
 ---

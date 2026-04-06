@@ -858,7 +858,8 @@ function startHeroAnimation() {
     setTimeout(() => { state.items[prev].className = 'hero-item'; }, 400);
   }
 
-  setInterval(() => { rotate(ws); rotate(ps); }, 5000);
+  setInterval(() => rotate(ws), 4000);
+  setTimeout(() => setInterval(() => rotate(ps), 5500), 1500);
 }
 
 // ── IntersectionObserver: animate exodus bars on scroll ─────────

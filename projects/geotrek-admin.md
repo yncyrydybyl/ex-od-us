@@ -5,6 +5,10 @@ repo: "https://github.com/GeotrekCE/Geotrek-admin"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#geotrek:matrix.org"
 issues: [6341]
 updated: "2026-04-06T04:50:28Z"
 ---

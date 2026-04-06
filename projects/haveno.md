@@ -5,6 +5,11 @@ repo: "https://github.com/haveno-dex/haveno"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#haveno:monero.social"
+  - "https://matrix.to/#/#haveno-development:monero.social"
 issues: [6511]
 updated: "2026-04-05T23:46:32Z"
 ---

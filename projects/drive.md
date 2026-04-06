@@ -5,6 +5,10 @@ repo: "https://github.com/suitenumerique/drive"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#drive-official:matrix.org"
 issues: [5943]
 updated: "2026-04-06T02:00:44Z"
 ---

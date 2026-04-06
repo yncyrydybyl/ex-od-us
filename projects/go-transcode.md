@@ -5,6 +5,11 @@ repo: "https://github.com/m1k1o/go-transcode"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 7
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#go-transcode:proxychat.net"
+  - "https://matrix.to/#/#go-transcode-general:proxychat.net"
 issues: [6427]
 updated: "2025-06-17T09:06:11Z"
 ---

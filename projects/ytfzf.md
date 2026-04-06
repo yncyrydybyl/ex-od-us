@@ -5,6 +5,10 @@ repo: "https://github.com/pystardust/ytfzf"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ytfzf-chat:matrix.org"
 issues: []
 updated: "2024-09-27T07:00:01Z"
 ---

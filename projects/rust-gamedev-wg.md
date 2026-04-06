@@ -5,6 +5,10 @@ repo: "https://github.com/rust-gamedev/wg"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#rust-gamedev-wg:matrix.org"
 issues: []
 updated: "2021-05-12T04:51:46Z"
 ---

@@ -5,6 +5,8 @@ repo: "https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT"
 platform: github
 categories: [Development]
 status: Active
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5150]
 updated: "2023-09-22T19:19:46Z"
 verified: true

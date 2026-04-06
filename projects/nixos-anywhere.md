@@ -5,6 +5,10 @@ repo: "https://github.com/nix-community/nixos-anywhere"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#nixos-anywhere:nixos.org"
 issues: []
 updated: "2026-04-05T03:50:57Z"
 ---

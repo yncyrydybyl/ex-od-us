@@ -5,6 +5,10 @@ repo: "https://github.com/ipld/go-car"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ipld:ipfs.io"
 issues: [6411]
 updated: "2026-03-14T01:04:17Z"
 ---

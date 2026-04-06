@@ -5,6 +5,10 @@ repo: "https://github.com/go-vikunja/app"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#vikunja:matrix.org"
 issues: [5222]
 updated: "2026-04-03T17:19:47Z"
 ---

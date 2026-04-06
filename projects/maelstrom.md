@@ -5,6 +5,10 @@ repo: "https://github.com/maelstrom-rs/maelstrom"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#maelstrom-server:matrix.org"
 issues: [6991]
 updated: "2020-08-13T21:36:15Z"
 ---

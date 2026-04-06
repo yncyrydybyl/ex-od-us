@@ -5,6 +5,8 @@ repo: "https://github.com/patractlabs/zkmega"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 1
+last_scanned: "2026-04-06T22:13:24Z"
 issues: []
 updated: "2023-02-10T13:59:25Z"
 ---

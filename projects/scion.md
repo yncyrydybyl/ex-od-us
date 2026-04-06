@@ -5,6 +5,10 @@ repo: "https://github.com/scionproto/scion"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dev:matrix.scion.org"
 issues: []
 updated: "2026-04-02T08:50:57Z"
 ---

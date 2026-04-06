@@ -5,6 +5,10 @@ repo: "https://github.com/rodolpheh/awesome-matrix"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 8
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#awesome-matrix:lunai.re"
 issues: []
 updated: "2021-04-10T04:26:54Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/orcwg/cra-attestations"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#oss-attestations:fosdem.org"
 issues: [5719]
 updated: "2026-03-24T21:00:03Z"
 ---

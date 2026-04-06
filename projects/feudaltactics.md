@@ -5,6 +5,10 @@ repo: "https://github.com/Sesu8642/FeudalTactics"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#feudal-tactics-community:matrix.org"
 issues: [6170]
 updated: "2026-03-09T13:52:47Z"
 ---

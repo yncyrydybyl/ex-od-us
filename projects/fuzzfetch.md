@@ -5,6 +5,10 @@ repo: "https://github.com/MozillaSecurity/fuzzfetch"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#fuzzing:mozilla.org"
 issues: [6316]
 updated: "2025-12-11T17:01:48Z"
 ---

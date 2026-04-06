@@ -5,6 +5,10 @@ repo: "https://github.com/MahApps/MahApps.Metro"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#MahApps_MahApps.Metro:gitter.im"
 issues: [6998]
 updated: "2025-10-16T12:52:36Z"
 ---

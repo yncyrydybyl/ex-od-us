@@ -5,6 +5,10 @@ repo: "https://github.com/smoores-dev/storyteller"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#smoores_storyteller:gitter.im"
 issues: []
 updated: "2026-03-31T16:37:39Z"
 ---

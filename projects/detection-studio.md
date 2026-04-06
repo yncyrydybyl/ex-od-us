@@ -5,6 +5,8 @@ repo: "https://github.com/northsh/detection.studio"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [5861]
 updated: "2026-04-03T19:12:22Z"
 ---

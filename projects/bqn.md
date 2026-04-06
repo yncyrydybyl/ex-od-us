@@ -5,6 +5,8 @@ repo: "https://github.com/mlochbaum/BQN"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [5504]
 updated: "2026-04-02T13:55:50Z"
 ---

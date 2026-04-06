@@ -5,6 +5,10 @@ repo: "https://github.com/linuxdeepin/dde-dock"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#deepin-community:matrix.org"
 issues: [5817]
 updated: "2025-01-14T11:32:23Z"
 ---

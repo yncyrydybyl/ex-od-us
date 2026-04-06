@@ -5,6 +5,11 @@ repo: "https://github.com/datenanfragen/data"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#dade-company:matrix.altpeter.me"
+  - "https://matrix.to/#/#datenanfragen:matrix.altpeter.me"
 issues: [5793]
 updated: "2026-03-31T18:14:10Z"
 ---

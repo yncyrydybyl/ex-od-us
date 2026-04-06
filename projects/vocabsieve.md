@@ -5,6 +5,10 @@ repo: "https://github.com/FreeLanguageTools/vocabsieve"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#general:freelanguagetools.org"
 issues: []
 updated: "2025-08-15T01:33:56Z"
 ---

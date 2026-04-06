@@ -5,6 +5,8 @@ repo: "https://github.com/gee-community/example-scripts"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 0
+last_scanned: "2026-04-06T22:13:24Z"
 issues: [6111]
 updated: "2018-06-22T17:29:59Z"
 ---

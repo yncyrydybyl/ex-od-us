@@ -5,6 +5,8 @@ repo: "https://github.com/nojhan/paradiseo"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
 issues: []
 updated: "2025-04-16T11:43:25Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/galaxyproject/training-material"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Galaxy-Training-Network_Lobby:gitter.im"
 issues: []
 updated: "2026-04-06T11:01:09Z"
 ---

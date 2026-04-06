@@ -5,6 +5,10 @@ repo: "https://github.com/thefederationinfo/the-federation.info"
 platform: github
 categories: [Matrix]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#the-federation:matrix.org"
 issues: []
 updated: "2026-03-31T21:07:36Z"
 ---

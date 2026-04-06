@@ -5,6 +5,10 @@ repo: "https://github.com/ipfs/boxo"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#ipfs-space:ipfs.io"
 issues: [5501]
 updated: "2026-04-03T22:42:15Z"
 ---

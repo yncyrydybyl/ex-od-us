@@ -5,6 +5,10 @@ repo: "https://github.com/serenity-js/serenity-js-cucumber-playwright-template"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#serenity-js:gitter.im"
 issues: []
 updated: "2026-04-04T02:03:49Z"
 ---

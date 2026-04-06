@@ -5,6 +5,10 @@ repo: "https://github.com/lapce/lapce"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lapce-editor:matrix.org"
 issues: [6848]
 updated: "2026-04-06T00:52:46Z"
 ---

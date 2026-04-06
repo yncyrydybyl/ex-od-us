@@ -5,6 +5,11 @@ repo: "https://github.com/project-robius/robrix"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#robius-robrix:matrix.org"
+  - "https://matrix.to/#/#robius:matrix.org"
 issues: []
 updated: "2026-04-04T08:39:03Z"
 ---

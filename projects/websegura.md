@@ -5,6 +5,10 @@ repo: "https://github.com/PucelaBits/websegura"
 platform: github
 categories: [Security]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#PucelaBits_websegura:gitter.im"
 issues: []
 updated: "2026-04-06T05:38:31Z"
 ---

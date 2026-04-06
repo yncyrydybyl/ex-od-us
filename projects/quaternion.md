@@ -5,6 +5,10 @@ repo: "https://github.com/quotient-im/Quaternion"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#quotient:matrix.org"
 issues: []
 updated: "2026-03-27T13:24:34Z"
 ---

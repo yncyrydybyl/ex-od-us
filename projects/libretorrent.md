@@ -5,6 +5,8 @@ repo: "https://github.com/proninyaroslav/libretorrent"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:14:33Z"
 issues: [6908]
 updated: "2025-11-12T14:37:04Z"
 ---

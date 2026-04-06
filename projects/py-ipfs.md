@@ -5,6 +5,10 @@ repo: "https://github.com/ipfs-shipyard/py-ipfs"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#py-ipfs:ninetailed.ninja"
 issues: []
 updated: "2025-05-01T08:39:50Z"
 ---

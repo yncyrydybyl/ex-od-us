@@ -5,6 +5,10 @@ repo: "https://github.com/matrix-org/matrix-bifrost"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#bifrost:half-shot.uk"
 issues: []
 updated: "2026-04-01T13:21:59Z"
 ---

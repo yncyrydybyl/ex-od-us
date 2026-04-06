@@ -5,6 +5,10 @@ repo: "https://github.com/t2bot/matrix-media-repo"
 platform: github
 categories: [Infrastructure, Matrix]
 status: "Active"
+exodus_score: 6
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#media-repo:t2bot.io"
 issues: []
 updated: "2025-11-20T01:15:49Z"
 ---

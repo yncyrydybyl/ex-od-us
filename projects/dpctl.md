@@ -5,6 +5,10 @@ repo: "https://github.com/IntelPython/dpctl"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
 issues: [5929]
 updated: "2026-04-06T14:04:51Z"
 ---

@@ -5,6 +5,10 @@ repo: "https://github.com/NixOS/nixos-homepage"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#marketing:nixos.org"
 issues: []
 updated: "2026-04-06T14:03:04Z"
 ---

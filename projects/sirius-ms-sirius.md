@@ -5,6 +5,10 @@ repo: "https://github.com/sirius-ms/sirius"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 4
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#sirius-ms:gitter.im"
 issues: []
 updated: "2026-04-02T15:41:35Z"
 ---

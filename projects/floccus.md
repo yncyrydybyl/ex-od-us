@@ -5,6 +5,10 @@ repo: "https://github.com/floccusaddon/floccus"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 5
+last_scanned: "2026-04-06T22:14:33Z"
+matrix_rooms:
+  - "https://matrix.to/#/#marcelklehr_floccus:gitter.im"
 issues: [6233]
 updated: "2026-04-06T13:39:09Z"
 ---

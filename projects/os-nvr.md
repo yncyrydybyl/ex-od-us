@@ -5,6 +5,10 @@ repo: "https://github.com/OSNVR/OS-NVR"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#os_nvr:matrix.org"
 issues: []
 updated: "2024-09-11T17:57:17Z"
 ---

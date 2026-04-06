@@ -5,6 +5,10 @@ repo: "https://github.com/prixe/lindo"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 2
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#lindo-official:matrix.org"
 issues: [6933]
 updated: "2024-07-11T15:12:50Z"
 ---

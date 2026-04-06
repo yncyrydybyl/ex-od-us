@@ -5,6 +5,10 @@ repo: "https://github.com/litestar-org/advanced-alchemy"
 platform: github
 categories: [Development]
 status: "Active"
+exodus_score: 3
+last_scanned: "2026-04-06T22:13:24Z"
+matrix_rooms:
+  - "https://matrix.to/#/#litestar:matrix.org"
 issues: [5114]
 updated: "2026-04-03T20:38:16Z"
 ---
