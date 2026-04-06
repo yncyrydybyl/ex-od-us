@@ -189,6 +189,58 @@ header p { color: #8b949e; max-width: 600px; }
 }
 .modal-tracker a:hover { border-color: #58a6ff; text-decoration: none; }
 
+/* Animated header */
+.hero-question {
+  font-size: 1.35rem; color: #f0f6fc; margin-bottom: 0.75rem;
+  line-height: 1.8;
+}
+.hero-slot {
+  display: inline-flex; position: relative;
+  overflow: hidden; vertical-align: baseline;
+}
+.hero-slot span {
+  display: block; white-space: nowrap;
+  position: absolute; left: 0; bottom: 0; opacity: 0;
+}
+.hero-slot span.active { animation: slotSnap 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+.hero-slot span.leaving { animation: slotExit 0.35s ease-in forwards; }
+.hero-slot span.queued { transform: translateY(140%); opacity: 0; }
+@keyframes slotSnap {
+  0%   { transform: translateY(140%); opacity: 0; }
+  55%  { transform: translateY(-8%);  opacity: 1; }
+  75%  { transform: translateY(3%);   opacity: 1; }
+  100% { transform: translateY(0);    opacity: 1; }
+}
+@keyframes slotExit {
+  0%   { transform: translateY(0);     opacity: 1; }
+  100% { transform: translateY(-140%); opacity: 0; }
+}
+.hero-slot.word span    { color: #58a6ff; font-weight: 600; }
+.hero-slot.project span { color: #3fb950; font-weight: 700; }
+
+/* Exodus factor bar */
+.exodus-bar {
+  display: flex; align-items: center; gap: 0.375rem;
+  margin-top: 0.5rem; font-size: 0.7rem;
+}
+.exodus-bar-icon {
+  width: 18px; text-align: center; font-weight: 700; flex-shrink: 0;
+}
+.exodus-bar-icon.matrix { color: #3fb950; }
+.exodus-bar-track {
+  flex: 1; height: 6px; background: #21262d; border-radius: 3px; overflow: hidden;
+}
+.exodus-bar-fill {
+  height: 100%; border-radius: 3px;
+  background: linear-gradient(90deg, #f85149 0%, #d29922 40%, #3fb950 100%);
+  width: 0; transition: width 1s ease-out;
+}
+.exodus-bar-label {
+  font-size: 0.65rem; color: #484f58; font-weight: 600;
+  min-width: 3ch; text-align: right;
+}
+.card.visible .exodus-bar-fill { width: var(--score-pct); }
+
 .loading { text-align: center; padding: 3rem; color: #8b949e; }
 .error { text-align: center; padding: 3rem; color: #f85149; }
 
@@ -197,6 +249,7 @@ header p { color: #8b949e; max-width: 600px; }
   .controls { flex-direction: column; align-items: stretch; }
   #count { margin-left: 0; }
   .howto-bar { flex-direction: column; }
+  .hero-question { font-size: 1.1rem; }
 }
 </style>
 </head>
@@ -204,6 +257,12 @@ header p { color: #8b949e; max-width: 600px; }
 <div class="container">
   <header>
     <h1>Exodus Project Tracker</h1>
+    <div class="hero-question">
+      Where is the
+      <span class="hero-slot word" id="hero-word"></span>
+      room for
+      <span class="hero-slot project" id="hero-project"></span>?
+    </div>
     <p>Tracking the migration of open-source projects to
       <a href="https://matrix.org">Matrix</a>.
       <a href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">Add a project</a>
@@ -353,6 +412,19 @@ function enrich(p) {
   // Initials fallback
   p.initials = p.name.split(/[\s-]+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase();
 
+  // Detect primary non-Matrix platform for exodus bar
+  const ch = p.channels || {};
+  if (ch.discord)        p.primaryPlatform = { icon: 'D',  color: '#5865F2' };
+  else if (ch.telegram)  p.primaryPlatform = { icon: 'T',  color: '#26A5E4' };
+  else if (ch.slack)     p.primaryPlatform = { icon: 'S',  color: '#4A154B' };
+  else if (ch.whatsapp)  p.primaryPlatform = { icon: 'W',  color: '#25D366' };
+  else if (ch.signal)    p.primaryPlatform = { icon: 'Si', color: '#3A76F0' };
+  else if (ch.irc)       p.primaryPlatform = { icon: '#',  color: '#8b949e' };
+  else if (ch.xmpp)      p.primaryPlatform = { icon: 'X',  color: '#8b949e' };
+  else if (ch.zulip)     p.primaryPlatform = { icon: 'Z',  color: '#6492FE' };
+  else if (ch.mattermost)p.primaryPlatform = { icon: 'Mm', color: '#0058CC' };
+  else                   p.primaryPlatform = null;
+
   // Parse matrix rooms into {name, url} pairs
   p.matrixRoomsParsed = (p.channels.matrix_rooms || []).map(line => {
     line = line.replace(/^-\s*/, '').trim();
@@ -403,6 +475,21 @@ function renderCards(projects) {
       cardLinks.push(`<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank" onclick="event.stopPropagation()" title="Tracker issue #${p.issues[0]}">#${p.issues[0]}</a>`);
     }
 
+    // Exodus factor bar
+    const sc = p.exodus_score;
+    const pct = sc != null ? sc * 10 : 0;
+    const pp = p.primaryPlatform;
+    const leftIcon = pp && sc != null && sc < 9
+      ? `<span class="exodus-bar-icon" style="color:${pp.color}" title="${esc(pp.icon)}">${esc(pp.icon)}</span>`
+      : `<span class="exodus-bar-icon" style="opacity:0">.</span>`;
+    const exodusBar = sc != null ? `
+      <div class="exodus-bar">
+        ${leftIcon}
+        <div class="exodus-bar-track"><div class="exodus-bar-fill" style="--score-pct:${pct}%"></div></div>
+        <span class="exodus-bar-icon matrix">M</span>
+        <span class="exodus-bar-label">${sc}/10</span>
+      </div>` : '';
+
     return `
     <div class="card" data-idx="${i}">
       <div class="card-accent accent-${p.platform}"></div>
@@ -414,6 +501,7 @@ function renderCards(projects) {
           ${scoreBadge}
         </div>
         <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
+        ${exodusBar}
         <div class="card-meta">
           ${platformBadge} ${cats}
           ${p.status ? `<span class="badge badge-status">${esc(p.status)}</span>` : ''}
@@ -578,6 +666,7 @@ function applyFilters() {
   currentFiltered = filtered;
   document.getElementById('count').textContent = `${filtered.length} project${filtered.length !== 1 ? 's' : ''}`;
   renderCards(filtered);
+  observeCards();
 }
 
 function populateFilters() {
@@ -613,6 +702,7 @@ function syncToURL() {
     populateFilters();
     syncFromURL();
     applyFilters();
+    startHeroAnimation();
     for (const id of ['search','filter-category','sort']) {
       document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', () => { syncToURL(); applyFilters(); });
     }
@@ -622,6 +712,58 @@ function syncToURL() {
        <small>Try refreshing. GitHub API limit: 60/hour per IP.</small></div>`;
   }
 })();
+
+// ── Hero rotation (slot-machine style) ──────────────────────────
+function startHeroAnimation() {
+  const words = ['chat', 'support', 'community', 'hangout'];
+  const wordSlot = document.getElementById('hero-word');
+  const projSlot = document.getElementById('hero-project');
+  if (!wordSlot || !projSlot) return;
+
+  const names = allProjects.filter(p => p.name).map(p => p.name);
+  if (names.length === 0) return;
+
+  function initSlot(slot, items) {
+    const measure = document.createElement('span');
+    measure.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;font:inherit;font-weight:700';
+    slot.appendChild(measure);
+    let maxW = 0;
+    for (const t of items) { measure.textContent = t; maxW = Math.max(maxW, measure.offsetWidth); }
+    const h = measure.offsetHeight;
+    slot.removeChild(measure);
+    slot.style.width = (maxW + 4) + 'px';
+    slot.style.height = h + 'px';
+    items.forEach((t, i) => {
+      const s = document.createElement('span');
+      s.textContent = t;
+      s.className = i === 0 ? 'active' : 'queued';
+      slot.appendChild(s);
+    });
+    return { slot, count: items.length, idx: 0 };
+  }
+
+  const ws = initSlot(wordSlot, words);
+  const ps = initSlot(projSlot, names);
+
+  function rotate(state) {
+    const spans = state.slot.querySelectorAll('span');
+    const prev = state.idx;
+    state.idx = (state.idx + 1) % state.count;
+    spans[prev].className = 'leaving';
+    spans[state.idx].className = 'active';
+    setTimeout(() => { spans[prev].className = 'queued'; }, 400);
+  }
+
+  setInterval(() => { rotate(ws); rotate(ps); }, 5000);
+}
+
+// ── IntersectionObserver: animate exodus bars on scroll ─────────
+function observeCards() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.2 });
+  document.querySelectorAll('.card').forEach(c => observer.observe(c));
+}
 </script>
 </body>
 </html>
