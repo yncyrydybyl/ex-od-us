@@ -23,7 +23,7 @@ fi
 # without adding dependencies. Python3 is available everywhere.
 python3 - "$PROJECTS_DIR" "$OUTPUT" << 'PYEOF'
 import sys, os, json, re
-from datetime import datetime
+from datetime import datetime, timezone
 
 projects_dir = sys.argv[1]
 output_file = sys.argv[2]
@@ -63,8 +63,8 @@ def parse_frontmatter(text):
                 items = [x.strip().strip('"').strip("'") for x in val[1:-1].split(',')]
                 fm[current_key] = [x for x in items if x]
             elif val == '' or val == '[]':
-                fm[current_key] = []
                 current_list = []
+                fm[current_key] = current_list
             elif val.lower() == 'true':
                 fm[current_key] = True
             elif val.lower() == 'false':
@@ -178,7 +178,7 @@ for fname in sorted(os.listdir(projects_dir)):
 projects.sort(key=lambda p: (-(p['exodus_score'] or -1), p['name'].lower()))
 
 result = {
-    'generated': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
+    'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'count': len(projects),
     'projects': projects,
 }
