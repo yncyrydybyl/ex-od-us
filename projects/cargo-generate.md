@@ -1,12 +1,15 @@
 ---
-name: "Cargo Generate"
-description: "cargo, make me a project"
+name: Cargo Generate
+description: cargo, make me a project
 repo: "https://github.com/cargo-generate/cargo-generate"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [33]
 updated: "2026-04-01T20:29:45Z"
+matrix_rooms: [https://matrix.to/#/#cargo-generate:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T09:59:20Z"
 ---
 
 cargo, make me a project

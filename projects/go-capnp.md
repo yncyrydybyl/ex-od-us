@@ -1,12 +1,15 @@
 ---
-name: "Go Capnp"
+name: Go Capnp
 description: "Cap'n Proto library and code generator for Go"
 repo: "https://github.com/capnproto/go-capnp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [43]
 updated: "2025-10-25T23:54:54Z"
+matrix_rooms: [https://matrix.to/#/#go-capnp:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T09:59:34Z"
 ---
 
 Cap'n Proto library and code generator for Go

@@ -95,5 +95,421 @@
     ],
     "listed_on_matrixrooms": true,
     "scanned": "2026-04-06T08:17:29Z"
+  },
+  "baskerville/bspwm": {
+    "sha": "222872101fe3569eafa133c208b91447bb41da91",
+    "etag": "\"222872101fe3569eafa133c208b91447bb41da91\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms",
+      "IRC present",
+      "Listed on matrixrooms.info"
+    ],
+    "rooms": [
+      "#bspwm:matrix.org"
+    ],
+    "listed_on_matrixrooms": true,
+    "scanned": "2026-04-06T09:59:04Z"
+  },
+  "acterglobal/a3": {
+    "sha": "03538f9b86ba459c516b2280e7c5a1ac3091d25a",
+    "etag": "\"03538f9b86ba459c516b2280e7c5a1ac3091d25a\"",
+    "score": 6,
+    "signals": [
+      "matrix.to links: 2",
+      "Matrix badge found",
+      "Custom homeserver: acter.global",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#support:acter.global",
+      "#tech:acter.global"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:13Z"
+  },
+  "Aardwolf-Social/aardwolf-social": {
+    "sha": "1fbcd28e3d12a0489207a00c893bbca621ec433b",
+    "etag": "\"1fbcd28e3d12a0489207a00c893bbca621ec433b\"",
+    "score": 3,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#aardwolf-discussion:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:14Z"
+  },
+  "amaranth-lang/amaranth": {
+    "sha": "1c09fce95441484459991c559186d64930515d16",
+    "etag": "\"1c09fce95441484459991c559186d64930515d16\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix listed before other platforms",
+      "Bridge mentioned",
+      "IRC present"
+    ],
+    "rooms": [
+      "#amaranth-lang:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:15Z"
+  },
+  "ArchLinuxStudio/ArchLinuxTutorial": {
+    "sha": "8f185bcae790ca079a38660a51b712e148d9c5b2",
+    "etag": "\"8f185bcae790ca079a38660a51b712e148d9c5b2\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms",
+      "Telegram present"
+    ],
+    "rooms": [
+      "#ArchLinuxStudio:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:16Z"
+  },
+  "bisq-network/bisq2": {
+    "sha": "2d4430450d803b6e22ea990fb34890ddf3de97b5",
+    "etag": "\"2d4430450d803b6e22ea990fb34890ddf3de97b5\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 1",
+      "Custom homeserver: bitcoin.kyoto",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#bisq.v2.dev:bitcoin.kyoto"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:18Z"
+  },
+  "cargo-generate/cargo-generate": {
+    "sha": "b0ea10eda7fabda72b969867c856f688b5ccf494",
+    "etag": "\"b0ea10eda7fabda72b969867c856f688b5ccf494\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#cargo-generate:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:20Z"
+  },
+  "CarnetApp/CarnetDocumentation": {
+    "sha": "18c305fd49e0efe753cab9b796339d4af4bf478a",
+    "etag": "\"18c305fd49e0efe753cab9b796339d4af4bf478a\"",
+    "score": 6,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix mentioned as channel",
+      "Custom homeserver: gauchiste.club",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#carnet:gauchiste.club"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:21Z"
+  },
+  "cartesapp/cartes": {
+    "sha": "1e8ad8dfe5025357120498a2c10ba6503acfc010",
+    "etag": "\"1e8ad8dfe5025357120498a2c10ba6503acfc010\"",
+    "score": 3,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#cartes:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:22Z"
+  },
+  "continuwuity/continuwuity": {
+    "sha": "1e41cf23d18fcbbdd83c524740f5577ce3735205",
+    "etag": "\"1e41cf23d18fcbbdd83c524740f5577ce3735205\"",
+    "score": 8,
+    "signals": [
+      "matrix.to links: 2",
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Custom homeserver: continuwuity.org",
+      "Matrix listed before other platforms",
+      "Bridge mentioned"
+    ],
+    "rooms": [
+      "#space:continuwuity.org",
+      "#continuwuity:continuwuity.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:24Z"
+  },
+  "CorsixTH/CorsixTH": {
+    "sha": "101db2c4ee930867fa901b2aed0728698cfa3e3e",
+    "etag": "\"101db2c4ee930867fa901b2aed0728698cfa3e3e\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 6",
+      "Matrix mentioned as channel",
+      "Multiple Matrix rooms (3+)",
+      "Discord present"
+    ],
+    "rooms": [
+      "#corsixth-general:matrix.org",
+      "#corsixth-usercontent:matrix.org",
+      "#corsixth-announcements:matrix.org",
+      "#corsixth-help:matrix.org",
+      "#CorsixTH:matrix.org",
+      "#corsixth-technical:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:25Z"
+  },
+  "cross-rs/cross": {
+    "sha": "8ccb9123cbf2aa6230d60c7b9da957553c0a977a",
+    "etag": "\"8ccb9123cbf2aa6230d60c7b9da957553c0a977a\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#cross-rs:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:26Z"
+  },
+  "element-hq/dendrite": {
+    "sha": "2d6d6c9dde0a2d15b9908b9713710fef1d517392",
+    "etag": "\"2d6d6c9dde0a2d15b9908b9713710fef1d517392\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 3",
+      "Matrix badge found",
+      "Multiple Matrix rooms (3+)",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#dendrite-dev:matrix.org",
+      "#dendrite-alerts:matrix.org",
+      "#dendrite:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:28Z"
+  },
+  "dictation-toolbox/dragonfly": {
+    "sha": "2ba605f97f21a46c1416ae4b9976077dd3276527",
+    "etag": "\"2ba605f97f21a46c1416ae4b9976077dd3276527\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#dragonfly2:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:30Z"
+  },
+  "element-hq/element-call": {
+    "sha": "688a7a7f8fcb0f3c3582bedf1e30579916dbf900",
+    "etag": "\"688a7a7f8fcb0f3c3582bedf1e30579916dbf900\"",
+    "score": 8,
+    "signals": [
+      "matrix.to links: 2",
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Custom homeserver: element.io",
+      "Matrix listed before other platforms",
+      "Element client mentioned"
+    ],
+    "rooms": [
+      "#webrtc:matrix.org",
+      "#translators:element.io"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:32Z"
+  },
+  "element-hq/element-ios": {
+    "sha": "9b5df225f261fdb72c7cd88a59d056b8f8d4ffb4",
+    "etag": "\"9b5df225f261fdb72c7cd88a59d056b8f8d4ffb4\"",
+    "score": 6,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms",
+      "Element client mentioned"
+    ],
+    "rooms": [
+      "#element-ios:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:33Z"
+  },
+  "capnproto/go-capnp": {
+    "sha": "826dc45b7e1611b2d53e26a3f9b729530ba1c82a",
+    "etag": "\"826dc45b7e1611b2d53e26a3f9b729530ba1c82a\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#go-capnp:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:34Z"
+  },
+  "conveyal/gtfs-lib": {
+    "sha": "08531d5160ee71f0a136abfdf8a03930343f490d",
+    "etag": "\"08531d5160ee71f0a136abfdf8a03930343f490d\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 2",
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#transit-data-tools:gitter.im",
+      "#gtfs-lib:gitter.im"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:35Z"
+  },
+  "cyrozap/mediatek-lte-baseband-re": {
+    "sha": "088e6d8fda4c250577464d119ca770e621ab6c2a",
+    "etag": "\"088e6d8fda4c250577464d119ca770e621ab6c2a\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 1",
+      "Custom homeserver: postmarketos.org",
+      "Matrix listed before other platforms",
+      "IRC present"
+    ],
+    "rooms": [
+      "#lowlevel:postmarketos.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:37Z"
+  },
+  "envmodules/modules": {
+    "sha": "cf4e8cfcc3486632fa904fbb8130e1b9a53220c6",
+    "etag": "\"cf4e8cfcc3486632fa904fbb8130e1b9a53220c6\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#modules:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:40Z"
+  },
+  "derhuerst/play-on-apple-tv": {
+    "sha": "1469e33f3aca6d9c80193223dfbb0fa4f2977f14",
+    "etag": "\"1469e33f3aca6d9c80193223dfbb0fa4f2977f14\"",
+    "score": 2,
+    "signals": [
+      "Matrix badge found",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:42Z"
+  },
+  "aio-libs/propcache": {
+    "sha": "a88e38b945046d5fdfe8898c3b1aa9cd0a467426",
+    "etag": "\"a88e38b945046d5fdfe8898c3b1aa9cd0a467426\"",
+    "score": 3,
+    "signals": [
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:43Z"
+  },
+  "ArchLinuxStudio/ShellTutorial": {
+    "sha": "1abc63e8fd2914c529609eab874cb222cf0f75b4",
+    "etag": "\"1abc63e8fd2914c529609eab874cb222cf0f75b4\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix listed before other platforms",
+      "Discord present",
+      "Telegram present"
+    ],
+    "rooms": [
+      "#ArchLinuxStudio:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:44Z"
+  },
+  "absmach/supermq": {
+    "sha": "60eb04c0d8062b40fad8a7ff196966e0596761af",
+    "etag": "\"60eb04c0d8062b40fad8a7ff196966e0596761af\"",
+    "score": 5,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#supermq:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:45Z"
+  },
+  "apfaudio/tiliqua": {
+    "sha": "2140c84b37a645beb39b60930153cacfac94d4cb",
+    "etag": "\"2140c84b37a645beb39b60930153cacfac94d4cb\"",
+    "score": 4,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix mentioned as channel",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#apfaudio:matrix.org"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:49Z"
+  },
+  "canonical/vanilla-framework": {
+    "sha": "1416f5819503c6a6c51415be897467aea3ed606c",
+    "etag": "\"1416f5819503c6a6c51415be897467aea3ed606c\"",
+    "score": 6,
+    "signals": [
+      "matrix.to links: 1",
+      "Matrix badge found",
+      "Custom homeserver: ubuntu.com",
+      "Matrix listed before other platforms"
+    ],
+    "rooms": [
+      "#vanilla:ubuntu.com"
+    ],
+    "listed_on_matrixrooms": false,
+    "scanned": "2026-04-06T09:59:51Z"
   }
 }

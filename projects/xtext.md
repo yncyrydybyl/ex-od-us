@@ -1,7 +1,7 @@
 ---
 name: "Xtext"
 description: "Eclipse Xtext™ is a language development framework "
-repo: "https://github.com/eclipse-xtext/xtext"
+repo: "https://github.com/eclipse-xtext/xtextt"
 platform: github
 categories: [Development]
 status: "Active"

@@ -1,12 +1,15 @@
 ---
-name: "Bspwm"
-description: "A tiling window manager based on binary space partitioning"
+name: Bspwm
+description: A tiling window manager based on binary space partitioning
 repo: "https://github.com/baskerville/bspwm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [32]
 updated: "2025-10-08T16:42:10Z"
+matrix_rooms: [https://matrix.to/#/#bspwm:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T09:59:19Z"
 ---
 
 A tiling window manager based on binary space partitioning
