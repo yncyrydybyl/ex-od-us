@@ -399,6 +399,9 @@ function renderCards(projects) {
     if (p.matrixRoomsParsed.length > 1) {
       cardLinks.push(`<span style="color:#484f58">+${p.matrixRoomsParsed.length - 1} more</span>`);
     }
+    if (p.issues.length) {
+      cardLinks.push(`<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank" onclick="event.stopPropagation()" title="Tracker issue #${p.issues[0]}">#${p.issues[0]}</a>`);
+    }
 
     return `
     <div class="card" data-idx="${i}">
