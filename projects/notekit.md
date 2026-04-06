@@ -5,7 +5,7 @@ repo: "https://github.com/blackhole89/notekit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [790]
 updated: "2026-01-29T00:39:14Z"
 ---
 

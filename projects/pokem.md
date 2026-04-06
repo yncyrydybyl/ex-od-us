@@ -5,7 +5,7 @@ repo: "https://github.com/arcuru/pokem"
 platform: github
 categories: [Matrix, Development]
 status: "Active"
-issues: []
+issues: [801]
 updated: "2025-08-06T20:26:59Z"
 ---
 

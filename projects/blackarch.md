@@ -5,7 +5,7 @@ repo: "https://github.com/BlackArch/blackarch"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [708]
 updated: "2026-04-06T09:22:18Z"
 ---
 

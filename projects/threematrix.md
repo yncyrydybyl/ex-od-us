@@ -5,7 +5,7 @@ repo: "https://github.com/bitbetterde/Threematrix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [822]
 updated: "2024-03-21T13:16:56Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/BuddiesOfBudgie/budgie-desktop-view"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [719]
 updated: "2026-03-07T16:29:49Z"
 ---
 

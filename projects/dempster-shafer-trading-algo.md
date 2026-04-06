@@ -5,7 +5,7 @@ repo: "https://github.com/blckswmngbrd/Dempster-Shafer-Trading-Algo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [739]
 updated: "2019-04-27T10:47:23Z"
 ---
 

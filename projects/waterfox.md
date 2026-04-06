@@ -5,7 +5,7 @@ repo: "https://github.com/BrowserWorks/Waterfox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [825]
 updated: "2026-03-24T12:50:49Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/amiirsadeghi/element-matrix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [746]
 updated: "2026-02-09T06:59:40Z"
 ---
 

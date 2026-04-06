@@ -5,7 +5,7 @@ repo: "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [696]
 updated: "2026-04-06T10:49:43Z"
 ---
 

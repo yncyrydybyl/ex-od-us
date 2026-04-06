@@ -5,7 +5,7 @@ repo: "https://github.com/acaloiaro/neoq"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [787]
 updated: "2026-02-11T04:11:23Z"
 ---
 

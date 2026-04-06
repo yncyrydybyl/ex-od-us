@@ -5,7 +5,7 @@ repo: "https://github.com/beeper/bridge-manager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [717]
 updated: "2026-03-27T18:02:58Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/AMythicDev/minus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [783]
 updated: "2025-12-22T14:59:18Z"
 ---
 

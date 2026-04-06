@@ -5,7 +5,7 @@ repo: "https://github.com/aspizu/goboscript"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [764]
 updated: "2026-04-05T18:44:39Z"
 ---
 

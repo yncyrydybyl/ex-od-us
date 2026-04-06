@@ -5,7 +5,7 @@ repo: "https://github.com/ANSSI-FR/cry-me"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [736]
 updated: "2025-11-24T13:35:48Z"
 ---
 

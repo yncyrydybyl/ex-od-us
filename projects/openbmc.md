@@ -5,7 +5,7 @@ repo: "https://github.com/AMDESE/OpenBMC"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [796]
 updated: "2025-06-30T11:55:56Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/biomejs/gritql"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [765]
 updated: "2026-03-30T04:48:12Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/alvinhochun/gd32vf103-pinecil-demo-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [762]
 updated: "2021-02-21T15:02:20Z"
 ---
 

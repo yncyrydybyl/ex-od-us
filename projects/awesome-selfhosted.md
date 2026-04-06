@@ -4,7 +4,7 @@ description: "A list of Free Software network services and web applications whic
 repo: "https://github.com/awesome-selfhosted/awesome-selfhosted"
 platform: github
 status: "Active"
-issues: []
+issues: [697]
 updated: "2026-04-05T10:45:12Z"
 ---
 

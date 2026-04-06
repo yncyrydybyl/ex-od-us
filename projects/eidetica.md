@@ -5,7 +5,7 @@ repo: "https://github.com/arcuru/eidetica"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [745]
 updated: "2026-04-01T05:45:01Z"
 ---
 

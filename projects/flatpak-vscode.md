@@ -5,7 +5,7 @@ repo: "https://github.com/bilelmoussaoui/flatpak-vscode"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [755]
 updated: "2026-03-29T14:10:38Z"
 ---
 

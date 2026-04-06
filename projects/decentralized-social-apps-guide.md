@@ -4,7 +4,7 @@ description: "An awesome overview of existing open-source decentralized apps, pl
 repo: "https://github.com/2gatherproject/decentralized-social-apps-guide"
 platform: github
 status: "Active"
-issues: []
+issues: [738]
 updated: "2024-05-12T17:36:14Z"
 ---
 

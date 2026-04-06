@@ -5,7 +5,7 @@ repo: "https://github.com/bsd-ac/wayland-desktop"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [826]
 updated: "2024-09-21T17:08:54Z"
 ---
 

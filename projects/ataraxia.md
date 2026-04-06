@@ -5,7 +5,7 @@ repo: "https://github.com/ataraxialinux/ataraxia"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [690]
 updated: "2021-06-01T22:26:35Z"
 ---
 

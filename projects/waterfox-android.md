@@ -5,7 +5,7 @@ repo: "https://github.com/BrowserWorks/Waterfox-Android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [824]
 updated: "2026-03-23T20:21:09Z"
 ---
 

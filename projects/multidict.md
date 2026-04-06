@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/multidict"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [786]
 updated: "2026-04-02T23:38:37Z"
 ---
 

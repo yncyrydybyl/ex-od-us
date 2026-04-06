@@ -5,7 +5,7 @@ repo: "https://github.com/Ancurio/mkxp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [785]
 updated: "2026-01-18T20:37:34Z"
 ---
 

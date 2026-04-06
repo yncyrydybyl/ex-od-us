@@ -5,7 +5,7 @@ repo: "https://github.com/arsedler9/lfads-torch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [772]
 updated: "2026-03-30T14:01:40Z"
 ---
 

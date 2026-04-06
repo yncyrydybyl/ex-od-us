@@ -5,7 +5,7 @@ repo: "https://github.com/Aryan20/Logomenu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [773]
 updated: "2026-03-09T21:48:00Z"
 ---
 

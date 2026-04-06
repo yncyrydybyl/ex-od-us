@@ -5,7 +5,7 @@ repo: "https://github.com/buddypond/buddypond"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [718]
 updated: "2026-03-01T00:30:03Z"
 ---
 

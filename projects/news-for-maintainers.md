@@ -4,7 +4,7 @@ description: "Announcements of changes impacting collection contributors and mai
 repo: "https://github.com/ansible-collections/news-for-maintainers"
 platform: github
 status: "Active"
-issues: []
+issues: [788]
 updated: "2023-03-23T12:07:26Z"
 ---
 

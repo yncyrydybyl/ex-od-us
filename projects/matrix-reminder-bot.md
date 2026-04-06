@@ -5,7 +5,7 @@ repo: "https://github.com/anoadragon453/matrix-reminder-bot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [780]
 updated: "2026-03-12T06:33:30Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/aboutcode-org/scancode-workbench"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [813]
 updated: "2025-01-17T05:47:11Z"
 ---
 

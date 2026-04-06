@@ -4,7 +4,7 @@ description: "Unraid Docker Templates"
 repo: "https://github.com/A75G/docker-templates"
 platform: github
 status: "Active"
-issues: []
+issues: [743]
 updated: "2025-08-29T12:17:19Z"
 ---
 

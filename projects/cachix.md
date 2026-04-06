@@ -5,7 +5,7 @@ repo: "https://github.com/cachix/cachix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [721]
 updated: "2026-04-01T11:16:47Z"
 ---
 

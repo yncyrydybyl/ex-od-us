@@ -4,7 +4,7 @@ description: "🚀A curated list of awesome resources related to Alpine."
 repo: "https://github.com/alpine-collective/awesome"
 platform: github
 status: "Active"
-issues: []
+issues: [699]
 updated: "2024-05-17T18:01:00Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/breezy-team/breezy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [716]
 updated: "2026-03-31T18:26:13Z"
 ---
 

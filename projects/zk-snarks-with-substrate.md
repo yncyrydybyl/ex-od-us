@@ -4,7 +4,7 @@ repo: "https://github.com/bright/zk-snarks-with-substrate"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [830]
 updated: "2024-07-29T18:29:56Z"
 ---
 

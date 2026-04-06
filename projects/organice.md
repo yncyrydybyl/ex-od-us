@@ -5,7 +5,7 @@ repo: "https://github.com/200ok-ch/organice"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [797]
 updated: "2026-04-02T07:37:33Z"
 ---
 

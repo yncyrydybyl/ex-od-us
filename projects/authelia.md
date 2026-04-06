@@ -5,7 +5,7 @@ repo: "https://github.com/authelia/authelia"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [691]
 updated: "2026-04-06T11:05:06Z"
 ---
 

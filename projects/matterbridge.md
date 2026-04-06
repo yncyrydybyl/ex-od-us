@@ -5,7 +5,7 @@ repo: "https://github.com/42wim/matterbridge"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [781]
 updated: "2024-12-12T00:20:34Z"
 ---
 

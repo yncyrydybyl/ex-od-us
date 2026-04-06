@@ -5,7 +5,7 @@ repo: "https://github.com/brendoncarroll/webfs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [828]
 updated: "2023-03-07T02:14:21Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/async-lru"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [689]
 updated: "2026-04-01T20:17:28Z"
 ---
 

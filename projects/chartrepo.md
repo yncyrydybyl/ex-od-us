@@ -5,7 +5,7 @@ repo: "https://github.com/authelia/chartrepo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [727]
 updated: "2026-03-18T08:34:58Z"
 ---
 

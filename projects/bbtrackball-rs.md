@@ -5,7 +5,7 @@ repo: "https://github.com/brainstorm/bbtrackball-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [702]
 updated: "2023-10-29T05:42:27Z"
 ---
 

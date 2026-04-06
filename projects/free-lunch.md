@@ -4,7 +4,7 @@ description: "A curated list of free Windows software, online services and resou
 repo: "https://github.com/auctors/free-lunch"
 platform: github
 status: "Active"
-issues: []
+issues: [759]
 updated: "2025-05-24T13:55:34Z"
 ---
 

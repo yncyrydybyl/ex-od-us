@@ -5,7 +5,7 @@ repo: "https://github.com/argotorg/solidity"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [816]
 updated: "2026-04-06T11:45:50Z"
 ---
 

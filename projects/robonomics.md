@@ -5,7 +5,7 @@ repo: "https://github.com/airalab/robonomics"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [811]
 updated: "2026-04-01T10:42:51Z"
 ---
 

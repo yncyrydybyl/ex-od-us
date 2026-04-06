@@ -5,7 +5,7 @@ repo: "https://github.com/89luca89/distrobox"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [741]
 updated: "2026-04-06T09:18:09Z"
 ---
 

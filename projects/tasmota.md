@@ -5,7 +5,7 @@ repo: "https://github.com/arendst/Tasmota"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [818]
 updated: "2026-04-06T10:54:16Z"
 ---
 

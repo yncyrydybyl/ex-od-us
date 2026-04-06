@@ -5,7 +5,7 @@ repo: "https://github.com/celzero/rethink-app"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [808]
 updated: "2026-03-11T14:35:36Z"
 ---
 

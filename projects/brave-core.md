@@ -5,7 +5,7 @@ repo: "https://github.com/brave/brave-core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [715]
 updated: "2026-04-06T11:45:44Z"
 ---
 

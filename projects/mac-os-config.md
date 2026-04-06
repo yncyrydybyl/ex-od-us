@@ -5,7 +5,7 @@ repo: "https://github.com/bkuhlmann/mac_os-config"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [774]
 updated: "2026-03-29T22:00:13Z"
 ---
 

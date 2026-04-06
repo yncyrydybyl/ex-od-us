@@ -5,7 +5,7 @@ repo: "https://github.com/brackets-cont/brackets"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [714]
 updated: "2026-03-30T21:32:08Z"
 ---
 

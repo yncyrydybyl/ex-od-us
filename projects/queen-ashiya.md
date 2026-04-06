@@ -5,7 +5,7 @@ repo: "https://github.com/BlackPanther-svg/Queen-Ashiya"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [803]
 updated: "2022-08-08T10:35:00Z"
 ---
 

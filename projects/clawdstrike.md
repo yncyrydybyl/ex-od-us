@@ -5,7 +5,7 @@ repo: "https://github.com/backbay-labs/clawdstrike"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [731]
 updated: "2026-04-05T13:36:57Z"
 ---
 
