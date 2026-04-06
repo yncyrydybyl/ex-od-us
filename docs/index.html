@@ -482,6 +482,7 @@ function enrich(p) {
   }
 
   // Initials fallback
+  p.name = String(p.name || p.slug || '');
   p.initials = p.name.split(/[\s-]+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase();
 
   // Detect primary non-Matrix platform for exodus bar
