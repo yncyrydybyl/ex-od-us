@@ -1,0 +1,19 @@
+---
+name: "Steel"
+description: "An embedded scheme interpreter in Rust"
+repo: "https://github.com/mattwparas/steel"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T14:53:06Z"
+---
+
+An embedded scheme interpreter in Rust
+
+## Stats
+
+- Stars: 2277
+- Forks: 114
+- Language: Rust
+- Topics: contracts, lisp, programming-language, racket, rust, scheme, scripting-language, transducers
