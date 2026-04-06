@@ -1,12 +1,15 @@
 ---
-name: "Aardwolf Social"
-description: "Powering connected social communities with open software."
+name: Aardwolf Social
+description: Powering connected social communities with open software.
 repo: "https://github.com/Aardwolf-Social/aardwolf-social"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [28]
 updated: "2026-02-03T19:21:37Z"
+matrix_rooms: [https://matrix.to/#/#aardwolf-discussion:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T09:59:14Z"
 ---
 
 Powering connected social communities with open software.

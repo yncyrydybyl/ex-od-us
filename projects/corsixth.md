@@ -1,12 +1,15 @@
 ---
-name: "Corsixth"
-description: "Open source clone of Theme Hospital"
+name: Corsixth
+description: Open source clone of Theme Hospital
 repo: "https://github.com/CorsixTH/CorsixTH"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [37]
 updated: "2026-04-05T13:12:38Z"
+matrix_rooms: [https://matrix.to/#/#corsixth-general:matrix.org, https://matrix.to/#/#corsixth-usercontent:matrix.org, https://matrix.to/#/#corsixth-announcements:matrix.org, https://matrix.to/#/#corsixth-help:matrix.org, https://matrix.to/#/#CorsixTH:matrix.org, https://matrix.to/#/#corsixth-technical:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T09:59:25Z"
 ---
 
 Open source clone of Theme Hospital

@@ -1,7 +1,7 @@
 ---
 name: "Ultimate Autopair.Nvim"
 description: "A treesitter supported autopairing plugin with extensions, and much more"
-repo: "https://github.com/altermo/ultimate-autopair.nvim"
+repo: "https://github.com/altermo/ultimate-autopair.nvim.nvim"
 platform: github
 categories: [Development]
 status: "Active"

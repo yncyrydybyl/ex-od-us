@@ -1,12 +1,15 @@
 ---
-name: "Amaranth"
-description: "A modern hardware definition language and toolchain based on Python"
+name: Amaranth
+description: A modern hardware definition language and toolchain based on Python
 repo: "https://github.com/amaranth-lang/amaranth"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [29]
 updated: "2026-03-16T16:43:17Z"
+matrix_rooms: [https://matrix.to/#/#amaranth-lang:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T09:59:15Z"
 ---
 
 A modern hardware definition language and toolchain based on Python

@@ -1,7 +1,108 @@
 {
-  "generated": "2026-04-06T09:46:04Z",
+  "generated": "2026-04-06T10:01:39Z",
   "count": 54,
   "projects": [
+    {
+      "slug": "continuwuity",
+      "name": "Continuwuity",
+      "description": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.",
+      "website": "",
+      "repo": "https://github.com/continuwuity/continuwuity",
+      "platform": "github",
+      "categories": [
+        "Messaging",
+        "Infrastructure",
+        "Matrix",
+        "Development"
+      ],
+      "exodus_score": 8,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#space:continuwuity.org",
+          "https://matrix.to/#/#continuwuity:continuwuity.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        36
+      ],
+      "avatar_url": "https://github.com/continuwuity.png?size=64",
+      "notes": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.\n\n## Stats\n\n- Stars: 694\n- Forks: 19\n- Language: Rust\n- Topics: chat, conduit, conduwuit, homeserver, matrix, rust, server",
+      "updated": "2026-04-06T02:09:35Z",
+      "last_scanned": "2026-04-06T09:59:24Z"
+    },
+    {
+      "slug": "element-call",
+      "name": "Element Call",
+      "description": "Group calls powered by Matrix",
+      "website": "",
+      "repo": "https://github.com/element-hq/element-call",
+      "platform": "github",
+      "categories": [
+        "Matrix"
+      ],
+      "exodus_score": 8,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#webrtc:matrix.org",
+          "https://matrix.to/#/#translators:element.io"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        41
+      ],
+      "avatar_url": "https://github.com/element-hq.png?size=64",
+      "notes": "Group calls powered by Matrix\n\n## Stats\n\n- Stars: 927\n- Forks: 183\n- Language: TypeScript\n- Topics: matrix, matrixrtc, videoconference, voip",
+      "updated": "2026-04-06T01:31:11Z",
+      "last_scanned": "2026-04-06T09:59:32Z"
+    },
     {
       "slug": "a3",
       "name": "A3",
@@ -12,12 +113,15 @@
       "categories": [
         "Development"
       ],
-      "exodus_score": null,
+      "exodus_score": 6,
       "status": "Active",
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#support:acter.global",
+          "https://matrix.to/#/#tech:acter.global"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -46,283 +150,7 @@
       "avatar_url": "https://github.com/acterglobal.png?size=64",
       "notes": "Community Communication and casual social organising platform (App)\n\n## Stats\n\n- Stars: 103\n- Forks: 21\n- Language: Dart\n- Topics: flutter, matrix-org, organizing, social-network",
       "updated": "2026-03-21T09:31:43Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "aardwolf-social",
-      "name": "Aardwolf Social",
-      "description": "Powering connected social communities with open software.",
-      "website": "",
-      "repo": "https://github.com/Aardwolf-Social/aardwolf-social",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        28
-      ],
-      "avatar_url": "https://github.com/Aardwolf-Social.png?size=64",
-      "notes": "Powering connected social communities with open software.\n\n## Stats\n\n- Stars: 510\n- Forks: 47\n- Language: Rust\n- Topics: aardwolf, activitypub, activitystreams, decentralized, federated, fediverse, hacktoberfest, hacktoberfest-accepted, hacktoberfest2024, mastodon, rust, rust-lang, social, social-media, social-network, social-plattforms",
-      "updated": "2026-02-03T19:21:37Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "amaranth",
-      "name": "Amaranth",
-      "description": "A modern hardware definition language and toolchain based on Python",
-      "website": "",
-      "repo": "https://github.com/amaranth-lang/amaranth",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        29
-      ],
-      "avatar_url": "https://github.com/amaranth-lang.png?size=64",
-      "notes": "A modern hardware definition language and toolchain based on Python\n\n## Stats\n\n- Stars: 1975\n- Forks: 195\n- Language: Python\n- Topics: amaranth-hdl, fpga, hdl",
-      "updated": "2026-03-16T16:43:17Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "archlinuxtutorial",
-      "name": "Archlinuxtutorial",
-      "description": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728",
-      "website": "",
-      "repo": "https://github.com/ArchLinuxStudio/ArchLinuxTutorial",
-      "platform": "github",
-      "categories": [
-        "Infrastructure"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        30
-      ],
-      "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
-      "notes": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 1848\n- Forks: 150\n- Topics: arch, arch-linux, archlinux, archlinuxinstall, bitcoin, blockchain, censorship-circumvention, chinese, cryptocurrency, ebook, ethereum, freedom, freesoftware, fsf, linux, linux-desktop, qv2ray, v2ray, v2raya, virtualcurrency",
-      "updated": "2026-01-27T16:37:54Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "bisq2",
-      "name": "Bisq2",
-      "description": "",
-      "website": "",
-      "repo": "https://github.com/bisq-network/bisq2",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        31
-      ],
-      "avatar_url": "https://github.com/bisq-network.png?size=64",
-      "notes": "## Stats\n\n- Stars: 296\n- Forks: 114\n- Language: Java",
-      "updated": "2026-04-06T07:43:38Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "bspwm",
-      "name": "Bspwm",
-      "description": "A tiling window manager based on binary space partitioning",
-      "website": "",
-      "repo": "https://github.com/baskerville/bspwm",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        32
-      ],
-      "avatar_url": "https://github.com/baskerville.png?size=64",
-      "notes": "A tiling window manager based on binary space partitioning\n\n## Stats\n\n- Stars: 8222\n- Forks: 439\n- Language: C",
-      "updated": "2025-10-08T16:42:10Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "cargo-generate",
-      "name": "Cargo Generate",
-      "description": "cargo, make me a project",
-      "website": "",
-      "repo": "https://github.com/cargo-generate/cargo-generate",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        33
-      ],
-      "avatar_url": "https://github.com/cargo-generate.png?size=64",
-      "notes": "cargo, make me a project\n\n## Stats\n\n- Stars: 2399\n- Forks: 192\n- Language: Rust\n- Topics: cargo, cargo-generate, liquid, placeholders, rust, template-generator, template-project",
-      "updated": "2026-04-01T20:29:45Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:13Z"
     },
     {
       "slug": "carnetdocumentation",
@@ -334,12 +162,14 @@
       "categories": [
         "Development"
       ],
-      "exodus_score": null,
+      "exodus_score": 6,
       "status": "Active",
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#carnet:gauchiste.club"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -368,7 +198,928 @@
       "avatar_url": "https://github.com/CarnetApp.png?size=64",
       "notes": "## Stats\n\n- Stars: 254\n- Forks: 11\n- Language: Shell",
       "updated": "2023-08-21T09:35:00Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:21Z"
+    },
+    {
+      "slug": "element-ios",
+      "name": "Element Ios",
+      "description": "A glossy Matrix collaboration client for iOS",
+      "website": "",
+      "repo": "https://github.com/element-hq/element-ios",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 6,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#element-ios:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        42
+      ],
+      "avatar_url": "https://github.com/element-hq.png?size=64",
+      "notes": "A glossy Matrix collaboration client for iOS\n\n## Stats\n\n- Stars: 1822\n- Forks: 543\n- Language: Swift",
+      "updated": "2026-04-01T09:51:12Z",
+      "last_scanned": "2026-04-06T09:59:33Z"
+    },
+    {
+      "slug": "vanilla-framework",
+      "name": "Vanilla Framework",
+      "description": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
+      "website": "",
+      "repo": "https://github.com/canonical/vanilla-framework",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 6,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#vanilla:ubuntu.com"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        55
+      ],
+      "avatar_url": "https://github.com/canonical.png?size=64",
+      "notes": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.\n\n## Stats\n\n- Stars: 950\n- Forks: 198\n- Language: HTML\n- Topics: css, css-framework, hack, hacktoberfest, html, npm, npm-package, package, sass, vanilla-framework, web-and-design",
+      "updated": "2026-04-04T13:11:18Z",
+      "last_scanned": "2026-04-06T09:59:51Z"
+    },
+    {
+      "slug": "bisq2",
+      "name": "Bisq2",
+      "description": "",
+      "website": "",
+      "repo": "https://github.com/bisq-network/bisq2",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#bisq.v2.dev:bitcoin.kyoto"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        31
+      ],
+      "avatar_url": "https://github.com/bisq-network.png?size=64",
+      "notes": "## Stats\n\n- Stars: 296\n- Forks: 114\n- Language: Java",
+      "updated": "2026-04-06T07:43:38Z",
+      "last_scanned": "2026-04-06T09:59:18Z"
+    },
+    {
+      "slug": "bspwm",
+      "name": "Bspwm",
+      "description": "A tiling window manager based on binary space partitioning",
+      "website": "",
+      "repo": "https://github.com/baskerville/bspwm",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#bspwm:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        32
+      ],
+      "avatar_url": "https://github.com/baskerville.png?size=64",
+      "notes": "A tiling window manager based on binary space partitioning\n\n## Stats\n\n- Stars: 8222\n- Forks: 439\n- Language: C",
+      "updated": "2025-10-08T16:42:10Z",
+      "last_scanned": "2026-04-06T09:59:19Z"
+    },
+    {
+      "slug": "cross",
+      "name": "Cross",
+      "description": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates",
+      "website": "",
+      "repo": "https://github.com/cross-rs/cross",
+      "platform": "github",
+      "categories": [
+        "Infrastructure",
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#cross-rs:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        38
+      ],
+      "avatar_url": "https://github.com/cross-rs.png?size=64",
+      "notes": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates\n\n## Stats\n\n- Stars: 8092\n- Forks: 444\n- Language: Rust\n- Topics: aarch64, arm, bsd, cargo, cross-compilation, cross-testing, linux, mips, powerpc, rust, s390x, sparc, windows, x86",
+      "updated": "2026-03-25T16:00:29Z",
+      "last_scanned": "2026-04-06T09:59:26Z"
+    },
+    {
+      "slug": "dendrite",
+      "name": "Dendrite",
+      "description": "Dendrite is a second-generation Matrix homeserver written in Go! ",
+      "website": "",
+      "repo": "https://github.com/element-hq/dendrite",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#dendrite-dev:matrix.org",
+          "https://matrix.to/#/#dendrite-alerts:matrix.org",
+          "https://matrix.to/#/#dendrite:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        39
+      ],
+      "avatar_url": "https://github.com/element-hq.png?size=64",
+      "notes": "Dendrite is a second-generation Matrix homeserver written in Go! \n\n## Stats\n\n- Stars: 875\n- Forks: 85\n- Language: Go",
+      "updated": "2026-04-02T15:00:29Z",
+      "last_scanned": "2026-04-06T09:59:28Z"
+    },
+    {
+      "slug": "mediatek-lte-baseband-re",
+      "name": "Mediatek Lte Baseband Re",
+      "description": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.",
+      "website": "",
+      "repo": "https://github.com/cyrozap/mediatek-lte-baseband-re",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#lowlevel:postmarketos.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        45
+      ],
+      "avatar_url": "https://github.com/cyrozap.png?size=64",
+      "notes": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.\n\n## Stats\n\n- Stars: 210\n- Forks: 43\n- Language: Python",
+      "updated": "2024-10-30T03:04:15Z",
+      "last_scanned": "2026-04-06T09:59:37Z"
+    },
+    {
+      "slug": "supermq",
+      "name": "Supermq",
+      "description": "IoT Platform Framework",
+      "website": "",
+      "repo": "https://github.com/absmach/supermq",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 5,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#supermq:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        52
+      ],
+      "avatar_url": "https://github.com/absmach.png?size=64",
+      "notes": "IoT Platform Framework\n\n## Stats\n\n- Stars: 2570\n- Forks: 676\n- Language: Go\n- Topics: coap, distributed-systems, edge, edge-computing, golang, iiot, internet-of-things, iot, iot-cloud, iot-gateway, iot-platform, lora, lorawan, lwm2m, message-broker, messaging, mqtt, opc-ua, telecom, web-socket",
+      "updated": "2026-04-06T08:19:30Z",
+      "last_scanned": "2026-04-06T09:59:45Z"
+    },
+    {
+      "slug": "amaranth",
+      "name": "Amaranth",
+      "description": "A modern hardware definition language and toolchain based on Python",
+      "website": "",
+      "repo": "https://github.com/amaranth-lang/amaranth",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#amaranth-lang:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        29
+      ],
+      "avatar_url": "https://github.com/amaranth-lang.png?size=64",
+      "notes": "A modern hardware definition language and toolchain based on Python\n\n## Stats\n\n- Stars: 1975\n- Forks: 195\n- Language: Python\n- Topics: amaranth-hdl, fpga, hdl",
+      "updated": "2026-03-16T16:43:17Z",
+      "last_scanned": "2026-04-06T09:59:15Z"
+    },
+    {
+      "slug": "archlinuxtutorial",
+      "name": "Archlinuxtutorial",
+      "description": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728",
+      "website": "",
+      "repo": "https://github.com/ArchLinuxStudio/ArchLinuxTutorial",
+      "platform": "github",
+      "categories": [
+        "Infrastructure"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#ArchLinuxStudio:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        30
+      ],
+      "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
+      "notes": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 1848\n- Forks: 150\n- Topics: arch, arch-linux, archlinux, archlinuxinstall, bitcoin, blockchain, censorship-circumvention, chinese, cryptocurrency, ebook, ethereum, freedom, freesoftware, fsf, linux, linux-desktop, qv2ray, v2ray, v2raya, virtualcurrency",
+      "updated": "2026-01-27T16:37:54Z",
+      "last_scanned": "2026-04-06T09:59:16Z"
+    },
+    {
+      "slug": "cargo-generate",
+      "name": "Cargo Generate",
+      "description": "cargo, make me a project",
+      "website": "",
+      "repo": "https://github.com/cargo-generate/cargo-generate",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#cargo-generate:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        33
+      ],
+      "avatar_url": "https://github.com/cargo-generate.png?size=64",
+      "notes": "cargo, make me a project\n\n## Stats\n\n- Stars: 2399\n- Forks: 192\n- Language: Rust\n- Topics: cargo, cargo-generate, liquid, placeholders, rust, template-generator, template-project",
+      "updated": "2026-04-01T20:29:45Z",
+      "last_scanned": "2026-04-06T09:59:20Z"
+    },
+    {
+      "slug": "corsixth",
+      "name": "Corsixth",
+      "description": "Open source clone of Theme Hospital",
+      "website": "",
+      "repo": "https://github.com/CorsixTH/CorsixTH",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#corsixth-general:matrix.org",
+          "https://matrix.to/#/#corsixth-usercontent:matrix.org",
+          "https://matrix.to/#/#corsixth-announcements:matrix.org",
+          "https://matrix.to/#/#corsixth-help:matrix.org",
+          "https://matrix.to/#/#CorsixTH:matrix.org",
+          "https://matrix.to/#/#corsixth-technical:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        37
+      ],
+      "avatar_url": "https://github.com/CorsixTH.png?size=64",
+      "notes": "Open source clone of Theme Hospital\n\n## Stats\n\n- Stars: 4397\n- Forks: 395\n- Language: Lua\n- Topics: game, opensource, remake, strategy-game, theme-hospital",
+      "updated": "2026-04-05T13:12:38Z",
+      "last_scanned": "2026-04-06T09:59:25Z"
+    },
+    {
+      "slug": "dragonfly",
+      "name": "Dragonfly",
+      "description": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx",
+      "website": "",
+      "repo": "https://github.com/dictation-toolbox/dragonfly",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#dragonfly2:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        40
+      ],
+      "avatar_url": "https://github.com/dictation-toolbox.png?size=64",
+      "notes": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx\n\n## Stats\n\n- Stars: 412\n- Forks: 78\n- Language: Python\n- Topics: python, speech-recognition",
+      "updated": "2026-01-22T01:03:47Z",
+      "last_scanned": "2026-04-06T09:59:30Z"
+    },
+    {
+      "slug": "go-capnp",
+      "name": "Go Capnp",
+      "description": "Cap'n Proto library and code generator for Go",
+      "website": "",
+      "repo": "https://github.com/capnproto/go-capnp",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#go-capnp:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        43
+      ],
+      "avatar_url": "https://github.com/capnproto.png?size=64",
+      "notes": "Cap'n Proto library and code generator for Go\n\n## Stats\n\n- Stars: 1392\n- Forks: 119\n- Language: Go\n- Topics: capabilities, capability-based, capn-proto, capnp, capnproto, go, golang, object-capabilities, rpc, serialization",
+      "updated": "2025-10-25T23:54:54Z",
+      "last_scanned": "2026-04-06T09:59:34Z"
+    },
+    {
+      "slug": "gtfs-lib",
+      "name": "Gtfs Lib",
+      "description": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage",
+      "website": "",
+      "repo": "https://github.com/conveyal/gtfs-lib",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#transit-data-tools:gitter.im",
+          "https://matrix.to/#/#gtfs-lib:gitter.im"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        44
+      ],
+      "avatar_url": "https://github.com/conveyal.png?size=64",
+      "notes": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage\n\n## Stats\n\n- Stars: 80\n- Forks: 41\n- Language: Java",
+      "updated": "2024-05-16T08:51:49Z",
+      "last_scanned": "2026-04-06T09:59:35Z"
+    },
+    {
+      "slug": "modules",
+      "name": "Modules",
+      "description": "Environment Modules: provides dynamic modification of a user's environment",
+      "website": "",
+      "repo": "https://github.com/envmodules/modules",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#modules:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        47
+      ],
+      "avatar_url": "https://github.com/envmodules.png?size=64",
+      "notes": "Environment Modules: provides dynamic modification of a user's environment\n\n## Stats\n\n- Stars: 837\n- Forks: 118\n- Language: Tcl\n- Topics: environment, environment-modules, hpc, module, modulefiles, shell, tcl",
+      "updated": "2026-03-20T11:25:29Z",
+      "last_scanned": "2026-04-06T09:59:40Z"
+    },
+    {
+      "slug": "shelltutorial",
+      "name": "Shelltutorial",
+      "description": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728",
+      "website": "",
+      "repo": "https://github.com/ArchLinuxStudio/ShellTutorial",
+      "platform": "github",
+      "categories": [
+        "Infrastructure"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#ArchLinuxStudio:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        51
+      ],
+      "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
+      "notes": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 370\n- Forks: 37\n- Topics: linux, shell",
+      "updated": "2023-08-21T05:34:41Z",
+      "last_scanned": "2026-04-06T09:59:44Z"
+    },
+    {
+      "slug": "tiliqua",
+      "name": "Tiliqua",
+      "description": "A powerful, hackable FPGA-based audio multitool for Eurorack.",
+      "website": "",
+      "repo": "https://github.com/apfaudio/tiliqua",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 4,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#apfaudio:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        53
+      ],
+      "avatar_url": "https://github.com/apfaudio.png?size=64",
+      "notes": "A powerful, hackable FPGA-based audio multitool for Eurorack.\n\n## Stats\n\n- Stars: 132\n- Forks: 14\n- Language: Python",
+      "updated": "2026-04-03T17:41:30Z",
+      "last_scanned": "2026-04-06T09:59:49Z"
+    },
+    {
+      "slug": "aardwolf-social",
+      "name": "Aardwolf Social",
+      "description": "Powering connected social communities with open software.",
+      "website": "",
+      "repo": "https://github.com/Aardwolf-Social/aardwolf-social",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 3,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#aardwolf-discussion:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        28
+      ],
+      "avatar_url": "https://github.com/Aardwolf-Social.png?size=64",
+      "notes": "Powering connected social communities with open software.\n\n## Stats\n\n- Stars: 510\n- Forks: 47\n- Language: Rust\n- Topics: aardwolf, activitypub, activitystreams, decentralized, federated, fediverse, hacktoberfest, hacktoberfest-accepted, hacktoberfest2024, mastodon, rust, rust-lang, social, social-media, social-network, social-plattforms",
+      "updated": "2026-02-03T19:21:37Z",
+      "last_scanned": "2026-04-06T09:59:14Z"
     },
     {
       "slug": "cartes",
@@ -380,12 +1131,14 @@
       "categories": [
         "Development"
       ],
-      "exodus_score": null,
+      "exodus_score": 3,
       "status": "Active",
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#cartes:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -414,19 +1167,19 @@
       "avatar_url": "https://github.com/cartesapp.png?size=64",
       "notes": "\u26a0\ufe0f Migr\u00e9 sur https://codeberg.org/cartes/web. L'appli Web de cartes grand public. \n\n## Stats\n\n- Stars: 294\n- Forks: 30\n- Language: TypeScript\n- Topics: cartes, climate, cycling, ecology, maps, public-transport, transit, walking",
       "updated": "2025-06-18T11:11:51Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:22Z"
     },
     {
-      "slug": "community-moderation-toolkit",
-      "name": "Community Moderation Toolkit",
-      "description": "Tools and guidelines for Matrix room moderators",
+      "slug": "propcache",
+      "name": "Propcache",
+      "description": "Fast property caching",
       "website": "",
-      "repo": "https://github.com/matrix-org/mjolnir",
+      "repo": "https://github.com/aio-libs/propcache",
       "platform": "github",
       "categories": [
-        "Community"
+        "Development"
       ],
-      "exodus_score": null,
+      "exodus_score": 3,
       "status": "Active",
       "community_size": "",
       "channels": {
@@ -455,12 +1208,106 @@
         "features": []
       },
       "issues": [
+        50
+      ],
+      "avatar_url": "https://github.com/aio-libs.png?size=64",
+      "notes": "Fast property caching\n\n## Stats\n\n- Stars: 33\n- Forks: 18\n- Language: Python",
+      "updated": "2026-04-02T21:46:08Z",
+      "last_scanned": "2026-04-06T09:59:43Z"
+    },
+    {
+      "slug": "play-on-apple-tv",
+      "name": "Play On Apple Tv",
+      "description": "A command line tool to play any audio/video on an Apple TV.",
+      "website": "",
+      "repo": "https://github.com/derhuerst/play-on-apple-tv",
+      "platform": "github",
+      "categories": [
+        "Development"
+      ],
+      "exodus_score": 2,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
+        49
+      ],
+      "avatar_url": "https://github.com/derhuerst.png?size=64",
+      "notes": "A command line tool to play any audio/video on an Apple TV.\n\n## Stats\n\n- Stars: 26\n- Forks: 6\n- Language: JavaScript\n- Topics: airplay, airtunes, apple-tv, audio, cli",
+      "updated": "2024-07-27T17:11:26Z",
+      "last_scanned": "2026-04-06T09:59:42Z"
+    },
+    {
+      "slug": "community-moderation-toolkit",
+      "name": "Community Moderation Toolkit",
+      "description": "Tools and guidelines for Matrix room moderators",
+      "website": "",
+      "repo": "https://github.com/matrix-org/mjolnir",
+      "platform": "github",
+      "categories": [
+        "Community"
+      ],
+      "exodus_score": null,
+      "status": "Active",
+      "community_size": "",
+      "channels": {
+        "matrix_space": "",
+        "matrix_rooms": [
+          "https://matrix.to/#/#community-moderation:matrix.org"
+        ],
+        "discord": "",
+        "telegram": "",
+        "slack": "",
+        "irc": "",
+        "whatsapp": "",
+        "signal": "",
+        "xmpp": "",
+        "zulip": "",
+        "mattermost": "",
+        "rocketchat": "",
+        "other": []
+      },
+      "score_details": {
+        "presence": "",
+        "primary_platform": "",
+        "federation": "",
+        "bridges": "",
+        "community_health": "",
+        "native_ratio": "",
+        "migration_intent": "",
+        "features": []
+      },
+      "issues": [
         4
       ],
       "avatar_url": "https://github.com/matrix-org.png?size=64",
       "notes": "Tools and guidelines for Matrix room moderators\n\n## Links\n\nhttps://github.com/matrix-org/mjolnir\n\n## Notes\n\nPartnering with Trust & Safety team",
       "updated": "2026-04-06T08:17:36Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:23Z"
     },
     {
       "slug": "community-sponsorship-program",
@@ -555,148 +1402,6 @@
       "last_scanned": ""
     },
     {
-      "slug": "continuwuity",
-      "name": "Continuwuity",
-      "description": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.",
-      "website": "",
-      "repo": "https://github.com/continuwuity/continuwuity",
-      "platform": "github",
-      "categories": [
-        "Messaging",
-        "Infrastructure",
-        "Matrix",
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        36
-      ],
-      "avatar_url": "https://github.com/continuwuity.png?size=64",
-      "notes": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.\n\n## Stats\n\n- Stars: 694\n- Forks: 19\n- Language: Rust\n- Topics: chat, conduit, conduwuit, homeserver, matrix, rust, server",
-      "updated": "2026-04-06T02:09:35Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "corsixth",
-      "name": "Corsixth",
-      "description": "Open source clone of Theme Hospital",
-      "website": "",
-      "repo": "https://github.com/CorsixTH/CorsixTH",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        37
-      ],
-      "avatar_url": "https://github.com/CorsixTH.png?size=64",
-      "notes": "Open source clone of Theme Hospital\n\n## Stats\n\n- Stars: 4397\n- Forks: 395\n- Language: Lua\n- Topics: game, opensource, remake, strategy-game, theme-hospital",
-      "updated": "2026-04-05T13:12:38Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "cross",
-      "name": "Cross",
-      "description": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates",
-      "website": "",
-      "repo": "https://github.com/cross-rs/cross",
-      "platform": "github",
-      "categories": [
-        "Infrastructure",
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        38
-      ],
-      "avatar_url": "https://github.com/cross-rs.png?size=64",
-      "notes": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates\n\n## Stats\n\n- Stars: 8092\n- Forks: 444\n- Language: Rust\n- Topics: aarch64, arm, bsd, cargo, cross-compilation, cross-testing, linux, mips, powerpc, rust, s390x, sparc, windows, x86",
-      "updated": "2026-03-25T16:00:29Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "decentralized-identity-research",
       "name": "Decentralized Identity Research",
       "description": "Exploring DID integration with Matrix accounts",
@@ -743,52 +1448,6 @@
       "last_scanned": ""
     },
     {
-      "slug": "dendrite",
-      "name": "Dendrite",
-      "description": "Dendrite is a second-generation Matrix homeserver written in Go! ",
-      "website": "",
-      "repo": "https://github.com/element-hq/dendrite",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        39
-      ],
-      "avatar_url": "https://github.com/element-hq.png?size=64",
-      "notes": "Dendrite is a second-generation Matrix homeserver written in Go! \n\n## Stats\n\n- Stars: 875\n- Forks: 85\n- Language: Go",
-      "updated": "2026-04-02T15:00:29Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "discord-bridge-enhancement",
       "name": "Discord Bridge Enhancement",
       "description": "Improving Matrix-Discord bridge fidelity",
@@ -803,7 +1462,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#discord:maunium.net"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -832,145 +1493,7 @@
       "avatar_url": "https://github.com/mautrix.png?size=64",
       "notes": "Improving Matrix-Discord bridge fidelity\n\n## Links\n\nhttps://github.com/mautrix/discord\n\n## Notes\n\nMost requested bridge improvement",
       "updated": "2026-04-06T08:17:32Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "dragonfly",
-      "name": "Dragonfly",
-      "description": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx",
-      "website": "",
-      "repo": "https://github.com/dictation-toolbox/dragonfly",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        40
-      ],
-      "avatar_url": "https://github.com/dictation-toolbox.png?size=64",
-      "notes": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx\n\n## Stats\n\n- Stars: 412\n- Forks: 78\n- Language: Python\n- Topics: python, speech-recognition",
-      "updated": "2026-01-22T01:03:47Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "element-call",
-      "name": "Element Call",
-      "description": "Group calls powered by Matrix",
-      "website": "",
-      "repo": "https://github.com/element-hq/element-call",
-      "platform": "github",
-      "categories": [
-        "Matrix"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        41
-      ],
-      "avatar_url": "https://github.com/element-hq.png?size=64",
-      "notes": "Group calls powered by Matrix\n\n## Stats\n\n- Stars: 927\n- Forks: 183\n- Language: TypeScript\n- Topics: matrix, matrixrtc, videoconference, voip",
-      "updated": "2026-04-06T01:31:11Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "element-ios",
-      "name": "Element Ios",
-      "description": "A glossy Matrix collaboration client for iOS",
-      "website": "",
-      "repo": "https://github.com/element-hq/element-ios",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        42
-      ],
-      "avatar_url": "https://github.com/element-hq.png?size=64",
-      "notes": "A glossy Matrix collaboration client for iOS\n\n## Stats\n\n- Stars: 1822\n- Forks: 543\n- Language: Swift",
-      "updated": "2026-04-01T09:51:12Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:29Z"
     },
     {
       "slug": "element-x-mobile-client",
@@ -1154,98 +1677,6 @@
       "avatar_url": "",
       "notes": "Tools for migrating enterprise teams to Matrix\n\n## Notes\n\nTarget: organizations with 1000+ users",
       "updated": "2026-04-06T06:51:20Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "go-capnp",
-      "name": "Go Capnp",
-      "description": "Cap'n Proto library and code generator for Go",
-      "website": "",
-      "repo": "https://github.com/capnproto/go-capnp",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        43
-      ],
-      "avatar_url": "https://github.com/capnproto.png?size=64",
-      "notes": "Cap'n Proto library and code generator for Go\n\n## Stats\n\n- Stars: 1392\n- Forks: 119\n- Language: Go\n- Topics: capabilities, capability-based, capn-proto, capnp, capnproto, go, golang, object-capabilities, rpc, serialization",
-      "updated": "2025-10-25T23:54:54Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "gtfs-lib",
-      "name": "Gtfs Lib",
-      "description": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage",
-      "website": "",
-      "repo": "https://github.com/conveyal/gtfs-lib",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        44
-      ],
-      "avatar_url": "https://github.com/conveyal.png?size=64",
-      "notes": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage\n\n## Stats\n\n- Stars: 80\n- Forks: 41\n- Language: Java",
-      "updated": "2024-05-16T08:51:49Z",
       "last_scanned": ""
     },
     {
@@ -1585,7 +2016,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#irc:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -1614,7 +2047,7 @@
       "avatar_url": "https://github.com/matrix-org.png?size=64",
       "notes": "Maintaining the official Matrix-IRC bridge\n\n## Links\n\nhttps://github.com/matrix-org/matrix-appservice-irc",
       "updated": "2026-04-06T08:17:33Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:36Z"
     },
     {
       "slug": "matrix-org-room-directory",
@@ -1709,52 +2142,6 @@
       "last_scanned": ""
     },
     {
-      "slug": "mediatek-lte-baseband-re",
-      "name": "Mediatek Lte Baseband Re",
-      "description": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.",
-      "website": "",
-      "repo": "https://github.com/cyrozap/mediatek-lte-baseband-re",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        45
-      ],
-      "avatar_url": "https://github.com/cyrozap.png?size=64",
-      "notes": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.\n\n## Stats\n\n- Stars: 210\n- Forks: 43\n- Language: Python",
-      "updated": "2024-10-30T03:04:15Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "minosoft",
       "name": "Minosoft",
       "description": "An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft",
@@ -1798,52 +2185,6 @@
       "avatar_url": "https://github.com/Bixilon.png?size=64",
       "notes": "An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft\n\n## Stats\n\n- Stars: 1215\n- Forks: 61\n- Language: Kotlin\n- Topics: java, kotlin, minecraft, networking, opengl, reversing",
       "updated": "2026-02-23T16:22:53Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "modules",
-      "name": "Modules",
-      "description": "Environment Modules: provides dynamic modification of a user's environment",
-      "website": "",
-      "repo": "https://github.com/envmodules/modules",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        47
-      ],
-      "avatar_url": "https://github.com/envmodules.png?size=64",
-      "notes": "Environment Modules: provides dynamic modification of a user's environment\n\n## Stats\n\n- Stars: 837\n- Forks: 118\n- Language: Tcl\n- Topics: environment, environment-modules, hpc, module, modulefiles, shell, tcl",
-      "updated": "2026-03-20T11:25:29Z",
       "last_scanned": ""
     },
     {
@@ -1985,144 +2326,6 @@
       "last_scanned": ""
     },
     {
-      "slug": "play-on-apple-tv",
-      "name": "Play On Apple Tv",
-      "description": "A command line tool to play any audio/video on an Apple TV.",
-      "website": "",
-      "repo": "https://github.com/derhuerst/play-on-apple-tv",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        49
-      ],
-      "avatar_url": "https://github.com/derhuerst.png?size=64",
-      "notes": "A command line tool to play any audio/video on an Apple TV.\n\n## Stats\n\n- Stars: 26\n- Forks: 6\n- Language: JavaScript\n- Topics: airplay, airtunes, apple-tv, audio, cli",
-      "updated": "2024-07-27T17:11:26Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "propcache",
-      "name": "Propcache",
-      "description": "Fast property caching",
-      "website": "",
-      "repo": "https://github.com/aio-libs/propcache",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        50
-      ],
-      "avatar_url": "https://github.com/aio-libs.png?size=64",
-      "notes": "Fast property caching\n\n## Stats\n\n- Stars: 33\n- Forks: 18\n- Language: Python",
-      "updated": "2026-04-02T21:46:08Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "shelltutorial",
-      "name": "Shelltutorial",
-      "description": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728",
-      "website": "",
-      "repo": "https://github.com/ArchLinuxStudio/ShellTutorial",
-      "platform": "github",
-      "categories": [
-        "Infrastructure"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        51
-      ],
-      "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
-      "notes": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 370\n- Forks: 37\n- Topics: linux, shell",
-      "updated": "2023-08-21T05:34:41Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "slack-migration-guide",
       "name": "Slack Migration Guide",
       "description": "Step-by-step guide for migrating from Slack to Matrix",
@@ -2169,52 +2372,6 @@
       "last_scanned": ""
     },
     {
-      "slug": "supermq",
-      "name": "Supermq",
-      "description": "IoT Platform Framework",
-      "website": "",
-      "repo": "https://github.com/absmach/supermq",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        52
-      ],
-      "avatar_url": "https://github.com/absmach.png?size=64",
-      "notes": "IoT Platform Framework\n\n## Stats\n\n- Stars: 2570\n- Forks: 676\n- Language: Go\n- Topics: coap, distributed-systems, edge, edge-computing, golang, iiot, internet-of-things, iot, iot-cloud, iot-gateway, iot-platform, lora, lorawan, lwm2m, message-broker, messaging, mqtt, opc-ua, telecom, web-socket",
-      "updated": "2026-04-06T08:19:30Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "synapse-performance-optimization",
       "name": "Synapse Performance Optimization",
       "description": "Reducing Synapse homeserver resource usage by 40%",
@@ -2229,7 +2386,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#synapse:matrix.org"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -2258,7 +2417,7 @@
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Reducing Synapse homeserver resource usage by 40%\n\n## Links\n\nhttps://github.com/element-hq/synapse\n\n## Notes\n\nBenchmarking against Conduit and Dendrite",
       "updated": "2026-04-06T08:17:35Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:46Z"
     },
     {
       "slug": "telegram-bridge-reliability",
@@ -2275,7 +2434,9 @@
       "community_size": "",
       "channels": {
         "matrix_space": "",
-        "matrix_rooms": [],
+        "matrix_rooms": [
+          "https://matrix.to/#/#telegram:maunium.net"
+        ],
         "discord": "",
         "telegram": "",
         "slack": "",
@@ -2304,60 +2465,14 @@
       "avatar_url": "https://github.com/mautrix.png?size=64",
       "notes": "Improving Telegram bridge uptime and message delivery\n\n## Links\n\nhttps://github.com/mautrix/telegram",
       "updated": "2026-04-06T08:17:31Z",
-      "last_scanned": ""
-    },
-    {
-      "slug": "tiliqua",
-      "name": "Tiliqua",
-      "description": "A powerful, hackable FPGA-based audio multitool for Eurorack.",
-      "website": "",
-      "repo": "https://github.com/apfaudio/tiliqua",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        53
-      ],
-      "avatar_url": "https://github.com/apfaudio.png?size=64",
-      "notes": "A powerful, hackable FPGA-based audio multitool for Eurorack.\n\n## Stats\n\n- Stars: 132\n- Forks: 14\n- Language: Python",
-      "updated": "2026-04-03T17:41:30Z",
-      "last_scanned": ""
+      "last_scanned": "2026-04-06T09:59:47Z"
     },
     {
       "slug": "ultimate-autopair-nvim",
       "name": "Ultimate Autopair.Nvim",
       "description": "A treesitter supported autopairing plugin with extensions, and much more",
       "website": "",
-      "repo": "https://github.com/altermo/ultimate-autopair.nvim",
+      "repo": "https://github.com/altermo/ultimate-autopair.nvim.nvim",
       "platform": "github",
       "categories": [
         "Development"
@@ -2399,57 +2514,11 @@
       "last_scanned": ""
     },
     {
-      "slug": "vanilla-framework",
-      "name": "Vanilla Framework",
-      "description": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
-      "website": "",
-      "repo": "https://github.com/canonical/vanilla-framework",
-      "platform": "github",
-      "categories": [
-        "Development"
-      ],
-      "exodus_score": null,
-      "status": "Active",
-      "community_size": "",
-      "channels": {
-        "matrix_space": "",
-        "matrix_rooms": [],
-        "discord": "",
-        "telegram": "",
-        "slack": "",
-        "irc": "",
-        "whatsapp": "",
-        "signal": "",
-        "xmpp": "",
-        "zulip": "",
-        "mattermost": "",
-        "rocketchat": "",
-        "other": []
-      },
-      "score_details": {
-        "presence": "",
-        "primary_platform": "",
-        "federation": "",
-        "bridges": "",
-        "community_health": "",
-        "native_ratio": "",
-        "migration_intent": "",
-        "features": []
-      },
-      "issues": [
-        55
-      ],
-      "avatar_url": "https://github.com/canonical.png?size=64",
-      "notes": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.\n\n## Stats\n\n- Stars: 950\n- Forks: 198\n- Language: HTML\n- Topics: css, css-framework, hack, hacktoberfest, html, npm, npm-package, package, sass, vanilla-framework, web-and-design",
-      "updated": "2026-04-04T13:11:18Z",
-      "last_scanned": ""
-    },
-    {
       "slug": "xtext",
       "name": "Xtext",
       "description": "Eclipse Xtext\u2122 is a language development framework ",
       "website": "",
-      "repo": "https://github.com/eclipse-xtext/xtext",
+      "repo": "https://github.com/eclipse-xtext/xtextt",
       "platform": "github",
       "categories": [
         "Development"

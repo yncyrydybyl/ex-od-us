@@ -1,12 +1,15 @@
 ---
-name: "Supermq"
-description: "IoT Platform Framework"
+name: Supermq
+description: IoT Platform Framework
 repo: "https://github.com/absmach/supermq"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [52]
 updated: "2026-04-06T08:19:30Z"
+matrix_rooms: [https://matrix.to/#/#supermq:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T09:59:45Z"
 ---
 
 IoT Platform Framework

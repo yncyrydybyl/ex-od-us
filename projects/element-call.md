@@ -1,12 +1,15 @@
 ---
-name: "Element Call"
-description: "Group calls powered by Matrix"
+name: Element Call
+description: Group calls powered by Matrix
 repo: "https://github.com/element-hq/element-call"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: [41]
 updated: "2026-04-06T01:31:11Z"
+matrix_rooms: [https://matrix.to/#/#webrtc:matrix.org, https://matrix.to/#/#translators:element.io]
+exodus_score: 8
+last_scanned: "2026-04-06T09:59:32Z"
 ---
 
 Group calls powered by Matrix

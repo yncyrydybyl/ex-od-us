@@ -1,14 +1,14 @@
 ---
-name: "Discord Bridge Enhancement"
-description: "Improving Matrix-Discord bridge fidelity"
+name: Discord Bridge Enhancement
+description: Improving Matrix-Discord bridge fidelity
 repo: "https://github.com/mautrix/discord"
 platform: github
 categories: [Discord]
-status: "Active"
-matrix_rooms:
-  - "https://matrix.to/#/#discord:maunium.net"
+status: Active
+matrix_rooms: [https://matrix.to/#/#discord:maunium.net]
 issues: [12]
 updated: "2026-04-06T08:17:32Z"
+last_scanned: "2026-04-06T09:59:29Z"
 ---
 
 Improving Matrix-Discord bridge fidelity
