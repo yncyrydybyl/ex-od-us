@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exodus Project Tracker</title>
+<style>
+/* ── Reset & Base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #0d1117; color: #c9d1d9; line-height: 1.5;
+  padding: 2rem 1rem;
+}
+a { color: #58a6ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Layout ────────────────────────────────────────────────────── */
+.container { max-width: 1200px; margin: 0 auto; }
+
+header { margin-bottom: 2rem; }
+header h1 { font-size: 2rem; color: #f0f6fc; margin-bottom: 0.5rem; }
+header p { color: #8b949e; max-width: 600px; }
+
+/* ── Controls ──────────────────────────────────────────────────── */
+.controls {
+  display: flex; flex-wrap: wrap; gap: 0.75rem;
+  margin-bottom: 1.5rem; align-items: center;
+}
+.controls select, .controls input {
+  background: #161b22; border: 1px solid #30363d; color: #c9d1d9;
+  padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.875rem;
+}
+.controls select:focus, .controls input:focus {
+  outline: none; border-color: #58a6ff;
+}
+#search { min-width: 200px; }
+#count { color: #8b949e; font-size: 0.875rem; margin-left: auto; }
+
+/* ── Card Grid ─────────────────────────────────────────────────── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+/* ── Card ──────────────────────────────────────────────────────── */
+.card {
+  background: #161b22; border-radius: 8px; overflow: hidden;
+  border: 1px solid #30363d; transition: border-color 0.15s;
+}
+.card:hover { border-color: #58a6ff; }
+.card-accent { height: 4px; }
+.card-body { padding: 1rem; }
+.card-title {
+  font-size: 1rem; font-weight: 600; color: #f0f6fc;
+  margin-bottom: 0.5rem;
+}
+.card-title a { color: inherit; }
+.card-summary { font-size: 0.875rem; color: #8b949e; margin-bottom: 0.75rem; }
+.card-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.badge {
+  display: inline-block; font-size: 0.75rem; font-weight: 500;
+  padding: 0.15rem 0.5rem; border-radius: 999px;
+  border: 1px solid transparent;
+}
+.badge-category { background: #21262d; color: #c9d1d9; border-color: #30363d; }
+.badge-status { background: #1f2328; color: #8b949e; border-color: #30363d; font-style: italic; }
+.card-links { margin-top: 0.75rem; font-size: 0.8rem; }
+.card-links a { margin-right: 0.75rem; }
+
+/* ── Color Accents ─────────────────────────────────────────────── */
+.color-red    { background: #f85149; }
+.color-orange { background: #f0883e; }
+.color-yellow { background: #d29922; }
+.color-lime   { background: #7ee787; }
+.color-green  { background: #3fb950; }
+.color-teal   { background: #2ea043; }
+.color-blue   { background: #58a6ff; }
+.color-indigo { background: #6e40c9; }
+.color-purple { background: #bc8cff; }
+.color-pink   { background: #f778ba; }
+
+/* Badge color dots */
+.color-dot {
+  display: inline-block; width: 10px; height: 10px;
+  border-radius: 50%; vertical-align: middle; margin-right: 0.25rem;
+}
+
+/* ── Loading / Error ───────────────────────────────────────────── */
+.loading { text-align: center; padding: 3rem; color: #8b949e; }
+.error { text-align: center; padding: 3rem; color: #f85149; }
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .grid { grid-template-columns: 1fr; }
+  .controls { flex-direction: column; align-items: stretch; }
+  #count { margin-left: 0; }
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <h1>Exodus Project Tracker</h1>
+    <p>Community projects and initiatives tracked via
+      <a href="https://github.com/yncyrydybyl/ex-od-us/issues">GitHub Issues</a>.
+      Add a project by
+      <a href="https://github.com/yncyrydybyl/ex-od-us/issues/new/choose">opening an issue</a>.
+    </p>
+  </header>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search projects...">
+    <select id="filter-category">
+      <option value="">All Categories</option>
+    </select>
+    <select id="filter-color">
+      <option value="">All Colors</option>
+    </select>
+    <select id="sort">
+      <option value="created-desc">Newest first</option>
+      <option value="created-asc">Oldest first</option>
+      <option value="title-asc">Title A-Z</option>
+      <option value="title-desc">Title Z-A</option>
+      <option value="category">By Category</option>
+    </select>
+    <span id="count"></span>
+  </div>
+
+  <div id="grid" class="grid">
+    <div class="loading">Loading projects...</div>
+  </div>
+</div>
+
+<script>
+// ── Config ──────────────────────────────────────────────────────
+const REPO = 'yncyrydybyl/ex-od-us';
+const API  = `https://api.github.com/repos/${REPO}/issues`;
+const COLORS = ['red','orange','yellow','lime','green','teal','blue','indigo','purple','pink'];
+const CATEGORIES = [
+  'Governance','Development','Documentation','Community','Design',
+  'Infrastructure','Operations','Security','Messaging','Bridging',
+  'Matrix','Discord','Slack','Telegram','Migration',
+  'Onboarding','Integrations','Events','Funding','Research'
+];
+
+// ── State ───────────────────────────────────────────────────────
+let allIssues = [];
+
+// ── Fetch all open issues (paginated) ───────────────────────────
+async function fetchAllIssues() {
+  let page = 1;
+  let issues = [];
+  while (true) {
+    const url = `${API}?state=open&labels=project&per_page=100&page=${page}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`GitHub API returned ${res.status}`);
+    const data = await res.json();
+    if (data.length === 0) break;
+    issues = issues.concat(data);
+    if (data.length < 100) break;
+    page++;
+  }
+  return issues;
+}
+
+// ── Parse issue into card data ──────────────────────────────────
+function parseIssue(issue) {
+  const labels = issue.labels.map(l => l.name.toLowerCase());
+  const category = CATEGORIES.find(c => labels.includes(c.toLowerCase())) || 'Unknown';
+  const color = COLORS.find(c => labels.includes(`color:${c}`)) || 'blue';
+
+  // Parse structured body (issue form creates ### Header / value pairs)
+  const body = issue.body || '';
+  const fields = {};
+  const sections = body.split(/^### /m).filter(Boolean);
+  for (const section of sections) {
+    const nl = section.indexOf('\n');
+    if (nl === -1) continue;
+    const key = section.slice(0, nl).trim().toLowerCase();
+    const val = section.slice(nl + 1).trim();
+    if (val && val !== '_No response_') fields[key] = val;
+  }
+
+  return {
+    title: fields['project name'] || issue.title.replace(/^\[Project\]:\s*/, ''),
+    summary: fields['short summary'] || '',
+    description: fields['description'] || '',
+    category,
+    color,
+    status: fields['status'] || 'Active',
+    matrixRoom: fields['matrix room'] || '',
+    links: fields['external links'] || '',
+    notes: fields['notes'] || '',
+    url: issue.html_url,
+    created: issue.created_at,
+    number: issue.number,
+  };
+}
+
+// ── Render ──────────────────────────────────────────────────────
+function renderCards(issues) {
+  const grid = document.getElementById('grid');
+  if (issues.length === 0) {
+    grid.innerHTML = '<div class="loading">No projects match your filters.</div>';
+    return;
+  }
+  grid.innerHTML = issues.map(p => `
+    <div class="card" data-category="${p.category}" data-color="${p.color}">
+      <div class="card-accent color-${p.color}"></div>
+      <div class="card-body">
+        <div class="card-title"><a href="${p.url}" target="_blank">${esc(p.title)}</a></div>
+        <div class="card-summary">${esc(p.summary)}</div>
+        <div class="card-meta">
+          <span class="badge badge-category">${esc(p.category)}</span>
+          <span class="badge badge-status">${esc(p.status)}</span>
+          <span><span class="color-dot color-${p.color}"></span>${p.color}</span>
+        </div>
+        ${p.matrixRoom || p.links ? `<div class="card-links">
+          ${p.matrixRoom ? `<a href="${esc(p.matrixRoom)}" target="_blank">Matrix</a>` : ''}
+          ${p.links.split('\n').filter(Boolean).map(l => `<a href="${esc(l.trim())}" target="_blank">Link</a>`).join('')}
+        </div>` : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// ── Filter & Sort ───────────────────────────────────────────────
+function applyFilters() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const catFilter = document.getElementById('filter-category').value;
+  const colorFilter = document.getElementById('filter-color').value;
+  const sortKey = document.getElementById('sort').value;
+
+  let filtered = allIssues.filter(p => {
+    if (catFilter && p.category !== catFilter) return false;
+    if (colorFilter && p.color !== colorFilter) return false;
+    if (search) {
+      const hay = `${p.title} ${p.summary} ${p.category} ${p.notes}`.toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    return true;
+  });
+
+  // Sort
+  filtered.sort((a, b) => {
+    switch (sortKey) {
+      case 'created-desc': return new Date(b.created) - new Date(a.created);
+      case 'created-asc':  return new Date(a.created) - new Date(b.created);
+      case 'title-asc':    return a.title.localeCompare(b.title);
+      case 'title-desc':   return b.title.localeCompare(a.title);
+      case 'category':     return a.category.localeCompare(b.category);
+      default: return 0;
+    }
+  });
+
+  document.getElementById('count').textContent = `${filtered.length} project${filtered.length !== 1 ? 's' : ''}`;
+  renderCards(filtered);
+}
+
+// ── Populate filter dropdowns ───────────────────────────────────
+function populateFilters() {
+  const catSelect = document.getElementById('filter-category');
+  const usedCats = [...new Set(allIssues.map(p => p.category))].sort();
+  usedCats.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    catSelect.appendChild(opt);
+  });
+
+  const colorSelect = document.getElementById('filter-color');
+  const usedColors = [...new Set(allIssues.map(p => p.color))].sort();
+  usedColors.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    colorSelect.appendChild(opt);
+  });
+}
+
+// ── URL state ───────────────────────────────────────────────────
+function syncFromURL() {
+  const params = new URLSearchParams(location.search);
+  if (params.get('category')) document.getElementById('filter-category').value = params.get('category');
+  if (params.get('color')) document.getElementById('filter-color').value = params.get('color');
+  if (params.get('sort')) document.getElementById('sort').value = params.get('sort');
+  if (params.get('q')) document.getElementById('search').value = params.get('q');
+}
+
+function syncToURL() {
+  const params = new URLSearchParams();
+  const cat = document.getElementById('filter-category').value;
+  const color = document.getElementById('filter-color').value;
+  const sort = document.getElementById('sort').value;
+  const q = document.getElementById('search').value;
+  if (cat) params.set('category', cat);
+  if (color) params.set('color', color);
+  if (sort !== 'created-desc') params.set('sort', sort);
+  if (q) params.set('q', q);
+  const qs = params.toString();
+  history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+}
+
+// ── Init ────────────────────────────────────────────────────────
+(async function init() {
+  try {
+    const issues = await fetchAllIssues();
+    allIssues = issues.map(parseIssue);
+    populateFilters();
+    syncFromURL();
+    applyFilters();
+
+    // Bind controls
+    document.getElementById('search').addEventListener('input', () => { syncToURL(); applyFilters(); });
+    document.getElementById('filter-category').addEventListener('change', () => { syncToURL(); applyFilters(); });
+    document.getElementById('filter-color').addEventListener('change', () => { syncToURL(); applyFilters(); });
+    document.getElementById('sort').addEventListener('change', () => { syncToURL(); applyFilters(); });
+  } catch (err) {
+    document.getElementById('grid').innerHTML =
+      `<div class="error">Failed to load issues: ${esc(err.message)}<br>
+       <small>GitHub API rate limit for unauthenticated requests: 60/hour per IP.</small></div>`;
+  }
+})();
+</script>
+
+</body>
+</html>

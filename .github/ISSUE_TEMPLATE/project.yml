@@ -1,0 +1,121 @@
+name: "Project Entry"
+description: "Add a project to the Exodus tracker"
+title: "[Project]: "
+labels: ["project"]
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: The name of the project or initiative
+      placeholder: e.g. Matrix Bridge for Discord
+    validations:
+      required: true
+
+  - type: input
+    id: summary
+    attributes:
+      label: Short Summary
+      description: One-line summary of what this project does
+      placeholder: e.g. Bridges Discord servers to Matrix rooms
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description of the project
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Primary category for this project
+      options:
+        - Governance
+        - Development
+        - Documentation
+        - Community
+        - Design
+        - Infrastructure
+        - Operations
+        - Security
+        - Messaging
+        - Bridging
+        - Matrix
+        - Discord
+        - Slack
+        - Telegram
+        - Migration
+        - Onboarding
+        - Integrations
+        - Events
+        - Funding
+        - Research
+    validations:
+      required: true
+
+  - type: dropdown
+    id: color
+    attributes:
+      label: Color
+      description: Card color for visual grouping
+      options:
+        - red
+        - orange
+        - yellow
+        - lime
+        - green
+        - teal
+        - blue
+        - indigo
+        - purple
+        - pink
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: External Links
+      description: Related URLs (one per line)
+      placeholder: |
+        https://github.com/org/repo
+        https://example.com/docs
+    validations:
+      required: false
+
+  - type: input
+    id: matrix-room
+    attributes:
+      label: Matrix Room
+      description: Matrix room link for this project
+      placeholder: "https://matrix.to/#/#room:server.org"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      description: Current project status
+      options:
+        - Idea
+        - Planning
+        - Active
+        - Paused
+        - Complete
+        - Archived
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional notes or context
+    validations:
+      required: false
