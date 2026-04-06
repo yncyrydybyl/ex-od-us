@@ -124,6 +124,14 @@ UNIQUE_COUNT=$(echo "$UNIQUE_SLUGS" | grep -c . || echo 0)
 echo "" >&2
 echo "Found $UNIQUE_COUNT unique GitHub repos." >&2
 
+# ── Save full slug list to data/discovered-slugs.txt ─────────────
+# This is the complete list of repos with Matrix presence in their README.
+# Can be used later to batch-import without re-running Sourcegraph search.
+SLUGS_FILE="data/discovered-slugs.txt"
+mkdir -p "$(dirname "$SLUGS_FILE")"
+echo "$UNIQUE_SLUGS" > "$SLUGS_FILE"
+echo "Saved $UNIQUE_COUNT slugs to $SLUGS_FILE" >&2
+
 # ── Phase 2: GitHub API enrichment (per-repo, authenticated) ────
 echo "Phase 2: Enriching with GitHub metadata..." >&2
 echo "  (authenticated via gh — 5000 req/hr)" >&2
