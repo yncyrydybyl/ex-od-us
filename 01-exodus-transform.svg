@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="100%" height="100%" fill="#0b0f14"/>
+  <g font-family="Inter, Arial, sans-serif" font-weight="800" letter-spacing="8">
+    <text x="90" y="290" font-size="180" fill="#e8edf2">EX</text>
+    <g opacity="0.35">
+      <path d="M460 245 C530 175, 610 175, 690 245" fill="none" stroke="#7aa2ff" stroke-width="12" stroke-linecap="round"/>
+      <path d="M560 295 C640 345, 720 345, 800 285" fill="none" stroke="#7aa2ff" stroke-width="12" stroke-linecap="round"/>
+      <circle cx="510" cy="225" r="10" fill="#7aa2ff"/>
+      <circle cx="640" cy="335" r="10" fill="#7aa2ff"/>
+      <circle cx="760" cy="305" r="10" fill="#7aa2ff"/>
+    </g>
+    <text x="970" y="290" font-size="180" fill="#8bf0c7">US</text>
+    <text x="95" y="390" font-size="44" font-weight="500" letter-spacing="3" fill="#8a97a8">EXODUS · EX → US</text>
+  </g>
+</svg>
