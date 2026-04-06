@@ -1,0 +1,109 @@
+{
+  "scanned": "2026-04-06T08:17:29Z",
+  "total_repos": 5,
+  "changed": 5,
+  "results": [
+    {
+      "slug": "mautrix/telegram",
+      "sha": "9e727780fcfb45d5f5e49136cf11bf3f02c4f50b",
+      "etag": "\"9e727780fcfb45d5f5e49136cf11bf3f02c4f50b\"",
+      "issue": 14,
+      "score": 7,
+      "signals": [
+        "matrix.to links: 1",
+        "Matrix mentioned as channel",
+        "Custom homeserver: maunium.net",
+        "Listed on matrixrooms.info",
+        "Telegram present",
+        "Bridge mentioned"
+      ],
+      "matrix_rooms": [
+        "matrix.to/#/#telegram:maunium.net"
+      ],
+      "listed_on_matrixrooms": true,
+      "changed": true,
+      "scanned": "2026-04-06T08:17:22Z"
+    },
+    {
+      "slug": "mautrix/discord",
+      "sha": "73aad93bf0a9d677998336f89e2d60d51b2aef26",
+      "etag": "\"73aad93bf0a9d677998336f89e2d60d51b2aef26\"",
+      "issue": 12,
+      "score": 6,
+      "signals": [
+        "matrix.to links: 1",
+        "Matrix mentioned as channel",
+        "Custom homeserver: maunium.net",
+        "Listed on matrixrooms.info"
+      ],
+      "matrix_rooms": [
+        "matrix.to/#/#discord:maunium.net"
+      ],
+      "listed_on_matrixrooms": true,
+      "changed": true,
+      "scanned": "2026-04-06T08:17:23Z"
+    },
+    {
+      "slug": "matrix-org/matrix-appservice-irc",
+      "sha": "364a08818fd79b0f66f649fc484cae753ac07f1a",
+      "etag": "\"364a08818fd79b0f66f649fc484cae753ac07f1a\"",
+      "issue": 9,
+      "score": 7,
+      "signals": [
+        "matrix.to links: 1",
+        "Matrix badge found",
+        "Matrix mentioned as channel",
+        "Listed on matrixrooms.info",
+        "Matrix listed before other platforms",
+        "Bridge mentioned"
+      ],
+      "matrix_rooms": [
+        "matrix.to/#/#irc:matrix.org"
+      ],
+      "listed_on_matrixrooms": true,
+      "changed": true,
+      "scanned": "2026-04-06T08:17:25Z"
+    },
+    {
+      "slug": "element-hq/synapse",
+      "sha": "4db5d461a84beb755f32ed78fb870b4ea22ed200",
+      "etag": "\"4db5d461a84beb755f32ed78fb870b4ea22ed200\"",
+      "issue": 6,
+      "score": 7,
+      "signals": [
+        "matrix.to links: 3",
+        "Matrix badge found",
+        "Multiple Matrix rooms (3+)",
+        "Listed on matrixrooms.info",
+        "Matrix listed before other platforms",
+        "Element client mentioned"
+      ],
+      "matrix_rooms": [
+        "matrix.to/#/#synapse-dev:matrix.org",
+        "matrix.to/#/#synapse-dev:matrix.org>`_,",
+        "matrix.to/#/#synapse:matrix.org"
+      ],
+      "listed_on_matrixrooms": true,
+      "changed": true,
+      "scanned": "2026-04-06T08:17:27Z"
+    },
+    {
+      "slug": "matrix-org/mjolnir",
+      "sha": "e54823afd54cc38c3a7c4e27193ea1b9cfead021",
+      "etag": "\"e54823afd54cc38c3a7c4e27193ea1b9cfead021\"",
+      "issue": 4,
+      "score": 4,
+      "signals": [
+        "matrix.to links: 1",
+        "Listed on matrixrooms.info",
+        "Matrix listed before other platforms"
+      ],
+      "matrix_rooms": [
+        "matrix.to/#/#mjolnir:matrix.org"
+      ],
+      "listed_on_matrixrooms": true,
+      "changed": true,
+      "scanned": "2026-04-06T08:17:29Z"
+    }
+  ]
+}
