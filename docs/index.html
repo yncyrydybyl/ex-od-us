@@ -68,24 +68,24 @@ header p { color: #8b949e; max-width: 600px; }
 .badge-status { background: #1f2328; color: #8b949e; border-color: #30363d; font-style: italic; }
 .card-links { margin-top: 0.75rem; font-size: 0.8rem; }
 .card-links a { margin-right: 0.75rem; }
+.channel-text { color: #8b949e; margin-right: 0.75rem; }
 
-/* ── Color Accents ─────────────────────────────────────────────── */
-.color-red    { background: #f85149; }
-.color-orange { background: #f0883e; }
-.color-yellow { background: #d29922; }
-.color-lime   { background: #7ee787; }
-.color-green  { background: #3fb950; }
-.color-teal   { background: #2ea043; }
-.color-blue   { background: #58a6ff; }
-.color-indigo { background: #6e40c9; }
-.color-purple { background: #bc8cff; }
-.color-pink   { background: #f778ba; }
-
-/* Badge color dots */
-.color-dot {
-  display: inline-block; width: 10px; height: 10px;
-  border-radius: 50%; vertical-align: middle; margin-right: 0.25rem;
-}
+/* ── Exodus Score accent & badge ───────────────────────────────── */
+.score-low  { background: #f85149; color: #fff; border-color: #f85149; }
+.score-mid  { background: #d29922; color: #fff; border-color: #d29922; }
+.score-high { background: #3fb950; color: #fff; border-color: #3fb950; }
+.accent-0  { background: #da3633; }
+.accent-1  { background: #f85149; }
+.accent-2  { background: #f0883e; }
+.accent-3  { background: #d29922; }
+.accent-4  { background: #c6a832; }
+.accent-5  { background: #8aba42; }
+.accent-6  { background: #6fae52; }
+.accent-7  { background: #57a362; }
+.accent-8  { background: #3fb950; }
+.accent-9  { background: #2ea043; }
+.accent-10 { background: #238636; }
+.accent-none { background: #30363d; }
 
 /* ── Loading / Error ───────────────────────────────────────────── */
 .loading { text-align: center; padding: 3rem; color: #8b949e; }
@@ -116,10 +116,9 @@ header p { color: #8b949e; max-width: 600px; }
     <select id="filter-category">
       <option value="">All Categories</option>
     </select>
-    <select id="filter-color">
-      <option value="">All Colors</option>
-    </select>
     <select id="sort">
+      <option value="score-desc">Highest score</option>
+      <option value="score-asc">Lowest score</option>
       <option value="created-desc">Newest first</option>
       <option value="created-asc">Oldest first</option>
       <option value="title-asc">Title A-Z</option>
@@ -138,13 +137,6 @@ header p { color: #8b949e; max-width: 600px; }
 // ── Config ──────────────────────────────────────────────────────
 const REPO = 'yncyrydybyl/ex-od-us';
 const API  = `https://api.github.com/repos/${REPO}/issues`;
-const COLORS = ['red','orange','yellow','lime','green','teal','blue','indigo','purple','pink'];
-const CATEGORIES = [
-  'Governance','Development','Documentation','Community','Design',
-  'Infrastructure','Operations','Security','Messaging','Bridging',
-  'Matrix','Discord','Slack','Telegram','Migration',
-  'Onboarding','Integrations','Events','Funding','Research'
-];
 
 // ── State ───────────────────────────────────────────────────────
 let allIssues = [];
@@ -168,10 +160,6 @@ async function fetchAllIssues() {
 
 // ── Parse issue into card data ──────────────────────────────────
 function parseIssue(issue) {
-  const labels = issue.labels.map(l => l.name.toLowerCase());
-  const category = CATEGORIES.find(c => labels.includes(c.toLowerCase())) || 'Unknown';
-  const color = COLORS.find(c => labels.includes(`color:${c}`)) || 'blue';
-
   // Parse structured body (issue form creates ### Header / value pairs)
   const body = issue.body || '';
   const fields = {};
@@ -184,15 +172,29 @@ function parseIssue(issue) {
     if (val && val !== '_No response_') fields[key] = val;
   }
 
+  // Categories: free-form comma-separated from body
+  const rawCats = fields['category'] || '';
+  const categories = rawCats.split(',').map(c => c.trim()).filter(Boolean);
+
+  // Parse exodus score number from the dropdown text (e.g. "7 — Matrix is primary...")
+  const scoreRaw = fields['exodus score'] || '';
+  const scoreMatch = scoreRaw.match(/^(\d+)/);
+  const exodusScore = scoreMatch ? parseInt(scoreMatch[1], 10) : null;
+
   return {
     title: fields['project name'] || issue.title.replace(/^\[Project\]:\s*/, ''),
-    summary: fields['short summary'] || '',
-    description: fields['description'] || '',
-    category,
-    color,
-    status: fields['status'] || 'Active',
-    matrixRoom: fields['matrix room'] || '',
-    links: fields['external links'] || '',
+    summary: fields['project description'] || fields['short summary'] || '',
+    categories,
+    exodusScore,
+    status: fields['migration status'] || fields['status'] || '',
+    matrixRooms: fields['matrix rooms'] || '',
+    matrixSpace: fields['matrix space'] || '',
+    discord: fields['discord'] || '',
+    telegram: fields['telegram'] || '',
+    slack: fields['slack'] || '',
+    irc: fields['irc'] || '',
+    website: fields['website'] || '',
+    repo: fields['source repository'] || '',
     notes: fields['notes'] || '',
     url: issue.html_url,
     created: issue.created_at,
@@ -207,24 +209,38 @@ function renderCards(issues) {
     grid.innerHTML = '<div class="loading">No projects match your filters.</div>';
     return;
   }
-  grid.innerHTML = issues.map(p => `
-    <div class="card" data-category="${p.category}" data-color="${p.color}">
-      <div class="card-accent color-${p.color}"></div>
+  grid.innerHTML = issues.map(p => {
+    const catBadges = p.categories.map(c => `<span class="badge badge-category">${esc(c)}</span>`).join('');
+    const accentClass = p.exodusScore !== null ? `accent-${p.exodusScore}` : 'accent-none';
+    const scoreBadge = p.exodusScore !== null
+      ? `<span class="badge score-${scoreClass(p.exodusScore)}" title="Exodus Score">${p.exodusScore}/10</span>`
+      : '';
+    const channels = [
+      p.matrixSpace ? ['Matrix', p.matrixSpace] : null,
+      p.discord ? ['Discord', p.discord] : null,
+      p.telegram ? ['Telegram', p.telegram] : null,
+      p.slack ? ['Slack', p.slack] : null,
+      p.irc ? ['IRC', null] : null,
+      p.website ? ['Web', p.website] : null,
+    ].filter(Boolean);
+
+    return `
+    <div class="card">
+      <div class="card-accent ${accentClass}"></div>
       <div class="card-body">
         <div class="card-title"><a href="${p.url}" target="_blank">${esc(p.title)}</a></div>
-        <div class="card-summary">${esc(p.summary)}</div>
+        <div class="card-summary">${esc(p.summary.split('\n')[0].slice(0, 160))}</div>
         <div class="card-meta">
-          <span class="badge badge-category">${esc(p.category)}</span>
-          <span class="badge badge-status">${esc(p.status)}</span>
-          <span><span class="color-dot color-${p.color}"></span>${p.color}</span>
+          ${scoreBadge}
+          ${catBadges}
+          ${p.status ? `<span class="badge badge-status">${esc(p.status)}</span>` : ''}
         </div>
-        ${p.matrixRoom || p.links ? `<div class="card-links">
-          ${p.matrixRoom ? `<a href="${esc(p.matrixRoom)}" target="_blank">Matrix</a>` : ''}
-          ${p.links.split('\n').filter(Boolean).map(l => `<a href="${esc(l.trim())}" target="_blank">Link</a>`).join('')}
+        ${channels.length ? `<div class="card-links">
+          ${channels.map(([name, url]) => url ? `<a href="${esc(url)}" target="_blank">${esc(name)}</a>` : `<span class="channel-text">${esc(name)}</span>`).join('')}
         </div>` : ''}
       </div>
-    </div>
-  `).join('');
+    </div>`;
+  }).join('');
 }
 
 function esc(s) {
@@ -233,31 +249,36 @@ function esc(s) {
   return d.innerHTML;
 }
 
+function scoreClass(score) {
+  if (score >= 8) return 'high';
+  if (score >= 5) return 'mid';
+  return 'low';
+}
+
 // ── Filter & Sort ───────────────────────────────────────────────
 function applyFilters() {
   const search = document.getElementById('search').value.toLowerCase();
   const catFilter = document.getElementById('filter-category').value;
-  const colorFilter = document.getElementById('filter-color').value;
   const sortKey = document.getElementById('sort').value;
 
   let filtered = allIssues.filter(p => {
-    if (catFilter && p.category !== catFilter) return false;
-    if (colorFilter && p.color !== colorFilter) return false;
+    if (catFilter && !p.categories.some(c => c.toLowerCase() === catFilter.toLowerCase())) return false;
     if (search) {
-      const hay = `${p.title} ${p.summary} ${p.category} ${p.notes}`.toLowerCase();
+      const hay = `${p.title} ${p.summary} ${p.categories.join(' ')} ${p.notes}`.toLowerCase();
       if (!hay.includes(search)) return false;
     }
     return true;
   });
 
-  // Sort
   filtered.sort((a, b) => {
     switch (sortKey) {
       case 'created-desc': return new Date(b.created) - new Date(a.created);
       case 'created-asc':  return new Date(a.created) - new Date(b.created);
       case 'title-asc':    return a.title.localeCompare(b.title);
       case 'title-desc':   return b.title.localeCompare(a.title);
-      case 'category':     return a.category.localeCompare(b.category);
+      case 'category':     return (a.categories[0]||'').localeCompare(b.categories[0]||'');
+      case 'score-desc':   return (b.exodusScore ?? -1) - (a.exodusScore ?? -1);
+      case 'score-asc':    return (a.exodusScore ?? -1) - (b.exodusScore ?? -1);
       default: return 0;
     }
   });
@@ -266,22 +287,14 @@ function applyFilters() {
   renderCards(filtered);
 }
 
-// ── Populate filter dropdowns ───────────────────────────────────
+// ── Populate filter dropdown ────────────────────────────────────
 function populateFilters() {
   const catSelect = document.getElementById('filter-category');
-  const usedCats = [...new Set(allIssues.map(p => p.category))].sort();
+  const usedCats = [...new Set(allIssues.flatMap(p => p.categories))].sort();
   usedCats.forEach(c => {
     const opt = document.createElement('option');
     opt.value = c; opt.textContent = c;
     catSelect.appendChild(opt);
-  });
-
-  const colorSelect = document.getElementById('filter-color');
-  const usedColors = [...new Set(allIssues.map(p => p.color))].sort();
-  usedColors.forEach(c => {
-    const opt = document.createElement('option');
-    opt.value = c; opt.textContent = c;
-    colorSelect.appendChild(opt);
   });
 }
 
@@ -289,7 +302,6 @@ function populateFilters() {
 function syncFromURL() {
   const params = new URLSearchParams(location.search);
   if (params.get('category')) document.getElementById('filter-category').value = params.get('category');
-  if (params.get('color')) document.getElementById('filter-color').value = params.get('color');
   if (params.get('sort')) document.getElementById('sort').value = params.get('sort');
   if (params.get('q')) document.getElementById('search').value = params.get('q');
 }
@@ -297,12 +309,10 @@ function syncFromURL() {
 function syncToURL() {
   const params = new URLSearchParams();
   const cat = document.getElementById('filter-category').value;
-  const color = document.getElementById('filter-color').value;
   const sort = document.getElementById('sort').value;
   const q = document.getElementById('search').value;
   if (cat) params.set('category', cat);
-  if (color) params.set('color', color);
-  if (sort !== 'created-desc') params.set('sort', sort);
+  if (sort !== 'score-desc') params.set('sort', sort);
   if (q) params.set('q', q);
   const qs = params.toString();
   history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
@@ -317,10 +327,8 @@ function syncToURL() {
     syncFromURL();
     applyFilters();
 
-    // Bind controls
     document.getElementById('search').addEventListener('input', () => { syncToURL(); applyFilters(); });
     document.getElementById('filter-category').addEventListener('change', () => { syncToURL(); applyFilters(); });
-    document.getElementById('filter-color').addEventListener('change', () => { syncToURL(); applyFilters(); });
     document.getElementById('sort').addEventListener('change', () => { syncToURL(); applyFilters(); });
   } catch (err) {
     document.getElementById('grid').innerHTML =

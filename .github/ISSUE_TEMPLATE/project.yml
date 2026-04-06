@@ -42,51 +42,12 @@ body:
     validations:
       required: false
 
-  - type: dropdown
+  - type: input
     id: category
     attributes:
       label: Category
-      description: Primary category for this project
-      options:
-        - Governance
-        - Development
-        - Documentation
-        - Community
-        - Design
-        - Infrastructure
-        - Operations
-        - Security
-        - Messaging
-        - Bridging
-        - Matrix
-        - Discord
-        - Slack
-        - Telegram
-        - Migration
-        - Onboarding
-        - Integrations
-        - Events
-        - Funding
-        - Research
-    validations:
-      required: true
-
-  - type: dropdown
-    id: color
-    attributes:
-      label: Card Color
-      description: Visual grouping color for the card
-      options:
-        - red
-        - orange
-        - yellow
-        - lime
-        - green
-        - teal
-        - blue
-        - indigo
-        - purple
-        - pink
+      description: "Free-form category or tags (comma-separated). Examples: open-source, gaming, linux, science, activism, journalism, privacy, education"
+      placeholder: "e.g. open-source, linux, infrastructure"
     validations:
       required: true
 
