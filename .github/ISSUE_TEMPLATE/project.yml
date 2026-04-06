@@ -1,31 +1,44 @@
 name: "Project Entry"
-description: "Add a project to the Exodus tracker"
+description: "Add a project to the Exodus tracker — rate its Matrix migration status"
 title: "[Project]: "
 labels: ["project"]
 body:
+  # ── Project basics ─────────────────────────────────────────────
   - type: input
     id: project-name
     attributes:
       label: Project Name
-      description: The name of the project or initiative
-      placeholder: e.g. Matrix Bridge for Discord
-    validations:
-      required: true
-
-  - type: input
-    id: summary
-    attributes:
-      label: Short Summary
-      description: One-line summary of what this project does
-      placeholder: e.g. Bridges Discord servers to Matrix rooms
+      description: The name of the project, community, or organization
+      placeholder: e.g. NixOS, Fedora, Godot Engine
     validations:
       required: true
 
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Detailed description of the project
+      label: Project Description
+      description: What is this project? What does it do? Who is it for?
+      placeholder: |
+        A brief description of the project, its goals, and its community.
+        Include any relevant context about the project's size and scope.
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      description: Primary project website
+      placeholder: https://project.org
+    validations:
+      required: false
+
+  - type: input
+    id: repo
+    attributes:
+      label: Source Repository
+      description: Main source code repository (if applicable)
+      placeholder: https://github.com/org/repo
     validations:
       required: false
 
@@ -61,8 +74,8 @@ body:
   - type: dropdown
     id: color
     attributes:
-      label: Color
-      description: Card color for visual grouping
+      label: Card Color
+      description: Visual grouping color for the card
       options:
         - red
         - orange
@@ -77,45 +90,330 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: links
+  # ── Communication channels ─────────────────────────────────────
+  - type: markdown
     attributes:
-      label: External Links
-      description: Related URLs (one per line)
+      value: |
+        ## Communication Channels
+        List all the project's community channels. Leave blank if not present.
+
+  - type: input
+    id: matrix-space
+    attributes:
+      label: Matrix Space
+      description: Main Matrix space (if the project uses Spaces)
+      placeholder: "https://matrix.to/#/#space:server.org"
+    validations:
+      required: false
+
+  - type: textarea
+    id: matrix-rooms
+    attributes:
+      label: Matrix Rooms
+      description: "List all Matrix rooms (one per line: name + link)"
       placeholder: |
-        https://github.com/org/repo
-        https://example.com/docs
+        General: https://matrix.to/#/#project:matrix.org
+        Dev: https://matrix.to/#/#project-dev:matrix.org
+        Announcements: https://matrix.to/#/#project-news:matrix.org
     validations:
       required: false
 
   - type: input
-    id: matrix-room
+    id: discord
     attributes:
-      label: Matrix Room
-      description: Matrix room link for this project
-      placeholder: "https://matrix.to/#/#room:server.org"
+      label: Discord
+      description: Discord server invite link
+      placeholder: https://discord.gg/invite-code
+    validations:
+      required: false
+
+  - type: input
+    id: telegram
+    attributes:
+      label: Telegram
+      description: Telegram group or channel link
+      placeholder: https://t.me/projectname
+    validations:
+      required: false
+
+  - type: input
+    id: slack
+    attributes:
+      label: Slack
+      description: Slack workspace link
+      placeholder: https://projectname.slack.com
+    validations:
+      required: false
+
+  - type: input
+    id: irc
+    attributes:
+      label: IRC
+      description: IRC channel and network
+      placeholder: "#project on irc.libera.chat"
+    validations:
+      required: false
+
+  - type: input
+    id: whatsapp
+    attributes:
+      label: WhatsApp
+      description: WhatsApp group link
+      placeholder: https://chat.whatsapp.com/invite-code
+    validations:
+      required: false
+
+  - type: input
+    id: signal
+    attributes:
+      label: Signal
+      description: Signal group link
+      placeholder: https://signal.group/#...
+    validations:
+      required: false
+
+  - type: input
+    id: xmpp
+    attributes:
+      label: XMPP / Jabber
+      description: XMPP MUC address
+      placeholder: project@conference.jabber.org
+    validations:
+      required: false
+
+  - type: input
+    id: zulip
+    attributes:
+      label: Zulip
+      description: Zulip instance URL
+      placeholder: https://project.zulipchat.com
+    validations:
+      required: false
+
+  - type: input
+    id: mattermost
+    attributes:
+      label: Mattermost
+      description: Mattermost instance URL
+      placeholder: https://chat.project.org
+    validations:
+      required: false
+
+  - type: input
+    id: rocketchat
+    attributes:
+      label: Rocket.Chat
+      description: Rocket.Chat instance URL
+      placeholder: https://rocket.project.org
+    validations:
+      required: false
+
+  - type: textarea
+    id: other-channels
+    attributes:
+      label: Other Channels
+      description: Any other communication channels not listed above (forums, mailing lists, Discourse, etc.)
+      placeholder: |
+        Discourse: https://discuss.project.org
+        Mailing list: project-dev@lists.project.org
+    validations:
+      required: false
+
+  # ── Exodus Score ───────────────────────────────────────────────
+  - type: markdown
+    attributes:
+      value: |
+        ## Exodus Score (0–10)
+
+        Rate how far this project has migrated toward Matrix.
+        The score is based on multiple dimensions — fill in what you know.
+
+        **Quick guide:**
+        - **0** — No Matrix presence at all
+        - **1–2** — Matrix room exists but is dead or unofficial
+        - **3–4** — Matrix is active but secondary to Discord/Telegram/etc.
+        - **5–6** — Matrix is co-primary; bridges in place; some native users
+        - **7–8** — Matrix is primary; other platforms are bridged or secondary
+        - **9–10** — Matrix-native; own homeserver; federation; full ecosystem
+
+  - type: dropdown
+    id: exodus-score
+    attributes:
+      label: Exodus Score
+      description: "Overall score: 0 (no Matrix) to 10 (fully Matrix-native)"
+      options:
+        - "0 — No Matrix presence"
+        - "1 — Matrix room exists but abandoned"
+        - "2 — Matrix room exists, minimal activity"
+        - "3 — Matrix active but clearly secondary"
+        - "4 — Matrix growing, still behind primary platform"
+        - "5 — Matrix is co-primary with another platform"
+        - "6 — Matrix is co-primary with active bridges"
+        - "7 — Matrix is primary, others are bridged"
+        - "8 — Matrix is primary, own rooms/spaces, active community"
+        - "9 — Matrix-native, own homeserver, strong federation"
+        - "10 — Fully Matrix-native, reference example"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Score Breakdown
+        Rate each dimension that you have information about.
+
+  - type: dropdown
+    id: score-presence
+    attributes:
+      label: "Matrix Presence"
+      description: Does the project have official Matrix rooms?
+      options:
+        - "None — no Matrix presence"
+        - "Unofficial — community-created room, not endorsed"
+        - "Official but quiet — room exists, low activity"
+        - "Official and active — listed on website/README"
+        - "Flagship — Matrix is prominently featured"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: score-primary
+    attributes:
+      label: "Primary Platform"
+      description: Where does most conversation happen?
+      options:
+        - "Discord"
+        - "Telegram"
+        - "Slack"
+        - "IRC"
+        - "WhatsApp"
+        - "XMPP"
+        - "Mattermost"
+        - "Zulip"
+        - "Matrix"
+        - "Split across multiple platforms"
+        - "Unknown"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: score-federation
+    attributes:
+      label: "Federation & Homeserver"
+      description: How decentralized is their Matrix setup?
+      options:
+        - "N/A — no Matrix presence"
+        - "Single room on matrix.org"
+        - "Multiple rooms on matrix.org"
+        - "Rooms on a third-party homeserver"
+        - "Own homeserver (e.g. chat.project.org)"
+        - "Own homeserver + federated with others"
     validations:
       required: false
 
   - type: dropdown
+    id: score-bridges
+    attributes:
+      label: "Bridge Status"
+      description: Are bridges set up between Matrix and other platforms?
+      options:
+        - "No bridges"
+        - "Unofficial/community bridge"
+        - "Official bridge, Matrix secondary (messages flow TO Matrix)"
+        - "Official bridge, bidirectional"
+        - "Official bridge, Matrix primary (messages flow FROM Matrix)"
+        - "No bridges needed — Matrix only"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: score-community
+    attributes:
+      label: "Community Health on Matrix"
+      description: How active is the Matrix-side community?
+      options:
+        - "Dead — no messages in months"
+        - "Trickle — occasional messages"
+        - "Moderate — daily conversation"
+        - "Active — healthy daily discussion, multiple participants"
+        - "Thriving — very active, multiple rooms, organized Spaces"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: score-native-ratio
+    attributes:
+      label: "Native vs Bridge Users"
+      description: What proportion of Matrix-side users are native (not bridge puppets)?
+      options:
+        - "Unknown"
+        - "Almost all bridge puppets"
+        - "Mostly bridge puppets, some native"
+        - "Roughly even"
+        - "Mostly native, some bridged"
+        - "Almost all native Matrix users"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: score-migration-intent
+    attributes:
+      label: "Migration Intent"
+      description: Has the project expressed intent to move to Matrix?
+      options:
+        - "No — happy on current platform"
+        - "Curious — exploring Matrix"
+        - "Planning — migration discussed or planned"
+        - "In progress — actively migrating"
+        - "Complete — migration finished"
+        - "Born on Matrix — was never anywhere else"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: score-features
+    attributes:
+      label: "Matrix Feature Adoption"
+      description: Check all that apply
+      options:
+        - label: "Matrix badge on website or README"
+        - label: "Matrix Space set up (organized room hierarchy)"
+        - label: "End-to-end encryption enabled (where appropriate)"
+        - label: "Moderation bots active (Mjolnir, Draupnir, etc.)"
+        - label: "Custom integrations/bots running on Matrix"
+        - label: "Public room history accessible"
+        - label: "Announcement room or broadcast channel"
+        - label: "Multiple rooms (dev, general, support, etc.)"
+
+  # ── Status & Notes ─────────────────────────────────────────────
+  - type: dropdown
     id: status
     attributes:
-      label: Status
-      description: Current project status
+      label: Migration Status
+      description: Current status of this project's Matrix migration
       options:
-        - Idea
-        - Planning
-        - Active
-        - Paused
-        - Complete
-        - Archived
+        - "Not started"
+        - "Exploring"
+        - "Bridging"
+        - "Migrating"
+        - "Migrated"
+        - "Matrix-native"
     validations:
       required: true
+
+  - type: input
+    id: community-size
+    attributes:
+      label: Estimated Community Size
+      description: Rough total across all platforms
+      placeholder: e.g. ~500 active, ~2000 total
+    validations:
+      required: false
 
   - type: textarea
     id: notes
     attributes:
       label: Notes
-      description: Any additional notes or context
+      description: Any additional context — migration history, blockers, success stories, lessons learned
     validations:
       required: false
