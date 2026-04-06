@@ -1,0 +1,19 @@
+---
+name: "Jelu"
+description: "Self hosted read and to-read list book tracker"
+repo: "https://github.com/bayang/jelu"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-30T08:38:05Z"
+---
+
+Self hosted read and to-read list book tracker
+
+## Stats
+
+- Stars: 666
+- Forks: 25
+- Language: Kotlin
+- Topics: book, books, booktracker, goodreads, kotlin, librarything, reading, reading-list, self-hosted, to-read, tracker, vue, vue3

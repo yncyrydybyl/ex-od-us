@@ -1,0 +1,19 @@
+---
+name: "Webfs"
+description: "A Filesystem Built On Top of the Web."
+repo: "https://github.com/brendoncarroll/webfs"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2023-03-07T02:14:21Z"
+---
+
+A Filesystem Built On Top of the Web.
+
+## Stats
+
+- Stars: 340
+- Forks: 4
+- Language: Go
+- Topics: cryptography, dropbox, filesharing, filesystem, ipfs

@@ -1,0 +1,19 @@
+---
+name: "Rimu"
+description: "Template language for structured data: functional YAML 🌱"
+repo: "https://github.com/ahdinosaur/rimu"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-16T01:58:19Z"
+---
+
+Template language for structured data: functional YAML 🌱
+
+## Stats
+
+- Stars: 53
+- Forks: 1
+- Language: Rust
+- Topics: configuration, configuration-language, data, data-structures, expression-evaluator, expression-language, functional, json, serde, string-interpolation, template, template-engine, toml, untrusted-values, yaml

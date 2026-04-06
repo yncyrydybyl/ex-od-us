@@ -1,0 +1,19 @@
+---
+name: "Asteroidossync"
+description: "Android application to synchronize a phone with a watch running asteroid-btsyncd."
+repo: "https://github.com/AsteroidOS/AsteroidOSSync"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-25T03:09:52Z"
+---
+
+Android application to synchronize a phone with a watch running asteroid-btsyncd.
+
+## Stats
+
+- Stars: 110
+- Forks: 41
+- Language: Java
+- Topics: android, asteroidos, hacktoberfest, smartwatch

@@ -1,0 +1,19 @@
+---
+name: "Relm"
+description: "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust"
+repo: "https://github.com/antoyo/relm"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2024-04-19T11:46:46Z"
+---
+
+Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
+
+## Stats
+
+- Stars: 2455
+- Forks: 78
+- Language: Rust
+- Topics: hacktoberfest

@@ -1,0 +1,19 @@
+---
+name: "Gritql"
+description: "GritQL is a query language for searching, linting, and modifying code."
+repo: "https://github.com/biomejs/gritql"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-30T04:48:12Z"
+---
+
+GritQL is a query language for searching, linting, and modifying code.
+
+## Stats
+
+- Stars: 4463
+- Forks: 121
+- Language: Rust
+- Topics: ast, codemod, javascript, linter, refactoring, rust, search, tree-sitter

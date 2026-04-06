@@ -1,0 +1,18 @@
+---
+name: "Open Documentation Academy"
+description: "Learn open-source software documentation skills with Canonical"
+repo: "https://github.com/canonical/open-documentation-academy"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-25T09:49:32Z"
+---
+
+Learn open-source software documentation skills with Canonical
+
+## Stats
+
+- Stars: 113
+- Forks: 88
+- Language: Python

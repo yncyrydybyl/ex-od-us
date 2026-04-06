@@ -1,0 +1,19 @@
+---
+name: "Authelia"
+description: "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™"
+repo: "https://github.com/authelia/authelia"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T11:05:06Z"
+---
+
+The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+
+## Stats
+
+- Stars: 27425
+- Forks: 1370
+- Language: Go
+- Topics: 2fa, authentication, docker, golang, kubernetes, ldap, mfa, multifactor, oauth2, openid-connect, passkeys, push-notifications, security, sso, sso-authentication, totp, two-factor, two-factor-authentication, webauthn, yubikey

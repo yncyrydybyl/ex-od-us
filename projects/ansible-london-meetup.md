@@ -1,0 +1,17 @@
+---
+name: "Ansible London Meetup"
+description: "Ansible Meetup for London, UK"
+repo: "https://github.com/ansible-community/ansible-london-meetup"
+platform: github
+status: "Active"
+issues: []
+updated: "2026-03-19T10:09:06Z"
+---
+
+Ansible Meetup for London, UK
+
+## Stats
+
+- Stars: 40
+- Forks: 19
+- Topics: ansible, community, london, meetup
