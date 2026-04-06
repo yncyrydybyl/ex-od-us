@@ -9,7 +9,7 @@ issues: [36]
 updated: "2026-04-06T02:09:35Z"
 matrix_rooms: [https://matrix.to/#/#space:continuwuity.org, https://matrix.to/#/#continuwuity:continuwuity.org]
 exodus_score: 8
-last_scanned: "2026-04-06T11:45:52Z"
+last_scanned: "2026-04-06T12:20:51Z"
 ---
 
 [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.

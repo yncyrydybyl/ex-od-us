@@ -9,7 +9,7 @@ issues: [43]
 updated: "2025-10-25T23:54:54Z"
 matrix_rooms: [https://matrix.to/#/#go-capnp:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T11:46:01Z"
+last_scanned: "2026-04-06T12:20:57Z"
 ---
 
 Cap'n Proto library and code generator for Go

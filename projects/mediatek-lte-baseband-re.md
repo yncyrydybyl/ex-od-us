@@ -9,7 +9,7 @@ issues: [45]
 updated: "2024-10-30T03:04:15Z"
 matrix_rooms: [https://matrix.to/#/#lowlevel:postmarketos.org]
 exodus_score: 5
-last_scanned: "2026-04-06T11:46:04Z"
+last_scanned: "2026-04-06T12:20:59Z"
 ---
 
 Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.

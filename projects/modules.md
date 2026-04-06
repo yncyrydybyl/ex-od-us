@@ -9,7 +9,7 @@ issues: [47]
 updated: "2026-03-20T11:25:29Z"
 matrix_rooms: [https://matrix.to/#/#modules:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T11:46:07Z"
+last_scanned: "2026-04-06T12:21:01Z"
 ---
 
 Environment Modules: provides dynamic modification of a user's environment

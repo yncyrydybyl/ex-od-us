@@ -8,7 +8,7 @@ status: Active
 issues: [49]
 updated: "2024-07-27T17:11:26Z"
 exodus_score: 2
-last_scanned: "2026-04-06T11:46:10Z"
+last_scanned: "2026-04-06T12:21:03Z"
 ---
 
 A command line tool to play any audio/video on an Apple TV.

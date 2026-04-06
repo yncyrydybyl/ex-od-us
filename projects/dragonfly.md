@@ -9,7 +9,7 @@ issues: [40]
 updated: "2026-01-22T01:03:47Z"
 matrix_rooms: [https://matrix.to/#/#dragonfly2:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T11:45:58Z"
+last_scanned: "2026-04-06T12:20:55Z"
 ---
 
 Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx

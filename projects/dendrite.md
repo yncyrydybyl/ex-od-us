@@ -9,7 +9,7 @@ issues: [39]
 updated: "2026-04-02T15:00:29Z"
 matrix_rooms: [https://matrix.to/#/#dendrite-dev:matrix.org, https://matrix.to/#/#dendrite-alerts:matrix.org, https://matrix.to/#/#dendrite:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-06T11:45:55Z"
+last_scanned: "2026-04-06T12:20:53Z"
 ---
 
 Dendrite is a second-generation Matrix homeserver written in Go! 

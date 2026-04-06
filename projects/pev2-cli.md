@@ -9,7 +9,7 @@ issues: [48]
 updated: "2026-03-11T13:39:12Z"
 verified: false
 verified_note: repo not found (404)
-last_scanned: "2026-04-06T11:46:09Z"
+last_scanned: "2026-04-06T12:21:02Z"
 ---
 
 Run the PostgreSQL Explain Visualizer 2 (pev2) from the command line.

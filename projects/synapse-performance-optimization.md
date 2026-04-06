@@ -8,7 +8,7 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#synapse:matrix.org]
 issues: [6]
 updated: "2026-04-06T08:17:35Z"
-last_scanned: "2026-04-06T11:46:15Z"
+last_scanned: "2026-04-06T12:21:06Z"
 ---
 
 Reducing Synapse homeserver resource usage by 40%

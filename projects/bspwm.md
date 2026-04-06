@@ -9,7 +9,7 @@ issues: [32]
 updated: "2025-10-08T16:42:10Z"
 matrix_rooms: [https://matrix.to/#/#bspwm:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-06T11:45:47Z"
+last_scanned: "2026-04-06T12:20:47Z"
 ---
 
 A tiling window manager based on binary space partitioning

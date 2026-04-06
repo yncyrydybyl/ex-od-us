@@ -8,7 +8,7 @@ status: Active
 issues: [50]
 updated: "2026-04-02T21:46:08Z"
 exodus_score: 3
-last_scanned: "2026-04-06T11:46:11Z"
+last_scanned: "2026-04-06T12:21:04Z"
 ---
 
 Fast property caching
