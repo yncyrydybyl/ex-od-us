@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-ios"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [42]
 updated: "2026-04-01T09:51:12Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/derhuerst/pev2-cli"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [48]
 updated: "2026-03-11T13:39:12Z"
 ---
 

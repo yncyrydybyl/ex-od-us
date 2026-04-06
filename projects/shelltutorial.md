@@ -5,7 +5,7 @@ repo: "https://github.com/ArchLinuxStudio/ShellTutorial"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [51]
 updated: "2023-08-21T05:34:41Z"
 ---
 

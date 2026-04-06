@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-call"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [41]
 updated: "2026-04-06T01:31:11Z"
 ---
 

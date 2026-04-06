@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/propcache"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [50]
 updated: "2026-04-02T21:46:08Z"
 ---
 

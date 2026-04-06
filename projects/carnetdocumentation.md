@@ -4,7 +4,7 @@ repo: "https://github.com/CarnetApp/CarnetDocumentation"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [34]
 updated: "2023-08-21T09:35:00Z"
 ---
 

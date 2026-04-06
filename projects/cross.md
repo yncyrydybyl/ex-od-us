@@ -5,7 +5,7 @@ repo: "https://github.com/cross-rs/cross"
 platform: github
 categories: [Infrastructure, Development]
 status: "Active"
-issues: []
+issues: [38]
 updated: "2026-03-25T16:00:29Z"
 ---
 

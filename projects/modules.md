@@ -5,7 +5,7 @@ repo: "https://github.com/envmodules/modules"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [47]
 updated: "2026-03-20T11:25:29Z"
 ---
 

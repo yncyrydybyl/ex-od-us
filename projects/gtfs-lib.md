@@ -5,7 +5,7 @@ repo: "https://github.com/conveyal/gtfs-lib"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [44]
 updated: "2024-05-16T08:51:49Z"
 ---
 

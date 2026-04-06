@@ -5,7 +5,7 @@ repo: "https://github.com/apfaudio/tiliqua"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [53]
 updated: "2026-04-03T17:41:30Z"
 ---
 

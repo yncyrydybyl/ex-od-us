@@ -5,7 +5,7 @@ repo: "https://github.com/baskerville/bspwm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [32]
 updated: "2025-10-08T16:42:10Z"
 ---
 

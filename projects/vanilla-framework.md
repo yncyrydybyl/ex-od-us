@@ -5,7 +5,7 @@ repo: "https://github.com/canonical/vanilla-framework"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [55]
 updated: "2026-04-04T13:11:18Z"
 ---
 

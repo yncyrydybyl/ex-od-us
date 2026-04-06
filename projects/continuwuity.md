@@ -5,7 +5,7 @@ repo: "https://github.com/continuwuity/continuwuity"
 platform: github
 categories: [Messaging, Infrastructure, Matrix, Development]
 status: "Active"
-issues: []
+issues: [36]
 updated: "2026-04-06T02:09:35Z"
 ---
 

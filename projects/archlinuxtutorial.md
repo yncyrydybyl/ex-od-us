@@ -5,7 +5,7 @@ repo: "https://github.com/ArchLinuxStudio/ArchLinuxTutorial"
 platform: github
 categories: [Infrastructure]
 status: "Active"
-issues: []
+issues: [30]
 updated: "2026-01-27T16:37:54Z"
 ---
 
