@@ -161,8 +161,8 @@ def write_frontmatter(fm, body):
         if isinstance(v, list):
             if not v:
                 lines.append(f'{k}: []')
-            elif all(isinstance(x, str) and ',' not in x and len(x) < 60 for x in v):
-                lines.append(f'{k}: [{", ".join(v)}]')
+            elif all(isinstance(x, str) and ',' not in x and len(x) < 60 for x in v if x is not None):
+                lines.append(f'{k}: [{", ".join(str(x) for x in v if x is not None)}]')
             else:
                 lines.append(f'{k}:')
                 for item in v:
