@@ -102,7 +102,7 @@ for fname in sorted(os.listdir(projects_dir)):
     # Normalize fields
     project = {
         'slug': slug,
-        'name': fm.get('name', slug),
+        'name': str(fm.get('name', slug)),
         'description': fm.get('description', ''),
         'website': fm.get('website', ''),
         'repo': fm.get('repo', ''),
