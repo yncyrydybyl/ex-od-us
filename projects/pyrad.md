@@ -1,12 +1,15 @@
 ---
-name: "Pyrad"
-description: "Python RADIUS Implementation"
+name: Pyrad
+description: Python RADIUS Implementation
 repo: "https://github.com/pyradius/pyrad"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-11T21:05:18Z"
+matrix_rooms: [https://matrix.to/#/#pyradius:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Python RADIUS Implementation

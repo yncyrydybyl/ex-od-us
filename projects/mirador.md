@@ -1,12 +1,15 @@
 ---
-name: "Mirador"
-description: "CLI to watch mailbox changes"
+name: Mirador
+description: CLI to watch mailbox changes
 repo: "https://github.com/pimalaya/mirador"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-17T22:51:19Z"
+matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CLI to watch mailbox changes

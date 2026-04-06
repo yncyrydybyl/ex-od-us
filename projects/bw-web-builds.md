@@ -1,12 +1,15 @@
 ---
-name: "Bw Web Builds"
-description: "Web vault builds for vaultwarden"
+name: Bw Web Builds
+description: Web vault builds for vaultwarden
 repo: "https://github.com/dani-garcia/bw_web_builds"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5549]
 updated: "2026-03-23T21:44:34Z"
+matrix_rooms: [https://matrix.to/#/#vaultwarden:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Web vault builds for vaultwarden

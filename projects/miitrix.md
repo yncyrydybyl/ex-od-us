@@ -1,12 +1,15 @@
 ---
-name: "Miitrix"
-description: "A Nintendo 3DS matrix client"
+name: Miitrix
+description: A Nintendo 3DS matrix client
 repo: "https://github.com/Sorunome/miitrix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2020-08-03T16:24:11Z"
+matrix_rooms: [https://matrix.to/#/#miitrix:sorunome.de]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A Nintendo 3DS matrix client

@@ -1,12 +1,15 @@
 ---
-name: "Signaller"
-description: "The lightweight (but full-featured) Matrix server, written in Go language"
+name: Signaller
+description: The lightweight (but full-featured) Matrix server, written in Go language
 repo: "https://github.com/signaller-matrix/signaller"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-02-06T23:41:47Z"
+matrix_rooms: [https://matrix.to/#/#signaller_dev:netwhood.online, https://matrix.to/#/#signaller_dev_ru:netwhood.online]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The lightweight (but full-featured) Matrix server, written in Go language

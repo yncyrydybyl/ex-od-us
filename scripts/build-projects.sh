@@ -225,7 +225,7 @@ if os.path.exists(history_file):
                     pass
 
 # Include last 30 snapshots as trend data
-trend = [{'ts': h['ts'], 'avg': h['avg'], 'scored': h['scored'], 'dist': h.get('distribution', {})}
+trend = [{'ts': h['ts'], 'avg': h['avg'], 'scanned': h.get('scanned', h.get('scored', 0)), 'dist': h.get('distribution', {})}
          for h in history[-30:]]
 
 slim_file = output_file.replace('projects.json', 'projects-slim.json')

@@ -10,7 +10,7 @@ updated: "2026-04-01T05:16:23Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:22:48Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Oinkoin is a flutter app for helping you managing your expenses. No internet required.

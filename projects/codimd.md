@@ -1,12 +1,15 @@
 ---
-name: "Codimd"
-description: "CodiMD - Realtime collaborative markdown notes on all platforms."
+name: Codimd
+description: CodiMD - Realtime collaborative markdown notes on all platforms.
 repo: "https://github.com/hackmdio/codimd"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5638]
 updated: "2025-10-02T02:51:07Z"
+matrix_rooms: [https://matrix.to/#/#hackmdio_hackmd:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CodiMD - Realtime collaborative markdown notes on all platforms.

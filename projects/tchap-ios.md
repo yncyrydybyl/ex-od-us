@@ -1,12 +1,15 @@
 ---
-name: "Tchap Ios"
-description: "A Matrix client for iOS"
+name: Tchap Ios
+description: A Matrix client for iOS
 repo: "https://github.com/tchapgouv/tchap-ios"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-24T16:33:11Z"
+matrix_rooms: [https://matrix.to/#/#element-ios:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A Matrix client for iOS

@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter Cuda"
-description: "CUDA grammar for tree-sitter"
+name: Tree Sitter Cuda
+description: CUDA grammar for tree-sitter
 repo: "https://github.com/tree-sitter-grammars/tree-sitter-cuda"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-11-23T14:07:15Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CUDA grammar for tree-sitter

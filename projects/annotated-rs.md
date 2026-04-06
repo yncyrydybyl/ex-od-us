@@ -9,7 +9,9 @@ issues: [5177]
 updated: "2022-08-19T08:00:27Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:15:46Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#substrate-technical:matrix.org]
+exodus_score: 3
 ---
 
 rust 项目源码分析

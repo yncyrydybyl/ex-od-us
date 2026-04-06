@@ -1,12 +1,15 @@
 ---
-name: "Tree Sitter Objc"
-description: "Objective-C grammar for tree-sitter"
+name: Tree Sitter Objc
+description: Objective-C grammar for tree-sitter
 repo: "https://github.com/tree-sitter-grammars/tree-sitter-objc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-05-24T07:30:06Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Objective-C grammar for tree-sitter

@@ -1,12 +1,15 @@
 ---
-name: "Arona"
-description: "A simple bridge for every messenger. (formerly matrix-line-bridge)"
+name: Arona
+description: A simple bridge for every messenger. (formerly matrix-line-bridge)
 repo: "https://github.com/web-tech-tw/arona"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 issues: [5266]
 updated: "2025-12-29T16:16:03Z"
+matrix_rooms: [https://matrix.to/#/#line:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A simple bridge for every messenger. (formerly matrix-line-bridge)

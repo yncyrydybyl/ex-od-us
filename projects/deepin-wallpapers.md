@@ -1,12 +1,15 @@
 ---
-name: "Deepin Wallpapers"
-description: "Additional wallpapers for the base dde-wallpapers package"
+name: Deepin Wallpapers
+description: Additional wallpapers for the base dde-wallpapers package
 repo: "https://github.com/linuxdeepin/deepin-wallpapers"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5839]
 updated: "2025-05-29T10:58:34Z"
+matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Additional wallpapers for the base dde-wallpapers package

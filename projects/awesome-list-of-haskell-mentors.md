@@ -1,12 +1,15 @@
 ---
-name: "Awesome List Of Haskell Mentors"
-description: "An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects."
+name: Awesome List Of Haskell Mentors
+description: An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.
 repo: "https://github.com/willbasky/Awesome-list-of-Haskell-mentors"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5337]
 updated: "2022-08-31T07:20:51Z"
+matrix_rooms: [https://matrix.to/#/#ema:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.

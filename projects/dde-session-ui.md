@@ -1,12 +1,15 @@
 ---
-name: "Dde Session Ui"
-description: "dde-session-ui module"
+name: Dde Session Ui
+description: dde-session-ui module
 repo: "https://github.com/linuxdeepin/dde-session-ui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5821]
 updated: "2026-03-26T11:43:02Z"
+matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 dde-session-ui module

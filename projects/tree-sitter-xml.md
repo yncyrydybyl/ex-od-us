@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter Xml"
-description: "XML & DTD grammars for tree-sitter"
+name: Tree Sitter Xml
+description: XML & DTD grammars for tree-sitter
 repo: "https://github.com/tree-sitter-grammars/tree-sitter-xml"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-21T09:19:01Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 XML & DTD grammars for tree-sitter

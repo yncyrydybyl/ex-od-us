@@ -1,12 +1,14 @@
 ---
-name: "Feishin"
-description: "A modern self-hosted music player."
+name: Feishin
+description: A modern self-hosted music player.
 repo: "https://github.com/jeffvli/feishin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6159]
 updated: "2026-04-06T06:24:01Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A modern self-hosted music player.

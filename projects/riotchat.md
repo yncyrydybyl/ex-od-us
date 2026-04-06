@@ -1,12 +1,16 @@
 ---
-name: "Riotchat"
-description: "Element for Nextcloud"
+name: Riotchat
+description: Element for Nextcloud
 repo: "https://github.com/gary-kim/riotchat"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T21:06:03Z"
+matrix_rooms:
+  - "https://matrix.to/#/#riotchatfornextcloud-general:garykim.dev"
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Element for Nextcloud

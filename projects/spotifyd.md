@@ -1,12 +1,14 @@
 ---
-name: "Spotifyd"
-description: "A spotify daemon"
+name: Spotifyd
+description: A spotify daemon
 repo: "https://github.com/Spotifyd/spotifyd"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-20T21:11:23Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A spotify daemon

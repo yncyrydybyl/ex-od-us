@@ -1,12 +1,14 @@
 ---
-name: "Tldr Lint"
-description: "A linting tool to validate tldr pages 🚨."
+name: Tldr Lint
+description: A linting tool to validate tldr pages 🚨.
 repo: "https://github.com/tldr-pages/tldr-lint"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T08:53:53Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A linting tool to validate tldr pages 🚨.

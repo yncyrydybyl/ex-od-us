@@ -1,12 +1,14 @@
 ---
-name: "Ndcube"
-description: "A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays."
+name: Ndcube
+description: A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays.
 repo: "https://github.com/sunpy/ndcube"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T08:59:04Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays.

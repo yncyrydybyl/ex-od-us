@@ -9,7 +9,9 @@ issues: [2016]
 updated: "2026-03-20T12:48:52Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:22Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#tabby-general:matrix.org]
+exodus_score: 3
 ---
 
 A terminal for a more modern age

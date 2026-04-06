@@ -1,12 +1,15 @@
 ---
-name: "Clapper"
-description: "Level up your video experience with a modern and user-friendly media player."
+name: Clapper
+description: Level up your video experience with a modern and user-friendly media player.
 repo: "https://github.com/Rafostar/clapper"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5607]
 updated: "2026-03-14T08:27:25Z"
+matrix_rooms: [https://matrix.to/#/#clapper-player:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Level up your video experience with a modern and user-friendly media player.

@@ -1,15 +1,18 @@
 ---
-name: "Sentryshot"
+name: Sentryshot
 description: " Video Management System. Mirror of Codeberg."
 repo: "https://github.com/SentryShot/sentryshot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-15T19:52:53Z"
+matrix_rooms: [https://matrix.to/#/#sentryshot:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
- Video Management System. Mirror of Codeberg.
+Video Management System. Mirror of Codeberg.
 
 ## Stats
 

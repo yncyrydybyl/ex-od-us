@@ -1,11 +1,14 @@
 ---
-name: "Ghcup Hs"
+name: Ghcup Hs
 repo: "https://github.com/haskell/ghcup-hs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6353]
 updated: "2026-04-06T09:55:11Z"
+matrix_rooms: [https://matrix.to/#/#ghcup:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 ## Stats

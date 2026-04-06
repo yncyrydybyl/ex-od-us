@@ -1,12 +1,15 @@
 ---
-name: "Pulp Operator"
-description: "Kubernetes Operator for Pulp 3. Under active development."
+name: Pulp Operator
+description: Kubernetes Operator for Pulp 3. Under active development.
 repo: "https://github.com/pulp/pulp-operator"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-20T07:13:12Z"
+matrix_rooms: [https://matrix.to/#/#pulp-dev:matrix.org, https://matrix.to/#/#pulp:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Kubernetes Operator for Pulp 3. Under active development.

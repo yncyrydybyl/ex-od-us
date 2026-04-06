@@ -1,12 +1,15 @@
 ---
-name: "Tree Sitter Css"
-description: "CSS grammar for Tree-sitter"
+name: Tree Sitter Css
+description: CSS grammar for Tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-css"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-09-28T11:34:31Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CSS grammar for Tree-sitter

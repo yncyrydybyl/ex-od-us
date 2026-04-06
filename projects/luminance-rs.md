@@ -1,12 +1,15 @@
 ---
-name: "Luminance Rs"
-description: "Type-safe, type-level and stateless Rust graphics framework"
+name: Luminance Rs
+description: Type-safe, type-level and stateless Rust graphics framework
 repo: "https://github.com/hadronized/luminance-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6979]
 updated: "2023-03-20T04:59:16Z"
+matrix_rooms: [https://matrix.to/#/#luminance:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Type-safe, type-level and stateless Rust graphics framework

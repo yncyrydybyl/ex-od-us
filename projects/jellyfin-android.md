@@ -1,12 +1,14 @@
 ---
-name: "Jellyfin Android"
-description: "Android Client for Jellyfin"
+name: Jellyfin Android
+description: Android Client for Jellyfin
 repo: "https://github.com/jellyfin/jellyfin-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6703]
 updated: "2026-04-06T14:13:33Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Android Client for Jellyfin

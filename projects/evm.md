@@ -1,12 +1,15 @@
 ---
-name: "Evm"
-description: "Pure Rust implementation of Ethereum Virtual Machine"
+name: Evm
+description: Pure Rust implementation of Ethereum Virtual Machine
 repo: "https://github.com/rust-ethereum/evm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6107]
 updated: "2026-03-25T21:30:31Z"
+matrix_rooms: [https://matrix.to/#/#evm:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Pure Rust implementation of Ethereum Virtual Machine

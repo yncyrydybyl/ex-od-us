@@ -1,12 +1,15 @@
 ---
-name: "Voicenotify"
-description: "Android app that speaks notifications"
+name: Voicenotify
+description: Android app that speaks notifications
 repo: "https://github.com/pilot51/voicenotify"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-28T05:16:52Z"
+matrix_rooms: [https://matrix.to/#/#voicenotify:p51.me]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Android app that speaks notifications

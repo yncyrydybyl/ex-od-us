@@ -1,12 +1,15 @@
 ---
-name: "Neverest"
-description: "CLI to synchronize, backup and restore emails"
+name: Neverest
+description: CLI to synchronize, backup and restore emails
 repo: "https://github.com/pimalaya/neverest"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-12-19T07:56:47Z"
+matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CLI to synchronize, backup and restore emails

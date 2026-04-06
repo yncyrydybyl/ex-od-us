@@ -1,12 +1,15 @@
 ---
-name: "Devshell"
-description: "Per project developer environments"
+name: Devshell
+description: Per project developer environments
 repo: "https://github.com/numtide/devshell"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5865]
 updated: "2026-03-23T11:08:00Z"
+matrix_rooms: [https://matrix.to/#/#devshell:numtide.com]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Per project developer environments

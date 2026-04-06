@@ -1,12 +1,15 @@
 ---
-name: "Nvchad"
-description: "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience."
+name: Nvchad
+description: Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 repo: "https://github.com/NvChad/NvChad"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-07T12:48:53Z"
+matrix_rooms: [https://matrix.to/#/#nvchad:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.

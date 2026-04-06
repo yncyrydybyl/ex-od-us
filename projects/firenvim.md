@@ -1,12 +1,14 @@
 ---
-name: "Firenvim"
-description: "Embed Neovim in Chrome, Firefox & others."
+name: Firenvim
+description: Embed Neovim in Chrome, Firefox & others.
 repo: "https://github.com/glacambre/firenvim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6188]
 updated: "2026-03-27T07:00:58Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Embed Neovim in Chrome, Firefox & others.

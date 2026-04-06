@@ -1,12 +1,13 @@
 ---
-name: "Epp Discrete Math 5Th Solutions"
+name: Epp Discrete Math 5Th Solutions
 description: "Solutions to Susanna Epp's Discrete Mathematics book, 5th Edition"
 repo: "https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6062]
 updated: "2026-03-30T17:08:39Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Solutions to Susanna Epp's Discrete Mathematics book, 5th Edition

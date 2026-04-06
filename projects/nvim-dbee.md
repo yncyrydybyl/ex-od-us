@@ -1,12 +1,15 @@
 ---
-name: "Nvim Dbee"
-description: "Interactive database client for neovim"
+name: Nvim Dbee
+description: Interactive database client for neovim
 repo: "https://github.com/kndndrj/nvim-dbee"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-07-25T10:27:17Z"
+matrix_rooms: [https://matrix.to/#/#nvim-dbee:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Interactive database client for neovim

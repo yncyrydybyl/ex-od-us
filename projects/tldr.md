@@ -1,12 +1,14 @@
 ---
-name: "Tldr"
-description: "Collaborative cheatsheets for console commands 📚."
+name: Tldr
+description: Collaborative cheatsheets for console commands 📚.
 repo: "https://github.com/tldr-pages/tldr"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T17:08:11Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Collaborative cheatsheets for console commands 📚.

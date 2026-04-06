@@ -1,12 +1,15 @@
 ---
-name: "Machinekit Hal"
-description: "Universal framework for machine control based on Hardware Abstraction Layer principle"
+name: Machinekit Hal
+description: Universal framework for machine control based on Hardware Abstraction Layer principle
 repo: "https://github.com/machinekit/machinekit-hal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6987]
 updated: "2024-09-03T21:03:28Z"
+matrix_rooms: [https://matrix.to/#/#machinekit:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Universal framework for machine control based on Hardware Abstraction Layer principle

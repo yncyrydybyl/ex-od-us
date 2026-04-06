@@ -1,12 +1,15 @@
 ---
-name: "Minimq"
-description: "Minimal no_std MQTT v5.0 client implementation"
+name: Minimq
+description: Minimal no_std MQTT v5.0 client implementation
 repo: "https://github.com/quartiq/minimq"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-01-27T11:09:30Z"
+matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Minimal no_std MQTT v5.0 client implementation

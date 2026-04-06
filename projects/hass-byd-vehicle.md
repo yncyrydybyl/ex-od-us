@@ -1,12 +1,15 @@
 ---
-name: "Hass Byd Vehicle"
-description: "Custom HASS integration for BYD vehicles."
+name: Hass Byd Vehicle
+description: Custom HASS integration for BYD vehicles.
 repo: "https://github.com/jkaberg/hass-byd-vehicle"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6507]
 updated: "2026-03-29T19:51:45Z"
+matrix_rooms: [https://matrix.to/#/#hass-byd-vehicle:kaberg.me]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Custom HASS integration for BYD vehicles.

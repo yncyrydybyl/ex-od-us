@@ -1,12 +1,16 @@
 ---
-name: "Matrix Docker Ansible Deploy"
-description: "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker"
+name: Matrix Docker Ansible Deploy
+description: 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 repo: "https://github.com/spantaleev/matrix-docker-ansible-deploy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T12:57:04Z"
+matrix_rooms:
+  - "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com"
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker

@@ -1,12 +1,14 @@
 ---
-name: "Empire"
-description: "A local persistence system for Swift"
+name: Empire
+description: A local persistence system for Swift
 repo: "https://github.com/mattmassicotte/Empire"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6042]
 updated: "2026-01-19T20:06:59Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A local persistence system for Swift

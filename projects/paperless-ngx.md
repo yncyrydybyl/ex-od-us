@@ -1,12 +1,15 @@
 ---
-name: "Paperless Ngx"
+name: Paperless Ngx
 description: "A community-supported supercharged document management system: scan, index and archive all your documents"
 repo: "https://github.com/paperless-ngx/paperless-ngx"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T12:29:44Z"
+matrix_rooms: [https://matrix.to/#/#paperless:matrix.org, https://matrix.to/#/#paperlessngx:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A community-supported supercharged document management system: scan, index and archive all your documents

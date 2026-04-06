@@ -1,12 +1,14 @@
 ---
-name: "Jellyfin Xbox"
-description: "Xbox Client for Jellyfin"
+name: Jellyfin Xbox
+description: Xbox Client for Jellyfin
 repo: "https://github.com/jellyfin/jellyfin-xbox"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6731]
 updated: "2026-03-25T22:57:15Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Xbox Client for Jellyfin

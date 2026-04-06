@@ -1,12 +1,15 @@
 ---
-name: "Tldr Node Client"
-description: "Node.js command-line client for tldr pages 📚."
+name: Tldr Node Client
+description: Node.js command-line client for tldr pages 📚.
 repo: "https://github.com/tldr-pages/tldr-node-client"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T05:14:06Z"
+matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Node.js command-line client for tldr pages 📚.

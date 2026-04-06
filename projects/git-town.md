@@ -1,12 +1,14 @@
 ---
-name: "Git Town"
-description: "Git branches made easy"
+name: Git Town
+description: Git branches made easy
 repo: "https://github.com/git-town/git-town"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6371]
 updated: "2026-04-05T16:03:58Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Git branches made easy

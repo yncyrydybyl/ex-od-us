@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter"
-description: "An incremental parsing system for programming tools"
+name: Tree Sitter
+description: An incremental parsing system for programming tools
 repo: "https://github.com/tree-sitter/tree-sitter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T16:26:13Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 An incremental parsing system for programming tools

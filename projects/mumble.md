@@ -1,12 +1,15 @@
 ---
-name: "Mumble"
-description: "Mumble is an open-source, low-latency, high quality voice chat software."
+name: Mumble
+description: Mumble is an open-source, low-latency, high quality voice chat software.
 repo: "https://github.com/mumble-voip/mumble"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T18:06:45Z"
+matrix_rooms: [https://matrix.to/#/#mumble:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Mumble is an open-source, low-latency, high quality voice chat software.

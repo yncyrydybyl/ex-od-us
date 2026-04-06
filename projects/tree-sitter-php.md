@@ -1,12 +1,15 @@
 ---
-name: "Tree Sitter Php"
-description: "PHP grammar for tree-sitter"
+name: Tree Sitter Php
+description: PHP grammar for tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-php"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-19T15:00:38Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 PHP grammar for tree-sitter

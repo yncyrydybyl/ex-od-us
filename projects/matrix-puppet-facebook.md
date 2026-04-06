@@ -1,12 +1,15 @@
 ---
-name: "Matrix Puppet Facebook"
-description: "a puppetted facebook bridge"
+name: Matrix Puppet Facebook
+description: a puppetted facebook bridge
 repo: "https://github.com/matrix-hacks/matrix-puppet-facebook"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2020-06-22T10:10:13Z"
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 a puppetted facebook bridge

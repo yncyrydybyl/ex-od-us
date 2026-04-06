@@ -1,12 +1,14 @@
 ---
-name: "Jot"
-description: "Very simple JWT/JWK library for Swift"
+name: Jot
+description: Very simple JWT/JWK library for Swift
 repo: "https://github.com/mattmassicotte/Jot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6751]
 updated: "2025-07-24T05:10:00Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Very simple JWT/JWK library for Swift

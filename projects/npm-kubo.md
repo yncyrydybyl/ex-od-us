@@ -1,12 +1,15 @@
 ---
-name: "Npm Kubo"
-description: "Install Kubo (go-ipfs) from NPM"
+name: Npm Kubo
+description: Install Kubo (go-ipfs) from NPM
 repo: "https://github.com/ipfs/npm-kubo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-01T16:17:11Z"
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Install Kubo (go-ipfs) from NPM

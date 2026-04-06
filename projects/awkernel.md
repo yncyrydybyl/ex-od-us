@@ -1,12 +1,15 @@
 ---
-name: "Awkernel"
+name: Awkernel
 description: "Awkernel: realtime operating system written in Rust"
 repo: "https://github.com/tier4/awkernel"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5405]
 updated: "2026-04-03T08:08:46Z"
+matrix_rooms: [https://matrix.to/#/#smoltcp:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Awkernel: realtime operating system written in Rust

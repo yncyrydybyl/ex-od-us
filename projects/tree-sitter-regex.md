@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter Regex"
-description: "Tree-sitter parser for regular expressions"
+name: Tree Sitter Regex
+description: Tree-sitter parser for regular expressions
 repo: "https://github.com/tree-sitter/tree-sitter-regex"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-09-13T04:57:57Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Tree-sitter parser for regular expressions

@@ -1,12 +1,15 @@
 ---
-name: "Translations"
-description: "The code, training pipeline, and models that power Firefox Translations"
+name: Translations
+description: The code, training pipeline, and models that power Firefox Translations
 repo: "https://github.com/mozilla/translations"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T12:09:39Z"
+matrix_rooms: [https://matrix.to/#/#firefoxtranslations:mozilla.org]
+exodus_score: 4
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The code, training pipeline, and models that power Firefox Translations

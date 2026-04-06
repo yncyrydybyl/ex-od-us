@@ -1,12 +1,15 @@
 ---
-name: "Dicio Android"
-description: "Dicio assistant app for Android"
+name: Dicio Android
+description: Dicio assistant app for Android
 repo: "https://github.com/Stypox/dicio-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5867]
 updated: "2026-02-25T23:25:18Z"
+matrix_rooms: [https://matrix.to/#/#dicio:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Dicio assistant app for Android

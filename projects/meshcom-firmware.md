@@ -1,12 +1,14 @@
 ---
-name: "Meshcom Firmware"
-description: "MeshCom Client 4.0"
+name: Meshcom Firmware
+description: MeshCom Client 4.0
 repo: "https://github.com/icssw-org/MeshCom-Firmware"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T13:35:53Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 MeshCom Client 4.0

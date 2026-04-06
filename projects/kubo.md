@@ -1,12 +1,14 @@
 ---
-name: "Kubo"
-description: "An IPFS implementation in Go"
+name: Kubo
+description: An IPFS implementation in Go
 repo: "https://github.com/ipfs/kubo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6827]
 updated: "2026-04-04T03:27:49Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 An IPFS implementation in Go

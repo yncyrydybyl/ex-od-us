@@ -1,12 +1,14 @@
 ---
-name: "Cupy"
-description: "NumPy & SciPy for GPU"
+name: Cupy
+description: NumPy & SciPy for GPU
 repo: "https://github.com/cupy/cupy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5751]
 updated: "2026-03-29T14:56:57Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 NumPy & SciPy for GPU

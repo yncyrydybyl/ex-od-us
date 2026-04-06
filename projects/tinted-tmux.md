@@ -1,12 +1,15 @@
 ---
-name: "Tinted Tmux"
-description: "Base16 theme for tmux"
+name: Tinted Tmux
+description: Base16 theme for tmux
 repo: "https://github.com/tinted-theming/tinted-tmux"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-08T01:40:10Z"
+matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Base16 theme for tmux

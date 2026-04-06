@@ -1,12 +1,14 @@
 ---
-name: "Jellyfin Server Macos"
-description: "The menu bar app and package for Jellyfin Server on macOS."
+name: Jellyfin Server Macos
+description: The menu bar app and package for Jellyfin Server on macOS.
 repo: "https://github.com/jellyfin/jellyfin-server-macos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6722]
 updated: "2025-10-27T01:38:12Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The menu bar app and package for Jellyfin Server on macOS.

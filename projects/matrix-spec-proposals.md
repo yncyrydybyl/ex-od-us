@@ -1,12 +1,15 @@
 ---
-name: "Matrix Spec Proposals"
-description: "Proposals for changes to the matrix specification"
+name: Matrix Spec Proposals
+description: Proposals for changes to the matrix specification
 repo: "https://github.com/matrix-org/matrix-spec-proposals"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-01T17:12:45Z"
+matrix_rooms: [https://matrix.to/#/#matrix-spec:matrix.org, https://matrix.to/#/#matrix-docs:matrix.org, https://matrix.to/#/#matrix-spec-process:matrix.org, https://matrix.to/#/#sct-office:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Proposals for changes to the matrix specification

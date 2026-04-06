@@ -1,12 +1,15 @@
 ---
-name: "Libresprite"
-description: "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite"
+name: Libresprite
+description: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 repo: "https://github.com/LibreSprite/LibreSprite"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6904]
 updated: "2026-02-14T13:14:37Z"
+matrix_rooms: [https://matrix.to/#/#libresprite:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite

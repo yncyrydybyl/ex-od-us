@@ -9,7 +9,8 @@ updated: "2025-12-18T08:05:08Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:16:08Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#aristaproject:matrix.org]
 ---
 
 About A GUI Panel providing Worker subscriptions for VLESS and Shadowsocks, configs alongside chain proxies, offering full DNS, clean IP, and routing settings for cross-platform clients using  Sing-box, Clash/Mihomo and Xray cores.

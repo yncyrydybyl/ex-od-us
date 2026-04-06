@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#charlotteos:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T15:17:37Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The Kernel of CharlotteOS, An Experimental Modern Operating System

@@ -1,12 +1,14 @@
 ---
-name: "Fury Old"
-description: "A new build tool for JVM languages"
+name: Fury Old
+description: A new build tool for JVM languages
 repo: "https://github.com/propensive/fury-old"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6312]
 updated: "2024-09-03T21:34:24Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A new build tool for JVM languages

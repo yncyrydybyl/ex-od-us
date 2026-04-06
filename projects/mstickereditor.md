@@ -1,12 +1,15 @@
 ---
-name: "Mstickereditor"
-description: "import sticker packs from telegram, to be used at the Maunium sticker picker for Matrix"
+name: Mstickereditor
+description: import sticker packs from telegram, to be used at the Maunium sticker picker for Matrix
 repo: "https://github.com/LuckyTurtleDev/mstickereditor"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-07T16:52:08Z"
+matrix_rooms: [https://matrix.to/#/#mstickereditor:lukas1818.de]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 import sticker packs from telegram, to be used at the Maunium sticker picker for Matrix

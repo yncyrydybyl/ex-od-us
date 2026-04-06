@@ -1,12 +1,14 @@
 ---
-name: "Difftastic"
-description: "a structural diff that understands syntax 🟥🟩"
+name: Difftastic
+description: a structural diff that understands syntax 🟥🟩
 repo: "https://github.com/Wilfred/difftastic"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5869]
 updated: "2026-03-25T23:50:27Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 a structural diff that understands syntax 🟥🟩

@@ -1,12 +1,14 @@
 ---
-name: "Freenet Core"
-description: "Declare your digital independence"
+name: Freenet Core
+description: Declare your digital independence
 repo: "https://github.com/freenet/freenet-core"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6283]
 updated: "2026-04-05T22:07:07Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Declare your digital independence

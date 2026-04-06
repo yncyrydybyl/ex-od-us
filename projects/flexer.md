@@ -10,7 +10,7 @@ updated: "2025-05-05T12:16:27Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:32Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Lexing library for Swift

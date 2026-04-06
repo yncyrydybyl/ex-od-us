@@ -1,11 +1,14 @@
 ---
-name: "Typecell"
+name: Typecell
 repo: "https://github.com/TypeCellOS/TypeCell"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-05-22T08:39:26Z"
+matrix_rooms: [https://matrix.to/#/#typecell-space:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 ## Stats

@@ -1,12 +1,15 @@
 ---
-name: "Umap"
-description: "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site."
+name: Umap
+description: uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 repo: "https://github.com/umap-project/umap"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T17:16:07Z"
+matrix_rooms: [https://matrix.to/#/#umap:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
