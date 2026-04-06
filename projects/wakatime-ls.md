@@ -5,7 +5,7 @@ repo: "https://github.com/mrnossiom/wakatime-ls"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4051]
 updated: "2026-02-07T16:39:22Z"
 ---
 

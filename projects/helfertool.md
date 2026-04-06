@@ -5,7 +5,7 @@ repo: "https://github.com/helfertool/helfertool"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3375]
 updated: "2026-02-03T21:01:34Z"
 ---
 

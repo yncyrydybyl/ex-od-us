@@ -5,7 +5,7 @@ repo: "https://github.com/Hakuuyosei/QQHistoryExport"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3886]
 updated: "2024-01-20T13:40:42Z"
 ---
 

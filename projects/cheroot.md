@@ -5,7 +5,7 @@ repo: "https://github.com/cherrypy/cheroot"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2947]
 updated: "2026-03-06T22:59:58Z"
 verified: true
 verified_note: repo alive, room not checked

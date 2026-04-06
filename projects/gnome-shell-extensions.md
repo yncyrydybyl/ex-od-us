@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/gnome-shell-extensions"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3327]
 updated: "2026-04-05T12:45:26Z"
 ---
 

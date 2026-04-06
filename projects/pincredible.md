@@ -5,7 +5,7 @@ repo: "https://github.com/cyb3rko/pincredible"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [3833]
 updated: "2025-06-15T19:53:03Z"
 ---
 

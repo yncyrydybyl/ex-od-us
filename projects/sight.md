@@ -5,7 +5,7 @@ repo: "https://github.com/IRCAD/sight"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3953]
 updated: "2026-03-27T16:31:49Z"
 ---
 

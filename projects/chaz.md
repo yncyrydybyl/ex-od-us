@@ -5,7 +5,7 @@ repo: "https://github.com/arcuru/chaz"
 platform: github
 categories: [Messaging, Matrix]
 status: Active
-issues: []
+issues: [2946]
 updated: "2025-08-06T20:28:01Z"
 verified: true
 verified_note: repo alive, room not checked

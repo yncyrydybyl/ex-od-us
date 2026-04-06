@@ -5,7 +5,7 @@ repo: "https://github.com/keeshii/ryuu-play"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3930]
 updated: "2025-11-08T07:50:46Z"
 ---
 

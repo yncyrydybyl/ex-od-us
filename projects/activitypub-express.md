@@ -5,7 +5,7 @@ repo: "https://github.com/immers-space/activitypub-express"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2789]
 updated: "2024-02-20T21:05:41Z"
 ---
 

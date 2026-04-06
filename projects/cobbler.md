@@ -5,7 +5,7 @@ repo: "https://github.com/cobbler/cobbler"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2969]
 updated: "2026-04-02T12:37:37Z"
 verified: true
 verified_note: repo alive, room not checked

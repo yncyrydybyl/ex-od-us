@@ -5,7 +5,7 @@ repo: "https://github.com/gongzisun/cnretroshare"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2967]
 updated: "2021-10-10T06:43:47Z"
 ---
 

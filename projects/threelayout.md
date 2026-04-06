@@ -5,7 +5,7 @@ repo: "https://github.com/jackrosenthal/threelayout"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3999]
 updated: "2026-02-11T23:31:04Z"
 ---
 

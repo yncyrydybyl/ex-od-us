@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/someguy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3964]
 updated: "2026-03-09T05:11:04Z"
 ---
 

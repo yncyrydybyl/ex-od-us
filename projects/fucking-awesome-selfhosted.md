@@ -5,7 +5,7 @@ repo: "https://github.com/Correia-jpv/fucking-awesome-selfhosted"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3294]
 updated: "2026-04-06T06:42:11Z"
 ---
 

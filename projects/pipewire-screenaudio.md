@@ -5,7 +5,7 @@ repo: "https://github.com/IceDBorn/pipewire-screenaudio"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3842]
 updated: "2026-03-24T17:51:12Z"
 ---
 

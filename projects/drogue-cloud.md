@@ -5,7 +5,7 @@ repo: "https://github.com/drogue-iot/drogue-cloud"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3107]
 updated: "2023-05-24T13:20:00Z"
 verified: true
 verified_note: repo alive, room not checked

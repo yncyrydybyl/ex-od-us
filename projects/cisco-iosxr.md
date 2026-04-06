@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/cisco.iosxr"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2960]
 updated: "2026-03-18T11:33:39Z"
 ---
 

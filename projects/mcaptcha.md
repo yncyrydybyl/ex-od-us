@@ -5,7 +5,7 @@ repo: "https://github.com/mCaptcha/mCaptcha"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3670]
 updated: "2025-10-07T08:47:27Z"
 ---
 

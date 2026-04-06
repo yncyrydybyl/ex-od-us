@@ -5,7 +5,7 @@ repo: "https://github.com/aio-libs/aiohttp"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2793]
 updated: "2026-04-06T11:07:41Z"
 verified: true
 verified_note: repo alive, room not checked

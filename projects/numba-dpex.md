@@ -5,7 +5,7 @@ repo: "https://github.com/IntelPython/numba-dpex"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3776]
 updated: "2025-09-26T20:30:33Z"
 ---
 

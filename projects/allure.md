@@ -5,7 +5,7 @@ repo: "https://github.com/AllureOfTheStars/Allure"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2804]
 updated: "2023-11-17T13:43:38Z"
 verified: true
 verified_note: repo alive, room not checked

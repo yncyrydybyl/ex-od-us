@@ -5,7 +5,7 @@ repo: "https://github.com/metacall/core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3689]
 updated: "2026-04-02T20:03:16Z"
 ---
 

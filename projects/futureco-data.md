@@ -5,7 +5,7 @@ repo: "https://github.com/laem/futureco-data"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3296]
 updated: "2025-07-10T13:48:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/mirdaki/ping"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [3838]
 updated: "2021-04-17T23:20:52Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/kmonad/kmonad"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3513]
 updated: "2026-03-11T10:02:39Z"
 ---
 

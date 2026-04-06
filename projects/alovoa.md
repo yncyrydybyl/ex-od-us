@@ -5,7 +5,7 @@ repo: "https://github.com/Alovoa/alovoa"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2806]
 updated: "2025-12-05T13:51:01Z"
 verified: true
 verified_note: repo alive, room not checked

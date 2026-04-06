@@ -5,7 +5,7 @@ repo: "https://github.com/maubot/reactbot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3903]
 updated: "2024-08-05T08:48:25Z"
 ---
 

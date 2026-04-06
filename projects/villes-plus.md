@@ -5,7 +5,7 @@ repo: "https://github.com/laem/villes.plus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4043]
 updated: "2026-03-09T07:33:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/flakestry/flakestry.dev"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3238]
 updated: "2024-10-24T16:22:11Z"
 ---
 

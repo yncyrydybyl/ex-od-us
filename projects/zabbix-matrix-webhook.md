@@ -4,7 +4,7 @@ repo: "https://github.com/jooola/zabbix-matrix-webhook"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4067]
 updated: "2026-03-05T17:51:07Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Cyrix126/gupaxx"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3363]
 updated: "2026-03-09T13:19:15Z"
 ---
 

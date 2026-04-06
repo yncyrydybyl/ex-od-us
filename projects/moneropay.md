@@ -5,7 +5,7 @@ repo: "https://github.com/moneropay/moneropay"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3727]
 updated: "2026-02-11T23:30:36Z"
 ---
 

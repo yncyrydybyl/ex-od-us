@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/ansible.netcommon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2844]
 updated: "2026-03-16T20:09:28Z"
 ---
 

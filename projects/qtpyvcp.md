@@ -5,7 +5,7 @@ repo: "https://github.com/kcjengr/qtpyvcp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3890]
 updated: "2026-03-31T06:09:01Z"
 ---
 

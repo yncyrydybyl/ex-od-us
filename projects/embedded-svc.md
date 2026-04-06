@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/embedded-svc"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3153]
 updated: "2026-03-09T08:14:43Z"
 verified: true
 verified_note: repo alive, room not checked

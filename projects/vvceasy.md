@@ -5,7 +5,7 @@ repo: "https://github.com/MartinEesmaa/VVCEasy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4049]
 updated: "2026-04-05T07:12:35Z"
 ---
 

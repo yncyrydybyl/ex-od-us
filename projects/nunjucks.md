@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla/nunjucks"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3778]
 updated: "2026-02-07T15:11:07Z"
 ---
 

@@ -4,7 +4,7 @@ repo: "https://github.com/airsonic-advanced/airsonic-advanced"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2794]
 updated: "2024-04-24T18:25:14Z"
 verified: true
 verified_note: repo alive, room not checked

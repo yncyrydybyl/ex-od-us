@@ -5,7 +5,7 @@ repo: "https://github.com/capyloon/nutria"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3781]
 updated: "2024-08-14T16:51:26Z"
 verified: true
 verified_note: repo alive, room not checked

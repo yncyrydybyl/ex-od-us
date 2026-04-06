@@ -5,7 +5,7 @@ repo: "https://github.com/jimy-byerley/pymadcad"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3882]
 updated: "2026-04-01T18:03:43Z"
 ---
 

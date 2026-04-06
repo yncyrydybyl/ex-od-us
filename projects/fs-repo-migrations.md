@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/fs-repo-migrations"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3286]
 updated: "2025-05-10T08:33:17Z"
 ---
 

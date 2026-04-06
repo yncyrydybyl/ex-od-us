@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Meter"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3693]
 updated: "2024-09-15T10:08:15Z"
 verified: true
 verified_note: repo alive, room not checked

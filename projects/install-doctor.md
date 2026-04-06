@@ -5,7 +5,7 @@ repo: "https://github.com/HeyMegabyte/install.doctor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3426]
 updated: "2026-03-17T03:34:06Z"
 ---
 

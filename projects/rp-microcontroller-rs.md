@@ -4,7 +4,7 @@ repo: "https://github.com/jannic/rp-microcontroller-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3921]
 updated: "2023-07-08T09:04:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/maelstrom-rs/maelstrom"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [3585]
 updated: "2020-08-13T21:36:15Z"
 ---
 

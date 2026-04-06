@@ -5,7 +5,7 @@ repo: "https://github.com/divnix/digga"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3082]
 updated: "2024-05-17T10:20:04Z"
 verified: true
 verified_note: repo alive, room not checked

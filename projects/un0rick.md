@@ -5,7 +5,7 @@ repo: "https://github.com/kelu124/un0rick"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4033]
 updated: "2026-04-02T21:53:37Z"
 ---
 

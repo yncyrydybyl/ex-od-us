@@ -5,7 +5,7 @@ repo: "https://github.com/labgrid-project/labgrid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3517]
 updated: "2026-04-01T18:02:10Z"
 ---
 

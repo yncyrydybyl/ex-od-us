@@ -5,7 +5,7 @@ repo: "https://github.com/mirukana/mirage"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [3708]
 updated: "2023-11-05T13:36:57Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Lm260/HutaoBot-MD"
 platform: github
 categories: [Integrations]
 status: "Active"
-issues: []
+issues: [3400]
 updated: "2025-04-22T02:26:18Z"
 ---
 

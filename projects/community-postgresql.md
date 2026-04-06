@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/community.postgresql"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2987]
 updated: "2026-03-30T13:51:02Z"
 ---
 

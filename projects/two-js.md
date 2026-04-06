@@ -5,7 +5,7 @@ repo: "https://github.com/jonobr1/two.js"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4027]
 updated: "2026-02-04T01:35:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/CherryNetwork/Cherry-Node"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2949]
 updated: "2025-04-01T02:29:37Z"
 verified: true
 verified_note: repo alive, room not checked

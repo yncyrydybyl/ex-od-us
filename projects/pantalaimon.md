@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/pantalaimon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3818]
 updated: "2025-06-04T01:05:48Z"
 ---
 

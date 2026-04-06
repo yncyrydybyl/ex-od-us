@@ -5,7 +5,7 @@ repo: "https://github.com/LinwoodDev/Setonix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3948]
 updated: "2026-04-05T17:37:48Z"
 ---
 

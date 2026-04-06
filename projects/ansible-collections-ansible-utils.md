@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/ansible.utils"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2836]
 updated: "2026-03-24T17:01:07Z"
 ---
 

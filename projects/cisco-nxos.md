@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/cisco.nxos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2961]
 updated: "2026-03-18T05:56:45Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/kndndrj/nvim-dbee"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3783]
 updated: "2025-07-25T10:27:17Z"
 ---
 

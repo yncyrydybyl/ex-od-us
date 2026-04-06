@@ -5,7 +5,7 @@ repo: "https://github.com/inet256/inet256"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3425]
 updated: "2026-02-17T15:01:57Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/FedStoa/moa"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3718]
 updated: "2022-12-08T09:46:32Z"
 verified: true
 verified_note: repo alive, room not checked

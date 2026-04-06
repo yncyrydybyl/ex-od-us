@@ -5,7 +5,7 @@ repo: "https://github.com/ken678/yzncms"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4066]
 updated: "2025-11-24T05:10:02Z"
 ---
 

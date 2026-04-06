@@ -5,7 +5,7 @@ repo: "https://github.com/ghollisjr/cl-ana"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2963]
 updated: "2024-06-13T22:26:58Z"
 ---
 

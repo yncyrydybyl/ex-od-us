@@ -5,7 +5,7 @@ repo: "https://github.com/hb9ssb/trx-control"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4017]
 updated: "2026-03-03T07:22:33Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/chromium/chromium"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2952]
 updated: "2026-04-06T14:30:43Z"
 verified: true
 verified_note: repo alive, room not checked

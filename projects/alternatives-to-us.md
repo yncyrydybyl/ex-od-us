@@ -4,7 +4,7 @@ description: A curated list of non-U.S.-based alternatives to popular services, 
 repo: "https://github.com/anitwek/alternatives-to-us"
 platform: github
 status: Active
-issues: []
+issues: [2812]
 updated: "2025-02-12T10:02:54Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/monero-project/monero-gui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3724]
 updated: "2026-03-28T20:17:57Z"
 ---
 

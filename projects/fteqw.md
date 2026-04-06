@@ -5,7 +5,7 @@ repo: "https://github.com/fte-team/fteqw"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3287]
 updated: "2026-01-27T13:32:36Z"
 ---
 

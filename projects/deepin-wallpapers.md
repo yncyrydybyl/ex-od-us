@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/deepin-wallpapers"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3069]
 updated: "2025-05-29T10:58:34Z"
 ---
 

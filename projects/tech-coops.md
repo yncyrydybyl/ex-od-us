@@ -5,7 +5,7 @@ repo: "https://github.com/hng/tech-coops"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3989]
 updated: "2026-02-03T09:17:17Z"
 ---
 

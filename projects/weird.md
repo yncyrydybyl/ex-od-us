@@ -5,7 +5,7 @@ repo: "https://github.com/muni-town/weird"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4056]
 updated: "2025-05-11T02:04:30Z"
 ---
 

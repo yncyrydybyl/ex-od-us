@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-hangouts"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3637]
 updated: "2020-03-30T20:33:58Z"
 ---
 

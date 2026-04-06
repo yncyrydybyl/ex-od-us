@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/api-performance-tests"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2858]
 updated: "2024-07-15T18:29:04Z"
 ---
 

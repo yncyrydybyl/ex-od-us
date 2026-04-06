@@ -5,7 +5,7 @@ repo: "https://github.com/maplibre/maplibre-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3600]
 updated: "2026-04-03T03:56:05Z"
 ---
 

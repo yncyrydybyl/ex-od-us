@@ -5,7 +5,7 @@ repo: "https://github.com/keshav-space/safenotes"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [3932]
 updated: "2025-11-23T18:24:10Z"
 ---
 

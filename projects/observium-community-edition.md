@@ -5,7 +5,7 @@ repo: "https://github.com/DanielleHuisman/observium-community-edition"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3790]
 updated: "2026-03-21T09:47:00Z"
 ---
 

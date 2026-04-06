@@ -5,7 +5,7 @@ repo: "https://github.com/galaxyproject/admin-training"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2791]
 updated: "2025-12-05T21:22:01Z"
 ---
 

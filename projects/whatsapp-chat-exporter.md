@@ -5,7 +5,7 @@ repo: "https://github.com/KnugiHK/WhatsApp-Chat-Exporter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4059]
 updated: "2026-04-05T15:01:34Z"
 ---
 

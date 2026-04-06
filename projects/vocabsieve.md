@@ -5,7 +5,7 @@ repo: "https://github.com/FreeLanguageTools/vocabsieve"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4047]
 updated: "2025-08-15T01:33:56Z"
 ---
 

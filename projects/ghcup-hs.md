@@ -4,7 +4,7 @@ repo: "https://github.com/haskell/ghcup-hs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3311]
 updated: "2026-04-06T09:55:11Z"
 ---
 

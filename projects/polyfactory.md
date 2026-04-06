@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/polyfactory"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3854]
 updated: "2026-03-30T20:02:57Z"
 ---
 

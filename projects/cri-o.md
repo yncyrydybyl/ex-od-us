@@ -5,7 +5,7 @@ repo: "https://github.com/cri-o/cri-o"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3012]
 updated: "2026-04-06T00:21:00Z"
 ---
 

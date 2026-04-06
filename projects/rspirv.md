@@ -5,7 +5,7 @@ repo: "https://github.com/gfx-rs/rspirv"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3922]
 updated: "2026-03-13T15:49:48Z"
 ---
 

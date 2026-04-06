@@ -5,7 +5,7 @@ repo: "https://github.com/LemmyNet/activitypub-federation-rust"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2790]
 updated: "2026-03-17T10:21:21Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/KnowledgeCaptureAndDiscovery/somef"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3963]
 updated: "2026-04-02T09:20:09Z"
 ---
 

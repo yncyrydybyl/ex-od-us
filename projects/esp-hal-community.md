@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-hal-community"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3176]
 updated: "2025-11-28T15:06:24Z"
 verified: true
 verified_note: repo alive, room not checked

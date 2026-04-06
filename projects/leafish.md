@@ -5,7 +5,7 @@ repo: "https://github.com/Lea-fish/Leafish"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3529]
 updated: "2024-08-02T22:39:46Z"
 ---
 

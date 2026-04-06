@@ -5,7 +5,7 @@ repo: "https://github.com/farmOS/farmOS.py"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3210]
 updated: "2025-11-19T05:11:40Z"
 ---
 

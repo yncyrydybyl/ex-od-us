@@ -5,7 +5,7 @@ repo: "https://github.com/layday/instawow"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3428]
 updated: "2026-04-02T11:02:25Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/arista.eos"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [2881]
 updated: "2026-04-02T10:14:42Z"
 verified: false
 verified_note: repo not found (404)

@@ -5,7 +5,7 @@ repo: "https://github.com/icefields/Power-Ampache-2"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3864]
 updated: "2026-02-02T21:58:10Z"
 ---
 

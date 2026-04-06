@@ -5,7 +5,7 @@ repo: "https://github.com/cirocosta/go-monero"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3330]
 updated: "2023-04-10T01:07:11Z"
 verified: true
 verified_note: repo alive, room not checked

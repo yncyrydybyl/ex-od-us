@@ -5,7 +5,7 @@ repo: "https://github.com/flightphp/core"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3004]
 updated: "2026-04-01T17:21:22Z"
 verified: true
 verified_note: repo alive, room not checked

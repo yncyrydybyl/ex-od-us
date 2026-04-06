@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/purple-matrix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3872]
 updated: "2023-04-24T10:25:00Z"
 ---
 

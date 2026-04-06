@@ -5,7 +5,7 @@ repo: "https://github.com/kelaresg/go-skype-bridge"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3334]
 updated: "2023-02-23T13:28:09Z"
 ---
 

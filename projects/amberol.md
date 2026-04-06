@@ -5,7 +5,7 @@ repo: "https://github.com/adamjatim/amberol"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2824]
 updated: "2024-10-16T09:48:41Z"
 verified: true
 verified_note: repo alive, room not checked

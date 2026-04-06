@@ -5,7 +5,7 @@ repo: "https://github.com/KB1RD/matrix-pstn-bridge"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [3632]
 updated: "2021-07-02T16:33:35Z"
 ---
 

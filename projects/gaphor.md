@@ -5,7 +5,7 @@ repo: "https://github.com/gaphor/gaphor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3301]
 updated: "2026-04-06T12:38:24Z"
 ---
 

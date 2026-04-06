@@ -5,7 +5,7 @@ repo: "https://github.com/CatimaLoyalty/Android"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2827]
 updated: "2026-04-03T19:41:03Z"
 verified: true
 verified_note: repo alive, room not checked

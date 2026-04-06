@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-viewer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3663]
 updated: "2026-03-27T20:56:12Z"
 ---
 

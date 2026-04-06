@@ -5,7 +5,7 @@ repo: "https://github.com/immers-space/immers"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3417]
 updated: "2024-02-12T23:32:04Z"
 ---
 

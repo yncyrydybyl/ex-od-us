@@ -5,7 +5,7 @@ repo: "https://github.com/farmOS/field-kit"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3229]
 updated: "2024-04-07T18:11:21Z"
 verified: true
 verified_note: repo alive, room not checked

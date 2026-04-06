@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-kodi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3462]
 updated: "2026-04-06T11:52:12Z"
 ---
 

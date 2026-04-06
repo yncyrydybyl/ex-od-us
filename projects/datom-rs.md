@@ -5,7 +5,7 @@ repo: "https://github.com/LutrisEng/datom-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3047]
 updated: "2023-12-16T00:20:27Z"
 ---
 

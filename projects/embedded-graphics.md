@@ -5,7 +5,7 @@ repo: "https://github.com/embedded-graphics/embedded-graphics"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3151]
 updated: "2026-02-15T16:48:52Z"
 verified: true
 verified_note: repo alive, room not checked

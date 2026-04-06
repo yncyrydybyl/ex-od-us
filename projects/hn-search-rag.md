@@ -5,7 +5,7 @@ repo: "https://github.com/devflowinc/hn-search-RAG"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3387]
 updated: "2024-12-11T00:14:23Z"
 verified: true
 verified_note: repo alive, room not checked

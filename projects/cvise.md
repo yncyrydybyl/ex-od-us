@@ -5,7 +5,7 @@ repo: "https://github.com/marxin/cvise"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3029]
 updated: "2026-03-31T12:34:43Z"
 ---
 

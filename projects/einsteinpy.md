@@ -5,7 +5,7 @@ repo: "https://github.com/einsteinpy/einsteinpy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3122]
 updated: "2024-06-25T23:59:35Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/Igalia/wpe-android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4062]
 updated: "2026-04-02T11:55:00Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/librekeys/picoforge"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3832]
 updated: "2026-03-24T13:40:00Z"
 ---
 

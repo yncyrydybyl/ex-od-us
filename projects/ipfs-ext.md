@@ -5,7 +5,7 @@ repo: "https://github.com/cloudflarearchive/ipfs-ext"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3440]
 updated: "2022-06-22T07:55:21Z"
 verified: true
 verified_note: repo alive, room not checked

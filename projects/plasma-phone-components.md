@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/plasma-phone-components"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3847]
 updated: "2022-01-17T17:38:11Z"
 ---
 

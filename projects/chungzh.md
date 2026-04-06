@@ -5,7 +5,7 @@ repo: "https://github.com/ChungZH/ChungZH"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2954]
 updated: "2024-08-15T06:20:53Z"
 verified: true
 verified_note: repo alive, room not checked

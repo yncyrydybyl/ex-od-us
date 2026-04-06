@@ -5,7 +5,7 @@ repo: "https://github.com/mguentner/cannelloni"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2933]
 updated: "2026-01-25T20:54:15Z"
 ---
 

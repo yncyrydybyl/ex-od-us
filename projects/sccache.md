@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla/sccache"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3938]
 updated: "2026-03-30T18:44:05Z"
 ---
 

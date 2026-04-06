@@ -5,7 +5,7 @@ repo: "https://github.com/Gedsh/InviZible"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3433]
 updated: "2026-03-03T13:16:48Z"
 ---
 

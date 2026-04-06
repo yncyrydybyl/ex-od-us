@@ -5,7 +5,7 @@ repo: "https://github.com/ibizaman/selfhostblocks"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3942]
 updated: "2026-04-02T02:54:48Z"
 ---
 

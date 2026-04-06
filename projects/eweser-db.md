@@ -5,7 +5,7 @@ repo: "https://github.com/eweser/eweser-db"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3198]
 updated: "2026-04-06T09:26:27Z"
 verified: true
 verified_note: repo alive, room not checked

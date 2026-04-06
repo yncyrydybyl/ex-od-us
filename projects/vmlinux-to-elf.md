@@ -5,7 +5,7 @@ repo: "https://github.com/marin-m/vmlinux-to-elf"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4045]
 updated: "2026-03-27T15:15:25Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla/releases-comm-central"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3907]
 updated: "2026-04-06T09:26:23Z"
 ---
 

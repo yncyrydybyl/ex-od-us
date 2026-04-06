@@ -5,7 +5,7 @@ repo: "https://github.com/krombel/matrix-register-bot"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3646]
 updated: "2021-06-22T15:28:28Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/JavaMoney/jsr354-ri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3497]
 updated: "2026-04-01T01:32:46Z"
 ---
 

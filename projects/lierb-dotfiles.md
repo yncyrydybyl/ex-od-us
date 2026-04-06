@@ -5,7 +5,7 @@ repo: "https://github.com/LierB/dotfiles"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3556]
 updated: "2025-01-26T19:40:42Z"
 ---
 

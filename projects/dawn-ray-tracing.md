@@ -5,7 +5,7 @@ repo: "https://github.com/maierfelix/dawn-ray-tracing"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3049]
 updated: "2020-09-15T08:27:22Z"
 ---
 

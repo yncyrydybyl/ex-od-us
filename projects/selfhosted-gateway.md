@@ -5,7 +5,7 @@ repo: "https://github.com/hintjen/selfhosted-gateway"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3944]
 updated: "2025-03-28T15:24:51Z"
 ---
 

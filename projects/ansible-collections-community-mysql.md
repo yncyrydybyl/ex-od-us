@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/community.mysql"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2841]
 updated: "2026-03-30T21:04:46Z"
 ---
 

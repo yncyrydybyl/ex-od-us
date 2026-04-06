@@ -5,7 +5,7 @@ repo: "https://github.com/fraction/oasis"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3786]
 updated: "2023-03-04T05:35:10Z"
 verified: true
 verified_note: repo alive, room not checked

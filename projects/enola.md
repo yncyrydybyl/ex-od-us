@@ -5,7 +5,7 @@ repo: "https://github.com/enola-dev/enola"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3165]
 updated: "2026-03-25T20:40:13Z"
 verified: true
 verified_note: repo alive, room not checked

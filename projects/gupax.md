@@ -5,7 +5,7 @@ repo: "https://github.com/gupax-io/gupax"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3362]
 updated: "2026-03-19T15:43:54Z"
 ---
 

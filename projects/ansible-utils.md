@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/ansible.utils"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [2846]
 updated: "2026-03-24T17:01:07Z"
 verified: false
 verified_note: repo not found (404)

@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla/multi-account-containers"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3741]
 updated: "2026-03-11T21:37:03Z"
 ---
 

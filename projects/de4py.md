@@ -5,7 +5,7 @@ repo: "https://github.com/Fadi002/de4py"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3059]
 updated: "2026-03-30T06:30:53Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/metrixmedia/SteamEmulator"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3968]
 updated: "2025-10-05T20:40:54Z"
 ---
 

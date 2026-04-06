@@ -5,7 +5,7 @@ repo: "https://github.com/hsjobeki/nix-types"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3766]
 updated: "2024-10-28T07:30:46Z"
 ---
 

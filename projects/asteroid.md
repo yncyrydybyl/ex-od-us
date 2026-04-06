@@ -5,7 +5,7 @@ repo: "https://github.com/AsteroidOS/asteroid"
 platform: github
 categories: [Infrastructure]
 status: Active
-issues: []
+issues: [2897]
 updated: "2026-02-15T18:49:26Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs-shipyard/py-ipfs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3876]
 updated: "2025-05-01T08:39:50Z"
 ---
 

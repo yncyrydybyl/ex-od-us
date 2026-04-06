@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Extendable"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3202]
 updated: "2025-06-14T11:24:51Z"
 verified: true
 verified_note: repo alive, room not checked

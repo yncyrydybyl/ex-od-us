@@ -5,7 +5,7 @@ repo: "https://github.com/KB1RD/matrix-notepad"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3629]
 updated: "2023-01-07T12:02:59Z"
 ---
 

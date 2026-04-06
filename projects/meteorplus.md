@@ -5,7 +5,7 @@ repo: "https://github.com/MeteorClientPlus/MeteorPlus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3691]
 updated: "2026-03-21T13:43:09Z"
 ---
 

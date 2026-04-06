@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-community/ara"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2866]
 updated: "2026-02-25T23:59:54Z"
 verified: true
 verified_note: repo alive, room not checked

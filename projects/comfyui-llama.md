@@ -5,7 +5,7 @@ repo: "https://github.com/HairlessPrimate/ComfyUI-Llama"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2978]
 updated: "2024-06-29T19:55:42Z"
 ---
 

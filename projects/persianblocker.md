@@ -5,7 +5,7 @@ repo: "https://github.com/MasterKia/PersianBlocker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3828]
 updated: "2026-02-19T15:47:13Z"
 ---
 

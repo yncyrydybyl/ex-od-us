@@ -5,7 +5,7 @@ repo: "https://github.com/Cryptonomic/ConseilJS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2999]
 updated: "2024-08-28T17:55:22Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/galister/oscavmgr"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3810]
 updated: "2025-08-31T11:14:14Z"
 ---
 

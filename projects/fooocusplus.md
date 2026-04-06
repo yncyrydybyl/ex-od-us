@@ -5,7 +5,7 @@ repo: "https://github.com/DavidDragonsage/FooocusPlus"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3264]
 updated: "2026-04-05T03:53:19Z"
 verified: true
 verified_note: repo alive, room not checked

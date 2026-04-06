@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-collections/arista.eos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2838]
 updated: "2026-04-02T10:14:42Z"
 ---
 

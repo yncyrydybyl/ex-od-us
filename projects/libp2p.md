@@ -5,7 +5,7 @@ repo: "https://github.com/libp2p/libp2p"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3545]
 updated: "2026-03-28T06:43:42Z"
 ---
 

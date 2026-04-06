@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/complement"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2992]
 updated: "2026-04-02T09:39:33Z"
 ---
 

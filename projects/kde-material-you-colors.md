@@ -5,7 +5,7 @@ repo: "https://github.com/luisbocanegra/kde-material-you-colors"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3508]
 updated: "2026-03-26T05:18:07Z"
 ---
 

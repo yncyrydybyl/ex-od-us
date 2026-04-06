@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/npm-kubo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3772]
 updated: "2026-03-01T16:17:11Z"
 ---
 

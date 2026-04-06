@@ -4,7 +4,7 @@ repo: "https://github.com/mcronce/oci-registry"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3792]
 updated: "2024-06-24T22:02:33Z"
 ---
 

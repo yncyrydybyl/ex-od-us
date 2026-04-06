@@ -5,7 +5,7 @@ repo: "https://github.com/go-shiori/shiori"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3950]
 updated: "2026-02-01T10:14:02Z"
 ---
 

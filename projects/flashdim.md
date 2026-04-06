@@ -5,7 +5,7 @@ repo: "https://github.com/cyb3rko/flashdim"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3240]
 updated: "2026-02-23T20:31:07Z"
 ---
 

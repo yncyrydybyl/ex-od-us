@@ -5,7 +5,7 @@ repo: "https://github.com/james-bowman/sparse"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3967]
 updated: "2026-02-16T20:22:47Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/lottec-ufpb/populus-viewer"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3858]
 updated: "2026-02-01T11:13:00Z"
 ---
 

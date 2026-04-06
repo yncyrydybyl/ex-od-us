@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/manager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3595]
 updated: "2025-07-28T19:31:14Z"
 ---
 

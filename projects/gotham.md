@@ -5,7 +5,7 @@ repo: "https://github.com/gotham-rs/gotham"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3344]
 updated: "2026-03-30T07:02:59Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dde-launcher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3056]
 updated: "2025-06-24T08:04:28Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/cryptpad/cryptpad"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [3016]
 updated: "2026-04-01T15:24:40Z"
 ---
 

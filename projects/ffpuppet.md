@@ -5,7 +5,7 @@ repo: "https://github.com/MozillaSecurity/ffpuppet"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3227]
 updated: "2026-04-05T17:02:19Z"
 ---
 

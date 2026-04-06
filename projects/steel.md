@@ -5,7 +5,7 @@ repo: "https://github.com/mattwparas/steel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3970]
 updated: "2026-04-06T14:53:06Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/goodboy/tractor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4006]
 updated: "2026-04-05T17:43:10Z"
 ---
 

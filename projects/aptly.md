@@ -5,7 +5,7 @@ repo: "https://github.com/aptly-dev/aptly"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2865]
 updated: "2026-03-28T16:37:38Z"
 verified: true
 verified_note: repo alive, room not checked

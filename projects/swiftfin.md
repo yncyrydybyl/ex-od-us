@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/Swiftfin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3980]
 updated: "2026-04-06T00:35:28Z"
 ---
 

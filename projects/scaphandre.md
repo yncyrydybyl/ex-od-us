@@ -5,7 +5,7 @@ repo: "https://github.com/hubblo-org/scaphandre"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3936]
 updated: "2026-04-03T15:35:35Z"
 ---
 

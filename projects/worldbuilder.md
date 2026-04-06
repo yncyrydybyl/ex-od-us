@@ -5,7 +5,7 @@ repo: "https://github.com/GeodynamicWorldBuilder/WorldBuilder"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4061]
 updated: "2026-04-01T21:39:13Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-community/antsibull-build"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2850]
 updated: "2026-03-31T05:03:17Z"
 verified: true
 verified_note: repo alive, room not checked

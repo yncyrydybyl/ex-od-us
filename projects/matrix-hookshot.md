@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-hookshot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3622]
 updated: "2026-04-01T18:06:08Z"
 ---
 

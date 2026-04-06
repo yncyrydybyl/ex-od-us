@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/pytest-databases"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3883]
 updated: "2026-04-06T01:30:49Z"
 ---
 

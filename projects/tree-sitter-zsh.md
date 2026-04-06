@@ -5,7 +5,7 @@ repo: "https://github.com/georgeharker/tree-sitter-zsh"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4011]
 updated: "2026-03-16T21:05:26Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/flatcar-terraform"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3244]
 updated: "2026-03-31T12:36:44Z"
 verified: true
 verified_note: repo alive, room not checked

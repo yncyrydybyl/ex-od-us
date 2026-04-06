@@ -5,7 +5,7 @@ repo: "https://github.com/dani-garcia/bw_web_builds"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2931]
 updated: "2026-03-23T21:44:34Z"
 ---
 

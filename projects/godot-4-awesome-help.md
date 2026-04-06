@@ -5,7 +5,7 @@ repo: "https://github.com/mogoh/godot-4-awesome-help"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3339]
 updated: "2024-11-05T22:08:48Z"
 ---
 

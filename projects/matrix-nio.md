@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-nio/matrix-nio"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3627]
 updated: "2026-02-16T11:33:25Z"
 ---
 

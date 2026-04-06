@@ -5,7 +5,7 @@ repo: "https://github.com/madsmtm/objc2"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3788]
 updated: "2026-03-18T14:37:43Z"
 ---
 

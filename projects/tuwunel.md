@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-construct/tuwunel"
 platform: github
 categories: [Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [4022]
 updated: "2026-04-06T08:05:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ashos/ashos"
 platform: github
 categories: [Infrastructure]
 status: Active
-issues: []
+issues: [2890]
 updated: "2024-05-25T03:22:41Z"
 verified: true
 verified_note: repo alive, room not checked

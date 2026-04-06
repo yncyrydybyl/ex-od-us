@@ -5,7 +5,7 @@ repo: "https://github.com/emilylange/matrix-sip-bridge"
 platform: github
 categories: [Bridging, Matrix]
 status: Active
-issues: []
+issues: [3653]
 updated: "2023-02-12T13:18:37Z"
 verified: true
 verified_note: repo alive, room not checked

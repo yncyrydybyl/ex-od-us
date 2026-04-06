@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/snoretoast"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3960]
 updated: "2025-12-11T09:30:28Z"
 ---
 

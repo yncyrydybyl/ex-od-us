@@ -5,7 +5,7 @@ repo: "https://github.com/Lurkki14/tuxclocker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4023]
 updated: "2025-07-30T17:13:21Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/joaocarvalhoopen/Raspberry_Pi_Pico_in_Rust__Proj_Templ
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3902]
 updated: "2022-02-25T20:55:32Z"
 ---
 

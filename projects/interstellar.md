@@ -5,7 +5,7 @@ repo: "https://github.com/interstellar-app/interstellar"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3429]
 updated: "2026-04-03T06:43:58Z"
 ---
 

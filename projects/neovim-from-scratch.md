@@ -5,7 +5,7 @@ repo: "https://github.com/LunarVim/Neovim-from-scratch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3759]
 updated: "2024-07-22T20:44:57Z"
 ---
 

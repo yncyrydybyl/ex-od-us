@@ -5,7 +5,7 @@ repo: "https://github.com/forgefed/forgefed"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3266]
 updated: "2026-03-26T08:50:38Z"
 verified: true
 verified_note: repo alive, room not checked

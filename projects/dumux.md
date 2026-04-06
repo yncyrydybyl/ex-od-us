@@ -5,7 +5,7 @@ repo: "https://github.com/dumux/dumux"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3114]
 updated: "2026-03-30T10:14:22Z"
 verified: true
 verified_note: repo alive, room not checked

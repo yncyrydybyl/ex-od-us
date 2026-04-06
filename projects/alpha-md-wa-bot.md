@@ -5,7 +5,7 @@ repo: "https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2807]
 updated: "2023-09-22T19:19:46Z"
 verified: true
 verified_note: repo alive, room not checked

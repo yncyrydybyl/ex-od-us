@@ -5,7 +5,7 @@ repo: "https://github.com/Excision-Mail/Excision-Mail"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3199]
 updated: "2022-10-30T06:11:22Z"
 verified: true
 verified_note: repo alive, room not checked

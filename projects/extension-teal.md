@@ -5,7 +5,7 @@ repo: "https://github.com/defold/extension-teal"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3206]
 updated: "2025-09-09T20:21:40Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/jsonresume/jsonresume-theme-class"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3494]
 updated: "2026-03-04T21:18:01Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs-shipyard/py-ipfs-http-client"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3875]
 updated: "2025-05-01T08:39:51Z"
 ---
 

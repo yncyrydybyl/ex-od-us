@@ -5,7 +5,7 @@ repo: "https://github.com/maubot/reminder"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3910]
 updated: "2025-08-27T11:32:16Z"
 ---
 

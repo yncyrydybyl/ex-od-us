@@ -5,7 +5,7 @@ repo: "https://github.com/ephemery-testnet/ephemery-resources"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3167]
 updated: "2025-10-22T10:49:37Z"
 verified: true
 verified_note: repo alive, room not checked

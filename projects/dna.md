@@ -5,7 +5,7 @@ repo: "https://github.com/leifeld-lab/dna"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3093]
 updated: "2026-03-17T13:40:00Z"
 ---
 

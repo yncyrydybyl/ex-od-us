@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Glyph"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3321]
 updated: "2025-02-27T18:22:12Z"
 verified: true
 verified_note: repo alive, room not checked

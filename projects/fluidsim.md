@@ -5,7 +5,7 @@ repo: "https://github.com/fluiddyn/fluidsim"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3260]
 updated: "2026-02-18T13:31:47Z"
 verified: true
 verified_note: repo alive, room not checked

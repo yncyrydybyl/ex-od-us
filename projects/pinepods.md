@@ -5,7 +5,7 @@ repo: "https://github.com/madeofpendletonwool/PinePods"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3836]
 updated: "2026-03-18T15:39:23Z"
 ---
 

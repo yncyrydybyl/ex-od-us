@@ -5,7 +5,7 @@ repo: "https://github.com/knowsys/rulewerk"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3925]
 updated: "2025-07-12T02:04:49Z"
 ---
 

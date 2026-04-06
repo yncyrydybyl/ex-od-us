@@ -5,7 +5,7 @@ repo: "https://github.com/fedify-dev/fedify"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3217]
 updated: "2026-04-03T14:58:24Z"
 verified: true
 verified_note: repo alive, room not checked

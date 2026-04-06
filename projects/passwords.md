@@ -5,7 +5,7 @@ repo: "https://github.com/marius-wieschollek/passwords"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3823]
 updated: "2026-03-30T21:22:07Z"
 ---
 

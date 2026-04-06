@@ -5,7 +5,7 @@ repo: "https://github.com/irisnet/testnets"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3992]
 updated: "2026-02-09T03:24:57Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/diamondburned/gotk4"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3345]
 updated: "2025-07-03T07:12:42Z"
 verified: true
 verified_note: repo alive, room not checked

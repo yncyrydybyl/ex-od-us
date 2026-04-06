@@ -5,7 +5,7 @@ repo: "https://github.com/linuxmint/cjs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2962]
 updated: "2026-02-11T18:23:39Z"
 ---
 

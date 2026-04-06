@@ -5,7 +5,7 @@ repo: "https://github.com/flora-pm/flora-server"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3253]
 updated: "2026-04-03T21:43:26Z"
 verified: true
 verified_note: repo alive, room not checked

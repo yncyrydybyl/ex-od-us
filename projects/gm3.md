@@ -5,7 +5,7 @@ repo: "https://github.com/geomoose/gm3"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3323]
 updated: "2026-03-30T15:41:10Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Croydon/vertical-tabs-reloaded"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4041]
 updated: "2026-01-13T21:28:30Z"
 ---
 

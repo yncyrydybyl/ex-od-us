@@ -5,7 +5,7 @@ repo: "https://github.com/flammie/omorfi"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3797]
 updated: "2026-02-24T14:10:57Z"
 verified: true
 verified_note: repo alive, room not checked

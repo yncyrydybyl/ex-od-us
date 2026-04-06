@@ -5,7 +5,7 @@ repo: "https://github.com/FaradayApp/Faraday-android"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3207]
 updated: "2025-06-04T08:09:59Z"
 verified: true
 verified_note: repo alive, room not checked

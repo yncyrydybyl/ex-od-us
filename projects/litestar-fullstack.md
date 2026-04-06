@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/litestar-fullstack"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3568]
 updated: "2026-02-27T18:03:36Z"
 ---
 

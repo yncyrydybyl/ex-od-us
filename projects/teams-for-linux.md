@@ -5,7 +5,7 @@ repo: "https://github.com/IsmaelMartinez/teams-for-linux"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3988]
 updated: "2026-04-06T14:53:19Z"
 ---
 

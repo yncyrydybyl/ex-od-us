@@ -5,7 +5,7 @@ repo: "https://github.com/aditya24raj/darth_waydr"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3042]
 updated: "2022-03-10T07:11:47Z"
 verified: true
 verified_note: repo alive, room not checked

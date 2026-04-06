@@ -5,7 +5,7 @@ repo: "https://github.com/kristoff-it/supermd"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3977]
 updated: "2025-11-21T13:34:38Z"
 ---
 

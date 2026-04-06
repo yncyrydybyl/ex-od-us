@@ -5,7 +5,7 @@ repo: "https://github.com/layters/testshop"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3994]
 updated: "2026-01-23T04:48:40Z"
 ---
 

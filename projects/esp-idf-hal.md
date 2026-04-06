@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-idf-hal"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3179]
 updated: "2026-03-29T08:43:11Z"
 verified: true
 verified_note: repo alive, room not checked

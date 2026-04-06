@@ -5,7 +5,7 @@ repo: "https://github.com/maunalinux/shortwave"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3951]
 updated: "2026-01-08T18:59:37Z"
 ---
 

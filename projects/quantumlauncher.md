@@ -5,7 +5,7 @@ repo: "https://github.com/Mrmayman/quantumlauncher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3892]
 updated: "2026-04-04T15:17:44Z"
 ---
 

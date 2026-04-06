@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-bifrost"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3614]
 updated: "2026-04-01T13:21:59Z"
 ---
 

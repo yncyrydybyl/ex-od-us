@@ -5,7 +5,7 @@ repo: "https://github.com/libkeepass/pykeepass"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3880]
 updated: "2026-03-30T18:38:35Z"
 ---
 

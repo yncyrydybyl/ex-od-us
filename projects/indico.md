@@ -5,7 +5,7 @@ repo: "https://github.com/indico/indico"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3423]
 updated: "2026-04-06T12:34:08Z"
 ---
 

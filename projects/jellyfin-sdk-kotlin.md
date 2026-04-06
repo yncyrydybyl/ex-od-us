@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-sdk-kotlin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3469]
 updated: "2026-04-06T06:59:44Z"
 ---
 

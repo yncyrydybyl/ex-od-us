@@ -5,7 +5,7 @@ repo: "https://github.com/hkupty/nvimux"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3785]
 updated: "2022-05-19T09:08:39Z"
 ---
 

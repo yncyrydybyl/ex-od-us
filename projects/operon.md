@@ -5,7 +5,7 @@ repo: "https://github.com/heal-research/operon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3806]
 updated: "2026-04-06T07:25:50Z"
 ---
 

@@ -4,7 +4,7 @@ repo: "https://github.com/flathub/im.riot.Riot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3247]
 updated: "2026-03-30T00:32:52Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/aljazceru/lightning-network.tech"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2801]
 updated: "2026-03-24T13:09:40Z"
 ---
 

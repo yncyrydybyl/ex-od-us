@@ -5,7 +5,7 @@ repo: "https://github.com/l3montree-dev/devguard"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3078]
 updated: "2026-04-03T20:25:54Z"
 ---
 

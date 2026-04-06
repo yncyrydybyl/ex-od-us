@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/python"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3884]
 updated: "2026-03-23T12:48:34Z"
 ---
 

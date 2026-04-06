@@ -5,7 +5,7 @@ repo: "https://github.com/marcusbritanicus/QtGreet"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3888]
 updated: "2024-12-10T18:04:39Z"
 ---
 

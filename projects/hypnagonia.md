@@ -5,7 +5,7 @@ repo: "https://github.com/db0/hypnagonia"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3406]
 updated: "2025-04-10T12:53:02Z"
 verified: true
 verified_note: repo alive, room not checked

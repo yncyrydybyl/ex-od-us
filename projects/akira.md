@@ -5,7 +5,7 @@ repo: "https://github.com/akiraux/Akira"
 platform: github
 categories: [Infrastructure]
 status: Active
-issues: []
+issues: [2795]
 updated: "2025-12-30T23:56:04Z"
 verified: true
 verified_note: repo alive, room not checked

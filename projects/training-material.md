@@ -5,7 +5,7 @@ repo: "https://github.com/galaxyproject/training-material"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4008]
 updated: "2026-04-06T11:01:09Z"
 ---
 

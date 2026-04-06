@@ -5,7 +5,7 @@ repo: "https://github.com/mjakeman/extension-manager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3204]
 updated: "2026-03-22T14:09:58Z"
 ---
 

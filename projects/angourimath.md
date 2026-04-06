@@ -5,7 +5,7 @@ repo: "https://github.com/asc-community/AngouriMath"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2829]
 updated: "2026-02-27T12:14:12Z"
 verified: true
 verified_note: repo alive, room not checked

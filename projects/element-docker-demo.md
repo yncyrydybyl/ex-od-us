@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-docker-demo"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3132]
 updated: "2025-03-22T22:07:59Z"
 verified: true
 verified_note: repo alive, room not checked

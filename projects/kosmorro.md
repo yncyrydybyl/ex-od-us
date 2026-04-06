@@ -5,7 +5,7 @@ repo: "https://github.com/Kosmorro/kosmorro"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3515]
 updated: "2026-03-12T17:38:41Z"
 ---
 

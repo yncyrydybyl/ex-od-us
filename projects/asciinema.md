@@ -5,7 +5,7 @@ repo: "https://github.com/asciinema/asciinema"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [2888]
 updated: "2026-03-21T09:35:50Z"
 verified: true
 verified_note: repo alive, room not checked

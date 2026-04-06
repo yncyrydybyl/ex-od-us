@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Flexer"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3250]
 updated: "2025-05-05T12:16:27Z"
 verified: true
 verified_note: repo alive, room not checked

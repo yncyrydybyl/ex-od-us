@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/rainbow"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3900]
 updated: "2026-04-06T14:43:57Z"
 ---
 

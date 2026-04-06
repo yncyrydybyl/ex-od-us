@@ -5,7 +5,7 @@ repo: "https://github.com/MatinSenPai/Zanjir"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4068]
 updated: "2026-01-29T16:51:26Z"
 ---
 

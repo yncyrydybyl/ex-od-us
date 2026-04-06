@@ -5,7 +5,7 @@ repo: "https://github.com/kcjengr/probe_basic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3866]
 updated: "2026-04-03T23:22:21Z"
 ---
 

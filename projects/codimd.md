@@ -5,7 +5,7 @@ repo: "https://github.com/hackmdio/codimd"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2973]
 updated: "2025-10-02T02:51:07Z"
 ---
 

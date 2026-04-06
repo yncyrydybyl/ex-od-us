@@ -5,7 +5,7 @@ repo: "https://github.com/drogue-iot/embedded-tls"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3155]
 updated: "2026-03-06T13:13:52Z"
 verified: true
 verified_note: repo alive, room not checked

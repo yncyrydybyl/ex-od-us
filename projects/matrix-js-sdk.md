@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-js-sdk"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [3625]
 updated: "2026-04-02T16:30:18Z"
 ---
 

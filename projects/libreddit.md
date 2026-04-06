@@ -5,7 +5,7 @@ repo: "https://github.com/libreddit/libreddit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3547]
 updated: "2025-02-15T19:11:02Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/lambda-client/lambda"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3519]
 updated: "2026-04-06T12:02:39Z"
 ---
 

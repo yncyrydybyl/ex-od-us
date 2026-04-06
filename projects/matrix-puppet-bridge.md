@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-bridge"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [3633]
 updated: "2021-02-11T21:13:42Z"
 ---
 
