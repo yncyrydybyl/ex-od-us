@@ -5,7 +5,7 @@ repo: "https://github.com/FactbirdHQ/atat"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5294]
 updated: "2026-03-04T07:54:15Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/clan-lol/clan-core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5605]
 updated: "2026-04-06T11:28:44Z"
 ---
 

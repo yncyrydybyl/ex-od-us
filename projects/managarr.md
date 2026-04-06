@@ -5,7 +5,7 @@ repo: "https://github.com/Dark-Alex-17/managarr"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7002]
 updated: "2026-04-02T15:59:41Z"
 verified: true
 verified_note: repo alive, room not checked

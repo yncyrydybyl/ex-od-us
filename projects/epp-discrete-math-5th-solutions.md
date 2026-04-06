@@ -5,7 +5,7 @@ repo: "https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6062]
 updated: "2026-03-30T17:08:39Z"
 ---
 

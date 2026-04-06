@@ -5,7 +5,7 @@ repo: "https://github.com/FlightGear/flightgear"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6232]
 updated: "2025-03-04T08:13:53Z"
 verified: true
 verified_note: repo alive, room not checked

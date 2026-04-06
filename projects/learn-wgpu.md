@@ -5,7 +5,7 @@ repo: "https://github.com/sotrh/learn-wgpu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6863]
 updated: "2026-03-25T03:51:06Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/divnix/hive"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6546]
 updated: "2025-08-23T16:21:39Z"
 verified: true
 verified_note: repo alive, room not checked

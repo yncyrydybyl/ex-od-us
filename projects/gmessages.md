@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/gmessages"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6393]
 updated: "2026-03-23T12:40:04Z"
 ---
 

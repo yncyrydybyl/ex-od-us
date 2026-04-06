@@ -4,7 +4,7 @@ repo: "https://github.com/IEIAuto/AutoDRRT"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5305]
 updated: "2026-01-05T05:57:26Z"
 ---
 

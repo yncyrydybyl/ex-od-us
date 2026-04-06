@@ -4,7 +4,7 @@ repo: "https://github.com/NixOS/flake-compat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6198]
 updated: "2026-01-02T20:13:22Z"
 ---
 

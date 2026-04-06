@@ -5,7 +5,7 @@ repo: "https://github.com/polkadot-developers/awesome-substrate"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5393]
 updated: "2024-04-20T18:36:20Z"
 ---
 

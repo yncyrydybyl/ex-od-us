@@ -5,7 +5,7 @@ repo: "https://github.com/deuxfleurs-org/garage"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6323]
 updated: "2026-03-22T17:09:21Z"
 verified: true
 verified_note: repo alive, room not checked

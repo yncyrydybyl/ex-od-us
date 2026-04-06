@@ -5,7 +5,7 @@ repo: "https://github.com/Cuprate/cuprate"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5749]
 updated: "2026-03-26T16:23:22Z"
 ---
 

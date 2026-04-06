@@ -5,7 +5,7 @@ repo: "https://github.com/xn0px90/awesome-qubes-os"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5376]
 updated: "2026-03-20T19:20:18Z"
 ---
 

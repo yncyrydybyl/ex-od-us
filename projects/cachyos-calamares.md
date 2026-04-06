@@ -5,7 +5,7 @@ repo: "https://github.com/CachyOS/cachyos-calamares"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5553]
 updated: "2026-04-04T15:37:20Z"
 ---
 

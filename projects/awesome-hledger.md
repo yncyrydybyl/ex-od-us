@@ -5,7 +5,7 @@ repo: "https://github.com/edkedk99/awesome-hledger"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5330]
 updated: "2024-01-07T00:43:51Z"
 verified: true
 verified_note: repo alive, room not checked

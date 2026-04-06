@@ -5,7 +5,7 @@ repo: "https://github.com/sipeed/bl602-hal"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5460]
 updated: "2024-01-11T13:31:36Z"
 ---
 

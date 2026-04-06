@@ -5,7 +5,7 @@ repo: "https://github.com/scikit-hep/coffea"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5644]
 updated: "2026-04-03T02:11:05Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/danilw/GLSL-howto"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6382]
 updated: "2026-03-16T10:29:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/kclock"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6799]
 updated: "2026-03-31T02:42:54Z"
 ---
 

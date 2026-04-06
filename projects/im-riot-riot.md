@@ -4,7 +4,7 @@ repo: "https://github.com/flathub/im.riot.Riot"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [6609]
 updated: "2026-03-30T00:32:52Z"
 verified: false
 verified_note: repo not found (404)

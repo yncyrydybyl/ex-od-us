@@ -5,7 +5,7 @@ repo: "https://github.com/GStreamer/gstreamer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6484]
 updated: "2026-04-06T15:09:44Z"
 ---
 

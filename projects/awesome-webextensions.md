@@ -5,7 +5,7 @@ repo: "https://github.com/fregante/Awesome-WebExtensions"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5397]
 updated: "2026-03-03T14:21:43Z"
 ---
 

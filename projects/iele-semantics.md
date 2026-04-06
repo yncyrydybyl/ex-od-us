@@ -5,7 +5,7 @@ repo: "https://github.com/runtimeverification/iele-semantics"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6605]
 updated: "2023-07-20T14:24:56Z"
 ---
 

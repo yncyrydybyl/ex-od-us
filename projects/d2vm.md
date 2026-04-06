@@ -5,7 +5,7 @@ repo: "https://github.com/linka-cloud/d2vm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5777]
 updated: "2026-03-05T04:01:31Z"
 ---
 

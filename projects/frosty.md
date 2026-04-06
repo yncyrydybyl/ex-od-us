@@ -5,7 +5,7 @@ repo: "https://github.com/disruptek/frosty"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6296]
 updated: "2021-11-12T23:13:04Z"
 verified: true
 verified_note: repo alive, room not checked

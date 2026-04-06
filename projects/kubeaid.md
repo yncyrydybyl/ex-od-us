@@ -5,7 +5,7 @@ repo: "https://github.com/Obmondo/kubeaid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6825]
 updated: "2026-04-06T10:51:37Z"
 ---
 

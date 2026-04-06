@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-construct/construct"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5698]
 updated: "2023-05-02T04:19:05Z"
 ---
 

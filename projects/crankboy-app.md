@@ -5,7 +5,7 @@ repo: "https://github.com/CrankBoyHQ/crankboy-app"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5721]
 updated: "2026-04-03T19:08:53Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-android"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [5991]
 updated: "2026-04-01T10:01:11Z"
 verified: true
 verified_note: repo alive, room not checked

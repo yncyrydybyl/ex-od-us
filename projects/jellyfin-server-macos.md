@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-server-macos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6722]
 updated: "2025-10-27T01:38:12Z"
 ---
 

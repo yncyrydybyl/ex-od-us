@@ -5,7 +5,7 @@ repo: "https://github.com/feather-wallet/feather"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6150]
 updated: "2026-02-05T17:43:50Z"
 verified: true
 verified_note: repo alive, room not checked

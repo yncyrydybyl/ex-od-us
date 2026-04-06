@@ -5,7 +5,7 @@ repo: "https://github.com/dtn7/awesome-dtn"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5318]
 updated: "2025-10-20T06:02:56Z"
 verified: true
 verified_note: repo alive, room not checked

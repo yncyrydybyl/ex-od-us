@@ -5,7 +5,7 @@ repo: "https://github.com/darkalphaxteam/Cyber-X-Beta-Release"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5763]
 updated: "2024-02-08T06:30:24Z"
 verified: true
 verified_note: repo alive, room not checked

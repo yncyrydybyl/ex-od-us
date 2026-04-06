@@ -5,7 +5,7 @@ repo: "https://github.com/codedust/awesome-egov-de"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5320]
 updated: "2024-11-19T14:10:44Z"
 ---
 

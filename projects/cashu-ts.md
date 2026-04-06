@@ -5,7 +5,7 @@ repo: "https://github.com/cashubtc/cashu-ts"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5559]
 updated: "2026-04-05T22:50:40Z"
 ---
 

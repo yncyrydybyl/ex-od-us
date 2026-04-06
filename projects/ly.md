@@ -5,7 +5,7 @@ repo: "https://github.com/fairyglade/ly"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6985]
 updated: "2026-04-01T17:00:48Z"
 ---
 

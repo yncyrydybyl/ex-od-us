@@ -5,7 +5,7 @@ repo: "https://github.com/vakofmaya/BreathOfStrudle"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5511]
 updated: "2026-02-26T10:56:43Z"
 ---
 

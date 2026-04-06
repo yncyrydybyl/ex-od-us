@@ -5,7 +5,7 @@ repo: "https://github.com/FreeTubeApp/FreeTube"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6285]
 updated: "2026-04-06T09:10:00Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/emacs-overlay"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6019]
 updated: "2026-04-06T09:10:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/jam1garner/binrw"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5441]
 updated: "2026-03-04T01:38:10Z"
 ---
 

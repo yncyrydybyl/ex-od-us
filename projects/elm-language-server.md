@@ -5,7 +5,7 @@ repo: "https://github.com/elm-tooling/elm-language-server"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6013]
 updated: "2026-03-25T23:02:02Z"
 verified: true
 verified_note: repo alive, room not checked

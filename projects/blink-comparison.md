@@ -5,7 +5,7 @@ repo: "https://github.com/proninyaroslav/blink-comparison"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5472]
 updated: "2025-08-31T19:55:19Z"
 ---
 

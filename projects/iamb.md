@@ -5,7 +5,7 @@ repo: "https://github.com/ulyssa/iamb"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6591]
 updated: "2026-01-20T00:46:03Z"
 ---
 

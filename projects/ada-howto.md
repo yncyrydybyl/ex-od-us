@@ -5,7 +5,7 @@ repo: "https://github.com/reznikmm/ada-howto"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5110]
 updated: "2021-06-01T07:15:56Z"
 ---
 

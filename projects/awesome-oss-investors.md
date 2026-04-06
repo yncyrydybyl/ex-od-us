@@ -5,7 +5,7 @@ repo: "https://github.com/jonathimer/awesome-oss-investors"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5362]
 updated: "2025-07-25T08:05:40Z"
 ---
 

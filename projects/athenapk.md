@@ -5,7 +5,7 @@ repo: "https://github.com/parthenon-hpc-lab/athenapk"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5298]
 updated: "2026-04-01T08:27:40Z"
 ---
 

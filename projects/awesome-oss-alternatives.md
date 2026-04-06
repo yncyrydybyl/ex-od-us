@@ -5,7 +5,7 @@ repo: "https://github.com/RunaCapital/awesome-oss-alternatives"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5360]
 updated: "2025-09-03T17:43:01Z"
 ---
 

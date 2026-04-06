@@ -5,7 +5,7 @@ repo: "https://github.com/jkaberg/hass-byd-vehicle"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6507]
 updated: "2026-03-29T19:51:45Z"
 ---
 

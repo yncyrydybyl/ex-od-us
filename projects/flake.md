@@ -5,7 +5,7 @@ repo: "https://github.com/nixified-ai/flake"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6204]
 updated: "2026-04-06T16:22:30Z"
 ---
 

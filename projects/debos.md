@@ -5,7 +5,7 @@ repo: "https://github.com/go-debos/debos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5830]
 updated: "2026-03-06T12:06:06Z"
 ---
 

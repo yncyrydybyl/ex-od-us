@@ -5,7 +5,7 @@ repo: "https://github.com/aperturerobotics/controllerbus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5703]
 updated: "2026-04-04T22:03:16Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/MahApps/MahApps.Metro"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6998]
 updated: "2025-10-16T12:52:36Z"
 ---
 

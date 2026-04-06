@@ -5,7 +5,7 @@ repo: "https://github.com/luainkernel/lunatik"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6983]
 updated: "2026-03-31T12:21:46Z"
 ---
 

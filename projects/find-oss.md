@@ -5,7 +5,7 @@ repo: "https://github.com/SimoMay/find-oss"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6180]
 updated: "2024-08-30T18:49:28Z"
 ---
 

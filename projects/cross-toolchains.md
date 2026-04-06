@@ -5,7 +5,7 @@ repo: "https://github.com/cross-rs/cross-toolchains"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5725]
 updated: "2026-01-27T17:25:15Z"
 ---
 

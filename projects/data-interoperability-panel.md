@@ -5,7 +5,7 @@ repo: "https://github.com/solid/data-interoperability-panel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5791]
 updated: "2025-09-17T19:36:29Z"
 ---
 

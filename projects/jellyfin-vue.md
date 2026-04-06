@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-vue"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6727]
 updated: "2026-04-05T18:37:19Z"
 ---
 

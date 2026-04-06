@@ -5,7 +5,7 @@ repo: "https://github.com/kiarafbickers/awesome-selfhosted-product"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5388]
 updated: "2024-03-06T21:14:49Z"
 ---
 

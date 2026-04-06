@@ -5,7 +5,7 @@ repo: "https://github.com/leogopal/free-dev-resources"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6270]
 updated: "2025-01-10T12:58:16Z"
 ---
 

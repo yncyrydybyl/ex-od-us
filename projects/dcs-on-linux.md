@@ -5,7 +5,7 @@ repo: "https://github.com/TheZoq2/dcs_on_linux"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5813]
 updated: "2025-11-17T21:12:18Z"
 ---
 

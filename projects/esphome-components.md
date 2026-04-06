@@ -5,7 +5,7 @@ repo: "https://github.com/the78mole/esphome_components"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6092]
 updated: "2026-04-01T22:54:11Z"
 ---
 

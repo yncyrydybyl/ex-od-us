@@ -5,7 +5,7 @@ repo: "https://github.com/GataNina-Li/GataBotV2"
 platform: github
 categories: [Integrations]
 status: "Active"
-issues: []
+issues: [6327]
 updated: "2024-04-27T20:08:41Z"
 ---
 

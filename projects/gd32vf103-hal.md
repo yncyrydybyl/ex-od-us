@@ -5,7 +5,7 @@ repo: "https://github.com/gd32v-rust/gd32vf103-hal"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6332]
 updated: "2021-12-28T04:26:47Z"
 ---
 

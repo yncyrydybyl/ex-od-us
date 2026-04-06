@@ -5,7 +5,7 @@ repo: "https://github.com/rust-embedded/awesome-embedded-rust"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5324]
 updated: "2026-02-24T09:09:23Z"
 ---
 

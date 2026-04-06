@@ -5,7 +5,7 @@ repo: "https://github.com/ferrumfix/ferrumfix"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6168]
 updated: "2026-03-30T21:50:07Z"
 verified: true
 verified_note: repo alive, room not checked

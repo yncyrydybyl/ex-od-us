@@ -4,7 +4,7 @@ repo: "https://github.com/subquery/documentation"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5907]
 updated: "2025-12-15T05:14:36Z"
 ---
 

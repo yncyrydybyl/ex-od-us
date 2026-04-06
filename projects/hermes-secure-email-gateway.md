@@ -5,7 +5,7 @@ repo: "https://github.com/deeztek/Hermes-Secure-Email-Gateway"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6530]
 updated: "2025-10-08T14:44:50Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/vic/den"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5842]
 updated: "2026-04-06T03:45:35Z"
 ---
 

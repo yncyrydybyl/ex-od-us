@@ -5,7 +5,7 @@ repo: "https://github.com/datenanfragen/website"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5801]
 updated: "2026-03-30T19:35:08Z"
 ---
 

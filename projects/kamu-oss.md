@@ -5,7 +5,7 @@ repo: "https://github.com/ayr-ton/kamu-oss"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6789]
 updated: "2026-04-06T14:54:31Z"
 ---
 

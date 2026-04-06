@@ -5,7 +5,7 @@ repo: "https://github.com/chipsalliance/chisel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5593]
 updated: "2026-04-03T23:50:28Z"
 ---
 

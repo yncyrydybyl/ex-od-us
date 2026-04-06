@@ -5,7 +5,7 @@ repo: "https://github.com/clonos/control-pane"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5701]
 updated: "2026-02-06T08:51:29Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/fedidb/communityDB"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5670]
 updated: "2026-02-16T04:03:14Z"
 verified: true
 verified_note: repo alive, room not checked

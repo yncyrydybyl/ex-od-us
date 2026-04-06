@@ -5,7 +5,7 @@ repo: "https://github.com/hanwckf/immortalwrt-mt798x"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6624]
 updated: "2025-12-24T10:14:25Z"
 ---
 

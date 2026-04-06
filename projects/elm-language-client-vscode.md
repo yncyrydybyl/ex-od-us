@@ -5,7 +5,7 @@ repo: "https://github.com/elm-tooling/elm-language-client-vscode"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6011]
 updated: "2026-03-29T17:48:24Z"
 verified: true
 verified_note: repo alive, room not checked

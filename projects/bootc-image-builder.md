@@ -5,7 +5,7 @@ repo: "https://github.com/osbuild/bootc-image-builder"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5495]
 updated: "2026-04-02T05:49:48Z"
 ---
 

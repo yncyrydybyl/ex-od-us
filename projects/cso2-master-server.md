@@ -5,7 +5,7 @@ repo: "https://github.com/lateleite/cso2-master-server"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5743]
 updated: "2021-08-16T08:51:42Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/web-tech-tw/arona"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [5266]
 updated: "2025-12-29T16:16:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/awesome-litestar"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5339]
 updated: "2026-02-27T18:27:01Z"
 ---
 

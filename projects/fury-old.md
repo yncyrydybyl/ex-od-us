@@ -5,7 +5,7 @@ repo: "https://github.com/propensive/fury-old"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6312]
 updated: "2024-09-03T21:34:24Z"
 ---
 

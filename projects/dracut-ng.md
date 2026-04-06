@@ -5,7 +5,7 @@ repo: "https://github.com/dracut-ng/dracut-ng"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5931]
 updated: "2026-04-05T17:55:35Z"
 ---
 

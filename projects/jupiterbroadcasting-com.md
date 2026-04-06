@@ -5,7 +5,7 @@ repo: "https://github.com/JupiterBroadcasting/jupiterbroadcasting.com"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6772]
 updated: "2026-04-06T01:22:37Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/JSONRPC"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6763]
 updated: "2025-05-08T14:30:17Z"
 verified: true
 verified_note: repo alive, room not checked

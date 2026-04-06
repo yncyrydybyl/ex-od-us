@@ -5,7 +5,7 @@ repo: "https://github.com/raspi-alpine/builder"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5542]
 updated: "2026-01-25T09:01:06Z"
 ---
 

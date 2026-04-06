@@ -5,7 +5,7 @@ repo: "https://github.com/willbasky/Awesome-list-of-Haskell-mentors"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5337]
 updated: "2022-08-31T07:20:51Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/herzenschein/herz-quadlet"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6532]
 updated: "2026-03-10T22:27:37Z"
 ---
 

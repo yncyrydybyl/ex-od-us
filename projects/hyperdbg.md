@@ -5,7 +5,7 @@ repo: "https://github.com/HyperDbg/HyperDbg"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6582]
 updated: "2026-04-06T14:45:41Z"
 ---
 

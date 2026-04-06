@@ -4,7 +4,7 @@ repo: "https://github.com/linuxdeepin/deepin-boot-maker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5837]
 updated: "2026-04-02T02:54:21Z"
 ---
 

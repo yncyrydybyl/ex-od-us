@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/KeyCodes"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6809]
 updated: "2024-07-12T15:28:16Z"
 verified: true
 verified_note: repo alive, room not checked

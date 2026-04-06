@@ -5,7 +5,7 @@ repo: "https://github.com/xtools-at/colibri"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5646]
 updated: "2026-03-28T12:54:16Z"
 ---
 

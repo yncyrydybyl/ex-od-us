@@ -5,7 +5,7 @@ repo: "https://github.com/gtk-kn/gtk-kn"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6486]
 updated: "2025-02-14T13:48:56Z"
 ---
 

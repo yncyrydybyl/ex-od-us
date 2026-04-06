@@ -5,7 +5,7 @@ repo: "https://github.com/XeraPlugins/8b8tCore"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5087]
 updated: "2026-03-24T20:20:53Z"
 ---
 

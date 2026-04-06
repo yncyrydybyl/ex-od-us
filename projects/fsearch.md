@@ -5,7 +5,7 @@ repo: "https://github.com/cboxdoerfer/fsearch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6300]
 updated: "2026-04-04T15:09:53Z"
 ---
 

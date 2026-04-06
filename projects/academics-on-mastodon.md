@@ -5,7 +5,7 @@ repo: "https://github.com/nathanlesage/academics-on-mastodon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5099]
 updated: "2026-03-03T16:06:35Z"
 ---
 

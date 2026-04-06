@@ -5,7 +5,7 @@ repo: "https://github.com/erooster-mail/erooster"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6066]
 updated: "2024-08-22T22:56:53Z"
 verified: true
 verified_note: repo alive, room not checked

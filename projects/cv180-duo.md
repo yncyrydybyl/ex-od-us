@@ -5,7 +5,7 @@ repo: "https://github.com/sophgocommunity/CV180-Duo"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5757]
 updated: "2023-09-16T08:14:08Z"
 ---
 

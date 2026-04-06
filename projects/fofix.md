@@ -5,7 +5,7 @@ repo: "https://github.com/fofix/fofix"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6253]
 updated: "2023-12-11T21:01:48Z"
 verified: true
 verified_note: repo alive, room not checked

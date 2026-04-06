@@ -5,7 +5,7 @@ repo: "https://github.com/drogue-iot/drogue-device"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5947]
 updated: "2023-10-06T10:58:54Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/longhorn/longhorn-manager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6967]
 updated: "2026-04-05T05:40:57Z"
 ---
 

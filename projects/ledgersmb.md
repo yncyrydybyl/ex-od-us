@@ -5,7 +5,7 @@ repo: "https://github.com/ledgersmb/LedgerSMB"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6867]
 updated: "2026-04-06T06:52:13Z"
 ---
 

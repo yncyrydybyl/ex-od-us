@@ -5,7 +5,7 @@ repo: "https://github.com/haecker-felix/hebbot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6515]
 updated: "2025-12-14T10:17:13Z"
 ---
 

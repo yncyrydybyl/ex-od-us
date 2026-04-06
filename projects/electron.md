@@ -5,7 +5,7 @@ repo: "https://github.com/kernel-mod/electron"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5988]
 updated: "2024-08-13T00:33:50Z"
 ---
 

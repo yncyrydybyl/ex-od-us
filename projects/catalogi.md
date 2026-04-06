@@ -5,7 +5,7 @@ repo: "https://github.com/codegouvfr/catalogi"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5562]
 updated: "2026-04-01T19:59:46Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/openpatch/hyperbook"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6580]
 updated: "2026-03-18T13:32:01Z"
 ---
 

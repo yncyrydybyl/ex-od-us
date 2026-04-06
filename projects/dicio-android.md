@@ -5,7 +5,7 @@ repo: "https://github.com/Stypox/dicio-android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5867]
 updated: "2026-02-25T23:25:18Z"
 ---
 

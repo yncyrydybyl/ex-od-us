@@ -5,7 +5,7 @@ repo: "https://github.com/common-voice/cv-sentence-extractor"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5755]
 updated: "2024-01-25T18:16:07Z"
 verified: true
 verified_note: repo alive, room not checked

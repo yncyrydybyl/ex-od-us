@@ -5,7 +5,7 @@ repo: "https://github.com/rainshowerLabs/blutgang"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5484]
 updated: "2026-02-03T18:55:42Z"
 ---
 

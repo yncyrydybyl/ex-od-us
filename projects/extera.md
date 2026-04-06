@@ -5,7 +5,7 @@ repo: "https://github.com/officialdakari/Extera"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6128]
 updated: "2025-11-16T17:10:48Z"
 ---
 

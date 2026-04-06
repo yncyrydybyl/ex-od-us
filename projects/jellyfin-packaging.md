@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-packaging"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6715]
 updated: "2026-04-05T19:08:21Z"
 ---
 

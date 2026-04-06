@@ -5,7 +5,7 @@ repo: "https://github.com/composefs/composefs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5684]
 updated: "2026-03-17T15:23:34Z"
 verified: true
 verified_note: repo alive, room not checked

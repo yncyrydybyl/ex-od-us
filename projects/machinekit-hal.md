@@ -5,7 +5,7 @@ repo: "https://github.com/machinekit/machinekit-hal"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6987]
 updated: "2024-09-03T21:03:28Z"
 ---
 

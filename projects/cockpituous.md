@@ -5,7 +5,7 @@ repo: "https://github.com/cockpit-project/cockpituous"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5629]
 updated: "2026-03-25T12:49:47Z"
 verified: true
 verified_note: repo alive, room not checked

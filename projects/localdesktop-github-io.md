@@ -5,7 +5,7 @@ repo: "https://github.com/localdesktop/localdesktop.github.io"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6958]
 updated: "2026-03-31T19:34:29Z"
 ---
 

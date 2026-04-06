@@ -5,7 +5,7 @@ repo: "https://github.com/TheJJ/ceph-balancer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5573]
 updated: "2026-02-13T15:34:08Z"
 ---
 

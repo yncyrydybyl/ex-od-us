@@ -5,7 +5,7 @@ repo: "https://github.com/GTrunSec/hivebus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6548]
 updated: "2024-09-19T09:18:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs-cluster/ipfs-cluster-website"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6660]
 updated: "2026-01-03T10:45:41Z"
 ---
 

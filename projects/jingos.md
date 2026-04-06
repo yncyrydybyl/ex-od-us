@@ -5,7 +5,7 @@ repo: "https://github.com/JingOS-team/JingOS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6739]
 updated: "2022-01-24T08:29:03Z"
 ---
 

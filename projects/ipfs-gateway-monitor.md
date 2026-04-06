@@ -4,7 +4,7 @@ repo: "https://github.com/cloudflare/ipfs-gateway-monitor"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6668]
 updated: "2024-09-27T17:19:24Z"
 verified: true
 verified_note: repo alive, room not checked

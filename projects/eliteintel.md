@@ -5,7 +5,7 @@ repo: "https://github.com/stone-alex/EliteIntel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6009]
 updated: "2026-04-06T03:10:42Z"
 ---
 

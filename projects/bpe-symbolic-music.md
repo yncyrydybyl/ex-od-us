@@ -5,7 +5,7 @@ repo: "https://github.com/Natooz/BPE-Symbolic-Music"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5502]
 updated: "2024-03-06T15:45:50Z"
 ---
 

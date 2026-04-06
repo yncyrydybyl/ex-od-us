@@ -5,7 +5,7 @@ repo: "https://github.com/Teahouse-Studios/akari-bot"
 platform: github
 categories: [Integrations, Matrix]
 status: "Active"
-issues: []
+issues: [5131]
 updated: "2026-04-05T19:25:50Z"
 ---
 

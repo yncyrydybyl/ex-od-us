@@ -5,7 +5,7 @@ repo: "https://github.com/Am0rphous/Awesome"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5154]
 updated: "2026-03-29T21:44:51Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/gnome-calendar"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6395]
 updated: "2026-04-03T21:44:46Z"
 ---
 

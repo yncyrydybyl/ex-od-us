@@ -5,7 +5,7 @@ repo: "https://github.com/TASEmulators/BizHawk"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5453]
 updated: "2026-04-06T12:22:39Z"
 ---
 

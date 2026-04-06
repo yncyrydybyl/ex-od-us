@@ -5,7 +5,7 @@ repo: "https://github.com/indiscipline/awesome-reaper"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5378]
 updated: "2025-01-22T12:05:43Z"
 ---
 

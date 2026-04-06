@@ -5,7 +5,7 @@ repo: "https://github.com/The-LainOS-Project/LainOS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6835]
 updated: "2025-11-21T16:48:13Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/alexbarry/AlexGames"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5137]
 updated: "2026-03-24T23:15:39Z"
 verified: true
 verified_note: repo alive, room not checked

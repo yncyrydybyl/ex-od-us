@@ -5,7 +5,7 @@ repo: "https://github.com/Wilfred/difftastic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5869]
 updated: "2026-03-25T23:50:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Sesu8642/FeudalTactics"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6170]
 updated: "2026-03-09T13:52:47Z"
 ---
 

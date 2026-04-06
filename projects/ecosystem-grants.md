@@ -4,7 +4,7 @@ repo: "https://github.com/use-inkubator/Ecosystem-Grants"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5971]
 updated: "2025-11-19T12:17:12Z"
 ---
 

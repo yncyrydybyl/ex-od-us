@@ -5,7 +5,7 @@ repo: "https://github.com/latentcat/graphpu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6469]
 updated: "2024-03-05T03:12:46Z"
 ---
 

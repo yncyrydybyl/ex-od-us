@@ -5,7 +5,7 @@ repo: "https://github.com/btcpay-monero/btcpayserver-monero-plugin"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5530]
 updated: "2026-04-06T16:43:27Z"
 ---
 

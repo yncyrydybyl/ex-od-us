@@ -5,7 +5,7 @@ repo: "https://github.com/mirkoschubert/datenschutz-checkliste"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5803]
 updated: "2025-11-02T12:29:19Z"
 ---
 

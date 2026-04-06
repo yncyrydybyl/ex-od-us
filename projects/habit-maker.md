@@ -5,7 +5,7 @@ repo: "https://github.com/dessalines/habit-maker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6497]
 updated: "2026-04-06T13:23:47Z"
 ---
 

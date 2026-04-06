@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs-search/ipfs-search"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6672]
 updated: "2023-10-27T07:11:40Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/numtide/flake-utils"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6202]
 updated: "2024-11-13T21:27:18Z"
 ---
 

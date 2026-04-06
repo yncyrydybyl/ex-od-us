@@ -5,7 +5,7 @@ repo: "https://github.com/LibreSprite/LibreSprite"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6904]
 updated: "2026-02-14T13:14:37Z"
 ---
 

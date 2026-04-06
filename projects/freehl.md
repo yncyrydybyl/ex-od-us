@@ -5,7 +5,7 @@ repo: "https://github.com/eukara/freehl"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6279]
 updated: "2025-11-12T06:00:15Z"
 verified: true
 verified_note: repo alive, room not checked

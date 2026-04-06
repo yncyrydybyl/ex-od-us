@@ -5,7 +5,7 @@ repo: "https://github.com/elves/elvish"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6017]
 updated: "2026-03-31T22:04:07Z"
 verified: true
 verified_note: repo alive, room not checked

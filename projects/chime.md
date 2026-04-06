@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Chime"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5591]
 updated: "2025-12-14T20:46:42Z"
 verified: true
 verified_note: repo alive, room not checked

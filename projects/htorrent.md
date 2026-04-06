@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/htorrent"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6566]
 updated: "2024-07-30T23:38:05Z"
 ---
 

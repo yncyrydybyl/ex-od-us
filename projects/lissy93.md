@@ -5,7 +5,7 @@ repo: "https://github.com/Lissy93/Lissy93"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6941]
 updated: "2026-04-05T23:46:31Z"
 ---
 

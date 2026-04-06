@@ -5,7 +5,7 @@ repo: "https://github.com/tier4/awkernel"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5405]
 updated: "2026-04-03T08:08:46Z"
 ---
 

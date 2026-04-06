@@ -5,7 +5,7 @@ repo: "https://github.com/eukara/freecs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6277]
 updated: "2025-10-16T21:04:48Z"
 verified: true
 verified_note: repo alive, room not checked

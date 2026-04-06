@@ -5,7 +5,7 @@ repo: "https://github.com/gircore/gir.core"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6365]
 updated: "2026-04-04T06:26:39Z"
 ---
 

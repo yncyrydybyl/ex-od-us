@@ -5,7 +5,7 @@ repo: "https://github.com/tenzap/exif-thumbnail-adder"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6116]
 updated: "2025-11-23T21:32:26Z"
 ---
 

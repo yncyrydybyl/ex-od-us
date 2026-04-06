@@ -5,7 +5,7 @@ repo: "https://github.com/ferrocene/ferrocene"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6163]
 updated: "2026-04-06T16:34:58Z"
 ---
 

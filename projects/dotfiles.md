@@ -5,7 +5,7 @@ repo: "https://github.com/jpalardy/dotfiles"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5925]
 updated: "2026-04-05T18:17:45Z"
 ---
 

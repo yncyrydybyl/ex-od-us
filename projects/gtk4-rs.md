@@ -5,7 +5,7 @@ repo: "https://github.com/gtk-rs/gtk4-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6487]
 updated: "2026-04-06T07:29:13Z"
 ---
 

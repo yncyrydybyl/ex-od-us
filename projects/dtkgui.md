@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dtkgui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5956]
 updated: "2026-03-31T09:34:40Z"
 ---
 

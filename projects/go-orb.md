@@ -5,7 +5,7 @@ repo: "https://github.com/go-orb/go-orb"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6421]
 updated: "2025-05-23T17:17:23Z"
 ---
 

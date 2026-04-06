@@ -5,7 +5,7 @@ repo: "https://github.com/go-vikunja/app"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5222]
 updated: "2026-04-03T17:19:47Z"
 ---
 

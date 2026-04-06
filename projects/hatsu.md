@@ -5,7 +5,7 @@ repo: "https://github.com/importantimport/hatsu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6509]
 updated: "2025-12-14T05:59:05Z"
 ---
 

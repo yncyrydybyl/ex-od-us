@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/ignition"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6607]
 updated: "2026-04-01T16:33:57Z"
 verified: true
 verified_note: repo alive, room not checked

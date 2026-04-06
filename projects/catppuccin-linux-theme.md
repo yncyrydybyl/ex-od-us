@@ -5,7 +5,7 @@ repo: "https://github.com/neuromask/catppuccin-linux-theme"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5564]
 updated: "2025-04-24T11:48:49Z"
 ---
 

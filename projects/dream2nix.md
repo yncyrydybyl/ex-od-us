@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/dream2nix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5938]
 updated: "2025-12-17T06:30:15Z"
 ---
 

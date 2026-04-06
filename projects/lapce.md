@@ -5,7 +5,7 @@ repo: "https://github.com/lapce/lapce"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6848]
 updated: "2026-04-06T00:52:46Z"
 ---
 

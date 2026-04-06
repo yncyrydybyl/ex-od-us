@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-idf-sys"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6083]
 updated: "2026-03-29T11:51:44Z"
 verified: true
 verified_note: repo alive, room not checked

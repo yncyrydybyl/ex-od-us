@@ -5,7 +5,7 @@ repo: "https://github.com/redhat-cop/infra.aap_configuration"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6637]
 updated: "2026-04-02T00:21:40Z"
 ---
 

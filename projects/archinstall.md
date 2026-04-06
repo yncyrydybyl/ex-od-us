@@ -5,7 +5,7 @@ repo: "https://github.com/archlinux/archinstall"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5245]
 updated: "2026-04-06T12:43:06Z"
 ---
 

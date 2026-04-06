@@ -5,7 +5,7 @@ repo: "https://github.com/dodona-edu/dolos"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5915]
 updated: "2026-04-03T06:31:30Z"
 verified: true
 verified_note: repo alive, room not checked

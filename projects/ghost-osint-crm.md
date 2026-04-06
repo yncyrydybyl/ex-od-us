@@ -5,7 +5,7 @@ repo: "https://github.com/elm1nst3r/GHOST-osint-crm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6359]
 updated: "2026-01-29T18:02:47Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/adobe/HumaneHamsterTrap"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6571]
 updated: "2024-06-02T20:57:09Z"
 verified: true
 verified_note: repo alive, room not checked

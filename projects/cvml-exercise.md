@@ -5,7 +5,7 @@ repo: "https://github.com/subharya83/cvml-exercise"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5762]
 updated: "2025-06-13T23:11:24Z"
 ---
 

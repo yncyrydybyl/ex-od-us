@@ -5,7 +5,7 @@ repo: "https://github.com/crazy-max/diun"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5892]
 updated: "2026-04-06T13:03:16Z"
 ---
 

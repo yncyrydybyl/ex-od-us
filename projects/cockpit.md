@@ -5,7 +5,7 @@ repo: "https://github.com/cockpit-project/cockpit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5627]
 updated: "2026-04-06T03:13:05Z"
 ---
 

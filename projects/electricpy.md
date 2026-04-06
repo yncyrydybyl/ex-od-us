@@ -5,7 +5,7 @@ repo: "https://github.com/engineerjoe440/ElectricPy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5986]
 updated: "2026-02-01T19:52:04Z"
 verified: true
 verified_note: repo alive, room not checked

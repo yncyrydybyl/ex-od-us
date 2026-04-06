@@ -5,7 +5,7 @@ repo: "https://github.com/Hemeka/Discord-Alternatives"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5877]
 updated: "2026-03-01T09:18:57Z"
 ---
 

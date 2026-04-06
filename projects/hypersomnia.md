@@ -5,7 +5,7 @@ repo: "https://github.com/TeamHypersomnia/Hypersomnia"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6584]
 updated: "2026-03-26T00:59:12Z"
 ---
 

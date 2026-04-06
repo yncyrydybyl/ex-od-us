@@ -5,7 +5,7 @@ repo: "https://github.com/jaywcjlove/awesome-mac"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5341]
 updated: "2026-04-05T08:58:23Z"
 ---
 

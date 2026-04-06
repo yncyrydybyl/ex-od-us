@@ -5,7 +5,7 @@ repo: "https://github.com/johbo/k0s-nix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6778]
 updated: "2026-04-01T13:07:34Z"
 ---
 

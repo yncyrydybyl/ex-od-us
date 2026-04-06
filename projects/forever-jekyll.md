@@ -5,7 +5,7 @@ repo: "https://github.com/forever-jekyll/forever-jekyll"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6259]
 updated: "2025-07-01T15:55:29Z"
 verified: true
 verified_note: repo alive, room not checked

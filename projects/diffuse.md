@@ -5,7 +5,7 @@ repo: "https://github.com/MightyCreak/diffuse"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5871]
 updated: "2026-03-13T05:50:21Z"
 ---
 

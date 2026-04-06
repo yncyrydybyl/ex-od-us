@@ -5,7 +5,7 @@ repo: "https://github.com/KDE/itinerary"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6693]
 updated: "2026-04-06T00:44:22Z"
 ---
 

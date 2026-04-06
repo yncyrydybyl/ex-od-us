@@ -5,7 +5,7 @@ repo: "https://github.com/immortalwrt/immortalwrt"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6626]
 updated: "2026-04-03T03:27:10Z"
 ---
 

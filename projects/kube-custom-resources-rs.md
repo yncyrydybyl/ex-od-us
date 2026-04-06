@@ -5,7 +5,7 @@ repo: "https://github.com/metio/kube-custom-resources-rs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6823]
 updated: "2026-04-03T11:00:05Z"
 ---
 

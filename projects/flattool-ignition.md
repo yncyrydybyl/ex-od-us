@@ -5,7 +5,7 @@ repo: "https://github.com/flattool/ignition"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6226]
 updated: "2026-04-01T23:31:03Z"
 ---
 

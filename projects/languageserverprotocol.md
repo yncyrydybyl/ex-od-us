@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/LanguageServerProtocol"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6843]
 updated: "2025-12-28T16:09:07Z"
 verified: true
 verified_note: repo alive, room not checked

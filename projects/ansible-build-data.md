@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-community/ansible-build-data"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5180]
 updated: "2026-04-01T16:33:12Z"
 verified: true
 verified_note: repo alive, room not checked

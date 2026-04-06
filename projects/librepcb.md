@@ -5,7 +5,7 @@ repo: "https://github.com/LibrePCB/LibrePCB"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6902]
 updated: "2026-04-06T16:30:04Z"
 ---
 

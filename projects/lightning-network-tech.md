@@ -5,7 +5,7 @@ repo: "https://github.com/aljazceru/lightning-network.tech"
 platform: github
 categories: [Development]
 status: Dead
-issues: []
+issues: [6923]
 updated: "2026-03-24T13:09:40Z"
 verified: false
 verified_note: repo not found (404)

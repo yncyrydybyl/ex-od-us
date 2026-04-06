@@ -5,7 +5,7 @@ repo: "https://github.com/isledecomp/isle"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6687]
 updated: "2026-03-23T22:48:22Z"
 ---
 

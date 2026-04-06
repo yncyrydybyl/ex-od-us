@@ -4,7 +4,7 @@ repo: "https://github.com/deepanshichoudhary11/Jan_Samvad_AI"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6701]
 updated: "2025-09-11T06:47:53Z"
 ---
 

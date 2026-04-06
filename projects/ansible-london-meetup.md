@@ -4,7 +4,7 @@ description: Ansible Meetup for London, UK
 repo: "https://github.com/ansible-community/ansible-london-meetup"
 platform: github
 status: Active
-issues: []
+issues: [5190]
 updated: "2026-03-19T10:09:06Z"
 verified: true
 verified_note: repo alive, room not checked

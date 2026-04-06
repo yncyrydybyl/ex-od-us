@@ -5,7 +5,7 @@ repo: "https://github.com/SignalGap/awesome-meshtastic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5345]
 updated: "2025-11-09T01:41:30Z"
 ---
 

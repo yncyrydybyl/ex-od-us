@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-xbox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6731]
 updated: "2026-03-25T22:57:15Z"
 ---
 

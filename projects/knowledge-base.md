@@ -5,7 +5,7 @@ repo: "https://github.com/starcitizen-lug/knowledge-base"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6816]
 updated: "2026-04-01T03:46:48Z"
 ---
 

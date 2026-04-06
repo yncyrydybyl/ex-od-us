@@ -5,7 +5,7 @@ repo: "https://github.com/guardrail-dev/guardrail"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6489]
 updated: "2025-12-22T07:57:28Z"
 ---
 

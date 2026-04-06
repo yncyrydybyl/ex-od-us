@@ -5,7 +5,7 @@ repo: "https://github.com/ConsensusJ/consensusj"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5696]
 updated: "2026-03-15T04:32:17Z"
 verified: true
 verified_note: repo alive, room not checked

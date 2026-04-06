@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dde-control-center"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5815]
 updated: "2026-04-03T08:02:14Z"
 ---
 

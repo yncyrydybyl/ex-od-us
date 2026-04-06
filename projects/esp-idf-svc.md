@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/esp-idf-svc"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6081]
 updated: "2026-03-29T11:45:55Z"
 verified: true
 verified_note: repo alive, room not checked

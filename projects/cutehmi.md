@@ -5,7 +5,7 @@ repo: "https://github.com/michpolicht/CuteHMI"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5753]
 updated: "2024-09-06T06:45:14Z"
 ---
 

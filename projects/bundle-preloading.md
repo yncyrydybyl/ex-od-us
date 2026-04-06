@@ -5,7 +5,7 @@ repo: "https://github.com/WICG/bundle-preloading"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5544]
 updated: "2023-09-01T20:52:38Z"
 ---
 

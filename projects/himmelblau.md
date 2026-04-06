@@ -5,7 +5,7 @@ repo: "https://github.com/himmelblau-idm/himmelblau"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6544]
 updated: "2026-04-06T14:51:27Z"
 ---
 

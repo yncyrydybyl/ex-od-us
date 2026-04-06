@@ -5,7 +5,7 @@ repo: "https://github.com/argotorg/hevm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6536]
 updated: "2026-04-06T11:14:00Z"
 ---
 

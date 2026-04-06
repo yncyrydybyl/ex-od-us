@@ -5,7 +5,7 @@ repo: "https://github.com/helix-editor/helix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6522]
 updated: "2026-04-06T05:19:54Z"
 ---
 

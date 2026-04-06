@@ -5,7 +5,7 @@ repo: "https://github.com/open-goal/jak-project"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6695]
 updated: "2026-04-06T16:47:53Z"
 ---
 

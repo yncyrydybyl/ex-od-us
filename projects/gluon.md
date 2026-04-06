@@ -5,7 +5,7 @@ repo: "https://github.com/freifunk-gluon/gluon"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6384]
 updated: "2026-04-05T06:45:32Z"
 ---
 

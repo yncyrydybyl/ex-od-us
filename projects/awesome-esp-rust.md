@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/awesome-esp-rust"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5326]
 updated: "2026-03-30T07:47:39Z"
 verified: true
 verified_note: repo alive, room not checked

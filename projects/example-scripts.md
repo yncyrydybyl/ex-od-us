@@ -5,7 +5,7 @@ repo: "https://github.com/gee-community/example-scripts"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6111]
 updated: "2018-06-22T17:29:59Z"
 ---
 

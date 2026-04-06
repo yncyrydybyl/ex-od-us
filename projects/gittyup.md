@@ -5,7 +5,7 @@ repo: "https://github.com/Murmele/Gittyup"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6378]
 updated: "2026-04-05T07:27:39Z"
 ---
 

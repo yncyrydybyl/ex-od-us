@@ -5,7 +5,7 @@ repo: "https://github.com/qjcg/awesome-typst"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5395]
 updated: "2025-12-07T18:06:13Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/ipfs-docs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6664]
 updated: "2026-04-03T00:27:45Z"
 ---
 

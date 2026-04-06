@@ -5,7 +5,7 @@ repo: "https://github.com/direnv/direnv"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5875]
 updated: "2026-03-31T18:52:06Z"
 verified: true
 verified_note: repo alive, room not checked

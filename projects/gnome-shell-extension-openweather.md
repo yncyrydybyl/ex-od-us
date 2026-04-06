@@ -5,7 +5,7 @@ repo: "https://github.com/toppk/gnome-shell-extension-openweather"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6401]
 updated: "2024-03-27T15:57:57Z"
 ---
 

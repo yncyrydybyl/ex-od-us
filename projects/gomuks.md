@@ -5,7 +5,7 @@ repo: "https://github.com/gomuks/gomuks"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6441]
 updated: "2026-04-04T14:12:59Z"
 ---
 

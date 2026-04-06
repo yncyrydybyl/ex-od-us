@@ -5,7 +5,7 @@ repo: "https://github.com/windelbouwman/lognplot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6963]
 updated: "2026-03-20T17:30:57Z"
 ---
 

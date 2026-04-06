@@ -5,7 +5,7 @@ repo: "https://github.com/rajasegar/awesome-helix"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5328]
 updated: "2026-01-22T05:37:18Z"
 ---
 

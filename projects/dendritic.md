@@ -5,7 +5,7 @@ repo: "https://github.com/mightyiam/dendritic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5847]
 updated: "2026-02-22T09:07:15Z"
 ---
 

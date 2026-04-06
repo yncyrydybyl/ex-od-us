@@ -5,7 +5,7 @@ repo: "https://github.com/EFeru/hoverboard-firmware-hack-FOC"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6565]
 updated: "2026-01-14T16:44:31Z"
 verified: true
 verified_note: repo alive, room not checked

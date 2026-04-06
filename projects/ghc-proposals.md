@@ -5,7 +5,7 @@ repo: "https://github.com/ghc-proposals/ghc-proposals"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6350]
 updated: "2026-03-25T11:01:41Z"
 ---
 

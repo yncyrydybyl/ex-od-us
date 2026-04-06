@@ -5,7 +5,7 @@ repo: "https://github.com/HairlessPrimate/ComfyUI-TTS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5658]
 updated: "2024-06-14T08:09:49Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/public-transport/ideas"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6601]
 updated: "2021-07-23T19:08:51Z"
 ---
 

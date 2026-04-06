@@ -5,7 +5,7 @@ repo: "https://github.com/litestar-org/fast-query-parsers"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6143]
 updated: "2026-03-30T20:22:18Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/rust-lang/google-summer-of-code"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6445]
 updated: "2026-03-22T14:09:51Z"
 ---
 

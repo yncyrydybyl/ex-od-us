@@ -5,7 +5,7 @@ repo: "https://github.com/sysgrok/esp-idf-matter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6080]
 updated: "2026-04-06T13:56:59Z"
 ---
 

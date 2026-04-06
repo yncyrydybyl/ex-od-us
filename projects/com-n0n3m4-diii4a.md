@@ -5,7 +5,7 @@ repo: "https://github.com/glKarin/com.n0n3m4.diii4a"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5650]
 updated: "2026-03-26T09:19:03Z"
 ---
 

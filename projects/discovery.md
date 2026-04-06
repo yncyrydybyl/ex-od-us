@@ -5,7 +5,7 @@ repo: "https://github.com/rust-embedded/discovery"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5883]
 updated: "2026-03-21T19:05:36Z"
 ---
 

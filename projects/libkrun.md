@@ -5,7 +5,7 @@ repo: "https://github.com/containers/libkrun"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6892]
 updated: "2026-03-31T14:10:09Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/google/filament"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6178]
 updated: "2026-04-04T00:35:07Z"
 ---
 

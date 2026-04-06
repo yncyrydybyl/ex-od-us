@@ -5,7 +5,7 @@ repo: "https://github.com/islandoftex/arara"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5237]
 updated: "2026-03-07T22:33:07Z"
 ---
 

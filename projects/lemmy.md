@@ -5,7 +5,7 @@ repo: "https://github.com/LemmyNet/lemmy"
 platform: github
 categories: [Messaging]
 status: "Active"
-issues: []
+issues: [6874]
 updated: "2026-04-06T13:58:37Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/floccusaddon/floccus"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6233]
 updated: "2026-04-06T13:39:09Z"
 ---
 

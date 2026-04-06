@@ -5,7 +5,7 @@ repo: "https://github.com/GardensOfKadesh/Homeworld"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6561]
 updated: "2025-09-28T21:31:27Z"
 ---
 

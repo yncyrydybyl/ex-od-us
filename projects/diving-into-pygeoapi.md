@@ -5,7 +5,7 @@ repo: "https://github.com/geopython/diving-into-pygeoapi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5894]
 updated: "2026-03-11T23:19:47Z"
 ---
 

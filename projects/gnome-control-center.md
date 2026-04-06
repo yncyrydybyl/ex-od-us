@@ -5,7 +5,7 @@ repo: "https://github.com/pop-os/gnome-control-center"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6397]
 updated: "2024-10-25T00:55:41Z"
 ---
 

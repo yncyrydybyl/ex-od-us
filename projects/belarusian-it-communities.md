@@ -5,7 +5,7 @@ repo: "https://github.com/hleb-kastseika/belarusian-it-communities"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5427]
 updated: "2024-05-03T20:28:01Z"
 ---
 

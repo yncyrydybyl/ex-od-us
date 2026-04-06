@@ -5,7 +5,7 @@ repo: "https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5737]
 updated: "2025-07-28T20:09:32Z"
 ---
 

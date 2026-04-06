@@ -5,7 +5,7 @@ repo: "https://github.com/linuxdeepin/dtkcore"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5955]
 updated: "2026-03-31T03:17:36Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/use-ink/ink-examples"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6639]
 updated: "2026-02-02T11:33:32Z"
 ---
 

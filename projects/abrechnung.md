@@ -5,7 +5,7 @@ repo: "https://github.com/SFTtech/abrechnung"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5096]
 updated: "2026-03-26T14:34:29Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/esp-rs/espup"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6094]
 updated: "2026-03-31T08:05:22Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/GNOME/librsvg"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6914]
 updated: "2026-04-01T03:34:58Z"
 ---
 

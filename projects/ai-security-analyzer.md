@@ -5,7 +5,7 @@ repo: "https://github.com/xvnpw/ai-security-analyzer"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5124]
 updated: "2025-10-13T08:47:11Z"
 ---
 

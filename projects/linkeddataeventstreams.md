@@ -5,7 +5,7 @@ repo: "https://github.com/SEMICeu/LinkedDataEventStreams"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6937]
 updated: "2025-11-25T08:26:02Z"
 ---
 

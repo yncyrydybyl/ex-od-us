@@ -5,7 +5,7 @@ repo: "https://github.com/SapuSeven/BetterUntis"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5435]
 updated: "2026-04-01T21:15:48Z"
 ---
 

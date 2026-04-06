@@ -5,7 +5,7 @@ repo: "https://github.com/deskflow/deskflow"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5859]
 updated: "2026-04-06T11:30:37Z"
 ---
 

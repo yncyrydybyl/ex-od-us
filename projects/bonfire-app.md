@@ -5,7 +5,7 @@ repo: "https://github.com/bonfire-networks/bonfire-app"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5492]
 updated: "2026-04-05T14:53:45Z"
 ---
 

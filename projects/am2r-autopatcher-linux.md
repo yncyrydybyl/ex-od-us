@@ -5,7 +5,7 @@ repo: "https://github.com/AM2R-Community-Developers/AM2R-Autopatcher-Linux"
 platform: github
 categories: [Infrastructure]
 status: Active
-issues: []
+issues: [5156]
 updated: "2026-02-13T19:16:53Z"
 verified: true
 verified_note: repo alive, room not checked

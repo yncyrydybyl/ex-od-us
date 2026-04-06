@@ -5,7 +5,7 @@ repo: "https://github.com/ohenley/awesome-ada"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5309]
 updated: "2026-03-13T18:58:00Z"
 ---
 

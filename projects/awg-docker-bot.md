@@ -5,7 +5,7 @@ repo: "https://github.com/JB-SelfCompany/awg-docker-bot"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5404]
 updated: "2025-08-31T16:09:47Z"
 ---
 

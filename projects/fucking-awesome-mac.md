@@ -5,7 +5,7 @@ repo: "https://github.com/Correia-jpv/fucking-awesome-mac"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6306]
 updated: "2026-04-06T01:10:23Z"
 verified: true
 verified_note: repo alive, room not checked

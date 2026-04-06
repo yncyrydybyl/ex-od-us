@@ -5,7 +5,7 @@ repo: "https://github.com/proninyaroslav/libretorrent"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6908]
 updated: "2025-11-12T14:37:04Z"
 ---
 

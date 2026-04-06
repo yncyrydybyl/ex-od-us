@@ -5,7 +5,7 @@ repo: "https://github.com/commetchat/commet"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5663]
 updated: "2026-04-06T09:59:10Z"
 verified: true
 verified_note: repo alive, room not checked

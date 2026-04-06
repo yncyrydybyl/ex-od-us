@@ -5,7 +5,7 @@ repo: "https://github.com/geodynamics/aspect"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5280]
 updated: "2026-04-02T12:28:35Z"
 ---
 

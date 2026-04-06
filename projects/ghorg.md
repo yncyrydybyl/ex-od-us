@@ -5,7 +5,7 @@ repo: "https://github.com/gabrie30/ghorg"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6357]
 updated: "2026-04-02T03:54:39Z"
 ---
 

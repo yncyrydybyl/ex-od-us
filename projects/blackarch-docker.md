@@ -5,7 +5,7 @@ repo: "https://github.com/BlackArch/blackarch-docker"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5461]
 updated: "2026-04-04T21:42:57Z"
 ---
 

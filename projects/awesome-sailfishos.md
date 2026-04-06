@@ -5,7 +5,7 @@ repo: "https://github.com/sailfishos-community/awesome-sailfishos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5383]
 updated: "2026-01-05T21:16:19Z"
 ---
 

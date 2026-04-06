@@ -5,7 +5,7 @@ repo: "https://github.com/turboflakes/crunch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5732]
 updated: "2026-03-23T17:18:09Z"
 ---
 

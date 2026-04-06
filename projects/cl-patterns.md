@@ -5,7 +5,7 @@ repo: "https://github.com/defaultxr/cl-patterns"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5604]
 updated: "2026-02-18T04:03:39Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/iv-org/invidious"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6650]
 updated: "2026-03-10T09:00:00Z"
 ---
 

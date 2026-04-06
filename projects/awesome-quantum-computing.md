@@ -5,7 +5,7 @@ repo: "https://github.com/desireevl/awesome-quantum-computing"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5374]
 updated: "2024-07-24T23:26:58Z"
 verified: true
 verified_note: repo alive, room not checked

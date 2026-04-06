@@ -5,7 +5,7 @@ repo: "https://github.com/EnjoyingFOSS/feeel"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6157]
 updated: "2024-12-26T22:28:50Z"
 verified: true
 verified_note: repo alive, room not checked

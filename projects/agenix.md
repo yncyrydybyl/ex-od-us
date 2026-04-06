@@ -5,7 +5,7 @@ repo: "https://github.com/ryantm/agenix"
 platform: github
 categories: [Security]
 status: "Active"
-issues: []
+issues: [5120]
 updated: "2026-02-04T00:31:49Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/dynaconf/dynaconf"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5963]
 updated: "2026-03-17T19:39:15Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/jellyfin/jellyfin-sdk-csharp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6719]
 updated: "2026-04-06T01:04:09Z"
 ---
 

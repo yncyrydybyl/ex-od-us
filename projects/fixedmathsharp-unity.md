@@ -5,7 +5,7 @@ repo: "https://github.com/mrdav30/FixedMathSharp-Unity"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6194]
 updated: "2026-04-02T04:22:42Z"
 ---
 

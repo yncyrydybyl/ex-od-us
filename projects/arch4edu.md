@@ -5,7 +5,7 @@ repo: "https://github.com/arch4edu/arch4edu"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5243]
 updated: "2026-04-06T14:22:56Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/luong-komorebi/Awesome-Linux-Software"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5335]
 updated: "2026-02-16T16:52:54Z"
 ---
 

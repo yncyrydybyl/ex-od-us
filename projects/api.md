@@ -5,7 +5,7 @@ repo: "https://github.com/polkadot-js/api"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5217]
 updated: "2026-03-24T00:30:12Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Mint-System/Ansible-Build"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5182]
 updated: "2026-04-02T15:17:48Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/gaphor/gaphas"
 platform: github
 categories: [Integrations]
 status: "Active"
-issues: []
+issues: [6319]
 updated: "2026-04-06T11:33:25Z"
 ---
 

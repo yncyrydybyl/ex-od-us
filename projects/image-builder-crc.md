@@ -5,7 +5,7 @@ repo: "https://github.com/osbuild/image-builder-crc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6611]
 updated: "2026-04-06T06:41:59Z"
 ---
 

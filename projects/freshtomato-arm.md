@@ -5,7 +5,7 @@ repo: "https://github.com/FreshTomato-Project/freshtomato-arm"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6287]
 updated: "2026-04-06T14:42:00Z"
 ---
 

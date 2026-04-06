@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/googlechat"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6448]
 updated: "2025-07-16T10:48:37Z"
 ---
 

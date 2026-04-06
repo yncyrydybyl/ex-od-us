@@ -5,7 +5,7 @@ repo: "https://github.com/dtn7/dtn7-rs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5958]
 updated: "2026-02-05T07:44:56Z"
 verified: true
 verified_note: repo alive, room not checked

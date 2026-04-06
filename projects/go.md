@@ -5,7 +5,7 @@ repo: "https://github.com/mautrix/go"
 platform: github
 categories: [Matrix]
 status: "Active"
-issues: []
+issues: [6429]
 updated: "2026-04-05T21:42:40Z"
 ---
 

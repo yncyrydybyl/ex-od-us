@@ -5,7 +5,7 @@ repo: "https://github.com/redhat-cop/aap_configuration_template"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5091]
 updated: "2026-04-04T14:55:43Z"
 ---
 

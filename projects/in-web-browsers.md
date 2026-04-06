@@ -5,7 +5,7 @@ repo: "https://github.com/ipfs/in-web-browsers"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6631]
 updated: "2025-07-22T14:00:41Z"
 ---
 

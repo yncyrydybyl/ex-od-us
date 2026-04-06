@@ -5,7 +5,7 @@ repo: "https://github.com/vilemduha/blendercam"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5470]
 updated: "2026-01-01T00:44:47Z"
 ---
 

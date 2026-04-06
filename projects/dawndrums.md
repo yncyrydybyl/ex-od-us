@@ -5,7 +5,7 @@ repo: "https://github.com/dawndrums/dawndrums"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5809]
 updated: "2025-12-26T16:01:37Z"
 verified: true
 verified_note: repo alive, room not checked

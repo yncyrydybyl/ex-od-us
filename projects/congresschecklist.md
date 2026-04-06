@@ -5,7 +5,7 @@ repo: "https://github.com/MacLemon/CongressChecklist"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5690]
 updated: "2026-01-08T13:54:43Z"
 ---
 

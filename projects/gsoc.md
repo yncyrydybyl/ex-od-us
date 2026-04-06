@@ -5,7 +5,7 @@ repo: "https://github.com/sugarlabs/GSoC"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6482]
 updated: "2026-03-24T13:04:32Z"
 ---
 

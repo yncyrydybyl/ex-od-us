@@ -5,7 +5,7 @@ repo: "https://github.com/nferhat/fht-compositor"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6174]
 updated: "2026-03-29T18:34:21Z"
 ---
 

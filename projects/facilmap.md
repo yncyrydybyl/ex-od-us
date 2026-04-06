@@ -5,7 +5,7 @@ repo: "https://github.com/FacilMap/facilmap"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6133]
 updated: "2026-04-03T11:12:17Z"
 ---
 

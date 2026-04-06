@@ -5,7 +5,7 @@ repo: "https://github.com/LivelyKernel/lively.next"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6951]
 updated: "2026-04-02T16:17:11Z"
 ---
 

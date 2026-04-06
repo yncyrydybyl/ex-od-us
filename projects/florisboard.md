@@ -5,7 +5,7 @@ repo: "https://github.com/florisboard/florisboard"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6241]
 updated: "2026-02-19T18:17:32Z"
 verified: true
 verified_note: repo alive, room not checked

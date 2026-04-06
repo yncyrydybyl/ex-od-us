@@ -4,7 +4,7 @@ repo: "https://github.com/joeseesun/img-cool"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6621]
 updated: "2025-09-01T08:51:15Z"
 ---
 

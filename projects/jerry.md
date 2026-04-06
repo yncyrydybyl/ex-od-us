@@ -5,7 +5,7 @@ repo: "https://github.com/justchokingaround/jerry"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6738]
 updated: "2026-04-05T19:02:43Z"
 ---
 

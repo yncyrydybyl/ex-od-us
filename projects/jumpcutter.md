@@ -5,7 +5,7 @@ repo: "https://github.com/WofWca/jumpcutter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6768]
 updated: "2026-01-29T16:14:14Z"
 ---
 

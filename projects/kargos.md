@@ -5,7 +5,7 @@ repo: "https://github.com/lipido/kargos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6792]
 updated: "2020-08-21T04:36:07Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/AboutRSS/ALL-about-RSS"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5142]
 updated: "2026-03-15T08:36:37Z"
 verified: true
 verified_note: repo alive, room not checked

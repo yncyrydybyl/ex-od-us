@@ -5,7 +5,7 @@ repo: "https://github.com/hifi/heisenbridge"
 platform: github
 categories: [Bridging, Matrix]
 status: "Active"
-issues: []
+issues: [6519]
 updated: "2025-10-04T11:13:47Z"
 ---
 

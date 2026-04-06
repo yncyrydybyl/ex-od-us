@@ -5,7 +5,7 @@ repo: "https://github.com/circuitikz/circuitikz"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5598]
 updated: "2026-03-08T12:13:49Z"
 verified: true
 verified_note: repo alive, room not checked

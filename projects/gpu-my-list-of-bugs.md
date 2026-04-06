@@ -5,7 +5,7 @@ repo: "https://github.com/danilw/GPU-my-list-of-bugs"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6462]
 updated: "2026-03-16T00:04:10Z"
 ---
 

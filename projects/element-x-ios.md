@@ -5,7 +5,7 @@ repo: "https://github.com/element-hq/element-x-ios"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [6006]
 updated: "2026-04-04T01:28:17Z"
 verified: true
 verified_note: repo alive, room not checked

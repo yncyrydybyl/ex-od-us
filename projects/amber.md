@@ -5,7 +5,7 @@ repo: "https://github.com/amber-lang/amber"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [5161]
 updated: "2026-04-06T06:15:15Z"
 verified: true
 verified_note: repo alive, room not checked

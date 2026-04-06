@@ -5,7 +5,7 @@ repo: "https://github.com/Ekleog/kannader"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6791]
 updated: "2024-02-11T09:59:52Z"
 verified: true
 verified_note: repo alive, room not checked

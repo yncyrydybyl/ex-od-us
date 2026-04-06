@@ -5,7 +5,7 @@ repo: "https://github.com/Correia-jpv/fucking-Awesome-Linux-Software"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6304]
 updated: "2026-04-06T06:33:46Z"
 verified: true
 verified_note: repo alive, room not checked

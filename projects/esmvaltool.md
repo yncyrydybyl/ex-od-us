@@ -5,7 +5,7 @@ repo: "https://github.com/ESMValGroup/ESMValTool"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6070]
 updated: "2026-04-02T09:05:22Z"
 verified: true
 verified_note: repo alive, room not checked

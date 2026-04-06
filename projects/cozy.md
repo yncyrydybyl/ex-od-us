@@ -5,7 +5,7 @@ repo: "https://github.com/geigi/cozy"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5716]
 updated: "2026-01-08T11:31:27Z"
 ---
 

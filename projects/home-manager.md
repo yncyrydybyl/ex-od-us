@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/home-manager"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6553]
 updated: "2026-04-06T06:39:46Z"
 ---
 

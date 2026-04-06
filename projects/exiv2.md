@@ -5,7 +5,7 @@ repo: "https://github.com/Exiv2/exiv2"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6118]
 updated: "2026-04-01T14:06:52Z"
 ---
 

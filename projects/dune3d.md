@@ -5,7 +5,7 @@ repo: "https://github.com/dune3d/dune3d"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5962]
 updated: "2026-04-04T11:43:07Z"
 ---
 

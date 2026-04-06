@@ -5,7 +5,7 @@ repo: "https://github.com/fedify-dev/hollo"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6551]
 updated: "2026-03-30T00:14:17Z"
 verified: true
 verified_note: repo alive, room not checked

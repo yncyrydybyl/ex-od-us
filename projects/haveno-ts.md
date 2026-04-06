@@ -5,7 +5,7 @@ repo: "https://github.com/haveno-dex/haveno-ts"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6510]
 updated: "2026-04-03T20:42:30Z"
 ---
 

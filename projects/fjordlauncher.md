@@ -5,7 +5,7 @@ repo: "https://github.com/unmojang/FjordLauncher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6196]
 updated: "2026-04-05T00:30:02Z"
 ---
 

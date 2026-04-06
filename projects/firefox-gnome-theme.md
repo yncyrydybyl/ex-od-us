@@ -5,7 +5,7 @@ repo: "https://github.com/rafaelmardojai/firefox-gnome-theme"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6184]
 updated: "2026-04-06T04:04:30Z"
 ---
 

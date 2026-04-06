@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/disko"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5885]
 updated: "2026-04-06T03:20:18Z"
 ---
 

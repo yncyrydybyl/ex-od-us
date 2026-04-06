@@ -5,7 +5,7 @@ repo: "https://github.com/mozilla-firefox/firefox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6186]
 updated: "2026-04-06T16:20:48Z"
 ---
 

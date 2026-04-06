@@ -5,7 +5,7 @@ repo: "https://github.com/JingOS-team/Kalk"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6787]
 updated: "2021-11-11T07:55:39Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/TachibanaGeneralLaboratories/download-navi"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5927]
 updated: "2025-05-24T06:20:12Z"
 ---
 

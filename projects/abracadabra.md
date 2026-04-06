@@ -5,7 +5,7 @@ repo: "https://github.com/nicoespeon/abracadabra"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5095]
 updated: "2026-04-01T17:14:29Z"
 ---
 

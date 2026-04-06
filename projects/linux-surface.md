@@ -5,7 +5,7 @@ repo: "https://github.com/linux-surface/linux-surface"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6939]
 updated: "2026-04-03T09:32:49Z"
 ---
 

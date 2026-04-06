@@ -5,7 +5,7 @@ repo: "https://github.com/ironfox-oss/IronFox"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6681]
 updated: "2026-04-03T17:40:36Z"
 ---
 

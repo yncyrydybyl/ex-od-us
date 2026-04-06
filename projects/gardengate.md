@@ -5,7 +5,7 @@ repo: "https://github.com/nocss42/GardenGate"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6325]
 updated: "2026-04-03T20:01:16Z"
 ---
 

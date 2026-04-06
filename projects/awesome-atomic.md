@@ -5,7 +5,7 @@ repo: "https://github.com/Malix-Labs/Awesome-Atomic"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [5312]
 updated: "2025-09-06T01:01:06Z"
 ---
 
