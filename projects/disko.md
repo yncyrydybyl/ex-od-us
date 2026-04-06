@@ -1,0 +1,19 @@
+---
+name: "Disko"
+description: "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]"
+repo: "https://github.com/nix-community/disko"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T03:20:18Z"
+---
+
+Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
+
+## Stats
+
+- Stars: 2965
+- Forks: 292
+- Language: Nix
+- Topics: build-with-buildbot, flakes, nix

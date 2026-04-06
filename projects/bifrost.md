@@ -1,0 +1,19 @@
+---
+name: "Bifrost"
+description: "Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support."
+repo: "https://github.com/aperturerobotics/bifrost"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-04T20:50:52Z"
+---
+
+Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.
+
+## Stats
+
+- Stars: 569
+- Forks: 9
+- Language: Go
+- Topics: go, nats, peer-to-peer, rpc, webassembly, websocket

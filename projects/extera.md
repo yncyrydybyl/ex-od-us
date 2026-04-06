@@ -1,0 +1,18 @@
+---
+name: "Extera"
+description: "Extera is fork of Cinny with some design improvements and new features"
+repo: "https://github.com/officialdakari/Extera"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-11-16T17:10:48Z"
+---
+
+Extera is fork of Cinny with some design improvements and new features
+
+## Stats
+
+- Stars: 51
+- Forks: 5
+- Language: TypeScript

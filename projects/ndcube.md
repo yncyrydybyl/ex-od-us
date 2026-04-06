@@ -1,0 +1,19 @@
+---
+name: "Ndcube"
+description: "A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays."
+repo: "https://github.com/sunpy/ndcube"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-30T08:59:04Z"
+---
+
+A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays.
+
+## Stats
+
+- Stars: 48
+- Forks: 55
+- Language: Python
+- Topics: astropy, nddata, numfocus, sunpy, wcs

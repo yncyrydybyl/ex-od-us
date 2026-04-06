@@ -1,0 +1,19 @@
+---
+name: "Bofied"
+description: "Modern network boot server."
+repo: "https://github.com/pojntfx/bofied"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2025-02-07T06:32:19Z"
+---
+
+Modern network boot server.
+
+## Stats
+
+- Stars: 265
+- Forks: 19
+- Language: Go
+- Topics: dhcp-server, http-server, ipxe, netboot, network-boot, proxy-dhcp, pxe, pxe-boot, tftp-server, webdav-server

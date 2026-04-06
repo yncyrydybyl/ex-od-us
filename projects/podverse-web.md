@@ -1,0 +1,19 @@
+---
+name: "Podverse Web"
+description: "Podverse web app written with React and Next.js"
+repo: "https://github.com/podverse/podverse-web"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-01-23T23:06:12Z"
+---
+
+Podverse web app written with React and Next.js
+
+## Stats
+
+- Stars: 100
+- Forks: 29
+- Language: TypeScript
+- Topics: agplv3, foss, hacktoberfest, libre, nextjs, omniaural, open-source, podcast, podcasting, podcasting20, podcasts, react, rss, v4v, valueforvalue

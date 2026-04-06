@@ -1,0 +1,19 @@
+---
+name: "Rhvoice"
+description: "a free and open source speech synthesizer for Russian and other languages"
+repo: "https://github.com/RHVoice/RHVoice"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-01T09:22:30Z"
+---
+
+a free and open source speech synthesizer for Russian and other languages
+
+## Stats
+
+- Stars: 1776
+- Forks: 260
+- Language: C++
+- Topics: android, brazilian-portuguese, english, esperanto, georgian, hts, kyrgyz, linux, russian, speech-synthesis, tatar, text-to-speech, tts, ukrainian, windows

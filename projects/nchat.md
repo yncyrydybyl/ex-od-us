@@ -1,0 +1,19 @@
+---
+name: "Nchat"
+description: "Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support"
+repo: "https://github.com/d99kris/nchat"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-04T02:53:33Z"
+---
+
+Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
+
+## Stats
+
+- Stars: 1661
+- Forks: 99
+- Language: C++
+- Topics: console, linux, macos, ncurses, signal-client, telegram, telegram-client, terminal-based, tui, whatsapp, whatsapp-client

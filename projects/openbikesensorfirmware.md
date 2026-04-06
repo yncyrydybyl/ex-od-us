@@ -1,0 +1,19 @@
+---
+name: "Openbikesensorfirmware"
+description: "Overtaking distance measurements for cyclists "
+repo: "https://github.com/openbikesensor/OpenBikeSensorFirmware"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-09T06:16:24Z"
+---
+
+Overtaking distance measurements for cyclists 
+
+## Stats
+
+- Stars: 122
+- Forks: 29
+- Language: C++
+- Topics: arduino, esp32, firmware

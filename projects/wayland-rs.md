@@ -1,0 +1,19 @@
+---
+name: "Wayland Rs"
+description: "Rust implementation of the wayland protocol (client and server)."
+repo: "https://github.com/Smithay/wayland-rs"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-01T21:52:35Z"
+---
+
+Rust implementation of the wayland protocol (client and server).
+
+## Stats
+
+- Stars: 1357
+- Forks: 152
+- Language: Rust
+- Topics: rust, wayland

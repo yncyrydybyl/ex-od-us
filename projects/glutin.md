@@ -1,0 +1,19 @@
+---
+name: "Glutin"
+description: "A low-level library for OpenGL context creation"
+repo: "https://github.com/rust-windowing/glutin"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-24T21:50:57Z"
+---
+
+A low-level library for OpenGL context creation
+
+## Stats
+
+- Stars: 2079
+- Forks: 484
+- Language: Rust
+- Topics: opengl, rust

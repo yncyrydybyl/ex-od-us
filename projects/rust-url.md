@@ -1,0 +1,18 @@
+---
+name: "Rust Url"
+description: "URL parser for Rust"
+repo: "https://github.com/servo/rust-url"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-05T12:54:17Z"
+---
+
+URL parser for Rust
+
+## Stats
+
+- Stars: 1535
+- Forks: 370
+- Language: Rust

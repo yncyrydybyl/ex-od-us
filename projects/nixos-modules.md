@@ -1,0 +1,19 @@
+---
+name: "Nixos Modules"
+description: "Opinionated, integrated and shared NixOS modules"
+repo: "https://github.com/NuschtOS/nixos-modules"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-04T19:40:29Z"
+---
+
+Opinionated, integrated and shared NixOS modules
+
+## Stats
+
+- Stars: 55
+- Forks: 6
+- Language: Nix
+- Topics: flake, hacktoberfest, nix, nixos, nixos-module
