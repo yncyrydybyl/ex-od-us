@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T09:59:52Z",
+  "generated": "2026-04-06T10:01:39Z",
   "count": 54,
   "projects": [
     {
@@ -2472,7 +2472,7 @@
       "name": "Ultimate Autopair.Nvim",
       "description": "A treesitter supported autopairing plugin with extensions, and much more",
       "website": "",
-      "repo": "https://github.com/altermo/ultimate-autopair.nvim",
+      "repo": "https://github.com/altermo/ultimate-autopair.nvim.nvim",
       "platform": "github",
       "categories": [
         "Development"
@@ -2518,7 +2518,7 @@
       "name": "Xtext",
       "description": "Eclipse Xtext\u2122 is a language development framework ",
       "website": "",
-      "repo": "https://github.com/eclipse-xtext/xtext",
+      "repo": "https://github.com/eclipse-xtext/xtextt",
       "platform": "github",
       "categories": [
         "Development"
