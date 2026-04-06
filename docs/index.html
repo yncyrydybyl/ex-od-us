@@ -812,8 +812,11 @@ function startHeroAnimation() {
   const projSlot = document.getElementById('hero-project');
   if (!wordSlot || !projSlot) return;
 
-  const names = allProjects.filter(p => p.name).map(p => p.name);
-  if (names.length === 0) return;
+  // Pick ~20 random well-known projects (not all 2000+ — too many DOM nodes)
+  const allNames = allProjects.filter(p => p.name && p.exodus_score != null).map(p => p.name);
+  if (allNames.length === 0) return;
+  const shuffled = allNames.sort(() => Math.random() - 0.5);
+  const names = shuffled.slice(0, Math.min(20, shuffled.length));
 
   function initSlot(slot, items) {
     // Find the widest item text
