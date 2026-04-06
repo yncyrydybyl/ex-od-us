@@ -5,7 +5,7 @@ repo: "https://github.com/FahrplanDatenGarten/pyhafas"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1989]
 updated: "2025-01-19T20:58:42Z"
 ---
 

@@ -1,12 +1,17 @@
 ---
-name: "Biblenotify"
-description: "Offline, privacy-friendly daily Bible verse notification app for Android"
+name: Biblenotify
+description: Offline, privacy-friendly daily Bible verse notification app for Android
 repo: "https://github.com/BibleNotify/BibleNotify"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [704]
 updated: "2026-03-25T23:59:50Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#bible-notify:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:16:54Z"
 ---
 
 Offline, privacy-friendly daily Bible verse notification app for Android

@@ -1,12 +1,17 @@
 ---
-name: "Awx Operator"
-description: "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖"
+name: Awx Operator
+description: An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
 repo: "https://github.com/ansible/awx-operator"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [700]
 updated: "2026-03-24T20:03:44Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#awx:ansible.com, https://matrix.to/#/#docs:ansible.im]
+exodus_score: 5
+last_scanned: "2026-04-06T15:16:45Z"
 ---
 
 An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖

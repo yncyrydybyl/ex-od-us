@@ -1,11 +1,14 @@
 ---
-name: "Ansible London Meetup"
-description: "Ansible Meetup for London, UK"
+name: Ansible London Meetup
+description: Ansible Meetup for London, UK
 repo: "https://github.com/ansible-community/ansible-london-meetup"
 platform: github
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-19T10:09:06Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:15:48Z"
 ---
 
 Ansible Meetup for London, UK

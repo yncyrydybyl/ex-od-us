@@ -4,7 +4,7 @@ repo: "https://github.com/dawsh2/zed-mermaid-preview"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2038]
 updated: "2025-11-06T04:50:02Z"
 ---
 

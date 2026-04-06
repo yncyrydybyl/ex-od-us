@@ -5,7 +5,7 @@ repo: "https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1990]
 updated: "2023-09-16T10:28:19Z"
 ---
 

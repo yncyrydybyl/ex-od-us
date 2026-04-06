@@ -5,7 +5,7 @@ repo: "https://github.com/FOSS-Supremacy/OpenLiberty"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1975]
 updated: "2025-06-25T11:51:56Z"
 ---
 

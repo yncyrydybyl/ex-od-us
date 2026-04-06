@@ -1,12 +1,17 @@
 ---
-name: "Alhp"
+name: Alhp
 description: "Mirror of https://somegit.dev/ALHP/ALHP.GO"
 repo: "https://github.com/an0nfunc/ALHP"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-19T19:42:55Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#alhp:ofsg.eu]
+exodus_score: 6
+last_scanned: "2026-04-06T15:15:26Z"
 ---
 
 Mirror of https://somegit.dev/ALHP/ALHP.GO

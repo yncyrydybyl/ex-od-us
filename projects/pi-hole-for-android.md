@@ -5,7 +5,7 @@ repo: "https://github.com/DesktopECHO/Pi-hole-for-Android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1982]
 updated: "2025-12-26T19:49:29Z"
 ---
 

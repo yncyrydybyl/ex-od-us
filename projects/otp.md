@@ -5,7 +5,7 @@ repo: "https://github.com/erlang/otp"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1978]
 updated: "2026-04-04T01:37:58Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/Alien-Alfa/WhatsAppBot-MD"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2035]
 updated: "2024-01-27T21:24:56Z"
 ---
 

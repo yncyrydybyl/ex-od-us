@@ -5,7 +5,7 @@ repo: "https://github.com/drhenner/ror_ecommerce"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1996]
 updated: "2026-03-14T19:41:21Z"
 ---
 

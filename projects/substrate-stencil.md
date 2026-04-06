@@ -5,7 +5,7 @@ repo: "https://github.com/coretime-dev/substrate-stencil"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2013]
 updated: "2023-06-07T10:11:59Z"
 ---
 

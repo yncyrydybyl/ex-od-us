@@ -1,12 +1,17 @@
 ---
-name: "Angourimath"
+name: Angourimath
 description: "Open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes."
 repo: "https://github.com/asc-community/AngouriMath"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-27T12:14:12Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#angourimath:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:15:44Z"
 ---
 
 Open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes.

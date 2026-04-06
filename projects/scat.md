@@ -5,7 +5,7 @@ repo: "https://github.com/fgsect/scat"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2000]
 updated: "2026-04-04T19:10:32Z"
 ---
 

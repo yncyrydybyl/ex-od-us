@@ -5,7 +5,7 @@ repo: "https://github.com/coqui-ai/TTS-recipes"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2025]
 updated: "2022-07-26T12:59:57Z"
 ---
 

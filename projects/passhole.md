@@ -5,7 +5,7 @@ repo: "https://github.com/Evidlo/passhole"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1980]
 updated: "2025-11-25T00:02:43Z"
 ---
 

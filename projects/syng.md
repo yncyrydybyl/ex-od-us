@@ -5,7 +5,7 @@ repo: "https://github.com/christofsteel/syng"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2014]
 updated: "2026-04-05T14:03:02Z"
 ---
 

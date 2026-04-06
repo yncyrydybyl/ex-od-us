@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/scripts"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2001]
 updated: "2026-04-06T07:42:14Z"
 ---
 

@@ -9,7 +9,9 @@ issues: [29]
 updated: "2026-03-16T16:43:17Z"
 matrix_rooms: [https://matrix.to/#/#amaranth-lang:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T12:20:45Z"
+last_scanned: "2026-04-06T15:15:39Z"
+verified: true
+verified_note: repo alive, room not checked
 ---
 
 A modern hardware definition language and toolchain based on Python

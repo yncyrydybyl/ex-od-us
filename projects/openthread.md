@@ -4,7 +4,7 @@ repo: "https://github.com/esp-rs/openthread"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1976]
 updated: "2026-03-04T13:54:12Z"
 ---
 

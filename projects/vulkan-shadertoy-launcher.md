@@ -5,7 +5,7 @@ repo: "https://github.com/danilw/vulkan-shadertoy-launcher"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2032]
 updated: "2026-02-11T14:03:36Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/fazedordecodigo/PyFlunt"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1988]
 updated: "2025-12-06T23:55:00Z"
 ---
 

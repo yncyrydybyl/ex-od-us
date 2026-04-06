@@ -1,12 +1,17 @@
 ---
-name: "Ataraxia"
-description: "Simple and lightweight source-based multi-platform Linux distribution with musl libc."
+name: Ataraxia
+description: Simple and lightweight source-based multi-platform Linux distribution with musl libc.
 repo: "https://github.com/ataraxialinux/ataraxia"
 platform: github
 categories: [Infrastructure]
-status: "Active"
+status: Active
 issues: [690]
 updated: "2021-06-01T22:26:35Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#ataraxialinux:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T15:16:20Z"
 ---
 
 Simple and lightweight source-based multi-platform Linux distribution with musl libc.

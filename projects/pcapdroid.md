@@ -5,7 +5,7 @@ repo: "https://github.com/emanuele-f/PCAPdroid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1981]
 updated: "2026-03-19T18:53:27Z"
 ---
 

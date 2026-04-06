@@ -5,7 +5,7 @@ repo: "https://github.com/fedora-infra/the-new-hotness"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2018]
 updated: "2026-03-23T14:11:28Z"
 ---
 

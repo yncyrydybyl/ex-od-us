@@ -5,7 +5,7 @@ repo: "https://github.com/firefox-devtools/profiler"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1986]
 updated: "2026-04-03T08:26:30Z"
 ---
 

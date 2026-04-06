@@ -5,7 +5,7 @@ repo: "https://github.com/coqui-ai/snakepit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2008]
 updated: "2021-09-05T21:01:01Z"
 ---
 

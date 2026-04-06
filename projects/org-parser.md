@@ -5,7 +5,7 @@ repo: "https://github.com/200ok-ch/org-parser"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1977]
 updated: "2026-03-27T08:54:11Z"
 ---
 

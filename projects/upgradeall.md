@@ -5,7 +5,7 @@ repo: "https://github.com/DUpdateSystem/UpgradeAll"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2029]
 updated: "2026-03-27T14:52:45Z"
 ---
 

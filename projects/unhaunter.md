@@ -5,7 +5,7 @@ repo: "https://github.com/deavid/unhaunter"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2028]
 updated: "2026-04-05T21:58:52Z"
 ---
 

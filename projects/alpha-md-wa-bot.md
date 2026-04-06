@@ -1,12 +1,15 @@
 ---
-name: "Alpha Md Wa Bot"
-description: "🎭🇱🇰𝙰𝙻𝙿𝙷𝙰🇱🇰🎭 v5 World best English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot"
+name: Alpha Md Wa Bot
+description: 🎭🇱🇰𝙰𝙻𝙿𝙷𝙰🇱🇰🎭 v5 World best English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
 repo: "https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-09-22T19:19:46Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:15:32Z"
 ---
 
 🎭🇱🇰𝙰𝙻𝙿𝙷𝙰🇱🇰🎭 v5 World best English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot

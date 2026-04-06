@@ -5,7 +5,7 @@ repo: "https://github.com/divnix/std"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2011]
 updated: "2025-08-25T16:03:19Z"
 ---
 

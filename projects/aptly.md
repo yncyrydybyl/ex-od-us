@@ -1,12 +1,17 @@
 ---
-name: "Aptly"
-description: "aptly - Debian repository management tool"
+name: Aptly
+description: aptly - Debian repository management tool
 repo: "https://github.com/aptly-dev/aptly"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-28T16:37:38Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#aptly:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T15:15:57Z"
 ---
 
 aptly - Debian repository management tool

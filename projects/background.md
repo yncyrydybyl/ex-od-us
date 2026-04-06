@@ -1,12 +1,16 @@
 ---
-name: "Background"
-description: "Background Tasks and Networking"
+name: Background
+description: Background Tasks and Networking
 repo: "https://github.com/ChimeHQ/Background"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-03-17T16:47:56Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 3
+last_scanned: "2026-04-06T15:16:46Z"
 ---
 
 Background Tasks and Networking

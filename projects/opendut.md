@@ -5,7 +5,7 @@ repo: "https://github.com/eclipse-opendut/opendut"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1974]
 updated: "2026-04-02T11:08:25Z"
 ---
 

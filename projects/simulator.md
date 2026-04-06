@@ -5,7 +5,7 @@ repo: "https://github.com/embedded-graphics/simulator"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2003]
 updated: "2026-01-30T01:06:58Z"
 ---
 

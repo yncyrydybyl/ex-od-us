@@ -1,12 +1,17 @@
 ---
-name: "Authelia"
-description: "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™"
+name: Authelia
+description: The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 repo: "https://github.com/authelia/authelia"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [691]
 updated: "2026-04-06T11:05:06Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#support:authelia.com, https://matrix.to/#/#contributing:authelia.com, https://matrix.to/#/#community:authelia.com]
+exodus_score: 7
+last_scanned: "2026-04-06T15:16:24Z"
 ---
 
 The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™

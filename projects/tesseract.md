@@ -4,7 +4,7 @@ repo: "https://github.com/asimons04/tesseract"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2017]
 updated: "2026-04-03T14:04:40Z"
 ---
 

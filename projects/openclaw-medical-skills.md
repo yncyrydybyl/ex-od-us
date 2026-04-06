@@ -5,7 +5,7 @@ repo: "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1973]
 updated: "2026-03-27T02:21:01Z"
 ---
 

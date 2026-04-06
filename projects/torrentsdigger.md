@@ -5,7 +5,7 @@ repo: "https://github.com/ForTheCommunity/TorrentsDigger"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2021]
 updated: "2026-02-15T09:50:17Z"
 ---
 

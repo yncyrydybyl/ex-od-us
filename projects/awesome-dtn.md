@@ -1,12 +1,17 @@
 ---
-name: "Awesome Dtn"
-description: "A curated list of awesome delay- and disruption-tolerant networking"
+name: Awesome Dtn
+description: A curated list of awesome delay- and disruption-tolerant networking
 repo: "https://github.com/dtn7/awesome-dtn"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-10-20T06:02:56Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#dtn7:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:16:31Z"
 ---
 
 A curated list of awesome delay- and disruption-tolerant networking

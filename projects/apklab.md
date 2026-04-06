@@ -1,12 +1,17 @@
 ---
-name: "Apklab"
-description: "Android Reverse-Engineering Workbench for VS Code"
+name: Apklab
+description: Android Reverse-Engineering Workbench for VS Code
 repo: "https://github.com/APKLab/APKLab"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-11-11T04:28:28Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#apklab:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:15:55Z"
 ---
 
 Android Reverse-Engineering Workbench for VS Code

@@ -5,7 +5,7 @@ repo: "https://github.com/FaFre/WebLibre"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2034]
 updated: "2026-03-28T07:52:04Z"
 ---
 

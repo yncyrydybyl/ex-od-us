@@ -1,11 +1,15 @@
 ---
-name: "Awesome Android Aosp"
-description: "A collection of Android AOSP and ROM development related resources"
+name: Awesome Android Aosp
+description: A collection of Android AOSP and ROM development related resources
 repo: "https://github.com/Akipe/awesome-android-aosp"
 platform: github
-status: "Active"
+status: Active
 issues: [692]
 updated: "2024-02-12T17:59:30Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:16:27Z"
 ---
 
 A collection of Android AOSP and ROM development related resources

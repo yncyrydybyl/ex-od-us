@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/WindowTreatment"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2036]
 updated: "2024-11-19T12:16:14Z"
 ---
 

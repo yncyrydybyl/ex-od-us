@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/Rearrange"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1992]
 updated: "2025-05-19T16:52:00Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/FliegendeWurst/TriliumDroid"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2023]
 updated: "2026-04-01T16:54:08Z"
 ---
 

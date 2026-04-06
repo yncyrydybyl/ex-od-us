@@ -5,7 +5,7 @@ repo: "https://github.com/everx-labs/TVM-Solidity-Compiler"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2026]
 updated: "2025-02-12T19:48:24Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/0xpr03/VocableTrainer-Android"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2031]
 updated: "2024-04-05T15:45:48Z"
 ---
 

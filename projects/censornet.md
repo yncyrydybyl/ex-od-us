@@ -1,12 +1,15 @@
 ---
-name: "Censornet"
-description: "🕵 Privacy guide, data security, anonymity techniques"
+name: Censornet
+description: 🕵 Privacy guide, data security, anonymity techniques
 repo: "https://github.com/awesome-windows11/CensorNet"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 issues: [726]
 updated: "2025-06-03T11:56:04Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:17:39Z"
 ---
 
 🕵 Privacy guide, data security, anonymity techniques

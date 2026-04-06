@@ -5,7 +5,7 @@ repo: "https://github.com/Eugeny/tabby"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2016]
 updated: "2026-03-20T12:48:52Z"
 ---
 

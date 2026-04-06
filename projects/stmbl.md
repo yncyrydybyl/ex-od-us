@@ -4,7 +4,7 @@ repo: "https://github.com/freakontrol/stmbl"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2012]
 updated: "2025-08-06T16:09:49Z"
 ---
 

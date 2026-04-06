@@ -5,7 +5,7 @@ repo: "https://github.com/CiviWiki/OpenCiviWiki"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1972]
 updated: "2024-12-11T21:01:17Z"
 ---
 

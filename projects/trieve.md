@@ -5,7 +5,7 @@ repo: "https://github.com/devflowinc/trieve"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2022]
 updated: "2026-01-25T23:25:46Z"
 ---
 

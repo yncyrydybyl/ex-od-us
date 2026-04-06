@@ -1,12 +1,17 @@
 ---
-name: "Chartrepo"
-description: "Authelia Helm Charts"
+name: Chartrepo
+description: Authelia Helm Charts
 repo: "https://github.com/authelia/chartrepo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [727]
 updated: "2026-03-18T08:34:58Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#authelia-support:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:17:40Z"
 ---
 
 Authelia Helm Charts

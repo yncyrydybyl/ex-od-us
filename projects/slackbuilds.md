@@ -5,7 +5,7 @@ repo: "https://github.com/conraid/SlackBuilds"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2005]
 updated: "2026-04-06T14:01:16Z"
 ---
 

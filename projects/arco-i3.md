@@ -1,12 +1,16 @@
 ---
-name: "Arco I3"
-description: "All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation"
+name: Arco I3
+description: All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 repo: "https://github.com/arcolinuxd/arco-i3"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-04-13T18:02:58Z"
+verified: true
+verified_note: repo alive, room not checked
+exodus_score: 1
+last_scanned: "2026-04-06T15:16:03Z"
 ---
 
 All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation

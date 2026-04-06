@@ -5,7 +5,7 @@ repo: "https://github.com/CookieJarApps/SmartCookieWeb"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2007]
 updated: "2025-03-17T18:13:02Z"
 ---
 

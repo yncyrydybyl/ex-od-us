@@ -1,12 +1,17 @@
 ---
-name: "Cherry Node"
+name: Cherry Node
 description: "Cherry Network's node implemented in Rust"
 repo: "https://github.com/CherryNetwork/Cherry-Node"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-04-01T02:29:37Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#cherry-technical:matrix.org]
+exodus_score: 4
+last_scanned: "2026-04-06T15:17:47Z"
 ---
 
 Cherry Network's node implemented in Rust

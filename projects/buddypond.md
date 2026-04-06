@@ -1,12 +1,15 @@
 ---
-name: "Buddypond"
-description: "Cloud OS and Instant Messenger"
+name: Buddypond
+description: Cloud OS and Instant Messenger
 repo: "https://github.com/buddypond/buddypond"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [718]
 updated: "2026-03-01T00:30:03Z"
+verified: true
+verified_note: repo alive, room not checked
+last_scanned: "2026-04-06T15:17:24Z"
 ---
 
 Cloud OS and Instant Messenger

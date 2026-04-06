@@ -1,12 +1,17 @@
 ---
-name: "Am2R Autopatcher Linux"
-description: "Host repository for the AM2R Linux update data."
+name: Am2R Autopatcher Linux
+description: Host repository for the AM2R Linux update data.
 repo: "https://github.com/AM2R-Community-Developers/AM2R-Autopatcher-Linux"
 platform: github
 categories: [Infrastructure]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-13T19:16:53Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#am2r:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T15:15:37Z"
 ---
 
 Host repository for the AM2R Linux update data.

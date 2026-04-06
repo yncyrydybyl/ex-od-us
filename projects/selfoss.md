@@ -5,7 +5,7 @@ repo: "https://github.com/fossar/selfoss"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2002]
 updated: "2026-04-02T07:17:22Z"
 ---
 

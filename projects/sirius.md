@@ -5,7 +5,7 @@ repo: "https://github.com/electronic-structure/SIRIUS"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2004]
 updated: "2026-04-02T13:44:02Z"
 ---
 

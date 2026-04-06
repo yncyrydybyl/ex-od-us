@@ -5,7 +5,7 @@ repo: "https://github.com/eskerda/pybikes"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1987]
 updated: "2026-04-01T11:00:25Z"
 ---
 

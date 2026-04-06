@@ -5,7 +5,7 @@ repo: "https://github.com/DocNow/twarc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2027]
 updated: "2025-10-31T18:03:47Z"
 ---
 

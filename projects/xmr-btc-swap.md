@@ -5,7 +5,7 @@ repo: "https://github.com/comit-network/xmr-btc-swap"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2037]
 updated: "2025-07-22T11:42:04Z"
 ---
 

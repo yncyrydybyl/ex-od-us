@@ -5,7 +5,7 @@ repo: "https://github.com/dcermak/rpm-spec-language-server"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1998]
 updated: "2026-04-06T03:33:39Z"
 ---
 

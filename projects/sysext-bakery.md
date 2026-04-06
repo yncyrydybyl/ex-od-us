@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/sysext-bakery"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [2015]
 updated: "2026-04-03T05:39:43Z"
 ---
 

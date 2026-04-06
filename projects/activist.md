@@ -1,12 +1,17 @@
 ---
-name: "Activist"
-description: "An open-source activism platform"
+name: Activist
+description: An open-source activism platform
 repo: "https://github.com/activist-org/activist"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-05T13:07:02Z"
+verified: true
+verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#activist_community:matrix.org]
+exodus_score: 5
+last_scanned: "2026-04-06T15:15:18Z"
 ---
 
 An open-source activism platform

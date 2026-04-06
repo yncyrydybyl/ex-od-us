@@ -5,7 +5,7 @@ repo: "https://github.com/FareedKhan-dev/qwen3-MoE-from-scratch"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [1991]
 updated: "2025-08-05T15:32:57Z"
 ---
 
