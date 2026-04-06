@@ -193,10 +193,13 @@ def score_readme(content):
     """Score Matrix presence in a README. Returns (score, signals, rooms)."""
     score = 0
     signals = []
-    rooms = list(set(ROOM_PATTERN.findall(content)))
+    # URL-decode content first (some READMEs use %23 for # and %3A for :)
+    from urllib.parse import unquote
+    decoded = unquote(content)
+    rooms = list(set(ROOM_PATTERN.findall(decoded)))
 
     # Also detect user links (@user:server)
-    users = list(set(USER_PATTERN.findall(content)))
+    users = list(set(USER_PATTERN.findall(decoded)))
 
     if rooms:
         score += 2

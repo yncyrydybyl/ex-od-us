@@ -252,38 +252,32 @@ header p { color: var(--text-muted); max-width: 600px; }
   font-size: 1.35rem; color: var(--text); margin-bottom: 0.75rem;
   line-height: 1.8;
 }
+/* Hero text slots — simple inline-block with cross-fade */
 .hero-slot {
   display: inline-block; position: relative;
-  overflow: hidden; vertical-align: bottom;
+  vertical-align: baseline;
 }
-/* Invisible sizer: takes up space in flow so the slot has a real baseline */
-.hero-slot .sizer {
-  display: inline-block; visibility: hidden; white-space: nowrap;
-  height: 0; overflow: hidden;
+.hero-slot .hero-item {
+  display: none; white-space: nowrap;
 }
-.hero-slot span {
-  display: block; white-space: nowrap;
-  position: absolute; left: 0; bottom: 0;
-  opacity: 0; transform: translateY(140%);
+.hero-slot .hero-item.active {
+  display: inline;
+  animation: heroFadeIn 0.5s ease-out;
 }
-.hero-slot span.active {
-  opacity: 1; transform: translateY(0);
-  animation: slotSnap 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+.hero-slot .hero-item.leaving {
+  display: inline; position: absolute; left: 0; top: 0;
+  animation: heroFadeOut 0.4s ease-in forwards;
 }
-.hero-slot span.leaving { animation: slotExit 0.35s ease-in forwards; }
-.hero-slot span.queued { transform: translateY(140%); opacity: 0; }
-@keyframes slotSnap {
-  0%   { transform: translateY(140%); opacity: 0; }
-  55%  { transform: translateY(-8%);  opacity: 1; }
-  75%  { transform: translateY(3%);   opacity: 1; }
-  100% { transform: translateY(0);    opacity: 1; }
+@keyframes heroFadeIn {
+  0%   { opacity: 0; transform: translateY(0.3em); }
+  100% { opacity: 1; transform: translateY(0); }
 }
-@keyframes slotExit {
-  0%   { transform: translateY(0);     opacity: 1; }
-  100% { transform: translateY(-140%); opacity: 0; }
+@keyframes heroFadeOut {
+  0%   { opacity: 1; }
+  100% { opacity: 0; transform: translateY(-0.3em); }
 }
-.hero-slot.word span    { color: var(--blue); font-weight: 600; }
-.hero-slot.project span { color: var(--green); font-weight: 800; }
+.hero-slot.word .hero-item    { color: var(--blue); font-weight: 600; }
+.hero-slot.project .hero-item { color: var(--green); font-weight: 800; }
 
 /* Exodus factor bar */
 .exodus-bar {
@@ -833,57 +827,35 @@ function startHeroAnimation() {
   const projSlot = document.getElementById('hero-project');
   if (!wordSlot || !projSlot) return;
 
-  // Pick ~20 random well-known projects (not all 2000+ — too many DOM nodes)
+  // Pick 15 random scored projects
   const allNames = allProjects.filter(p => p.name && p.exodus_score != null).map(p => p.name);
-  if (allNames.length === 0) return;
-  const shuffled = allNames.sort(() => Math.random() - 0.5);
-  const names = shuffled.slice(0, Math.min(20, shuffled.length));
+  if (allNames.length === 0) {
+    // Fallback: show static text if no scored projects
+    wordSlot.textContent = 'chat';
+    projSlot.textContent = 'your project';
+    return;
+  }
+  const names = allNames.sort(() => Math.random() - 0.5).slice(0, 15);
 
   function initSlot(slot, items) {
-    // Find the widest item text
-    const measure = document.createElement('span');
-    measure.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;font:inherit;font-weight:700';
-    slot.appendChild(measure);
-    let widest = items[0];
-    let maxW = 0;
-    for (const t of items) {
-      measure.textContent = t;
-      if (measure.offsetWidth > maxW) { maxW = measure.offsetWidth; widest = t; }
-    }
-    slot.removeChild(measure);
-
-    // Sizer: in-flow element that sets the slot's width and baseline
-    const sizer = document.createElement('span');
-    sizer.className = 'sizer';
-    sizer.textContent = widest;
-    sizer.style.width = (maxW + 4) + 'px';
-    slot.appendChild(sizer);
-
-    // Set slot height from line-height
-    const lineH = parseFloat(getComputedStyle(slot.parentElement).lineHeight);
-    slot.style.height = lineH + 'px';
-
-    // Add rotating spans (with data-rotate to distinguish from sizer)
     items.forEach((t, i) => {
       const s = document.createElement('span');
       s.textContent = t;
-      s.className = i === 0 ? 'active' : 'queued';
-      s.dataset.rotate = '';
+      s.className = 'hero-item' + (i === 0 ? ' active' : '');
       slot.appendChild(s);
     });
-    return { slot, count: items.length, idx: 0 };
+    return { slot, items: slot.querySelectorAll('.hero-item'), count: items.length, idx: 0 };
   }
 
   const ws = initSlot(wordSlot, words);
   const ps = initSlot(projSlot, names);
 
   function rotate(state) {
-    const spans = state.slot.querySelectorAll('span[data-rotate]');
     const prev = state.idx;
     state.idx = (state.idx + 1) % state.count;
-    spans[prev].className = 'leaving';
-    spans[state.idx].className = 'active';
-    setTimeout(() => { spans[prev].className = 'queued'; }, 400);
+    state.items[prev].className = 'hero-item leaving';
+    state.items[state.idx].className = 'hero-item active';
+    setTimeout(() => { state.items[prev].className = 'hero-item'; }, 400);
   }
 
   setInterval(() => { rotate(ws); rotate(ps); }, 5000);
@@ -919,7 +891,7 @@ function renderStats() {
 
   bar.innerHTML = `
     <div class="stat"><span class="stat-num">${total}</span><span class="stat-label">projects</span></div>
-    <div class="stat"><span class="stat-num">${scored}</span><span class="stat-label">scored</span></div>
+    <div class="stat"><span class="stat-num">${scored}</span><span class="stat-label">scanned</span></div>
     <div class="stat"><span class="stat-num">${avg}</span><span class="stat-label">avg score</span></div>
     <div class="stat"><span class="stat-num">${withRooms}</span><span class="stat-label">with Matrix rooms</span></div>
     <div class="stat-bar" title="Score distribution 0-10">${barSegs}</div>
