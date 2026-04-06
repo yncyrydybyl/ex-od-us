@@ -370,22 +370,33 @@ header p { color: var(--text-muted); max-width: 600px; }
 <script>
 const REPO = 'yncyrydybyl/ex-od-us';
 const REPO_URL = `https://github.com/${REPO}`;
-const DATA_URL = `https://raw.githubusercontent.com/${REPO}/main/data/projects.json`;
+const DATA_URL = 'projects-slim.json';
 const API_URL = `https://api.github.com/repos/${REPO}/issues`;
 
 let allProjects = [];
 let currentFiltered = [];
 
+// ── Map slim JSON keys to full names ────────────────────────────
+function unslim(p) {
+  return {
+    slug: p.s, name: p.n, description: p.d, exodus_score: p.x,
+    platform: p.p, categories: p.c || [], repo: p.r, website: p.w,
+    channels: { matrix_rooms: p.m || [], ...(p.ch || {}) },
+    status: p.st, issues: p.i || [], updated: p.u, last_scanned: p.ls,
+    notes: '', community_size: '', avatar_url: '',
+  };
+}
+
 // ── Load data: static JSON first, API fallback ──────────────────
 async function loadProjects() {
-  // Try static JSON first (no rate limits, faster)
   try {
     const res = await fetch(DATA_URL);
     if (res.ok) {
       const data = await res.json();
-      if (data.projects && data.projects.length > 0) {
-        return data.projects;
-      }
+      // Slim format: {c: count, p: projects}
+      if (data.p && data.p.length > 0) return data.p.map(unslim);
+      // Full format fallback
+      if (data.projects && data.projects.length > 0) return data.projects;
     }
   } catch (e) { /* fall through */ }
 

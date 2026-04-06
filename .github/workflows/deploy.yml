@@ -1,0 +1,47 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/**'
+      - 'docs/**'
+      - 'scripts/build-projects.sh'
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build projects.json
+        run: bash scripts/build-projects.sh
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp docs/index.html _site/
+          cp data/projects-slim.json _site/
+          # Full JSON as fallback (for local dev / API consumers)
+          cp data/projects.json _site/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
