@@ -8,7 +8,7 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#discord:maunium.net]
 issues: [12]
 updated: "2026-04-06T08:17:32Z"
-last_scanned: "2026-04-06T09:59:29Z"
+last_scanned: "2026-04-06T11:45:57Z"
 ---
 
 Improving Matrix-Discord bridge fidelity

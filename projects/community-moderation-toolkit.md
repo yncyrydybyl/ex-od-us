@@ -8,7 +8,7 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#community-moderation:matrix.org]
 issues: [4]
 updated: "2026-04-06T08:17:36Z"
-last_scanned: "2026-04-06T09:59:23Z"
+last_scanned: "2026-04-06T11:45:51Z"
 ---
 
 Tools and guidelines for Matrix room moderators

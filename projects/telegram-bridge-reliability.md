@@ -8,7 +8,7 @@ status: Active
 matrix_rooms: [https://matrix.to/#/#telegram:maunium.net]
 issues: [14]
 updated: "2026-04-06T08:17:31Z"
-last_scanned: "2026-04-06T09:59:47Z"
+last_scanned: "2026-04-06T11:46:16Z"
 ---
 
 Improving Telegram bridge uptime and message delivery
