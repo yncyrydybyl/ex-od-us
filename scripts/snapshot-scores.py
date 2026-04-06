@@ -32,7 +32,7 @@ def main():
     snapshot = {
         'ts': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         'total': len(list(PROJECTS_DIR.glob('*.md'))),
-        'scored': len(scores),
+        'scanned': len(scores),
         'avg': round(sum(scores.values()) / len(scores), 2),
         'distribution': {str(i): sum(1 for s in scores.values() if s == i) for i in range(11)},
         'top': sorted(scores.items(), key=lambda x: -x[1])[:10],
@@ -42,7 +42,7 @@ def main():
     with open(HISTORY_FILE, 'a') as f:
         f.write(json.dumps(snapshot) + '\n')
 
-    print(f'Snapshot: {snapshot["scored"]} scored, avg {snapshot["avg"]}, '
+    print(f'Snapshot: {snapshot["scanned"]} scanned, avg {snapshot["avg"]}, '
           f'saved to {HISTORY_FILE}', flush=True)
 
 if __name__ == '__main__':

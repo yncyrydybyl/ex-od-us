@@ -1,12 +1,15 @@
 ---
-name: "Ansible Documentation"
-description: "Ansible community documentation"
+name: Ansible Documentation
+description: Ansible community documentation
 repo: "https://github.com/ansible/ansible-documentation"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5186]
 updated: "2026-04-05T00:23:17Z"
+matrix_rooms: [https://matrix.to/#/#docs:ansible.com]
+exodus_score: 4
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Ansible community documentation

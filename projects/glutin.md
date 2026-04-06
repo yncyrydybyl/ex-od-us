@@ -1,12 +1,15 @@
 ---
-name: "Glutin"
-description: "A low-level library for OpenGL context creation"
+name: Glutin
+description: A low-level library for OpenGL context creation
 repo: "https://github.com/rust-windowing/glutin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6386]
 updated: "2026-02-24T21:50:57Z"
+matrix_rooms: [https://matrix.to/#/#winit:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A low-level library for OpenGL context creation

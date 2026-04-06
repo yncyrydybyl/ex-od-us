@@ -1,12 +1,15 @@
 ---
-name: "Hatsu"
-description: "🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites."
+name: Hatsu
+description: 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
 repo: "https://github.com/importantimport/hatsu"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6509]
 updated: "2025-12-14T05:59:05Z"
+matrix_rooms: [https://matrix.to/#/#importantimport:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.

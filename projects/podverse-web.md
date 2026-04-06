@@ -1,12 +1,14 @@
 ---
-name: "Podverse Web"
-description: "Podverse web app written with React and Next.js"
+name: Podverse Web
+description: Podverse web app written with React and Next.js
 repo: "https://github.com/podverse/podverse-web"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-01-23T23:06:12Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Podverse web app written with React and Next.js

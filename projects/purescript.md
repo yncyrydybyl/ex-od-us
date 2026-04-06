@@ -1,12 +1,15 @@
 ---
-name: "Purescript"
-description: "A strongly-typed language that compiles to JavaScript"
+name: Purescript
+description: A strongly-typed language that compiles to JavaScript
 repo: "https://github.com/purescript/purescript"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-24T23:27:47Z"
+matrix_rooms: [https://matrix.to/#/#purescript:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A strongly-typed language that compiles to JavaScript

@@ -1,12 +1,15 @@
 ---
-name: "Tree Sitter Zig"
-description: "Zig grammar for tree-sitter"
+name: Tree Sitter Zig
+description: Zig grammar for tree-sitter
 repo: "https://github.com/tree-sitter-grammars/tree-sitter-zig"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-09-10T13:37:11Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Zig grammar for tree-sitter

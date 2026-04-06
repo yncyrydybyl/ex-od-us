@@ -10,7 +10,7 @@ updated: "2026-04-03T11:43:05Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:11Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 farmOS: A web-based farm record keeping application.

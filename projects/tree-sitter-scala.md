@@ -1,12 +1,15 @@
 ---
-name: "Tree Sitter Scala"
-description: "Scala grammar for tree-sitter"
+name: Tree Sitter Scala
+description: Scala grammar for tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-scala"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-12T05:01:02Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Scala grammar for tree-sitter

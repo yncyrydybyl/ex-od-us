@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:19:47Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A collection of crates for use alongside esp-hal, but which are maintained by the community.

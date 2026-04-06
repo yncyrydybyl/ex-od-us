@@ -1,12 +1,14 @@
 ---
-name: "Openfare"
-description: "Micropayment funded software."
+name: Openfare
+description: Micropayment funded software.
 repo: "https://github.com/openfare/openfare"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-04-25T22:57:09Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Micropayment funded software.

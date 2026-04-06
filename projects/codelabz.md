@@ -1,12 +1,15 @@
 ---
-name: "Codelabz"
-description: "Codelabz"
+name: Codelabz
+description: Codelabz
 repo: "https://github.com/scorelab/Codelabz"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5633]
 updated: "2024-03-02T10:50:26Z"
+matrix_rooms: [https://matrix.to/#/#scorelab_CodeLabz:gitter.im]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Codelabz

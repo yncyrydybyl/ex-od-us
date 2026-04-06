@@ -1,12 +1,15 @@
 ---
-name: "Agenix"
-description: "age-encrypted secrets for NixOS and Home manager"
+name: Agenix
+description: age-encrypted secrets for NixOS and Home manager
 repo: "https://github.com/ryantm/agenix"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 issues: [5120]
 updated: "2026-02-04T00:31:49Z"
+matrix_rooms: [https://matrix.to/#/#agenix:nixos.org]
+exodus_score: 4
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 age-encrypted secrets for NixOS and Home manager

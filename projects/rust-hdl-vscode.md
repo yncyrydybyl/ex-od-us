@@ -1,12 +1,15 @@
 ---
-name: "Rust Hdl Vscode"
-description: "VHDL Language Support for VSCode"
+name: Rust Hdl Vscode
+description: VHDL Language Support for VSCode
 repo: "https://github.com/VHDL-LS/rust_hdl_vscode"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-03-28T22:22:52Z"
+matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 VHDL Language Support for VSCode

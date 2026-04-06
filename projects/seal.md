@@ -1,12 +1,14 @@
 ---
-name: "Seal"
-description: "🦭 Video/Audio Downloader for Android, based on yt-dlp"
+name: Seal
+description: 🦭 Video/Audio Downloader for Android, based on yt-dlp
 repo: "https://github.com/JunkFood02/Seal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-25T15:51:02Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 🦭 Video/Audio Downloader for Android, based on yt-dlp

@@ -1,12 +1,15 @@
 ---
-name: "Snoretoast"
-description: "Command-line application capable of creating Windows Toast notifications"
+name: Snoretoast
+description: Command-line application capable of creating Windows Toast notifications
 repo: "https://github.com/KDE/snoretoast"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-12-11T09:30:28Z"
+matrix_rooms: [https://matrix.to/#/#kde-windows:kde.org]
+exodus_score: 4
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Command-line application capable of creating Windows Toast notifications

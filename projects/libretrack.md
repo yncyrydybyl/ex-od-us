@@ -1,12 +1,14 @@
 ---
-name: "Libretrack"
-description: "Private, cross-platform package tracking app"
+name: Libretrack
+description: Private, cross-platform package tracking app
 repo: "https://github.com/proninyaroslav/libretrack"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6910]
 updated: "2026-01-27T06:35:53Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Private, cross-platform package tracking app

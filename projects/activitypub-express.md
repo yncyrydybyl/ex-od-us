@@ -1,12 +1,15 @@
 ---
-name: "Activitypub Express"
-description: "Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps"
+name: Activitypub Express
+description: Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps
 repo: "https://github.com/immers-space/activitypub-express"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5107]
 updated: "2024-02-20T21:05:41Z"
+matrix_rooms: [https://matrix.to/#/#immers-space:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps

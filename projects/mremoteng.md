@@ -1,12 +1,14 @@
 ---
-name: "Mremoteng"
-description: "mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager."
+name: Mremoteng
+description: mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 repo: "https://github.com/mRemoteNG/mRemoteNG"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T18:55:09Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.

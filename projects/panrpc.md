@@ -1,12 +1,15 @@
 ---
-name: "Panrpc"
-description: "Language-, transport- and serialization-agnostic RPC framework with remote closure support that allows exposing and calling functions on both clients and servers."
+name: Panrpc
+description: Language-, transport- and serialization-agnostic RPC framework with remote closure support that allows exposing and calling functions on both clients and servers.
 repo: "https://github.com/pojntfx/panrpc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-04-17T21:04:43Z"
+matrix_rooms: [https://matrix.to/#/#panrpc:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Language-, transport- and serialization-agnostic RPC framework with remote closure support that allows exposing and calling functions on both clients and servers.

@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#book-story:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:17:10Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.

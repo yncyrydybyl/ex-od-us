@@ -1,12 +1,14 @@
 ---
-name: "Megavul"
-description: "MegaVul - The largest, high-quality, extensible, continuously updated, C/C++/Java vulnerability dataset"
+name: Megavul
+description: MegaVul - The largest, high-quality, extensible, continuously updated, C/C++/Java vulnerability dataset
 repo: "https://github.com/Icyrockton/MegaVul"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-01-12T03:01:12Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 MegaVul - The largest, high-quality, extensible, continuously updated, C/C++/Java vulnerability dataset

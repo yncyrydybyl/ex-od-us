@@ -1,12 +1,15 @@
 ---
-name: "Awesome Atomic"
-description: "An awesome curated knowledge-base about atomic systems"
+name: Awesome Atomic
+description: An awesome curated knowledge-base about atomic systems
 repo: "https://github.com/Malix-Labs/Awesome-Atomic"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5312]
 updated: "2025-09-06T01:01:06Z"
+matrix_rooms: [https://matrix.to/#/#microos-desktop:opensuse.org, https://matrix.to/#/#nix:matrix.org, https://matrix.to/#/#silverblue:fedoraproject.org]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 An awesome curated knowledge-base about atomic systems

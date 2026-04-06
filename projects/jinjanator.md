@@ -1,12 +1,15 @@
 ---
-name: "Jinjanator"
-description: "Jinja2 Command-Line Tool, reworked, again"
+name: Jinjanator
+description: Jinja2 Command-Line Tool, reworked, again
 repo: "https://github.com/kpfleming/jinjanator"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6741]
 updated: "2026-03-28T10:23:51Z"
+matrix_rooms: [https://matrix.to/#/#jinjanator:km6g.us]
+exodus_score: 4
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Jinja2 Command-Line Tool, reworked, again

@@ -1,12 +1,15 @@
 ---
-name: "Ovos Docker"
-description: "Open Voice OS container images and docker-compose.yml files for x86_64 and aarch64 CPU architectures."
+name: Ovos Docker
+description: Open Voice OS container images and docker-compose.yml files for x86_64 and aarch64 CPU architectures.
 repo: "https://github.com/OpenVoiceOS/ovos-docker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-31T21:40:35Z"
+matrix_rooms: [https://matrix.to/#/#OpenVoiceOS:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Open Voice OS container images and docker-compose.yml files for x86_64 and aarch64 CPU architectures.

@@ -1,12 +1,14 @@
 ---
-name: "Woodpecker"
-description: "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility."
+name: Woodpecker
+description: Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 repo: "https://github.com/woodpecker-ci/woodpecker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T08:38:12Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.

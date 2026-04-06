@@ -1,12 +1,14 @@
 ---
-name: "Cutehmi"
-description: "CuteHMI is an open-source HMI (Human Machine Interface) software written in C++ and QML, using Qt libraries as a framework. GitHub repository is a mirror!"
+name: Cutehmi
+description: CuteHMI is an open-source HMI (Human Machine Interface) software written in C++ and QML, using Qt libraries as a framework. GitHub repository is a mirror!
 repo: "https://github.com/michpolicht/CuteHMI"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5753]
 updated: "2024-09-06T06:45:14Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CuteHMI is an open-source HMI (Human Machine Interface) software written in C++ and QML, using Qt libraries as a framework. GitHub repository is a mirror!

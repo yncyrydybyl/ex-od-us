@@ -10,7 +10,8 @@ updated: "2025-06-14T11:24:51Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:06Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#chimehq:matrix.org]
 ---
 
 A set of utilities for more pleasant work with ExtensionKit

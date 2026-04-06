@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter Agda"
-description: "Agda grammar for tree-sitter"
+name: Tree Sitter Agda
+description: Agda grammar for tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-agda"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-08-30T01:32:11Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Agda grammar for tree-sitter

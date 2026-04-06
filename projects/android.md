@@ -10,7 +10,8 @@ updated: "2026-04-03T19:41:03Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:15:43Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#catima:matrix.org]
 ---
 
 Catima, a Loyalty Card & Ticket Manager for Android

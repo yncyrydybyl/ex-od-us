@@ -1,12 +1,14 @@
 ---
-name: "Pipeline"
-description: "A cloud-native Pipeline resource."
+name: Pipeline
+description: A cloud-native Pipeline resource.
 repo: "https://github.com/tektoncd/pipeline"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-03T12:42:41Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A cloud-native Pipeline resource.

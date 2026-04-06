@@ -1,12 +1,15 @@
 ---
-name: "Immortalwrt Mt798X"
-description: "An Immortalwrt variant for mediatek mt798x routers."
+name: Immortalwrt Mt798X
+description: An Immortalwrt variant for mediatek mt798x routers.
 repo: "https://github.com/hanwckf/immortalwrt-mt798x"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6624]
 updated: "2025-12-24T10:14:25Z"
+matrix_rooms: [https://matrix.to/#/#immortalwrt:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 An Immortalwrt variant for mediatek mt798x routers.

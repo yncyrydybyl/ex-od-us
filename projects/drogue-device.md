@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:18:59Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A distribution of tools and examples for building embedded IoT applications in Rust

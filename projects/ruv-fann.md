@@ -1,12 +1,13 @@
 ---
-name: "Ruv Fann"
-description: "A blazing-fast, memory-safe neural network library for Rust that brings the power of FANN to the modern world."
+name: Ruv Fann
+description: A blazing-fast, memory-safe neural network library for Rust that brings the power of FANN to the modern world.
 repo: "https://github.com/ruvnet/ruv-FANN"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-09T17:58:18Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A blazing-fast, memory-safe neural network library for Rust that brings the power of FANN to the modern world.

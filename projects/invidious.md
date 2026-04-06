@@ -1,12 +1,15 @@
 ---
-name: "Invidious"
-description: "Invidious is an alternative front-end to YouTube"
+name: Invidious
+description: Invidious is an alternative front-end to YouTube
 repo: "https://github.com/iv-org/invidious"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6650]
 updated: "2026-03-10T09:00:00Z"
+matrix_rooms: [https://matrix.to/#/#invidious:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Invidious is an alternative front-end to YouTube

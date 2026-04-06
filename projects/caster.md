@@ -10,7 +10,7 @@ updated: "2026-03-26T03:35:15Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:17:35Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Dragonfly-Based Voice Programming and Accessibility Toolkit

@@ -1,12 +1,15 @@
 ---
-name: "Rdflib"
-description: "RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information."
+name: Rdflib
+description: RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 repo: "https://github.com/RDFLib/rdflib"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-30T05:46:03Z"
+matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.

@@ -1,12 +1,14 @@
 ---
-name: "Jellyfin Meta"
-description: "Jellyfin Project discussions, policies, and designs"
+name: Jellyfin Meta
+description: Jellyfin Project discussions, policies, and designs
 repo: "https://github.com/jellyfin/jellyfin-meta"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6711]
 updated: "2025-09-19T22:47:13Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Jellyfin Project discussions, policies, and designs

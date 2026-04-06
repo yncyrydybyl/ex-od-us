@@ -10,7 +10,8 @@ updated: "2025-03-17T16:47:56Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:16:46Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#chimehq:matrix.org]
 ---
 
 Background Tasks and Networking

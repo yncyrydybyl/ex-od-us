@@ -1,12 +1,15 @@
 ---
-name: "Spacepackets Rs"
-description: "CCSDS and ECSS packet standards implementations"
+name: Spacepackets Rs
+description: CCSDS and ECSS packet standards implementations
 repo: "https://github.com/us-irs/spacepackets-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-09T09:18:22Z"
+matrix_rooms: [https://matrix.to/#/#sat-rs:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 CCSDS and ECSS packet standards implementations

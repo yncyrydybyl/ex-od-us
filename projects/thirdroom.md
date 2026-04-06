@@ -1,12 +1,15 @@
 ---
-name: "Thirdroom"
-description: "Open, decentralised, immersive worlds built on Matrix"
+name: Thirdroom
+description: Open, decentralised, immersive worlds built on Matrix
 repo: "https://github.com/matrix-org/thirdroom"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2023-08-30T04:47:24Z"
+matrix_rooms: [https://matrix.to/#/#thirdroom-dev:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Open, decentralised, immersive worlds built on Matrix

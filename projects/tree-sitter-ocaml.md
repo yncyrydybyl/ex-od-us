@@ -1,12 +1,14 @@
 ---
-name: "Tree Sitter Ocaml"
-description: "OCaml grammar for tree-sitter"
+name: Tree Sitter Ocaml
+description: OCaml grammar for tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-ocaml"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-27T14:05:59Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 OCaml grammar for tree-sitter

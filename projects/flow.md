@@ -1,12 +1,14 @@
 ---
-name: "Flow"
-description: "⌚ Feature rich event, group and time managment system"
+name: Flow
+description: ⌚ Feature rich event, group and time managment system
 repo: "https://github.com/LinwoodDev/Flow"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6245]
 updated: "2026-03-26T22:01:21Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 ⌚ Feature rich event, group and time managment system

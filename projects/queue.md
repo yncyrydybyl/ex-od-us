@@ -1,12 +1,14 @@
 ---
-name: "Queue"
-description: "A queue for Swift concurrency"
+name: Queue
+description: A queue for Swift concurrency
 repo: "https://github.com/mattmassicotte/Queue"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-09-23T20:22:32Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A queue for Swift concurrency

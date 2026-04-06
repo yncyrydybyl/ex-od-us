@@ -1,12 +1,14 @@
 ---
-name: "Download Navi"
-description: "Free and  Open Source software download manager"
+name: Download Navi
+description: Free and  Open Source software download manager
 repo: "https://github.com/TachibanaGeneralLaboratories/download-navi"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5927]
 updated: "2025-05-24T06:20:12Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Free and  Open Source software download manager

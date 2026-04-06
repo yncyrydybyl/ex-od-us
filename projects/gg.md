@@ -1,12 +1,14 @@
 ---
-name: "Gg"
-description: "General Golang Code Generator"
+name: Gg
+description: General Golang Code Generator
 repo: "https://github.com/Xuanwo/gg"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6346]
 updated: "2023-06-23T15:19:32Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 General Golang Code Generator

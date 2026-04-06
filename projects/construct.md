@@ -1,12 +1,15 @@
 ---
-name: "Construct"
-description: "More Matrix Than Matrix"
+name: Construct
+description: More Matrix Than Matrix
 repo: "https://github.com/matrix-construct/construct"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5698]
 updated: "2023-05-02T04:19:05Z"
+matrix_rooms: [https://matrix.to/#/#construct:zemos.net]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 More Matrix Than Matrix

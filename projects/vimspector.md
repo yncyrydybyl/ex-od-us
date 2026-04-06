@@ -1,12 +1,15 @@
 ---
-name: "Vimspector"
-description: "vimspector - A multi-language debugging system for Vim"
+name: Vimspector
+description: vimspector - A multi-language debugging system for Vim
 repo: "https://github.com/puremourning/vimspector"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-04T04:20:03Z"
+matrix_rooms: [https://matrix.to/#/#vimspector_Lobby:gitter.im]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 vimspector - A multi-language debugging system for Vim

@@ -1,12 +1,15 @@
 ---
-name: "Comfyui Tts"
-description: "A set of TTS nodes for ComfyUI"
+name: Comfyui Tts
+description: A set of TTS nodes for ComfyUI
 repo: "https://github.com/HairlessPrimate/ComfyUI-TTS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5658]
 updated: "2024-06-14T08:09:49Z"
+matrix_rooms: [https://matrix.to/#/#comfyui:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A set of TTS nodes for ComfyUI

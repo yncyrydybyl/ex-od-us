@@ -1,12 +1,15 @@
 ---
-name: "Swiftfin"
+name: Swiftfin
 description: "Native Jellyfin Client for iOS and tvOS "
 repo: "https://github.com/jellyfin/Swiftfin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-06T00:35:28Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Native Jellyfin Client for iOS and tvOS 

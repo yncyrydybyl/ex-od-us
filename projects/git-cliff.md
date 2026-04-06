@@ -1,12 +1,14 @@
 ---
-name: "Git Cliff"
+name: Git Cliff
 description: "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ "
 repo: "https://github.com/orhun/git-cliff"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6369]
 updated: "2026-04-06T07:32:22Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 

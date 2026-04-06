@@ -1,12 +1,15 @@
 ---
-name: "Esphome Components"
-description: "ESPhome Components from the little digger"
+name: Esphome Components
+description: ESPhome Components from the little digger
 repo: "https://github.com/the78mole/esphome_components"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6092]
 updated: "2026-04-01T22:54:11Z"
+matrix_rooms: [https://matrix.to/#/#molesblog:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 ESPhome Components from the little digger

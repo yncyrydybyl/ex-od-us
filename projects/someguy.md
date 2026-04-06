@@ -1,12 +1,15 @@
 ---
-name: "Someguy"
-description: "A Delegated Routing V1 server and client for all your HTTP/IPFS routing needs."
+name: Someguy
+description: A Delegated Routing V1 server and client for all your HTTP/IPFS routing needs.
 repo: "https://github.com/ipfs/someguy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-03-09T05:11:04Z"
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A Delegated Routing V1 server and client for all your HTTP/IPFS routing needs.

@@ -1,12 +1,15 @@
 ---
-name: "Matrix Puppet Slack"
-description: "puppet style slack bridge for matrix"
+name: Matrix Puppet Slack
+description: puppet style slack bridge for matrix
 repo: "https://github.com/matrix-hacks/matrix-puppet-slack"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2022-06-11T19:19:43Z"
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 puppet style slack bridge for matrix

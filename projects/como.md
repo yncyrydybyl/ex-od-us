@@ -1,12 +1,14 @@
 ---
-name: "Como"
-description: "The Compositor Modules provide means to create Wayland and X11 compositors"
+name: Como
+description: The Compositor Modules provide means to create Wayland and X11 compositors
 repo: "https://github.com/winft/como"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5674]
 updated: "2025-06-23T10:25:37Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The Compositor Modules provide means to create Wayland and X11 compositors

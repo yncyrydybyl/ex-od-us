@@ -1,12 +1,14 @@
 ---
-name: "Telluric"
-description: "telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way"
+name: Telluric
+description: telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way
 repo: "https://github.com/satellogic/telluric"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-02-12T01:40:37Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way

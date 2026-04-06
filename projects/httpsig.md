@@ -1,12 +1,14 @@
 ---
-name: "Httpsig"
-description: "Golang implementation of the HTTP Signatures RFC draft, with SSH support!"
+name: Httpsig
+description: Golang implementation of the HTTP Signatures RFC draft, with SSH support!
 repo: "https://github.com/go-fed/httpsig"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6567]
 updated: "2024-01-19T14:56:22Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Golang implementation of the HTTP Signatures RFC draft, with SSH support!

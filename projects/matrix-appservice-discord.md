@@ -1,12 +1,15 @@
 ---
-name: "Matrix Appservice Discord"
-description: "A bridge between Matrix and Discord."
+name: Matrix Appservice Discord
+description: A bridge between Matrix and Discord.
 repo: "https://github.com/matrix-org/matrix-appservice-discord"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-07-23T22:00:33Z"
+matrix_rooms: [https://matrix.to/#/#discord:half-shot.uk]
+exodus_score: 5
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A bridge between Matrix and Discord.

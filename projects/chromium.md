@@ -9,7 +9,9 @@ issues: [5595]
 updated: "2026-04-06T14:30:43Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:17:49Z"
+last_scanned: "2026-04-06T20:35:19Z"
+matrix_rooms: [https://matrix.to/#/#bincode:matrix.org]
+exodus_score: 3
 ---
 
 The official GitHub mirror of the Chromium source

@@ -1,12 +1,15 @@
 ---
-name: "Hyprland Virtual Desktops"
-description: "A plugin for the Hyprland compositor, implementing virtual-desktop functionality."
+name: Hyprland Virtual Desktops
+description: A plugin for the Hyprland compositor, implementing virtual-desktop functionality.
 repo: "https://github.com/levnikmyskin/hyprland-virtual-desktops"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6589]
 updated: "2026-03-30T10:54:02Z"
+matrix_rooms: [https://matrix.to/#/#hypr-virtual-desktops:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A plugin for the Hyprland compositor, implementing virtual-desktop functionality.

@@ -1,12 +1,15 @@
 ---
-name: "Shoebot"
-description: "Easy vector graphics with Python"
+name: Shoebot
+description: Easy vector graphics with Python
 repo: "https://github.com/shoebot/shoebot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-10-02T23:23:47Z"
+matrix_rooms: [https://matrix.to/#/#shoebot:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Easy vector graphics with Python

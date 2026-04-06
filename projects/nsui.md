@@ -1,12 +1,14 @@
 ---
-name: "Nsui"
-description: "AppKit and UIKit without conditional compilation"
+name: Nsui
+description: AppKit and UIKit without conditional compilation
 repo: "https://github.com/mattmassicotte/nsui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2025-10-14T10:39:24Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 AppKit and UIKit without conditional compilation

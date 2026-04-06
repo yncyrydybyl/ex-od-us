@@ -1,12 +1,14 @@
 ---
-name: "Rauc"
-description: "Safe and secure software updates for embedded Linux"
+name: Rauc
+description: Safe and secure software updates for embedded Linux
 repo: "https://github.com/rauc/rauc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-04-02T14:24:51Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Safe and secure software updates for embedded Linux

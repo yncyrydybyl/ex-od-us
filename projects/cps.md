@@ -1,12 +1,15 @@
 ---
-name: "Cps"
-description: "Continuation-Passing Style for Nim 🔗"
+name: Cps
+description: Continuation-Passing Style for Nim 🔗
 repo: "https://github.com/nim-works/cps"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5718]
 updated: "2026-02-16T23:47:47Z"
+matrix_rooms: [https://matrix.to/#/#cps:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Continuation-Passing Style for Nim 🔗

@@ -1,12 +1,14 @@
 ---
-name: "Syphon"
+name: Syphon
 description: "⚗️  a privacy centric matrix client "
 repo: "https://github.com/syphon-org/syphon"
 platform: github
 categories: [Security, Matrix]
-status: "Active"
+status: Active
 issues: []
 updated: "2024-08-05T13:09:26Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 ⚗️  a privacy centric matrix client 

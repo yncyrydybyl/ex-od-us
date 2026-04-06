@@ -1,12 +1,14 @@
 ---
-name: "Client"
-description: "Stream-Pi Client"
+name: Client
+description: Stream-Pi Client
 repo: "https://github.com/stream-pi/client"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5614]
 updated: "2024-11-25T15:27:29Z"
+exodus_score: 1
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Stream-Pi Client

@@ -1,12 +1,15 @@
 ---
-name: "Multiplex"
-description: "Watch torrents with your friends."
+name: Multiplex
+description: Watch torrents with your friends.
 repo: "https://github.com/pojntfx/multiplex"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2026-02-20T06:18:39Z"
+matrix_rooms: [https://matrix.to/#/#multiplex:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Watch torrents with your friends.

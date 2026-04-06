@@ -9,7 +9,8 @@ issues: [818]
 updated: "2026-04-06T10:54:16Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:24Z"
+last_scanned: "2026-04-06T20:35:19Z"
+exodus_score: 1
 ---
 
 Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at

@@ -1,12 +1,13 @@
 ---
-name: "Xcssmatrix"
-description: "Polyfill for CSSMatrix / WebKitCSSMatrix"
+name: Xcssmatrix
+description: Polyfill for CSSMatrix / WebKitCSSMatrix
 repo: "https://github.com/jfsiii/XCSSMatrix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: []
 updated: "2013-12-16T20:12:03Z"
+last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Polyfill for CSSMatrix / WebKitCSSMatrix
