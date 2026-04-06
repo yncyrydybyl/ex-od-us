@@ -1,0 +1,19 @@
+---
+name: "Boa"
+description: "Boa is an embeddable Javascript engine written in Rust."
+repo: "https://github.com/boa-dev/boa"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T03:11:05Z"
+---
+
+Boa is an embeddable Javascript engine written in Rust.
+
+## Stats
+
+- Stars: 7155
+- Forks: 619
+- Language: Rust
+- Topics: ecmascript, hacktoberfest, interpreter, javascript, javascript-engine, javascript-interpreter, parser, runtime, rust, rust-crate, wasm, webassembly

@@ -1,0 +1,16 @@
+---
+name: "Matrix On Premise"
+description: "How to Self-Host synapse Matrix + Element + NGINX + Coturn + Admin Web UI (Docker Compose)"
+repo: "https://github.com/AmirDez/matrix-on-premise"
+platform: github
+status: "Active"
+issues: []
+updated: "2026-01-11T19:58:53Z"
+---
+
+How to Self-Host synapse Matrix + Element + NGINX + Coturn + Admin Web UI (Docker Compose)
+
+## Stats
+
+- Stars: 87
+- Forks: 14

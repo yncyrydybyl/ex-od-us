@@ -1,0 +1,18 @@
+---
+name: "Am2Rlauncher"
+description: "Host respository for the AM2RLauncher."
+repo: "https://github.com/AM2R-Community-Developers/AM2RLauncher"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-02-26T23:23:16Z"
+---
+
+Host respository for the AM2RLauncher.
+
+## Stats
+
+- Stars: 474
+- Forks: 20
+- Language: C#

@@ -1,0 +1,19 @@
+---
+name: "Cargo Machete"
+description: "Remove unused Rust dependencies with this one weird trick!"
+repo: "https://github.com/bnjbvr/cargo-machete"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-03-23T15:05:52Z"
+---
+
+Remove unused Rust dependencies with this one weird trick!
+
+## Stats
+
+- Stars: 1272
+- Forks: 50
+- Language: Rust
+- Topics: cargo, cargo-subcommand, rust, rust-lang

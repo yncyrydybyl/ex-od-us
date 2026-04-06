@@ -1,0 +1,19 @@
+---
+name: "Awesome Osint For Everything"
+description: "OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more."
+repo: "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+platform: github
+categories: [Development]
+status: "Active"
+issues: []
+updated: "2026-04-06T10:49:43Z"
+---
+
+OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
+
+## Stats
+
+- Stars: 2821
+- Forks: 348
+- Language: Shell
+- Topics: blue-team, bugbounty, information-gathering, osint, osint-tools, osinttool, recon, reconnaissance, red-team, security-tools, web
