@@ -108,6 +108,63 @@ def score_from_lines(lines_text):
         score += 1
         signals.append('Multiple rooms (3+)')
 
+    # ── Other chat networks ───────────────────────────────────────
+    if re.search(r'discord\.(gg|com)/invite|discord\s+server', text, re.I):
+        signals.append('Discord present')
+    if re.search(r't\.me/|telegram\.me/', text, re.I):
+        signals.append('Telegram present')
+    if re.search(r'slack\.com|join\s.*slack', text, re.I):
+        signals.append('Slack present')
+    if re.search(r'chat\.whatsapp\.com|wa\.me/', text, re.I):
+        signals.append('WhatsApp present')
+    if re.search(r'signal\.group', text, re.I):
+        signals.append('Signal present')
+    irc_m = re.search(r'(libera\.chat|oftc\.net|irc\.freenode)', text, re.I)
+    if irc_m:
+        irc_chan = re.search(r'(#\S+)\s+on\s+(libera\.chat|oftc\.net|irc\.freenode\S*)', text, re.I)
+        if irc_chan:
+            signals.append(f'IRC: {irc_chan.group(1)} on {irc_chan.group(2)}')
+        else:
+            signals.append(f'IRC: {irc_m.group(1)}')
+    if re.search(r'zulipchat\.com', text, re.I):
+        signals.append('Zulip present')
+    if re.search(r'mattermost', text, re.I):
+        signals.append('Mattermost present')
+    if re.search(r'rocket\.chat', text, re.I):
+        signals.append('Rocket.Chat present')
+    if re.search(r'gitter\.im', text, re.I):
+        signals.append('Gitter present')
+
+    # ── Microblogging / Fediverse ─────────────────────────────────
+    mastodon_user = re.search(r'(@\w+@[\w.-]+\.\w+)', text)
+    if mastodon_user:
+        signals.append(f'Mastodon: {mastodon_user.group(1)}')
+    elif re.search(r'mastodon\.(social|online)', text, re.I):
+        signals.append('Mastodon present')
+    if re.search(r'lemmy', text, re.I):
+        signals.append('Lemmy present')
+    if re.search(r'peertube', text, re.I):
+        signals.append('PeerTube present')
+    if re.search(r'activitypub|fediverse', text, re.I):
+        signals.append('Fediverse/ActivityPub present')
+
+    # ── Bridge detection ──────────────────────────────────────────
+    bridge_m = re.search(r'mautrix-(telegram|discord|signal|whatsapp|slack|facebook|instagram|googlechat|twitter)', text, re.I)
+    if bridge_m:
+        signals.append(f'Bridge: mautrix-{bridge_m.group(1).lower()}')
+    if re.search(r'matrix-appservice-irc', text, re.I):
+        signals.append('Bridge: matrix-appservice-irc')
+    bridged_m = re.search(r'bridged\s+(?:to|from|with|via)\s+(\w+)', text, re.I)
+    if bridged_m:
+        signals.append(f'Bridged to {bridged_m.group(1)}')
+
+    # ── Fork detection ────────────────────────────────────────────
+    fork_m = re.search(r'(?:fork\s+of|forked\s+from|based\s+on)\s+\[?([^\]\n,]+)', text, re.I)
+    if fork_m:
+        parent = fork_m.group(1).strip().strip('[]()').split('(')[0].strip()
+        if parent:
+            signals.append(f'Fork of: {parent}')
+
     # Validate rooms
     valid_rooms = [r for r in rooms if re.match(r'^#[a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', r)]
 
@@ -132,8 +189,6 @@ def fetch_raw_readme(slug, branch='HEAD'):
 # ── Full README scoring ─────────────────────────────────────────
 def score_full_readme(content):
     """Full scoring from complete README content."""
-    from scripts.enrich_projects_scoring import score_readme
-    # Inline the scoring logic to avoid import issues
     text = unquote(content)
     score = 0
     signals = []
@@ -181,10 +236,62 @@ def score_full_readme(content):
         score += 1
         signals.append('Element client mentioned')
 
-    if re.search(r'discord\.(gg|com)/|join.*discord|discord\s+server', text, re.I):
+    # ── Other chat networks ───────────────────────────────────────
+    if re.search(r'discord\.(gg|com)/invite|discord\s+server', text, re.I):
         signals.append('Discord present')
-    if re.search(r't\.me/|telegram\.me/|join.*telegram', text, re.I):
+    if re.search(r't\.me/|telegram\.me/', text, re.I):
         signals.append('Telegram present')
+    if re.search(r'slack\.com|join\s.*slack', text, re.I):
+        signals.append('Slack present')
+    if re.search(r'chat\.whatsapp\.com|wa\.me/', text, re.I):
+        signals.append('WhatsApp present')
+    if re.search(r'signal\.group', text, re.I):
+        signals.append('Signal present')
+    irc_m = re.search(r'(libera\.chat|oftc\.net|irc\.freenode)', text, re.I)
+    if irc_m:
+        irc_chan = re.search(r'(#\S+)\s+on\s+(libera\.chat|oftc\.net|irc\.freenode\S*)', text, re.I)
+        if irc_chan:
+            signals.append(f'IRC: {irc_chan.group(1)} on {irc_chan.group(2)}')
+        else:
+            signals.append(f'IRC: {irc_m.group(1)}')
+    if re.search(r'zulipchat\.com', text, re.I):
+        signals.append('Zulip present')
+    if re.search(r'mattermost', text, re.I):
+        signals.append('Mattermost present')
+    if re.search(r'rocket\.chat', text, re.I):
+        signals.append('Rocket.Chat present')
+    if re.search(r'gitter\.im', text, re.I):
+        signals.append('Gitter present')
+
+    # ── Microblogging / Fediverse ─────────────────────────────────
+    mastodon_user = re.search(r'(@\w+@[\w.-]+\.\w+)', text)
+    if mastodon_user:
+        signals.append(f'Mastodon: {mastodon_user.group(1)}')
+    elif re.search(r'mastodon\.(social|online)', text, re.I):
+        signals.append('Mastodon present')
+    if re.search(r'lemmy', text, re.I):
+        signals.append('Lemmy present')
+    if re.search(r'peertube', text, re.I):
+        signals.append('PeerTube present')
+    if re.search(r'activitypub|fediverse', text, re.I):
+        signals.append('Fediverse/ActivityPub present')
+
+    # ── Bridge detection ──────────────────────────────────────────
+    bridge_m = re.search(r'mautrix-(telegram|discord|signal|whatsapp|slack|facebook|instagram|googlechat|twitter)', text, re.I)
+    if bridge_m:
+        signals.append(f'Bridge: mautrix-{bridge_m.group(1).lower()}')
+    if re.search(r'matrix-appservice-irc', text, re.I):
+        signals.append('Bridge: matrix-appservice-irc')
+    bridged_m = re.search(r'bridged\s+(?:to|from|with|via)\s+(\w+)', text, re.I)
+    if bridged_m:
+        signals.append(f'Bridged to {bridged_m.group(1)}')
+
+    # ── Fork detection ────────────────────────────────────────────
+    fork_m = re.search(r'(?:fork\s+of|forked\s+from|based\s+on)\s+\[?([^\]\n,]+)', text, re.I)
+    if fork_m:
+        parent = fork_m.group(1).strip().strip('[]()').split('(')[0].strip()
+        if parent:
+            signals.append(f'Fork of: {parent}')
 
     valid_rooms = [r for r in rooms if re.match(r'^#[a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', r)]
     return min(score, 10), signals, valid_rooms
