@@ -141,6 +141,8 @@ for fname in sorted(os.listdir(projects_dir)):
         'notes': body if body else fm.get('notes', ''),
         'updated': fm.get('updated', ''),
         'last_scanned': fm.get('last_scanned', ''),
+        'verified': fm.get('verified', None),
+        'verified_note': fm.get('verified_note', ''),
     }
 
     # Auto-detect platform from repo URL if not set

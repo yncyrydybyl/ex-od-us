@@ -3,7 +3,9 @@ name: "Jitsi-Matrix Integration"
 description: "Deep integration between Jitsi video calls and Matrix"
 platform: none
 categories: [Integrations]
-status: "Active"
+status: "Dead"
+verified: false
+verified_note: "Project repo no longer exists. Matrix room is an alias placeholder."
 matrix_rooms:
   - "https://matrix.to/#/#jitsi:matrix.org"
 issues: [17]

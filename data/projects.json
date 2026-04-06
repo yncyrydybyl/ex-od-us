@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T10:02:06Z",
+  "generated": "2026-04-06T11:35:08Z",
   "count": 54,
   "projects": [
     {
@@ -52,7 +52,9 @@
       "avatar_url": "https://github.com/continuwuity.png?size=64",
       "notes": "[Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.\n\n## Stats\n\n- Stars: 694\n- Forks: 19\n- Language: Rust\n- Topics: chat, conduit, conduwuit, homeserver, matrix, rust, server",
       "updated": "2026-04-06T02:09:35Z",
-      "last_scanned": "2026-04-06T09:59:24Z"
+      "last_scanned": "2026-04-06T09:59:24Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "element-call",
@@ -101,7 +103,9 @@
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Group calls powered by Matrix\n\n## Stats\n\n- Stars: 927\n- Forks: 183\n- Language: TypeScript\n- Topics: matrix, matrixrtc, videoconference, voip",
       "updated": "2026-04-06T01:31:11Z",
-      "last_scanned": "2026-04-06T09:59:32Z"
+      "last_scanned": "2026-04-06T09:59:32Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "a3",
@@ -150,7 +154,9 @@
       "avatar_url": "https://github.com/acterglobal.png?size=64",
       "notes": "Community Communication and casual social organising platform (App)\n\n## Stats\n\n- Stars: 103\n- Forks: 21\n- Language: Dart\n- Topics: flutter, matrix-org, organizing, social-network",
       "updated": "2026-03-21T09:31:43Z",
-      "last_scanned": "2026-04-06T09:59:13Z"
+      "last_scanned": "2026-04-06T09:59:13Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "carnetdocumentation",
@@ -198,7 +204,9 @@
       "avatar_url": "https://github.com/CarnetApp.png?size=64",
       "notes": "## Stats\n\n- Stars: 254\n- Forks: 11\n- Language: Shell",
       "updated": "2023-08-21T09:35:00Z",
-      "last_scanned": "2026-04-06T09:59:21Z"
+      "last_scanned": "2026-04-06T09:59:21Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "element-ios",
@@ -246,7 +254,9 @@
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "A glossy Matrix collaboration client for iOS\n\n## Stats\n\n- Stars: 1822\n- Forks: 543\n- Language: Swift",
       "updated": "2026-04-01T09:51:12Z",
-      "last_scanned": "2026-04-06T09:59:33Z"
+      "last_scanned": "2026-04-06T09:59:33Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "vanilla-framework",
@@ -294,7 +304,9 @@
       "avatar_url": "https://github.com/canonical.png?size=64",
       "notes": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.\n\n## Stats\n\n- Stars: 950\n- Forks: 198\n- Language: HTML\n- Topics: css, css-framework, hack, hacktoberfest, html, npm, npm-package, package, sass, vanilla-framework, web-and-design",
       "updated": "2026-04-04T13:11:18Z",
-      "last_scanned": "2026-04-06T09:59:51Z"
+      "last_scanned": "2026-04-06T09:59:51Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "bisq2",
@@ -342,7 +354,9 @@
       "avatar_url": "https://github.com/bisq-network.png?size=64",
       "notes": "## Stats\n\n- Stars: 296\n- Forks: 114\n- Language: Java",
       "updated": "2026-04-06T07:43:38Z",
-      "last_scanned": "2026-04-06T09:59:18Z"
+      "last_scanned": "2026-04-06T09:59:18Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "bspwm",
@@ -390,7 +404,9 @@
       "avatar_url": "https://github.com/baskerville.png?size=64",
       "notes": "A tiling window manager based on binary space partitioning\n\n## Stats\n\n- Stars: 8222\n- Forks: 439\n- Language: C",
       "updated": "2025-10-08T16:42:10Z",
-      "last_scanned": "2026-04-06T09:59:19Z"
+      "last_scanned": "2026-04-06T09:59:19Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "cross",
@@ -439,7 +455,9 @@
       "avatar_url": "https://github.com/cross-rs.png?size=64",
       "notes": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates\n\n## Stats\n\n- Stars: 8092\n- Forks: 444\n- Language: Rust\n- Topics: aarch64, arm, bsd, cargo, cross-compilation, cross-testing, linux, mips, powerpc, rust, s390x, sparc, windows, x86",
       "updated": "2026-03-25T16:00:29Z",
-      "last_scanned": "2026-04-06T09:59:26Z"
+      "last_scanned": "2026-04-06T09:59:26Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "dendrite",
@@ -489,7 +507,9 @@
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Dendrite is a second-generation Matrix homeserver written in Go! \n\n## Stats\n\n- Stars: 875\n- Forks: 85\n- Language: Go",
       "updated": "2026-04-02T15:00:29Z",
-      "last_scanned": "2026-04-06T09:59:28Z"
+      "last_scanned": "2026-04-06T09:59:28Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "mediatek-lte-baseband-re",
@@ -537,7 +557,9 @@
       "avatar_url": "https://github.com/cyrozap.png?size=64",
       "notes": "Notes and utilities for reverse engineering the MediaTek LTE baseband and its Coresonic DSP.\n\n## Stats\n\n- Stars: 210\n- Forks: 43\n- Language: Python",
       "updated": "2024-10-30T03:04:15Z",
-      "last_scanned": "2026-04-06T09:59:37Z"
+      "last_scanned": "2026-04-06T09:59:37Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "supermq",
@@ -585,7 +607,9 @@
       "avatar_url": "https://github.com/absmach.png?size=64",
       "notes": "IoT Platform Framework\n\n## Stats\n\n- Stars: 2570\n- Forks: 676\n- Language: Go\n- Topics: coap, distributed-systems, edge, edge-computing, golang, iiot, internet-of-things, iot, iot-cloud, iot-gateway, iot-platform, lora, lorawan, lwm2m, message-broker, messaging, mqtt, opc-ua, telecom, web-socket",
       "updated": "2026-04-06T08:19:30Z",
-      "last_scanned": "2026-04-06T09:59:45Z"
+      "last_scanned": "2026-04-06T09:59:45Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "amaranth",
@@ -633,7 +657,9 @@
       "avatar_url": "https://github.com/amaranth-lang.png?size=64",
       "notes": "A modern hardware definition language and toolchain based on Python\n\n## Stats\n\n- Stars: 1975\n- Forks: 195\n- Language: Python\n- Topics: amaranth-hdl, fpga, hdl",
       "updated": "2026-03-16T16:43:17Z",
-      "last_scanned": "2026-04-06T09:59:15Z"
+      "last_scanned": "2026-04-06T09:59:15Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "archlinuxtutorial",
@@ -681,7 +707,9 @@
       "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
       "notes": "\u2728Arch Linux\u5b89\u88c5\u4f7f\u7528\u6559\u7a0b \u6bcf\u65e5\u5b9e\u65f6\u66f4\u65b0\uff01 | \u5305\u542bArchLinux\u4ece\u5b89\u88c5\u5230\u65e5\u5e38\u4f7f\u7528\u3001\u5a31\u4e50\u3001\u7f16\u7a0b\u3001\u5a92\u4f53\u5236\u4f5c\u7684\u5404\u4e2a\u65b9\u9762\uff0c\u8ba9Arch\u6210\u4e3a\u4f60\u7684\u5e38\u7528\u7cfb\u7edf\u5427\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 1848\n- Forks: 150\n- Topics: arch, arch-linux, archlinux, archlinuxinstall, bitcoin, blockchain, censorship-circumvention, chinese, cryptocurrency, ebook, ethereum, freedom, freesoftware, fsf, linux, linux-desktop, qv2ray, v2ray, v2raya, virtualcurrency",
       "updated": "2026-01-27T16:37:54Z",
-      "last_scanned": "2026-04-06T09:59:16Z"
+      "last_scanned": "2026-04-06T09:59:16Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "cargo-generate",
@@ -729,7 +757,9 @@
       "avatar_url": "https://github.com/cargo-generate.png?size=64",
       "notes": "cargo, make me a project\n\n## Stats\n\n- Stars: 2399\n- Forks: 192\n- Language: Rust\n- Topics: cargo, cargo-generate, liquid, placeholders, rust, template-generator, template-project",
       "updated": "2026-04-01T20:29:45Z",
-      "last_scanned": "2026-04-06T09:59:20Z"
+      "last_scanned": "2026-04-06T09:59:20Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "corsixth",
@@ -782,7 +812,9 @@
       "avatar_url": "https://github.com/CorsixTH.png?size=64",
       "notes": "Open source clone of Theme Hospital\n\n## Stats\n\n- Stars: 4397\n- Forks: 395\n- Language: Lua\n- Topics: game, opensource, remake, strategy-game, theme-hospital",
       "updated": "2026-04-05T13:12:38Z",
-      "last_scanned": "2026-04-06T09:59:25Z"
+      "last_scanned": "2026-04-06T09:59:25Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "dragonfly",
@@ -830,7 +862,9 @@
       "avatar_url": "https://github.com/dictation-toolbox.png?size=64",
       "notes": "Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx\n\n## Stats\n\n- Stars: 412\n- Forks: 78\n- Language: Python\n- Topics: python, speech-recognition",
       "updated": "2026-01-22T01:03:47Z",
-      "last_scanned": "2026-04-06T09:59:30Z"
+      "last_scanned": "2026-04-06T09:59:30Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "go-capnp",
@@ -878,7 +912,9 @@
       "avatar_url": "https://github.com/capnproto.png?size=64",
       "notes": "Cap'n Proto library and code generator for Go\n\n## Stats\n\n- Stars: 1392\n- Forks: 119\n- Language: Go\n- Topics: capabilities, capability-based, capn-proto, capnp, capnproto, go, golang, object-capabilities, rpc, serialization",
       "updated": "2025-10-25T23:54:54Z",
-      "last_scanned": "2026-04-06T09:59:34Z"
+      "last_scanned": "2026-04-06T09:59:34Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "gtfs-lib",
@@ -927,7 +963,9 @@
       "avatar_url": "https://github.com/conveyal.png?size=64",
       "notes": "A library for loading and saving GTFS feeds of arbitrary size with disk-backed storage\n\n## Stats\n\n- Stars: 80\n- Forks: 41\n- Language: Java",
       "updated": "2024-05-16T08:51:49Z",
-      "last_scanned": "2026-04-06T09:59:35Z"
+      "last_scanned": "2026-04-06T09:59:35Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "modules",
@@ -975,7 +1013,9 @@
       "avatar_url": "https://github.com/envmodules.png?size=64",
       "notes": "Environment Modules: provides dynamic modification of a user's environment\n\n## Stats\n\n- Stars: 837\n- Forks: 118\n- Language: Tcl\n- Topics: environment, environment-modules, hpc, module, modulefiles, shell, tcl",
       "updated": "2026-03-20T11:25:29Z",
-      "last_scanned": "2026-04-06T09:59:40Z"
+      "last_scanned": "2026-04-06T09:59:40Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "shelltutorial",
@@ -1023,7 +1063,9 @@
       "avatar_url": "https://github.com/ArchLinuxStudio.png?size=64",
       "notes": "\u2728Linux\u547d\u4ee4\u884c\u4e0eShell\u811a\u672c\u6559\u7a0b | \u5305\u542b\u5e38\u89c1\u547d\u4ee4\u884c\u4f7f\u7528\uff0cBash\u57fa\u7840\u3001\u9ad8\u7ea7\u7f16\u7a0b\uff0c\u4ee5\u53ca\u5b9e\u7528\u8303\u4f8b\uff01 | \u63d0\u4f9b\u5728\u7ebf\u7f51\u9875\u6587\u6863 \u2728\n\n## Stats\n\n- Stars: 370\n- Forks: 37\n- Topics: linux, shell",
       "updated": "2023-08-21T05:34:41Z",
-      "last_scanned": "2026-04-06T09:59:44Z"
+      "last_scanned": "2026-04-06T09:59:44Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "tiliqua",
@@ -1071,7 +1113,9 @@
       "avatar_url": "https://github.com/apfaudio.png?size=64",
       "notes": "A powerful, hackable FPGA-based audio multitool for Eurorack.\n\n## Stats\n\n- Stars: 132\n- Forks: 14\n- Language: Python",
       "updated": "2026-04-03T17:41:30Z",
-      "last_scanned": "2026-04-06T09:59:49Z"
+      "last_scanned": "2026-04-06T09:59:49Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "aardwolf-social",
@@ -1119,7 +1163,9 @@
       "avatar_url": "https://github.com/Aardwolf-Social.png?size=64",
       "notes": "Powering connected social communities with open software.\n\n## Stats\n\n- Stars: 510\n- Forks: 47\n- Language: Rust\n- Topics: aardwolf, activitypub, activitystreams, decentralized, federated, fediverse, hacktoberfest, hacktoberfest-accepted, hacktoberfest2024, mastodon, rust, rust-lang, social, social-media, social-network, social-plattforms",
       "updated": "2026-02-03T19:21:37Z",
-      "last_scanned": "2026-04-06T09:59:14Z"
+      "last_scanned": "2026-04-06T09:59:14Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "cartes",
@@ -1167,7 +1213,9 @@
       "avatar_url": "https://github.com/cartesapp.png?size=64",
       "notes": "\u26a0\ufe0f Migr\u00e9 sur https://codeberg.org/cartes/web. L'appli Web de cartes grand public. \n\n## Stats\n\n- Stars: 294\n- Forks: 30\n- Language: TypeScript\n- Topics: cartes, climate, cycling, ecology, maps, public-transport, transit, walking",
       "updated": "2025-06-18T11:11:51Z",
-      "last_scanned": "2026-04-06T09:59:22Z"
+      "last_scanned": "2026-04-06T09:59:22Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "propcache",
@@ -1213,7 +1261,9 @@
       "avatar_url": "https://github.com/aio-libs.png?size=64",
       "notes": "Fast property caching\n\n## Stats\n\n- Stars: 33\n- Forks: 18\n- Language: Python",
       "updated": "2026-04-02T21:46:08Z",
-      "last_scanned": "2026-04-06T09:59:43Z"
+      "last_scanned": "2026-04-06T09:59:43Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "play-on-apple-tv",
@@ -1259,7 +1309,9 @@
       "avatar_url": "https://github.com/derhuerst.png?size=64",
       "notes": "A command line tool to play any audio/video on an Apple TV.\n\n## Stats\n\n- Stars: 26\n- Forks: 6\n- Language: JavaScript\n- Topics: airplay, airtunes, apple-tv, audio, cli",
       "updated": "2024-07-27T17:11:26Z",
-      "last_scanned": "2026-04-06T09:59:42Z"
+      "last_scanned": "2026-04-06T09:59:42Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "community-moderation-toolkit",
@@ -1307,7 +1359,9 @@
       "avatar_url": "https://github.com/matrix-org.png?size=64",
       "notes": "Tools and guidelines for Matrix room moderators\n\n## Links\n\nhttps://github.com/matrix-org/mjolnir\n\n## Notes\n\nPartnering with Trust & Safety team",
       "updated": "2026-04-06T08:17:36Z",
-      "last_scanned": "2026-04-06T09:59:23Z"
+      "last_scanned": "2026-04-06T09:59:23Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "community-sponsorship-program",
@@ -1353,7 +1407,9 @@
       "avatar_url": "",
       "notes": "Sustainable funding model for Matrix ecosystem projects\n\n## Links\n\nhttps://matrix.org/foundation/\n\n## Notes\n\nInspired by NLnet and FOSS funding models",
       "updated": "2026-04-06T06:51:20Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "conduit-homeserver-testing",
@@ -1399,7 +1455,9 @@
       "avatar_url": "",
       "notes": "Comprehensive testing infrastructure for Conduit\n\n## Links\n\nhttps://gitlab.com/famedly/conduit\n\n## Notes\n\nRust-based homeserver alternative",
       "updated": "2026-04-06T06:51:19Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "decentralized-identity-research",
@@ -1445,7 +1503,9 @@
       "avatar_url": "",
       "notes": "Exploring DID integration with Matrix accounts\n\n## Notes\n\nCollaborating with W3C DID working group",
       "updated": "2026-04-06T06:51:18Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "discord-bridge-enhancement",
@@ -1493,7 +1553,9 @@
       "avatar_url": "https://github.com/mautrix.png?size=64",
       "notes": "Improving Matrix-Discord bridge fidelity\n\n## Links\n\nhttps://github.com/mautrix/discord\n\n## Notes\n\nMost requested bridge improvement",
       "updated": "2026-04-06T08:17:32Z",
-      "last_scanned": "2026-04-06T09:59:29Z"
+      "last_scanned": "2026-04-06T09:59:29Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "element-x-mobile-client",
@@ -1539,7 +1601,9 @@
       "avatar_url": "",
       "notes": "Next-generation Matrix client for iOS and Android\n\n## Links\n\nhttps://github.com/element-hq/element-x-android\nhttps://github.com/element-hq/element-x-ios\n\n## Notes\n\nRust SDK shared across platforms",
       "updated": "2026-04-06T06:51:21Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "encrypted-direct-messages-improvements",
@@ -1585,7 +1649,9 @@
       "avatar_url": "",
       "notes": "Improving the DM experience in Matrix\n\n## Notes\n\nRelated MSCs: 3061, 3381",
       "updated": "2026-04-06T06:51:21Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "end-to-end-encryption-audit",
@@ -1631,7 +1697,9 @@
       "avatar_url": "",
       "notes": "Third-party audit of Matrix E2EE implementation\n\n## Links\n\nhttps://github.com/ArcticFoxPro/MSC-Chinese-Translation\n\n## Notes\n\nPrevious audit was in 2022",
       "updated": "2026-04-06T06:51:16Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "enterprise-migration-toolkit",
@@ -1677,7 +1745,9 @@
       "avatar_url": "",
       "notes": "Tools for migrating enterprise teams to Matrix\n\n## Notes\n\nTarget: organizations with 1000+ users",
       "updated": "2026-04-06T06:51:20Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "homeserver-deployment-playbooks",
@@ -1723,7 +1793,9 @@
       "avatar_url": "",
       "notes": "Ansible playbooks for easy Matrix homeserver deployment\n\n## Links\n\nhttps://github.com/spantaleev/matrix-docker-ansible-deploy\n\n## Notes\n\nMost popular deployment method",
       "updated": "2026-04-06T06:51:19Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "jitsi-matrix-integration",
@@ -1736,7 +1808,7 @@
         "Integrations"
       ],
       "exodus_score": null,
-      "status": "Active",
+      "status": "Dead",
       "community_size": "",
       "channels": {
         "matrix_space": "",
@@ -1769,7 +1841,9 @@
       "avatar_url": "",
       "notes": "Deep integration between Jitsi video calls and Matrix\n\n## Links\n\nhttps://github.com/nickclaw/jitsi-meet",
       "updated": "2026-04-06T06:51:18Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": false,
+      "verified_note": "Project repo no longer exists. Matrix room is an alias placeholder."
     },
     {
       "slug": "matrix-brand-refresh",
@@ -1815,7 +1889,9 @@
       "avatar_url": "",
       "notes": "Updating the Matrix visual identity and design system\n\n## Notes\n\nWorking with volunteer designers",
       "updated": "2026-04-06T06:51:23Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-governance-framework",
@@ -1861,7 +1937,9 @@
       "avatar_url": "",
       "notes": "Establishing decision-making processes for the Matrix community\n\n## Links\n\nhttps://matrix.org/foundation/\n\n## Notes\n\nBased on the Apache Foundation model",
       "updated": "2026-04-06T06:51:22Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-spaces-ux-research",
@@ -1907,7 +1985,9 @@
       "avatar_url": "",
       "notes": "User research on Matrix Spaces navigation and discovery\n\n## Notes\n\n12 participants recruited so far",
       "updated": "2026-04-06T06:51:21Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-spec-documentation-overhaul",
@@ -1953,7 +2033,9 @@
       "avatar_url": "",
       "notes": "Rewriting the Matrix spec docs for better developer onboarding\n\n## Links\n\nhttps://spec.matrix.org",
       "updated": "2026-04-06T06:51:19Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-widget-api-v2",
@@ -1999,7 +2081,9 @@
       "avatar_url": "",
       "notes": "Next generation widget API for embedded applications\n\n## Notes\n\nMSC pending",
       "updated": "2026-04-06T06:51:16Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-irc-bridge-maintenance",
@@ -2047,7 +2131,9 @@
       "avatar_url": "https://github.com/matrix-org.png?size=64",
       "notes": "Maintaining the official Matrix-IRC bridge\n\n## Links\n\nhttps://github.com/matrix-org/matrix-appservice-irc",
       "updated": "2026-04-06T08:17:33Z",
-      "last_scanned": "2026-04-06T09:59:36Z"
+      "last_scanned": "2026-04-06T09:59:36Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrix-org-room-directory",
@@ -2093,7 +2179,9 @@
       "avatar_url": "",
       "notes": "Curated public room directory for Matrix.org\n\n## Links\n\nhttps://view.matrix.org",
       "updated": "2026-04-06T06:51:20Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "matrixconf-2026-planning",
@@ -2139,7 +2227,9 @@
       "avatar_url": "",
       "notes": "Annual Matrix community conference\n\n## Notes\n\nHybrid event: in-person + virtual",
       "updated": "2026-04-06T06:51:22Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "minosoft",
@@ -2185,7 +2275,9 @@
       "avatar_url": "https://github.com/Bixilon.png?size=64",
       "notes": "An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft\n\n## Stats\n\n- Stars: 1215\n- Forks: 61\n- Language: Kotlin\n- Topics: java, kotlin, minecraft, networking, opengl, reversing",
       "updated": "2026-02-23T16:22:53Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "multi-platform-notification-service",
@@ -2231,7 +2323,9 @@
       "avatar_url": "",
       "notes": "Unified push notification service across all Matrix clients\n\n## Notes\n\nUnifiedPush integration considered",
       "updated": "2026-04-06T06:51:19Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "new-user-onboarding-flow",
@@ -2277,7 +2371,9 @@
       "avatar_url": "",
       "notes": "Interactive onboarding experience for new Matrix users\n\n## Notes\n\nA/B testing different flows",
       "updated": "2026-04-06T06:51:19Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "pev2-cli",
@@ -2323,7 +2419,9 @@
       "avatar_url": "https://github.com/derhuerst.png?size=64",
       "notes": "Run the PostgreSQL Explain Visualizer 2 (pev2) from the command line.\n\n## Stats\n\n- Stars: 25\n- Forks: 1\n- Language: JavaScript\n- Topics: pev2, postgres, postgresql, query-optimization, query-optimizer, query-plan, query-planner, query-planning",
       "updated": "2026-03-11T13:39:12Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "slack-migration-guide",
@@ -2369,7 +2467,9 @@
       "avatar_url": "",
       "notes": "Step-by-step guide for migrating from Slack to Matrix\n\n## Links\n\nhttps://github.com/nickclaw/matrix-slack-migration\n\n## Notes\n\nTested with workspaces up to 500 users",
       "updated": "2026-04-06T06:51:18Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "synapse-performance-optimization",
@@ -2417,7 +2517,9 @@
       "avatar_url": "https://github.com/element-hq.png?size=64",
       "notes": "Reducing Synapse homeserver resource usage by 40%\n\n## Links\n\nhttps://github.com/element-hq/synapse\n\n## Notes\n\nBenchmarking against Conduit and Dendrite",
       "updated": "2026-04-06T08:17:35Z",
-      "last_scanned": "2026-04-06T09:59:46Z"
+      "last_scanned": "2026-04-06T09:59:46Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "telegram-bridge-reliability",
@@ -2465,7 +2567,9 @@
       "avatar_url": "https://github.com/mautrix.png?size=64",
       "notes": "Improving Telegram bridge uptime and message delivery\n\n## Links\n\nhttps://github.com/mautrix/telegram",
       "updated": "2026-04-06T08:17:31Z",
-      "last_scanned": "2026-04-06T09:59:47Z"
+      "last_scanned": "2026-04-06T09:59:47Z",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "ultimate-autopair-nvim",
@@ -2511,7 +2615,9 @@
       "avatar_url": "https://github.com/altermo.png?size=64",
       "notes": "A treesitter supported autopairing plugin with extensions, and much more\n\n## Stats\n\n- Stars: 570\n- Forks: 8\n- Language: Lua\n- Topics: autopair, lua, neovim, neovim-lua, neovim-lua-plugin, neovim-plugin, nvim, nvim-lua, nvim-plugin",
       "updated": "2026-04-04T08:43:22Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     },
     {
       "slug": "xtext",
@@ -2557,7 +2663,9 @@
       "avatar_url": "https://github.com/eclipse-xtext.png?size=64",
       "notes": "Eclipse Xtext\u2122 is a language development framework \n\n## Stats\n\n- Stars: 823\n- Forks: 330\n- Language: Java",
       "updated": "2026-04-03T03:50:32Z",
-      "last_scanned": ""
+      "last_scanned": "",
+      "verified": null,
+      "verified_note": ""
     }
   ]
 }

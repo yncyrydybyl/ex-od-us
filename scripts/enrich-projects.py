@@ -270,6 +270,42 @@ def check_matrixrooms(room_id):
     except Exception:
         return False
 
+# ── Liveness checks ─────────────────────────────────────────────
+def check_repo_alive(gh_slug):
+    """Check if a GitHub repo exists and is accessible. Returns (alive, note)."""
+    resp = api_get(f'https://api.github.com/repos/{gh_slug}')
+    if resp['status'] == 200:
+        data = json.loads(resp['body'])
+        if data.get('archived'):
+            return True, 'repo archived'
+        return True, 'repo alive'
+    elif resp['status'] == 404:
+        return False, 'repo not found (404)'
+    elif resp['status'] == 451:
+        return False, 'repo unavailable for legal reasons (451)'
+    else:
+        return None, f'repo check failed (HTTP {resp["status"]})'
+
+def check_matrix_room_alive(room_id):
+    """Check if a Matrix room is discoverable via client API.
+    Uses matrix.org's client API to check if the room alias resolves."""
+    from urllib.parse import quote
+    # Try resolving the room alias via matrix.org
+    alias = quote(room_id, safe='')
+    try:
+        req = Request(f'https://matrix-client.matrix.org/_matrix/client/v3/directory/room/{alias}')
+        req.add_header('User-Agent', 'ex-od-us-enricher')
+        resp = urlopen(req, timeout=10)
+        if resp.status == 200:
+            return True, 'room alias resolves'
+    except HTTPError as e:
+        if e.code == 404:
+            return False, 'room alias not found'
+        return None, f'room check error (HTTP {e.code})'
+    except Exception as e:
+        return None, f'room check failed ({e})'
+    return None, 'room check inconclusive'
+
 # ── Extract GitHub slug from repo URL ───────────────────────────
 def repo_slug(url):
     """Extract owner/repo from a GitHub URL."""
@@ -345,6 +381,25 @@ def main():
                     md_path.write_text(new_content)
                 continue
 
+            if resp['status'] == 404:
+                # Repo README not found — check if repo itself is dead
+                repo_alive, repo_note = check_repo_alive(gh_slug)
+                time.sleep(RATE_LIMIT_DELAY)
+                if repo_alive is False:
+                    log(f'    DEAD: {repo_note}', 'WARN')
+                    fm['verified'] = False
+                    fm['verified_note'] = repo_note
+                    fm['status'] = 'Dead'
+                    fm['last_scanned'] = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+                    if not args.dry_run:
+                        new_content = write_frontmatter(fm, body)
+                        md_path.write_text(new_content)
+                    stats['enriched'] += 1
+                else:
+                    log(f'    No README but repo exists ({repo_note})', 'WARN')
+                    stats['errors'] += 1
+                continue
+
             if resp['status'] != 200:
                 log(f'    Failed: HTTP {resp["status"]}', 'WARN')
                 stats['errors'] += 1
@@ -378,10 +433,24 @@ def main():
                     signals.append('Listed on matrixrooms.info')
                 time.sleep(RATE_LIMIT_DELAY)
 
+            # Check Matrix room liveness (first room only)
+            room_alive = None
+            if valid_rooms and not args.skip_matrixrooms:
+                room_alive, room_note = check_matrix_room_alive(valid_rooms[0])
+                time.sleep(RATE_LIMIT_DELAY)
+                if room_alive is False:
+                    signals.append(f'Matrix room dead: {room_note}')
+                elif room_alive is True:
+                    signals.append('Matrix room verified alive')
+
             log(f'    Score: {score}/10 | Rooms: {len(valid_rooms)} | Signals: {len(signals)}')
 
             # Update frontmatter
             changed = False
+
+            # Verification status
+            fm['verified'] = True
+            fm['verified_note'] = 'repo alive' + (', room alive' if room_alive else ', room not checked' if room_alive is None else ', room dead')
 
             # Matrix rooms
             room_urls = [f'https://matrix.to/#/{r}' for r in valid_rooms]
