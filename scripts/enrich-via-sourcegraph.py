@@ -20,6 +20,9 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 from urllib.parse import unquote
 
+sys.path.insert(0, os.path.dirname(__file__))
+from readme_cache import ReadmeCache
+
 PROJECTS_DIR = Path('projects')
 SGRAPH = 'https://sourcegraph.com/.api/graphql'
 
@@ -196,21 +199,24 @@ def score_from_lines(lines_text):
 
     return min(score, 10), signals, valid_rooms
 
-# ── Fetch full README via raw.githubusercontent.com ──────────────
-def fetch_raw_readme(slug, branch='HEAD'):
-    """Fetch README from raw.githubusercontent.com (no API rate limit)."""
-    for name in ['README.md', 'readme.md', 'README.rst', 'README', 'Readme.md', 'README.MD']:
-        for ref in [branch, 'main', 'master']:
-            url = f'https://raw.githubusercontent.com/{slug}/{ref}/{name}'
-            try:
-                req = Request(url, headers={'User-Agent': 'ex-od-us-enricher'})
-                resp = urlopen(req, timeout=15)
-                return resp.read().decode('utf-8', errors='replace')
-            except HTTPError:
-                continue
-            except Exception:
-                continue
-    return None
+# Backed by ReadmeCache: persistent etag-conditional cache. The instance
+# is constructed once in main() and threaded through; this thin wrapper
+# keeps existing call sites unchanged.
+_readme_cache: ReadmeCache | None = None
+
+def fetch_raw_readme(slug, branch='HEAD'):  # `branch` kept for back-compat
+    """Fetch README via the persistent cache. Returns text or None."""
+    if _readme_cache is None:
+        # Standalone use (e.g. someone imports this module). Lazily build
+        # a cache so behavior matches the legacy direct-fetch path.
+        return _readme_cache_oneshot(slug)
+    return _readme_cache.get(slug)
+
+def _readme_cache_oneshot(slug: str) -> str | None:
+    cache = ReadmeCache()
+    text = cache.get(slug)
+    cache.flush()
+    return text
 
 # ── Full README scoring ─────────────────────────────────────────
 def score_full_readme(content):
@@ -388,6 +394,11 @@ def main():
     parser.add_argument('--project', help='Only process this slug')
     args = parser.parse_args()
 
+    # Open the persistent README cache for the duration of the run.
+    # All fetch_raw_readme() calls below route through it.
+    global _readme_cache
+    _readme_cache = ReadmeCache()
+
     # Phase 1: Sourcegraph bulk — get all matrix.to matches
     log('Phase 1: Sourcegraph bulk search...')
     sg_results = {}
@@ -447,7 +458,7 @@ def main():
                 if readme:
                     score, signals, rooms = score_full_readme(readme)
                     stats['full_fetched'] += 1
-                time.sleep(0.2)
+                # No sleep — fetches are mostly 304s through the cache.
 
             # Update frontmatter
             changed = False
@@ -474,8 +485,13 @@ def main():
         else:
             stats['skipped'] += 1
 
+    # Persist the README cache index. The bytes were written incrementally
+    # by ReadmeCache.get(); only the index needs flushing here.
+    _readme_cache.flush()
+
     log('')
     log(f'Done. Enriched: {stats["enriched"]}, Skipped: {stats["skipped"]}, Full READMEs: {stats["full_fetched"]}')
+    log(_readme_cache.report())
 
     # Rebuild JSON
     if not args.dry_run and stats['enriched'] > 0:
