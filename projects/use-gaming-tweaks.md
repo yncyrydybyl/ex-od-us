@@ -8,7 +8,8 @@ status: Active
 issues: [4035]
 updated: "2021-01-29T12:55:44Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#cknews:matrix.org.svg]
 ---
 
 This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dummies

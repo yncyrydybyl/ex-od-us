@@ -1,20 +1,14 @@
 ---
-name: "Trussed"
-description: "Modern Cryptographic Firmware"
+name: Trussed
+description: Modern Cryptographic Firmware
 repo: "https://github.com/trussed-dev/trussed"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#trussed:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#trussed:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#trussed:matrix.org]
 issues: [4727]
 updated: "2026-03-26T11:41:08Z"
 ---

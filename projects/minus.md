@@ -10,7 +10,8 @@ updated: "2025-12-22T14:59:18Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#minus:matrix.org]
 ---
 
 An asynchronous, runtime data feedable terminal paging library for Rust

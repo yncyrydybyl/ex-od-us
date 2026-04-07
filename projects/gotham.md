@@ -1,20 +1,14 @@
 ---
-name: "Gotham"
-description: "A flexible web framework that promotes stability, safety, security and speed."
+name: Gotham
+description: A flexible web framework that promotes stability, safety, security and speed.
 repo: "https://github.com/gotham-rs/gotham"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#gotham-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gotham-rs:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gotham-rs:matrix.org]
 issues: [6454]
 updated: "2026-03-30T07:02:59Z"
 ---

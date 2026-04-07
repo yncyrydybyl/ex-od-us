@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6979]
 updated: "2023-03-20T04:59:16Z"
-matrix_links:
-  - target: "#luminance:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#luminance:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 Type-safe, type-level and stateless Rust graphics framework

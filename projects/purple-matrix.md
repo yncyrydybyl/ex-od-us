@@ -8,9 +8,9 @@ status: Active
 issues: [3872]
 updated: "2023-04-24T10:25:00Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#purple:matrix.org]
+matrix_rooms: [https://matrix.to/#/#purple:matrix.org.svg, https://matrix.to/#/#purple:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 Libpurple protocol plugin for matrix 

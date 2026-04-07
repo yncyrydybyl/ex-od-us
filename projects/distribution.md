@@ -8,8 +8,8 @@ status: Active
 issues: [5887]
 updated: "2025-07-19T04:33:01Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
-matrix_rooms: [https://matrix.to/#/#openmandriva-cooker:matrix.org, https://matrix.to/#/#openmandriva:matrix.org]
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#openmandriva:matrix.org, https://matrix.to/#/#openmandriva-cooker:matrix.org.svg, https://matrix.to/#/#openmandriva-cooker:matrix.org]
 ---
 
 OpenMandriva Lx is an exciting free Desktop Operating System that aims to cater to and interest first time and advanced users alike. It has the breadth and depth of an advanced system but is designed to be simple and straightforward in use.

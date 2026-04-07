@@ -1,12 +1,12 @@
 ---
-name: "Xcomfiles"
-description: "A mod for OpenXCom Extended"
+name: Xcomfiles
+description: A mod for OpenXCom Extended
 repo: "https://github.com/SolariusScorch/XComFiles"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T19:28:47Z"
 issues: [4844]
 updated: "2026-03-27T11:58:24Z"
 ---

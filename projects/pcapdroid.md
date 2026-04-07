@@ -9,15 +9,10 @@ issues: [1981]
 updated: "2026-03-19T18:53:27Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#pcapdroid:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pcapdroid:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 No-root network monitor, firewall and PCAP dumper for Android

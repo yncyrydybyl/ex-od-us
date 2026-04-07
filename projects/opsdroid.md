@@ -8,8 +8,8 @@ status: Active
 issues: [7201]
 updated: "2026-03-30T20:56:31Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
-matrix_rooms: [https://matrix.to/#/#opsdroid-general:matrix.org]
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#opsdroid-general:matrix.org, https://matrix.to/#/#opsdroid-general:matrix.org.svg]
 ---
 
 🤖 An open source chat-ops bot framework

@@ -1,14 +1,15 @@
 ---
-name: "Web"
+name: Web
 description: ":dragon_face: Next generation frontend for ownCloud Infinite Scale"
 repo: "https://github.com/owncloud/web"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T19:28:47Z"
 issues: [7204]
 updated: "2026-04-02T07:34:29Z"
+matrix_rooms: [https://matrix.to/#/#ocis:matrix.org]
 ---
 
 :dragon_face: Next generation frontend for ownCloud Infinite Scale

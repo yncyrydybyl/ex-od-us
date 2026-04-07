@@ -10,7 +10,8 @@ updated: "2026-04-01T05:16:23Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#oinkoin:matrix.org]
 ---
 
 Oinkoin is a flutter app for helping you managing your expenses. No internet required.

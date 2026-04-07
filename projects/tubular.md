@@ -1,12 +1,12 @@
 ---
-name: "Tubular"
-description: "A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike."
+name: Tubular
+description: A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 repo: "https://github.com/polymorphicshade/Tubular"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T19:28:47Z"
 issues: [4731]
 updated: "2026-03-09T06:32:59Z"
 ---

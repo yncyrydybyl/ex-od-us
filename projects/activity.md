@@ -8,7 +8,8 @@ status: Active
 issues: [5105]
 updated: "2022-12-04T15:24:57Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#go-fed:feneas.org]
 ---
 
 ActivityStreams & ActivityPub in golang, oh my!

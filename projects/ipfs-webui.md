@@ -1,20 +1,14 @@
 ---
-name: "Ipfs Webui"
-description: "A frontend for an IPFS Kubo and IPFS Desktop"
+name: Ipfs Webui
+description: A frontend for an IPFS Kubo and IPFS Desktop
 repo: "https://github.com/ipfs/ipfs-webui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#lobby:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lobby:ipfs.io"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lobby:ipfs.io]
 issues: [6674]
 updated: "2026-04-05T12:15:58Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Qt5Integration"
-description: "Qt platform theme integration plugins for DDE."
+name: Qt5Integration
+description: Qt platform theme integration plugins for DDE.
 repo: "https://github.com/linuxdeepin/qt5integration"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#deepin-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#deepin-community:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
 issues: [4332]
 updated: "2026-03-31T03:17:30Z"
 ---
