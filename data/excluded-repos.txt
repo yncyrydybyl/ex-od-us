@@ -1,0 +1,16 @@
+# excluded-repos.txt — repos that look Matrix-related but aren't.
+#
+# Format: one entry per line.
+#   <host>/<owner>/<repo>    # reason
+#
+# Lines starting with `#` and blank lines are ignored. Comparison is
+# case-insensitive against the canonical `<host>/<owner>/<repo>` form.
+#
+# All discovery and import scripts consult this file before creating
+# a new project file. The build script also consults it as a defense in
+# depth — even if a .md sneaks back in, the site will not show it.
+#
+# To exclude a project: append a line here with a clear reason and
+# delete its `projects/<slug>.md` in the same commit.
+
+github.com/jfsiii/XCSSMatrix    # CSS matrix transform polyfill, not Matrix protocol

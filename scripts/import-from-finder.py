@@ -8,6 +8,8 @@ creates new project files for discovered repos.
 Usage: python3 scripts/import-from-finder.py data/found-repos.json [--dry-run]
 """
 import sys, json, os, re
+sys.path.insert(0, os.path.dirname(__file__))
+from exclusions import load_excluded_repos, is_excluded
 
 def slugify(name):
     return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
@@ -26,6 +28,10 @@ def main():
     repos = data.get('repos', [])
     projects_dir = 'projects'
     os.makedirs(projects_dir, exist_ok=True)
+
+    excluded = load_excluded_repos()
+    if excluded:
+        print(f"Loaded {len(excluded)} excluded repos", file=sys.stderr)
 
     # Index existing projects by repo URL to avoid duplicates
     existing_repos = set()
@@ -46,6 +52,12 @@ def main():
     for repo in repos:
         slug_candidate = repo['repo'].split('/')[-1].lower()
         repo_url = f"https://github.com/{repo['repo']}"
+
+        # Excluded — never re-create.
+        if is_excluded(repo_url, excluded):
+            print(f"  EXCLUDE {repo['repo']} (in excluded-repos.txt)", file=sys.stderr)
+            skipped += 1
+            continue
 
         # Skip if already tracked
         if repo_url.lower() in existing_repos:
