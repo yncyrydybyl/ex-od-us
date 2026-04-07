@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
 jobs:
   enrich:
     runs-on: ubuntu-latest
@@ -29,5 +33,6 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: enrich projects via Sourcegraph"
+            git pull --rebase origin main
             git push
           fi
