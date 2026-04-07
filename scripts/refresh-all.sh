@@ -14,24 +14,26 @@
 #
 set -euo pipefail
 
-FORCE=""
 DRY_RUN=""
-SKIP_MATRIXROOMS=""
 NO_COMMIT=""
+FULL=""
 
 for arg in "$@"; do
   case "$arg" in
-    --force) FORCE="--force" ;;
     --dry-run) DRY_RUN="--dry-run" ;;
-    --skip-matrixrooms) SKIP_MATRIXROOMS="--skip-matrixrooms" ;;
+    --full) FULL="--full" ;;
     --no-commit) NO_COMMIT="1" ;;
+    # Legacy flags from the deprecated `enrich-projects.py` pipeline.
+    # Silently dropped for back-compat with anything that still calls
+    # `refresh-all.sh --force` or `--skip-matrixrooms`.
+    --force|--skip-matrixrooms) echo "warning: $arg is no longer supported, ignoring" >&2 ;;
     --help|-h)
-      echo "Usage: $0 [--force] [--dry-run] [--skip-matrixrooms] [--no-commit]"
+      echo "Usage: $0 [--dry-run] [--full] [--no-commit]"
       echo ""
-      echo "  --force             Ignore ETag cache, re-fetch all READMEs"
-      echo "  --dry-run           Show what would change without writing"
-      echo "  --skip-matrixrooms  Skip matrixrooms.info checks (faster)"
-      echo "  --no-commit         Run pipeline but don't git commit/push"
+      echo "  --dry-run     Show what would change without writing"
+      echo "  --full        Also fetch full READMEs via raw.githubusercontent.com"
+      echo "                (in addition to the default Sourcegraph snippet pass)"
+      echo "  --no-commit   Run pipeline but don't git commit/push"
       exit 0
       ;;
   esac
@@ -53,13 +55,14 @@ log ""
 # ── Step 1: Enrich projects ─────────────────────────────────────
 log "┌─ Step 1/3: Enrich projects"
 ENRICH_OUT=$(mktemp)
-python3 scripts/enrich-projects.py $FORCE $DRY_RUN $SKIP_MATRIXROOMS 2>&1 | tee "$ENRICH_OUT" | sed 's/^/│  /'
+python3 scripts/enrich-via-sourcegraph.py $DRY_RUN $FULL 2>&1 | tee "$ENRICH_OUT" | sed 's/^/│  /'
 
-# Extract stats from enricher output
-ENRICH_SUMMARY=$(grep -o 'Processed: [0-9]*.*Errors: [0-9]*' "$ENRICH_OUT" || echo "no stats")
-ENRICHED_PROJECTS=$(grep -oP '^\[\S+\] INFO:   (\S+)' "$ENRICH_OUT" | sed 's/.*INFO:   //' | sort -u)
-ENRICHED_COUNT=$(echo "$ENRICHED_PROJECTS" | grep -c . || echo 0)
-DEAD_PROJECTS=$(grep 'DEAD:' "$ENRICH_OUT" | grep -oP 'INFO:   (\S+)' | sed 's/.*INFO:   //' || true)
+# Extract stats from enricher output. The new enricher prints
+# "Done. Enriched: N, Skipped: M, Full READMEs: K".
+ENRICH_SUMMARY=$(grep -oP 'Enriched: \d+, Skipped: \d+, Full READMEs: \d+' "$ENRICH_OUT" | tail -1 || echo "no stats")
+ENRICHED_COUNT=$(grep -oP 'Enriched: \K\d+' "$ENRICH_OUT" | tail -1 || echo 0)
+# DEAD detection isn't done by the new enricher; the field is left empty.
+DEAD_PROJECTS=""
 rm -f "$ENRICH_OUT"
 
 log "│"
