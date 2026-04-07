@@ -6,7 +6,7 @@ platform: codeberg
 categories: [Messaging]
 exodus_score: 1
 status: "Active"
-issues: []
+issues: [7039]
 updated: "2026-04-05T03:03:23+02:00"
 last_scanned: "2026-04-06T21:01:46Z"
 ---
