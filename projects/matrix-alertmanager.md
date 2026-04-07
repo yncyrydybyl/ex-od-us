@@ -1,14 +1,13 @@
 ---
-name: "Matrix Alertmanager"
-description: "A bot to receive Alertmanager webhook events and forward them to chosen rooms."
+name: Matrix Alertmanager
+description: A bot to receive Alertmanager webhook events and forward them to chosen rooms.
 repo: "https://github.com/jaywink/matrix-alertmanager"
 platform: github
 categories: [Integrations, Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-alertmanager:federator.dev"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#matrix-alertmanager:federator.dev]
 issues: []
 updated: "2026-03-30T11:21:38Z"
 ---

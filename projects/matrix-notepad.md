@@ -1,14 +1,13 @@
 ---
-name: "Matrix Notepad"
-description: "A buggy way to collaborate on text documents using the Matrix protocol. When it works, consider this the Matrix Console of collaboration!"
+name: Matrix Notepad
+description: A buggy way to collaborate on text documents using the Matrix protocol. When it works, consider this the Matrix Console of collaboration!
 repo: "https://github.com/KB1RD/matrix-notepad"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-collaboration:kb1rd.net"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#matrix-collaboration:kb1rd.net]
 issues: []
 updated: "2023-01-07T12:02:59Z"
 ---

@@ -8,7 +8,7 @@ status: Active
 issues: [6719]
 updated: "2026-04-06T01:04:09Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 C# SDK for Jellyfin Supporting DotNet Standard and Core Targets

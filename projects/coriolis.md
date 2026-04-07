@@ -1,14 +1,13 @@
 ---
-name: "Coriolis"
-description: "Coriolis VLSI EDA Tool (LIP6)"
+name: Coriolis
+description: Coriolis VLSI EDA Tool (LIP6)
 repo: "https://github.com/lip6/coriolis"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#coriolis:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#coriolis:matrix.org]
 issues: [5710]
 updated: "2026-03-30T15:06:08Z"
 ---

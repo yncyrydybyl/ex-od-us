@@ -9,7 +9,7 @@ issues: []
 updated: "2023-04-24T10:25:00Z"
 matrix_rooms: [https://matrix.to/#/#purple:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Libpurple protocol plugin for matrix 

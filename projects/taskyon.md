@@ -1,12 +1,12 @@
 ---
-name: "Taskyon"
-description: "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid."
+name: Taskyon
+description: Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.
 repo: "https://github.com/Xyntopia/taskyon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2026-03-17T20:15:40Z"
 ---

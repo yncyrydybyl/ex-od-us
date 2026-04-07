@@ -1,14 +1,13 @@
 ---
-name: "Swhkd"
-description: "Sxhkd clone for Wayland (works on TTY and X11 too)"
+name: Swhkd
+description: Sxhkd clone for Wayland (works on TTY and X11 too)
 repo: "https://github.com/waycrate/swhkd"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#waycrate-tools:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#waycrate-tools:matrix.org]
 issues: []
 updated: "2026-01-05T17:55:19Z"
 ---

@@ -1,12 +1,12 @@
 ---
-name: "Roc Toolkit"
-description: "Real-time audio streaming over the network."
+name: Roc Toolkit
+description: Real-time audio streaming over the network.
 repo: "https://github.com/roc-streaming/roc-toolkit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2026-03-11T14:03:24Z"
 ---

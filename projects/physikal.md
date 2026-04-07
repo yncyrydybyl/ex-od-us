@@ -1,12 +1,12 @@
 ---
-name: "Physikal"
-description: "Mirror of Gitlab Repository"
+name: Physikal
+description: Mirror of Gitlab Repository
 repo: "https://github.com/Tenkiv/physikal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2020-12-16T06:09:31Z"
 ---

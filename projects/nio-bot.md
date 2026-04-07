@@ -9,7 +9,7 @@ issues: []
 updated: "2025-12-15T18:09:33Z"
 matrix_rooms: [https://matrix.to/#/#niobot:nexy7574.co.uk]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Matrix bot library based on matrix-nio, similar in design to discord.py

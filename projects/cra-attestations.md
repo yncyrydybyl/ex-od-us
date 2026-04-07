@@ -1,14 +1,13 @@
 ---
-name: "Cra Attestations"
-description: "This project aims to create a practical framework that helps manufacturers meet their due diligence obligations when using open source software, without adding burden to maintainers. By introducing voluntary security attestations, it seeks to strengthen FOSS security, sustainability, and collaborati"
+name: Cra Attestations
+description: This project aims to create a practical framework that helps manufacturers meet their due diligence obligations when using open source software, without adding burden to maintainers. By introducing voluntary security attestations, it seeks to strengthen FOSS security, sustainability, and collaborati
 repo: "https://github.com/orcwg/cra-attestations"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#oss-attestations:fosdem.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#oss-attestations:fosdem.org]
 issues: [5719]
 updated: "2026-03-24T21:00:03Z"
 ---

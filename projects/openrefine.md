@@ -1,14 +1,13 @@
 ---
-name: "Openrefine"
-description: "OpenRefine is a free, open source power tool for working with messy data and improving it"
+name: Openrefine
+description: OpenRefine is a free, open source power tool for working with messy data and improving it
 repo: "https://github.com/OpenRefine/OpenRefine"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#OpenRefine_OpenRefine:gitter.im"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#OpenRefine_OpenRefine:gitter.im]
 issues: []
 updated: "2026-04-03T18:54:06Z"
 ---

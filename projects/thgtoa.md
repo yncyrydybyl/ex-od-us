@@ -10,7 +10,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#psa:anonymousplanet.net, https://matrix.to/#/#anonymity:anonymousplanet.net]
 exodus_score: 6
-last_scanned: "2026-04-06T15:24:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 The comprehensive guide for online anonymity and OpSec.

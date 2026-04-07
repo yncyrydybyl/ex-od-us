@@ -1,12 +1,12 @@
 ---
-name: "Orbitdb"
-description: "Peer-to-Peer Databases for the Decentralized Web"
+name: Orbitdb
+description: Peer-to-Peer Databases for the Decentralized Web
 repo: "https://github.com/orbitdb/orbitdb"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2026-03-31T09:22:20Z"
 ---

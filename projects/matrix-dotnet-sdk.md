@@ -9,7 +9,7 @@ issues: []
 updated: "2022-12-08T04:01:44Z"
 matrix_rooms: [https://matrix.to/#/#dotnet:half-shot.uk]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 A matrix client library in .NET (C#)

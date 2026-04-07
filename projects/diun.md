@@ -1,14 +1,15 @@
 ---
-name: "Diun"
-description: "Receive notifications when an image is updated on a Docker registry"
+name: Diun
+description: Receive notifications when an image is updated on a Docker registry
 repo: "https://github.com/crazy-max/diun"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [5892]
 updated: "2026-04-06T13:03:16Z"
+matrix_rooms: [https://matrix.to/#/#go:maunium.net]
 ---
 
 Receive notifications when an image is updated on a Docker registry

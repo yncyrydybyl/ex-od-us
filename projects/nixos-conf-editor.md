@@ -1,14 +1,13 @@
 ---
-name: "Nixos Conf Editor"
-description: "A libadwaita/gtk4 app for editing NixOS configurations"
+name: Nixos Conf Editor
+description: A libadwaita/gtk4 app for editing NixOS configurations
 repo: "https://github.com/snowfallorg/nixos-conf-editor"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#snowflakeos:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#snowflakeos:matrix.org]
 issues: []
 updated: "2026-02-15T09:55:35Z"
 ---

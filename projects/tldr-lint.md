@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2026-04-06T08:53:53Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]
 ---
 
 A linting tool to validate tldr pages 🚨.

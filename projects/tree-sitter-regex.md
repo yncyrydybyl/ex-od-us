@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2025-09-13T04:57:57Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Tree-sitter parser for regular expressions

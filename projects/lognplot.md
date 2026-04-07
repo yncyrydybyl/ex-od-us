@@ -1,14 +1,13 @@
 ---
-name: "Lognplot"
-description: "Plotting and logging of real-time data for desktop."
+name: Lognplot
+description: Plotting and logging of real-time data for desktop.
 repo: "https://github.com/windelbouwman/lognplot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#lognplot:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#lognplot:matrix.org]
 issues: [6963]
 updated: "2026-03-20T17:30:57Z"
 ---

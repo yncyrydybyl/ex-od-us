@@ -1,14 +1,13 @@
 ---
-name: "Cuprate"
-description: "Cuprate, a modular Monero node written in Rust."
+name: Cuprate
+description: Cuprate, a modular Monero node written in Rust.
 repo: "https://github.com/Cuprate/cuprate"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#cuprate:monero.social"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#cuprate:monero.social]
 issues: [5749]
 updated: "2026-03-26T16:23:22Z"
 ---

@@ -9,7 +9,7 @@ issues: []
 updated: "2025-07-08T18:17:32Z"
 matrix_rooms: [https://matrix.to/#/#Upscaler:gnome.org]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Upscale and enhance images

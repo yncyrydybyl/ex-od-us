@@ -1,14 +1,13 @@
 ---
-name: "Lightspark"
-description: "An open source flash player implementation"
+name: Lightspark
+description: An open source flash player implementation
 repo: "https://github.com/lightspark/lightspark"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#lightspark:b0nk.xyz"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#lightspark:b0nk.xyz]
 issues: [6925]
 updated: "2026-03-30T17:58:20Z"
 ---

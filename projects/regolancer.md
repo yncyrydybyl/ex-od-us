@@ -1,14 +1,13 @@
 ---
-name: "Regolancer"
-description: "lnd channel rebalancer written in Go"
+name: Regolancer
+description: lnd channel rebalancer written in Go
 repo: "https://github.com/rkfg/regolancer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#regolancer:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#regolancer:matrix.org]
 issues: []
 updated: "2025-07-11T11:30:58Z"
 ---

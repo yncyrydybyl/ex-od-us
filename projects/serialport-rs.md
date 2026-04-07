@@ -1,14 +1,13 @@
 ---
-name: "Serialport Rs"
-description: "A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information."
+name: Serialport Rs
+description: A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.
 repo: "https://github.com/serialport/serialport-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#serialport-rs:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#serialport-rs:matrix.org]
 issues: []
 updated: "2026-03-24T09:02:46Z"
 ---

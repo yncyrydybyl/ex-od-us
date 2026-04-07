@@ -1,12 +1,12 @@
 ---
-name: "Weechat Matrix Rs"
-description: "Rust rewrite of the python weechat-matrix script."
+name: Weechat Matrix Rs
+description: Rust rewrite of the python weechat-matrix script.
 repo: "https://github.com/poljar/weechat-matrix-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2025-10-09T21:32:24Z"
 ---

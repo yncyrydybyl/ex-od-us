@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#Asteroid:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:16:16Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Build script for AsteroidOS, an open-source operating system for smartwatches

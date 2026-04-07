@@ -1,14 +1,13 @@
 ---
-name: "Rgraphql"
-description: "Live-updating and streaming GraphQL."
+name: Rgraphql
+description: Live-updating and streaming GraphQL.
 repo: "https://github.com/rgraphql/rgraphql"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#aperturerobotics:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#aperturerobotics:matrix.org]
 issues: []
 updated: "2026-04-04T01:23:39Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Tuxclocker"
-description: "Qt overclocking tool for GNU/Linux"
+name: Tuxclocker
+description: Qt overclocking tool for GNU/Linux
 repo: "https://github.com/Lurkki14/tuxclocker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#tuxclocker:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#tuxclocker:matrix.org]
 issues: []
 updated: "2025-07-30T17:13:21Z"
 ---

@@ -10,7 +10,8 @@ updated: "2025-12-28T16:09:07Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#chimehq:matrix.org]
 ---
 
 Swift library for working with Language Server Protocol (LSP)

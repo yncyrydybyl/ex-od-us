@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2025-02-12T01:40:37Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way

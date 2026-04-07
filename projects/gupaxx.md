@@ -1,14 +1,13 @@
 ---
-name: "Gupaxx"
+name: Gupaxx
 description: "Project moved to https://github.com/gupax-io/gupax"
 repo: "https://github.com/Cyrix126/gupaxx"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#xmrvsbeast:monero.social"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#xmrvsbeast:monero.social]
 issues: [6495]
 updated: "2026-03-09T13:19:15Z"
 ---

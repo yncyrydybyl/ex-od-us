@@ -10,7 +10,7 @@ updated: "2026-04-01T20:17:28Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T15:16:18Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Simple LRU cache for asyncio

@@ -1,14 +1,13 @@
 ---
-name: "Arcticons"
-description: "A monotone line-based icon pack for android"
+name: Arcticons
+description: A monotone line-based icon pack for android
 repo: "https://github.com/Arcticons-Team/Arcticons"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#arcticons-central:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#arcticons-central:matrix.org]
 issues: [5253]
 updated: "2026-04-06T08:36:31Z"
 ---

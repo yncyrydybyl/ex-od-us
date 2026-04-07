@@ -1,12 +1,12 @@
 ---
-name: "Scientific Env"
-description: "Sane and reproducible scientific dev environments with Nix"
+name: Scientific Env
+description: Sane and reproducible scientific dev environments with Nix
 repo: "https://github.com/Vortriz/scientific-env"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2026-03-07T10:55:58Z"
 ---

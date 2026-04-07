@@ -1,14 +1,13 @@
 ---
-name: "Manager"
-description: "An Electron app to help with logging into bridges"
+name: Manager
+description: An Electron app to help with logging into bridges
 repo: "https://github.com/mautrix/manager"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#manager:maunium.net"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#manager:maunium.net]
 issues: []
 updated: "2025-07-28T19:31:14Z"
 ---

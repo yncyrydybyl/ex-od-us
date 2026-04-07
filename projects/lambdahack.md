@@ -9,7 +9,7 @@ issues: [6839]
 updated: "2024-03-18T07:37:59Z"
 matrix_rooms: [https://matrix.to/#/#lambdahack:mozilla.org]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at

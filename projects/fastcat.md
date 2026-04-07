@@ -1,14 +1,13 @@
 ---
-name: "Fastcat"
-description: "FastCat - FastFetch Theme Pack"
+name: Fastcat
+description: FastCat - FastFetch Theme Pack
 repo: "https://github.com/m3tozz/FastCat"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#neocat-channels:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#neocat-channels:matrix.org]
 issues: [6145]
 updated: "2026-03-29T11:39:07Z"
 ---

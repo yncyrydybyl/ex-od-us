@@ -1,14 +1,13 @@
 ---
-name: "Wakatime Ls"
-description: "A dead-simple language server around wakatime-cli to send code tracking heartbeats"
+name: Wakatime Ls
+description: A dead-simple language server around wakatime-cli to send code tracking heartbeats
 repo: "https://github.com/mrnossiom/wakatime-ls"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#wakatime-ls:wiro.world"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#wakatime-ls:wiro.world]
 issues: []
 updated: "2026-02-07T16:39:22Z"
 ---

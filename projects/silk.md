@@ -1,14 +1,13 @@
 ---
-name: "Silk"
-description: "Silk is a Minecraft API for Kotlin - targetting Fabric, Quilt and Paper"
+name: Silk
+description: Silk is a Minecraft API for Kotlin - targetting Fabric, Quilt and Paper
 repo: "https://github.com/SilkMC/silk"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#kotlinmc:axay.net"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#kotlinmc:axay.net]
 issues: []
 updated: "2026-03-30T20:53:16Z"
 ---

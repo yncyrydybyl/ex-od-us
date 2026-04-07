@@ -1,14 +1,13 @@
 ---
-name: "Testshop"
-description: "Decentralized P2P marketplace for Monero users (proof of concept)"
+name: Testshop
+description: Decentralized P2P marketplace for Monero users (proof of concept)
 repo: "https://github.com/layters/testshop"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#neroshop:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#neroshop:matrix.org]
 issues: []
 updated: "2026-01-23T04:48:40Z"
 ---

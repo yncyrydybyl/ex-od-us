@@ -1,14 +1,13 @@
 ---
-name: "Oemof Solph"
-description: "A model generator for energy system modelling and optimisation (LP/MILP)."
+name: Oemof Solph
+description: A model generator for energy system modelling and optimisation (LP/MILP).
 repo: "https://github.com/oemof/oemof-solph"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#oemof:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#oemof:matrix.org]
 issues: []
 updated: "2026-04-04T05:47:13Z"
 ---

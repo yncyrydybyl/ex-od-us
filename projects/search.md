@@ -1,14 +1,13 @@
 ---
-name: "Search"
-description: "Simple and fast static-page NixOS option search"
+name: Search
+description: Simple and fast static-page NixOS option search
 repo: "https://github.com/NuschtOS/search"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#nuschtos:c3d2.de"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#nuschtos:c3d2.de]
 issues: []
 updated: "2026-03-23T21:12:21Z"
 ---

@@ -11,7 +11,7 @@ verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#exosphere:matrix.org, https://matrix.to/#/#exosphere-dev:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:05Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 A user-friendly, extensible OpenStack client. This is a mirror. See GitLab for issues and PRs: https://gitlab.com/exosphere/exosphere

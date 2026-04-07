@@ -1,12 +1,15 @@
 ---
-name: "Ggplotnim"
-description: "A port of ggplot2 for Nim"
+name: Ggplotnim
+description: A port of ggplot2 for Nim
 repo: "https://github.com/Vindaar/ggplotnim"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6348]
 updated: "2026-02-24T14:19:44Z"
+matrix_rooms: [https://matrix.to/#/#nim-science:envs.net]
+exodus_score: 4
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 A port of ggplot2 for Nim

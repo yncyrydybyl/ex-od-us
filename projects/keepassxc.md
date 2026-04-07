@@ -1,12 +1,12 @@
 ---
-name: "Keepassxc"
-description: "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+name: Keepassxc
+description: KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 repo: "https://github.com/keepassxreboot/keepassxc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [6803]
 updated: "2026-03-15T10:06:23Z"
 ---

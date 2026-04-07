@@ -1,12 +1,12 @@
 ---
-name: "Xtra"
-description: "🎭 A tiny actor framework"
+name: Xtra
+description: 🎭 A tiny actor framework
 repo: "https://github.com/Restioson/xtra"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2024-11-16T12:06:10Z"
 ---

@@ -9,7 +9,7 @@ issues: [6522]
 updated: "2026-04-06T05:19:54Z"
 matrix_rooms: [https://matrix.to/#/#helix-community:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 A post-modern modal text editor.

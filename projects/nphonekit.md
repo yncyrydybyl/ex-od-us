@@ -1,14 +1,13 @@
 ---
-name: "Nphonekit"
-description: "A fully open-source and powerful toolbox for Android devices."
+name: Nphonekit
+description: A fully open-source and powerful toolbox for Android devices.
 repo: "https://github.com/nlckysolutions/nPhoneKIT"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#nphonekit:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#nphonekit:matrix.org]
 issues: []
 updated: "2026-02-08T00:34:00Z"
 ---

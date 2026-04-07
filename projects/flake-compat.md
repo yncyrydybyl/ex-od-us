@@ -1,13 +1,12 @@
 ---
-name: "Flake Compat"
+name: Flake Compat
 repo: "https://github.com/NixOS/flake-compat"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#nix-dev:nixos.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#nix-dev:nixos.org]
 issues: [6198]
 updated: "2026-01-02T20:13:22Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Isle"
-description: "A decompilation of LEGO Island (1997)"
+name: Isle
+description: A decompilation of LEGO Island (1997)
 repo: "https://github.com/isledecomp/isle"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#isledecomp:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#isledecomp:matrix.org]
 issues: [6687]
 updated: "2026-03-23T22:48:22Z"
 ---

@@ -1,12 +1,12 @@
 ---
-name: "Druidjs"
-description: "A JavaScript Library for Dimensionality Reduction"
+name: Druidjs
+description: A JavaScript Library for Dimensionality Reduction
 repo: "https://github.com/saehm/DruidJS"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [5951]
 updated: "2026-03-27T13:59:19Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Orogene"
-description: "Makes `node_modules/` happen. Fast. No fuss."
+name: Orogene
+description: Makes `node_modules/` happen. Fast. No fuss.
 repo: "https://github.com/orogene/orogene"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#orogene:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#orogene:matrix.org]
 issues: []
 updated: "2026-02-26T03:53:25Z"
 ---

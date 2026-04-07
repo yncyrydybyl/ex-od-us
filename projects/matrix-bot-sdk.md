@@ -1,14 +1,13 @@
 ---
-name: "Matrix Bot Sdk"
-description: "TypeScript/JavaScript SDK for Matrix bots"
+name: Matrix Bot Sdk
+description: TypeScript/JavaScript SDK for Matrix bots
 repo: "https://github.com/turt2live/matrix-bot-sdk"
 platform: github
 categories: [Integrations, Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-bot-sdk:t2bot.io"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#matrix-bot-sdk:t2bot.io]
 issues: []
 updated: "2026-03-27T15:54:26Z"
 ---

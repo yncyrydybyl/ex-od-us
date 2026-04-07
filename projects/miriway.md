@@ -9,7 +9,7 @@ issues: []
 updated: "2026-04-03T14:34:30Z"
 matrix_rooms: [https://matrix.to/#/#miriway:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Mir based Wayland compositor

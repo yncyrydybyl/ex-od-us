@@ -1,14 +1,13 @@
 ---
-name: "Manjaro Sway"
-description: "manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥"
+name: Manjaro Sway
+description: manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 repo: "https://github.com/manjaro-sway/manjaro-sway"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#manjaro-sway:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#manjaro-sway:matrix.org]
 issues: []
 updated: "2026-04-05T05:20:30Z"
 ---

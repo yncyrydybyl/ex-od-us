@@ -1,14 +1,13 @@
 ---
-name: "Safenotes"
-description: "Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors."
+name: Safenotes
+description: Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
 repo: "https://github.com/keshav-space/safenotes"
 platform: github
 categories: [Security]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#safenotes:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#safenotes:matrix.org]
 issues: []
 updated: "2025-11-23T18:24:10Z"
 ---

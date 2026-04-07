@@ -1,12 +1,12 @@
 ---
-name: "Awg Docker Bot"
-description: "AmneziaVPN Telegram Bot"
+name: Awg Docker Bot
+description: AmneziaVPN Telegram Bot
 repo: "https://github.com/JB-SelfCompany/awg-docker-bot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [5404]
 updated: "2025-08-31T16:09:47Z"
 ---

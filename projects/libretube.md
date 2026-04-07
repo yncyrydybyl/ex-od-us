@@ -1,14 +1,13 @@
 ---
-name: "Libretube"
-description: "An alternative frontend for YouTube, for Android."
+name: Libretube
+description: An alternative frontend for YouTube, for Android.
 repo: "https://github.com/libre-tube/LibreTube"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#LibreTube:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#LibreTube:matrix.org]
 issues: [6912]
 updated: "2026-03-28T13:42:40Z"
 ---

@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2025-11-24T00:18:30Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 ---
 
 JSON grammar for tree-sitter

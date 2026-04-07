@@ -1,12 +1,12 @@
 ---
-name: "Api Specs"
-description: "Open Podcast API specifications"
+name: Api Specs
+description: Open Podcast API specifications
 repo: "https://github.com/OpenPodcastAPI/api-specs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [5214]
 updated: "2026-04-06T13:41:41Z"
 ---

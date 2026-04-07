@@ -1,14 +1,13 @@
 ---
-name: "Valueflows"
+name: Valueflows
 description: "valueflows repo has moved to https://codeberg.org/valueflows/valueflows"
 repo: "https://github.com/valueflows/valueflows"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#valueflows:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#valueflows:matrix.org]
 issues: []
 updated: "2026-02-24T23:06:08Z"
 ---

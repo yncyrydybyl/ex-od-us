@@ -9,7 +9,7 @@ issues: [5638]
 updated: "2025-10-02T02:51:07Z"
 matrix_rooms: [https://matrix.to/#/#hackmdio_hackmd:gitter.im]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 CodiMD - Realtime collaborative markdown notes on all platforms.

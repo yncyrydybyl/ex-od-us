@@ -1,12 +1,12 @@
 ---
-name: "Kde Material You Colors"
-description: "Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You"
+name: Kde Material You Colors
+description: Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You
 repo: "https://github.com/luisbocanegra/kde-material-you-colors"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 matrix_rooms:
   - "https://matrix.to/#/#kde-plasma-smart-video-wallpaper-reborn:matrix.org"
 issues: [6801]

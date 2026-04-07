@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2026-03-27T14:05:59Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 OCaml grammar for tree-sitter

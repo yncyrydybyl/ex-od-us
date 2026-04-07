@@ -9,7 +9,7 @@ issues: []
 updated: "2026-04-01T17:12:45Z"
 matrix_rooms: [https://matrix.to/#/#matrix-spec:matrix.org, https://matrix.to/#/#matrix-docs:matrix.org, https://matrix.to/#/#matrix-spec-process:matrix.org, https://matrix.to/#/#sct-office:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Proposals for changes to the matrix specification

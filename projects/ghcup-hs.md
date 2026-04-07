@@ -8,7 +8,7 @@ issues: [6353]
 updated: "2026-04-06T09:55:11Z"
 matrix_rooms: [https://matrix.to/#/#ghcup:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 ## Stats

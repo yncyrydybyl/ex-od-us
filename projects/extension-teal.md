@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [6126]
 updated: "2025-09-09T20:21:40Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:20:07Z"
+matrix_rooms: [https://matrix.to/#/#teal-language_community:gitter.im]
 ---
 
 Defold transpilation support for Teal

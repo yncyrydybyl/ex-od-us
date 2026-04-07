@@ -1,15 +1,13 @@
 ---
-name: "Octomachinery"
+name: Octomachinery
 description: "🤖 Invisible engine driving octobot machines. Simple, yet powerful. [DEMO BOT @ https://github.com/sanitizers/chronographer-github-app] | [tutorial @ https://tutorial.octomachinery.dev] | [docs @ https://docs.octomachinery.dev] | official web-site is at -->"
 repo: "https://github.com/sanitizers/octomachinery"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#pyba:matrix.org"
-  - "https://matrix.to/#/#octomachinery:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#pyba:matrix.org, https://matrix.to/#/#octomachinery:matrix.org]
 issues: []
 updated: "2026-01-05T21:47:49Z"
 ---

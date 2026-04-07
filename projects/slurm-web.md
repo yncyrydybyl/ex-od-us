@@ -1,14 +1,13 @@
 ---
-name: "Slurm Web"
-description: "Open source web interface for Slurm HPC & AI clusters"
+name: Slurm Web
+description: Open source web interface for Slurm HPC & AI clusters
 repo: "https://github.com/rackslab/Slurm-web"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#slurm-web:talk.rackslab.io"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#slurm-web:talk.rackslab.io]
 issues: []
 updated: "2026-03-26T07:36:38Z"
 ---

@@ -1,13 +1,12 @@
 ---
-name: "Deepin Boot Maker"
+name: Deepin Boot Maker
 repo: "https://github.com/linuxdeepin/deepin-boot-maker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#deepin-community:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
 issues: [5837]
 updated: "2026-04-02T02:54:21Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Bngblaster"
+name: Bngblaster
 description: "The Routing Protocol and BNG Blaster is an open-source network tester for routing and access protocols. "
 repo: "https://github.com/rtbrick/bngblaster"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#bngblaster:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#bngblaster:matrix.org]
 issues: [5486]
 updated: "2026-04-03T18:03:14Z"
 ---

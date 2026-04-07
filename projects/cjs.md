@@ -1,14 +1,15 @@
 ---
-name: "Cjs"
-description: "The Cinnamon Javascript interpreter"
+name: Cjs
+description: The Cinnamon Javascript interpreter
 repo: "https://github.com/linuxmint/cjs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [5601]
 updated: "2026-02-11T18:23:39Z"
+matrix_rooms: [https://matrix.to/#/#javascript:gnome.org]
 ---
 
 The Cinnamon Javascript interpreter

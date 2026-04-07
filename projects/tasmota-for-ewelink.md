@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2022-08-26T13:01:54Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Tasmota firmware for eWeLink gateway (ethernet + ZigBee)

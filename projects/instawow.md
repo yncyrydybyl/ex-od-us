@@ -8,7 +8,8 @@ status: Active
 issues: [6645]
 updated: "2026-04-02T11:02:25Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#wow-addon-management:matrix.org]
 ---
 
 World of Warcraft add-on manager CLI and GUI

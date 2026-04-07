@@ -1,14 +1,13 @@
 ---
-name: "Rnix Parser"
+name: Rnix Parser
 description: "A Nix parser written in Rust [maintainer=@oberblastmeister]"
 repo: "https://github.com/nix-community/rnix-parser"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#rnix-lsp:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#rnix-lsp:matrix.org]
 issues: []
 updated: "2026-02-16T18:52:16Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Tola Ssg"
-description: "SSG for typst-based websites - keep your focus on the content"
+name: Tola Ssg
+description: SSG for typst-based websites - keep your focus on the content
 repo: "https://github.com/tola-rs/tola-ssg"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#tola:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#tola:matrix.org]
 issues: []
 updated: "2026-03-18T17:31:15Z"
 ---

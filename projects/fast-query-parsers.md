@@ -9,7 +9,7 @@ issues: [6143]
 updated: "2026-03-30T20:22:18Z"
 matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Ultra-fast query string and url-encoded form-data parsers

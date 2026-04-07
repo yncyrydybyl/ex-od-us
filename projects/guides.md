@@ -1,13 +1,12 @@
 ---
-name: "Guides"
+name: Guides
 repo: "https://github.com/seth586/guides"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#truenasnode:nym.im"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#truenasnode:nym.im]
 issues: [6491]
 updated: "2025-09-05T22:38:08Z"
 ---

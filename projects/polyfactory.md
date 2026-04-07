@@ -1,14 +1,13 @@
 ---
-name: "Polyfactory"
-description: "Simple and powerful factories for mock data generation"
+name: Polyfactory
+description: Simple and powerful factories for mock data generation
 repo: "https://github.com/litestar-org/polyfactory"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#litestar:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 issues: []
 updated: "2026-03-30T20:02:57Z"
 ---

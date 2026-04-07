@@ -1,14 +1,15 @@
 ---
-name: "Xhscrawl"
-description: "小红书数据,xhs数据采集,小红书逆向,小红书 xs逆向,小红书爬虫,小红书数据,bilibili数据,b站数据"
+name: Xhscrawl
+description: 小红书数据,xhs数据采集,小红书逆向,小红书 xs逆向,小红书爬虫,小红书数据,bilibili数据,b站数据
 repo: "https://github.com/submato/xhscrawl"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2025-07-25T09:27:34Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 小红书数据,xhs数据采集,小红书逆向,小红书 xs逆向,小红书爬虫,小红书数据,bilibili数据,b站数据

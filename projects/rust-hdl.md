@@ -1,14 +1,13 @@
 ---
-name: "Rust Hdl"
-description: "A fast VHDL language server and analysis library written in Rust"
+name: Rust Hdl
+description: A fast VHDL language server and analysis library written in Rust
 repo: "https://github.com/VHDL-LS/rust_hdl"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#VHDL-LS:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]
 issues: []
 updated: "2026-04-04T17:17:05Z"
 ---

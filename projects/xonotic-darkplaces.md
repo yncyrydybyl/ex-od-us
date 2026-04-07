@@ -1,14 +1,13 @@
 ---
-name: "Darkplaces"
+name: Darkplaces
 description: "Mirror of https://gitlab.com/xonotic/darkplaces - The Quake engine that powers Xonotic https://xonotic.org"
 repo: "https://github.com/xonotic/darkplaces"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#darkplaces:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#darkplaces:matrix.org]
 issues: []
 updated: "2026-04-01T18:00:07Z"
 ---

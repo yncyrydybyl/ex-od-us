@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_rooms:
   - "https://matrix.to/#/#CommunitySolidServer_community:gitter.im"
 exodus_score: 3
-last_scanned: "2026-04-06T15:18:12Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 An open and modular implementation of the Solid specifications

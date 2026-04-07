@@ -1,14 +1,13 @@
 ---
-name: "Picoforge"
-description: "A commissioning tool for pico-fido firmware based hardware keys."
+name: Picoforge
+description: A commissioning tool for pico-fido firmware based hardware keys.
 repo: "https://github.com/librekeys/picoforge"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#librekeys:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#librekeys:matrix.org]
 issues: []
 updated: "2026-03-24T13:40:00Z"
 ---

@@ -1,14 +1,13 @@
 ---
-name: "Ascii Draw"
-description: "Sketch anything using characters"
+name: Ascii Draw
+description: Sketch anything using characters
 repo: "https://github.com/Nokse22/ascii-draw"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#ascii-draw:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#ascii-draw:matrix.org]
 issues: [5272]
 updated: "2026-03-22T15:24:45Z"
 ---

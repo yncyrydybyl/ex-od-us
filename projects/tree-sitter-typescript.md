@@ -1,14 +1,13 @@
 ---
-name: "Tree Sitter Typescript"
-description: "TypeScript grammar for tree-sitter"
+name: Tree Sitter Typescript
+description: TypeScript grammar for tree-sitter
 repo: "https://github.com/tree-sitter/tree-sitter-typescript"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#tree-sitter-chat:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 issues: []
 updated: "2025-08-29T03:18:55Z"
 ---

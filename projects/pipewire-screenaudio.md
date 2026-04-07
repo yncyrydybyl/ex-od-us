@@ -1,14 +1,13 @@
 ---
-name: "Pipewire Screenaudio"
-description: "Extension to passthrough pipewire audio to WebRTC Screenshare"
+name: Pipewire Screenaudio
+description: Extension to passthrough pipewire audio to WebRTC Screenshare
 repo: "https://github.com/IceDBorn/pipewire-screenaudio"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#pipewire-screenaudio:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#pipewire-screenaudio:matrix.org]
 issues: []
 updated: "2026-03-24T17:51:12Z"
 ---

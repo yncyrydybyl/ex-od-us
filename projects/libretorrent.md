@@ -1,12 +1,12 @@
 ---
-name: "Libretorrent"
+name: Libretorrent
 description: "Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent"
 repo: "https://github.com/proninyaroslav/libretorrent"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T06:34:49Z"
 issues: [6908]
 updated: "2025-11-12T14:37:04Z"
 ---

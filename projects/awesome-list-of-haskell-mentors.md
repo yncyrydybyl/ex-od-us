@@ -9,7 +9,7 @@ issues: [5337]
 updated: "2022-08-31T07:20:51Z"
 matrix_rooms: [https://matrix.to/#/#ema:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.

@@ -1,14 +1,13 @@
 ---
-name: "Power Ampache 2"
-description: "Android Music Streaming App suite in Material You style.  Connects to Ampache, Nextcloud Music and compatible backends (Ampache API 4 and above)."
+name: Power Ampache 2
+description: Android Music Streaming App suite in Material You style.  Connects to Ampache, Nextcloud Music and compatible backends (Ampache API 4 and above).
 repo: "https://github.com/icefields/Power-Ampache-2"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_rooms:
-  - "https://matrix.to/#/#power-ampache:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#power-ampache:matrix.org]
 issues: []
 updated: "2026-02-02T21:58:10Z"
 ---

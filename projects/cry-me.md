@@ -10,8 +10,8 @@ updated: "2025-11-24T13:35:48Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
-matrix_rooms: [https://matrix.to/#/#element-android:matrix.org]
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#synapse:matrix.org, https://matrix.to/#/#element-android:matrix.org, https://matrix.to/#/#synapse-dev:matrix.org]
 ---
 
 CRY.ME (CRYptographic MEssaging application)

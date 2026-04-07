@@ -1,14 +1,13 @@
 ---
-name: "Hivebus"
-description: "A declarative configuration framework based on the structural theory of std."
+name: Hivebus
+description: A declarative configuration framework based on the structural theory of std.
 repo: "https://github.com/GTrunSec/hivebus"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_rooms:
-  - "https://matrix.to/#/#hive-std-nix:matrix.org"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#hive-std-nix:matrix.org]
 issues: [6548]
 updated: "2024-09-19T09:18:03Z"
 ---

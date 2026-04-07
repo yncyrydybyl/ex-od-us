@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2024-08-01T14:00:19Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
 ---
 
 Tooloop OS is a minimal installation of Ubuntu Server with some post-install customization to fit the needs of public multimedia installations.

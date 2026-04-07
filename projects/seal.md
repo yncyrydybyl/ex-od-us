@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2026-03-25T15:51:02Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T06:34:49Z"
+matrix_rooms: [https://matrix.to/#/#seal-space:matrix.org]
 ---
 
 🦭 Video/Audio Downloader for Android, based on yt-dlp
