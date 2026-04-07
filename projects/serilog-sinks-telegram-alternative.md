@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#Serilog-Sinks-Telegram_community:gitter.im"
-issues: []
+issues: [4485]
 updated: "2025-03-27T10:07:40Z"
 ---
 

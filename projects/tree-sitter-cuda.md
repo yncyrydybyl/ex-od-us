@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter-grammars/tree-sitter-cuda"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4690]
 updated: "2025-11-23T14:07:15Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

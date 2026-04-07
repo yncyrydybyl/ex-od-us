@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ros-maritime:matrix.org"
-issues: []
+issues: [1212]
 updated: "2023-12-11T18:49:23Z"
 ---
 

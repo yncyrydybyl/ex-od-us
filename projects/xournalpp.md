@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#xournalpp_xournalpp:gitter.im"
-issues: []
+issues: [4850]
 updated: "2026-04-05T05:03:16Z"
 ---
 

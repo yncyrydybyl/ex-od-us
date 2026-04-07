@@ -4,7 +4,7 @@ repo: "https://github.com/larsmm/projekt-tropfenkette"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3869]
 updated: "2025-01-06T20:07:00Z"
 ---
 

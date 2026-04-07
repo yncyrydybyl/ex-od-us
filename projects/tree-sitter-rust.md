@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-rust"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4712]
 updated: "2026-03-27T21:06:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

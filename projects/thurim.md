@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#thurim:mozilla.org"
-issues: []
+issues: [4655]
 updated: "2025-04-19T18:41:28Z"
 ---
 

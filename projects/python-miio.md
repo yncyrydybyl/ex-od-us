@@ -5,7 +5,7 @@ repo: "https://github.com/rytilahti/python-miio"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4322]
 updated: "2025-08-19T18:47:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#python-miio-chat:matrix.org]

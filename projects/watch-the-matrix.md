@@ -9,7 +9,7 @@ exodus_score: 2
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#watchthe:matrix.org]
-issues: []
+issues: [4793]
 updated: "2026-03-10T19:29:19Z"
 ---
 

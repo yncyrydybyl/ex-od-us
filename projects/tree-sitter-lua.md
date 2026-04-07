@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter-grammars/tree-sitter-lua"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4701]
 updated: "2026-02-26T17:58:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#raccoonforlemmyapp:matrix.org"
-issues: []
+issues: [4346]
 updated: "2026-04-06T16:28:39Z"
 ---
 

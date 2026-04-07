@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]
-issues: []
+issues: [4432]
 updated: "2026-04-04T17:17:05Z"
 ---
 

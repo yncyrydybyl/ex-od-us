@@ -5,7 +5,7 @@ repo: "https://github.com/kokonior/Rust-Project"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3929]
 updated: "2022-10-31T11:40:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#substrate-technical:matrix.org]

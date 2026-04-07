@@ -5,7 +5,7 @@ repo: "https://github.com/satellogic/telluric"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4625]
 updated: "2025-02-12T01:40:37Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

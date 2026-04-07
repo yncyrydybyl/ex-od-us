@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#Galaxy-Training-Network_Lobby:gitter.im"
-issues: []
+issues: [4008]
 updated: "2026-04-06T11:01:09Z"
 ---
 

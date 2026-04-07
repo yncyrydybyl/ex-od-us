@@ -5,7 +5,7 @@ repo: "https://github.com/rauc/rauc-hawkbit-updater"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4357]
 updated: "2026-03-30T16:58:42Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

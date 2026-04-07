@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rsgl-is-sili:matrix.org"
-issues: []
+issues: [4387]
 updated: "2026-04-02T23:02:49Z"
 ---
 

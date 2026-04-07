@@ -5,7 +5,7 @@ repo: "https://github.com/mateusz-bak/openreads"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3804]
 updated: "2026-03-30T22:09:59Z"
 matrix_links:
   - target: "#openreads:matrix.org"

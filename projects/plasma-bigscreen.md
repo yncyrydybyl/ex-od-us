@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#plasma-bigscreen:kde.org"
-issues: []
+issues: [4244]
 updated: "2026-04-06T03:45:33Z"
 ---
 

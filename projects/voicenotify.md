@@ -5,7 +5,7 @@ repo: "https://github.com/pilot51/voicenotify"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4781]
 updated: "2026-01-28T05:16:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#voicenotify:p51.me]

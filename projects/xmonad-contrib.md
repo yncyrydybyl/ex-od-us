@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#xmonad:matrix.org"
-issues: []
+issues: [4847]
 updated: "2026-04-05T06:50:37Z"
 ---
 

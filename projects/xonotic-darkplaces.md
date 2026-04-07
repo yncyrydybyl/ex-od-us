@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#darkplaces:matrix.org]
-issues: []
+issues: [1246]
 updated: "2026-04-01T18:00:07Z"
 ---
 

@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#power-ampache:matrix.org]
-issues: []
+issues: [3864]
 updated: "2026-02-02T21:58:10Z"
 ---
 

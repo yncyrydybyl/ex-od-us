@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nix-init:nixos.org"
-issues: []
+issues: [6934]
 updated: "2026-04-06T08:55:01Z"
 ---
 

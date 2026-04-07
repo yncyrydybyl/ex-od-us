@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#navic:nin0.dev"
   - "https://matrix.to/#/#navic:maize.moe"
-issues: []
+issues: [6849]
 updated: "2026-04-06T16:50:30Z"
 ---
 

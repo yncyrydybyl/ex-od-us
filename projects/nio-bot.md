@@ -5,7 +5,7 @@ repo: "https://github.com/nexy7574/nio-bot"
 platform: github
 categories: [Integrations, Matrix]
 status: Active
-issues: []
+issues: [6911]
 updated: "2025-12-15T18:09:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#niobot:nexy7574.co.uk]

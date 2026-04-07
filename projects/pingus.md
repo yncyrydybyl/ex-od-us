@@ -13,7 +13,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#pingus:matrix.org]
-issues: []
+issues: [4232]
 updated: "2025-11-28T13:18:47Z"
 ---
 

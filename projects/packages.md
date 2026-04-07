@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#bioarchlinux:matrix.org"
-issues: []
+issues: [4182]
 updated: "2026-04-06T12:19:52Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/openSUSE/software-o-o"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4536]
 updated: "2026-04-03T17:48:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#software-o-o:opensuse.org]

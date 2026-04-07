@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nge:osrd.fr"
-issues: []
+issues: [6882]
 updated: "2026-04-06T13:55:38Z"
 ---
 

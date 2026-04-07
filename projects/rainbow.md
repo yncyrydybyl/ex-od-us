@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ipfs-space:ipfs.io"
-issues: []
+issues: [3900]
 updated: "2026-04-06T14:43:57Z"
 ---
 

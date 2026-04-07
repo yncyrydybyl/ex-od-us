@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/poetry2nix"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4256]
 updated: "2026-04-06T12:48:45Z"
 matrix_links:
   - target: "#poetry2nix:blad.is"

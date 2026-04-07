@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/mantle"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1574]
 updated: "2026-04-06T10:40:41Z"
 verified: true
 verified_note: repo alive, room not checked

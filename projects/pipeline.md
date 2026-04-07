@@ -5,7 +5,7 @@ repo: "https://github.com/tektoncd/pipeline"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4237]
 updated: "2026-04-03T12:42:41Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

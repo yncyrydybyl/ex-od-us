@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#dev-startos:matrix.start9labs.com"
-issues: []
+issues: [4567]
 updated: "2026-04-05T15:51:25Z"
 ---
 

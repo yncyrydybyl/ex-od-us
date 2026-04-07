@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pgf-tikz:matrix.org"
-issues: []
+issues: [4216]
 updated: "2026-04-04T22:22:26Z"
 ---
 

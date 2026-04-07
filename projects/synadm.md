@@ -20,7 +20,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#synadm:peek-a-boo.at"
   - "https://matrix.to/#/#synapse:matrix.org"
-issues: []
+issues: [7009]
 updated: "2025-10-15T21:07:21+02:00"
 last_scanned: "2026-04-06T21:01:03Z"
 ---

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#maplibre:matrix.org"
-issues: []
+issues: [3600]
 updated: "2026-04-03T03:56:05Z"
 ---
 

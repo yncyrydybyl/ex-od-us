@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
-issues: []
+issues: [3776]
 updated: "2025-09-26T20:30:33Z"
 ---
 

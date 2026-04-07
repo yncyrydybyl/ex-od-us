@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#redox-join:matrix.org"
-issues: []
+issues: [4371]
 updated: "2026-04-06T14:17:35Z"
 ---
 

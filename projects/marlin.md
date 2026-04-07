@@ -5,7 +5,7 @@ repo: "https://github.com/ethanuppal/marlin"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1576]
 updated: "2026-03-22T20:24:49Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chipathon-2025:fossi-chat.org]
-issues: []
+issues: [4560]
 updated: "2025-12-16T12:07:11Z"
 ---
 

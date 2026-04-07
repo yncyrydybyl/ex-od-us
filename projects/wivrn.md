@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#linux-vr-adventures:matrix.org"
-issues: []
+issues: [4828]
 updated: "2026-04-04T13:27:45Z"
 ---
 

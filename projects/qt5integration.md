@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#deepin-community:matrix.org"
-issues: []
+issues: [4332]
 updated: "2026-03-31T03:17:30Z"
 ---
 

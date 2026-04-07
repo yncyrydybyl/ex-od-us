@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rift:matrix.org"
-issues: []
+issues: [4391]
 updated: "2026-04-06T16:26:57Z"
 ---
 

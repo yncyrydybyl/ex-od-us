@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mineflake:matrix.org"
-issues: []
+issues: [6724]
 updated: "2024-09-14T08:54:59Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mnotify:hackbrettl.de"
-issues: []
+issues: [6767]
 updated: "2024-05-13T16:05:13Z"
 ---
 

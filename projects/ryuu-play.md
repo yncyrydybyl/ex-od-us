@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ryuu-play:matrix.org"
-issues: []
+issues: [3930]
 updated: "2025-11-08T07:50:46Z"
 ---
 

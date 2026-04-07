@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#clan:clan.lol"
-issues: []
+issues: [6962]
 updated: "2026-04-06T04:45:01Z"
 ---
 

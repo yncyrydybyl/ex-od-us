@@ -5,7 +5,7 @@ repo: "https://github.com/rauc/rauc"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4358]
 updated: "2026-04-02T14:24:51Z"
 exodus_score: 1
 last_scanned: "2026-04-06T20:35:19Z"

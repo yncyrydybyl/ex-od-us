@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rank-my-favs:matrix.org"
-issues: []
+issues: [4354]
 updated: "2026-04-04T02:15:37Z"
 ---
 

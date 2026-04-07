@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-ocaml"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4704]
 updated: "2026-03-27T14:05:59Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

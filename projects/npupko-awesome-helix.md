@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#helix-community:matrix.org"
-issues: []
+issues: [5000]
 updated: "2026-04-02T09:31:40Z"
 ---
 

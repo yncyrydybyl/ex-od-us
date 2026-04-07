@@ -5,7 +5,7 @@ repo: "https://github.com/tinted-theming/tinted-tmux"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4658]
 updated: "2026-03-08T01:40:10Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]

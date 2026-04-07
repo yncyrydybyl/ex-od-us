@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#fellowship-open-channel:parity.io"
   - "https://matrix.to/#/#fellowship-members:parity.io"
-issues: []
+issues: [4426]
 updated: "2026-04-06T16:51:31Z"
 ---
 

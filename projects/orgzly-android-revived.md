@@ -5,7 +5,7 @@ repo: "https://github.com/orgzly-revived/orgzly-android-revived"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4159]
 updated: "2026-04-01T19:38:25Z"
 matrix_rooms: [https://matrix.to/#/#orgzly:matrix.org]
 exodus_score: 2

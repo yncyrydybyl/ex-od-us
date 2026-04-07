@@ -5,7 +5,7 @@ repo: "https://github.com/shixiangkuangmo/meituan"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6667]
 updated: "2023-12-26T08:40:18Z"
 matrix_links:
   - target: "#jsdom:matrix.org"

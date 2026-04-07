@@ -5,7 +5,7 @@ repo: "https://github.com/workspacer/workspacer"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4836]
 updated: "2025-06-15T10:56:32Z"
 matrix_links:
   - target: "#workspacer-community:matrix.org"

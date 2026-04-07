@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#whatsmeow:maunium.net"
-issues: []
+issues: [4823]
 updated: "2026-03-27T18:21:57Z"
 ---
 

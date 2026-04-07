@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ubuntusway:matrix.org"
-issues: []
+issues: [4745]
 updated: "2025-12-30T13:16:36Z"
 ---
 

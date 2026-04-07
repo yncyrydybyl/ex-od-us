@@ -7,7 +7,7 @@ categories: [Development]
 status: Active
 exodus_score: 0
 last_scanned: "2026-04-06T22:13:24Z"
-issues: []
+issues: [1645]
 updated: "2024-08-14T16:51:26Z"
 verified: true
 verified_note: repo alive, room not checked

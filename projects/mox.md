@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mox:matrix.org"
-issues: []
+issues: [3735]
 updated: "2025-12-21T19:27:41Z"
 ---
 

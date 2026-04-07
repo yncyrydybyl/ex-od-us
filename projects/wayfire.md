@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#wayfire:matrix.org"
-issues: []
+issues: [4798]
 updated: "2026-04-06T11:29:27Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/wishthis/wishthis"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4827]
 updated: "2025-10-14T15:30:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wishthis:matrix.org]

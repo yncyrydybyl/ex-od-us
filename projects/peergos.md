@@ -5,7 +5,7 @@ repo: "https://github.com/Peergos/Peergos"
 platform: github
 categories: [Security]
 status: Active
-issues: []
+issues: [4211]
 updated: "2026-04-06T07:38:14Z"
 matrix_links:
   - target: "#peergos-chat:matrix.org"

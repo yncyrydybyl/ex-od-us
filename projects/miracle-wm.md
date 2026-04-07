@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#miracle-wm:matrix.org"
-issues: []
+issues: [6742]
 updated: "2026-04-06T11:15:36Z"
 ---
 

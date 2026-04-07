@@ -5,7 +5,7 @@ repo: "https://github.com/jsonresume/resume-cli"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3914]
 updated: "2024-04-03T15:02:18Z"
 matrix_links:
   - target: "#json-resume:one.ems.host"

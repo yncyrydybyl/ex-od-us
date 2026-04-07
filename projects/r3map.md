@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/r3map"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4344]
 updated: "2024-08-16T01:40:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#r3map:matrix.org]

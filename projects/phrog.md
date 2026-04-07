@@ -5,7 +5,7 @@ repo: "https://github.com/samcday/phrog"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4219]
 updated: "2026-03-17T04:08:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#phosh:talk.puri.sm]

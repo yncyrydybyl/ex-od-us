@@ -5,7 +5,7 @@ repo: "https://github.com/orbitdb/voyager"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4784]
 updated: "2026-02-11T13:34:48Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

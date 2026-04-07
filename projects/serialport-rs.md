@@ -9,7 +9,7 @@ exodus_score: 4
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#serialport-rs:matrix.org]
-issues: []
+issues: [4482]
 updated: "2026-03-24T09:02:46Z"
 ---
 

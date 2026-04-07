@@ -5,7 +5,7 @@ repo: "https://github.com/spack/spack"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4549]
 updated: "2026-04-06T13:01:21Z"
 matrix_links:
   - target: "#spack-space:matrix.org"

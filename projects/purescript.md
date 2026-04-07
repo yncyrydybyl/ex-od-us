@@ -5,7 +5,7 @@ repo: "https://github.com/purescript/purescript"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4302]
 updated: "2026-03-24T23:27:47Z"
 matrix_links:
   - target: "#purescript:matrix.org"

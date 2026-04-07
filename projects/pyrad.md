@@ -5,7 +5,7 @@ repo: "https://github.com/pyradius/pyrad"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4317]
 updated: "2026-02-11T21:05:18Z"
 matrix_links:
   - target: "#pyradius:matrix.org"

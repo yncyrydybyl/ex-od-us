@@ -5,7 +5,7 @@ repo: "https://github.com/quartiq/stabilizer"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4564]
 updated: "2026-03-26T15:36:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]

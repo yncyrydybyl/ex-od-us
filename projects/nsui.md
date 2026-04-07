@@ -5,7 +5,7 @@ repo: "https://github.com/mattmassicotte/nsui"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3773]
 updated: "2025-10-14T10:39:24Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

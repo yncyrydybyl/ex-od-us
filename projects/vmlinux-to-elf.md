@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#vmlinux-to-elf:matrix.org"
-issues: []
+issues: [4045]
 updated: "2026-03-27T15:15:25Z"
 ---
 

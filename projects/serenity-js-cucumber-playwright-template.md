@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#serenity-js:gitter.im"
-issues: []
+issues: [4480]
 updated: "2026-04-04T02:03:49Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#shiori:matrix.org"
-issues: []
+issues: [3950]
 updated: "2026-02-01T10:14:02Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/evalf/nutils"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1644]
 updated: "2026-04-03T12:03:12Z"
 verified: true
 verified_note: repo alive, room not checked

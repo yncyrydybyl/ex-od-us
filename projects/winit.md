@@ -5,7 +5,7 @@ repo: "https://github.com/rust-windowing/winit"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4826]
 updated: "2026-04-04T14:59:36Z"
 matrix_links:
   - target: "#rust-windowing:matrix.org"

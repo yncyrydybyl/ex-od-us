@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#data-stewards:mozilla.org"
-issues: []
+issues: [6800]
 updated: "2026-04-06T06:59:52Z"
 ---
 

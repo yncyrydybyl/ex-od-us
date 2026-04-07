@@ -5,7 +5,7 @@ repo: "https://github.com/NixOS/patchelf"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4202]
 updated: "2025-12-15T01:02:35Z"
 matrix_links:
   - target: "#patchelf:nixos.org"

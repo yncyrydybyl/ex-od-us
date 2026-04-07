@@ -5,7 +5,7 @@ repo: "https://github.com/us-irs/spacepackets-rs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4547]
 updated: "2026-03-09T09:18:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sat-rs:matrix.org]

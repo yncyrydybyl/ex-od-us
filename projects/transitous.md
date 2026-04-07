@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#transitous:matrix.spline.de"
-issues: []
+issues: [4681]
 updated: "2026-04-03T08:25:30Z"
 ---
 

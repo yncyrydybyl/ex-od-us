@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#shimmie:matrix.org"
-issues: []
+issues: [4501]
 updated: "2026-04-04T08:17:01Z"
 ---
 

@@ -7,7 +7,7 @@ categories: [Integrations]
 status: "Active"
 exodus_score: 0
 last_scanned: "2026-04-06T22:13:24Z"
-issues: []
+issues: [4498]
 updated: "2024-04-15T01:59:37Z"
 ---
 

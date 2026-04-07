@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#naja:fossi-chat.org"
-issues: []
+issues: [6840]
 updated: "2026-04-06T09:17:51Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-imessage"
 platform: github
 categories: [Bridging, Matrix]
 status: Active
-issues: []
+issues: [3639]
 updated: "2020-08-25T20:01:26Z"
 matrix_links:
   - target: "#matrix-puppet-bridge:matrix.org"

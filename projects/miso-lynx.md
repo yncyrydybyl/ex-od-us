@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#haskell-miso:matrix.org"
-issues: []
+issues: [3712]
 updated: "2026-03-07T15:53:39Z"
 ---
 

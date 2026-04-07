@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#trippy-dev:matrix.org"
-issues: []
+issues: [4725]
 updated: "2026-04-06T12:53:04Z"
 ---
 

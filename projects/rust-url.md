@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rust-url:mozilla.org"
-issues: []
+issues: [4436]
 updated: "2026-02-05T12:54:17Z"
 ---
 

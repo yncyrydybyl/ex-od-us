@@ -5,7 +5,7 @@ repo: "https://github.com/smol-rs/smol"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4525]
 updated: "2026-03-23T14:46:03Z"
 matrix_links:
   - target: "#smol-rs:matrix.org"

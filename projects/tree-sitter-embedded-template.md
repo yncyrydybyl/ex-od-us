@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-embedded-template"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4691]
 updated: "2025-08-31T18:21:06Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

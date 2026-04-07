@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-regex"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4710]
 updated: "2025-09-13T04:57:57Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

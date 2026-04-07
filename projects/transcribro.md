@@ -5,7 +5,7 @@ repo: "https://github.com/soupslurpr/Transcribro"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4680]
 updated: "2025-08-29T11:14:59Z"
 matrix_links:
   - target: "#transcribro:matrix.org"

@@ -4,7 +4,7 @@ repo: "https://github.com/RomNero/YouTube-Infos"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4857]
 updated: "2026-03-08T14:21:12Z"
 ---
 

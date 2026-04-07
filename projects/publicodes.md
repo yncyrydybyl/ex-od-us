@@ -5,7 +5,7 @@ repo: "https://github.com/publicodes/publicodes"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4298]
 updated: "2026-04-03T18:16:34Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

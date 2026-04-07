@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#organicmaps:matrix.org"
-issues: []
+issues: [4157]
 updated: "2026-04-06T14:08:26Z"
 ---
 

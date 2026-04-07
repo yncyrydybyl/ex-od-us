@@ -5,7 +5,7 @@ repo: "https://github.com/jazzband/pip-tools"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3840]
 updated: "2026-04-05T21:53:17Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

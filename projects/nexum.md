@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nexum:nxm.rs"
-issues: []
+issues: [6899]
 updated: "2026-02-01T14:05:59Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#isledecomp:matrix.org"
-issues: []
+issues: [4364]
 updated: "2026-04-03T14:33:17Z"
 ---
 

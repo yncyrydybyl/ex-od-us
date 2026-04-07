@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#memetastic:matrix.org]
-issues: []
+issues: [3675]
 updated: "2026-03-06T20:36:42Z"
 ---
 

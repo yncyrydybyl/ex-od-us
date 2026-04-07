@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#solid-practitioners:matrix.org]
-issues: []
+issues: [4274]
 updated: "2026-03-31T22:14:35Z"
 ---
 

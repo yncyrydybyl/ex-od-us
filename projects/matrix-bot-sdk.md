@@ -9,7 +9,7 @@ exodus_score: 6
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-bot-sdk:t2bot.io]
-issues: []
+issues: [6564]
 updated: "2026-03-27T15:54:26Z"
 ---
 

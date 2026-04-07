@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pyproject.nix:blad.is"
-issues: []
+issues: [4759]
 updated: "2026-04-05T10:49:07Z"
 ---
 

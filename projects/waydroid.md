@@ -9,7 +9,7 @@ exodus_score: 3
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#waydroid:matrix.org]
-issues: []
+issues: [4797]
 updated: "2026-03-29T20:28:39Z"
 ---
 

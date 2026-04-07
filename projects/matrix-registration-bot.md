@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-registration-bot:hyteck.de"
-issues: []
+issues: [3648]
 updated: "2023-12-18T10:21:53Z"
 ---
 

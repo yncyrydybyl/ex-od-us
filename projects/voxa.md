@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#voxa:matrix.org"
-issues: []
+issues: [4782]
 updated: "2025-03-24T00:50:37Z"
 ---
 

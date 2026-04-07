@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#voyager-bot:matrix.org"
-issues: []
+issues: [6638]
 updated: "2023-03-01T12:07:36Z"
 ---
 

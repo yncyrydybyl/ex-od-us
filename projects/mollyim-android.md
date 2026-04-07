@@ -5,7 +5,7 @@ repo: "https://github.com/mollyim/mollyim-android"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3722]
 updated: "2026-04-04T10:06:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mollyim-space:matrix.org, https://matrix.to/#/#mollyim:matrix.org]

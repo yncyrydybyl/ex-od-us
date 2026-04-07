@@ -5,7 +5,7 @@ repo: "https://github.com/mobile-nixos/mobile-nixos"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3720]
 updated: "2026-02-28T14:45:54Z"
 matrix_links:
   - target: "#nix:nixos.org"

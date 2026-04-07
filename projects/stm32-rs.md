@@ -5,7 +5,7 @@ repo: "https://github.com/stm32-rs/stm32-rs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4575]
 updated: "2026-02-21T08:57:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stm32-rs:matrix.org]

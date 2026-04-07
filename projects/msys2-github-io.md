@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#msys2_msys2:gitter.im"
-issues: []
+issues: [6811]
 updated: "2026-04-05T10:11:21Z"
 ---
 

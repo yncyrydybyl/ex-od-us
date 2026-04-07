@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#sctk:matrix.org"
-issues: []
+issues: [4523]
 updated: "2025-11-02T11:58:18Z"
 ---
 

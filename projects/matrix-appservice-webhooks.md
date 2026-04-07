@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#webhooks:t2bot.io"
-issues: []
+issues: [6556]
 updated: "2024-04-18T12:34:49Z"
 ---
 

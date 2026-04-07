@@ -5,7 +5,7 @@ repo: "https://github.com/itsvic-dev/parcel"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3821]
 updated: "2026-02-17T22:51:05Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

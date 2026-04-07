@@ -5,7 +5,7 @@ repo: "https://github.com/precice/precice"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4276]
 updated: "2026-04-02T12:27:50Z"
 ---
 

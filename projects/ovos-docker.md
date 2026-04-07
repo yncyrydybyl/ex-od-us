@@ -5,7 +5,7 @@ repo: "https://github.com/OpenVoiceOS/ovos-docker"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4176]
 updated: "2026-03-31T21:40:35Z"
 matrix_links:
   - target: "#OpenVoiceOS:matrix.org"

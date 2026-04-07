@@ -5,7 +5,7 @@ repo: "https://github.com/shoebot/shoebot"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4503]
 updated: "2024-10-02T23:23:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shoebot:matrix.org]

@@ -7,7 +7,7 @@ categories: [Development]
 status: Active
 exodus_score: 2
 last_scanned: "2026-04-07T12:22:56Z"
-issues: []
+issues: [3724]
 updated: "2026-03-28T20:17:57Z"
 ---
 

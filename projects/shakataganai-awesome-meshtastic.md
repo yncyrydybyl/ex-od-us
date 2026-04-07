@@ -33,7 +33,7 @@ matrix_rooms:
   - "https://matrix.to/#/#meshnorway:matrix.org"
   - "https://matrix.to/#/#meshtasticpl:matrix.org"
   - "https://matrix.to/#/#berlinmesh:c-base.org"
-issues: []
+issues: [4499]
 updated: "2026-04-01T04:07:50Z"
 ---
 

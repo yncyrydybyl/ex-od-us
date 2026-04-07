@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rash-lang:matrix.org"
-issues: []
+issues: [4348]
 updated: "2024-01-29T17:20:08Z"
 ---
 

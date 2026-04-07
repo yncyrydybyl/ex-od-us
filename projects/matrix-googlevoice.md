@@ -4,7 +4,7 @@ repo: "https://github.com/dzg/matrix-googlevoice"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1588]
 updated: "2024-04-18T20:28:19Z"
 verified: true
 verified_note: repo alive, room not checked

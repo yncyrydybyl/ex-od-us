@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#nextcloud-passwords:chat.passwordsapp.org"
   - "https://matrix.to/#/#developers:chat.passwordsapp.org"
-issues: []
+issues: [3823]
 updated: "2026-03-30T21:22:07Z"
 ---
 

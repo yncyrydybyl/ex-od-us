@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#vimr:matrix.org"
-issues: []
+issues: [4771]
 updated: "2026-04-06T16:15:33Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#neostumbler:matrix.org"
-issues: []
+issues: [3755]
 updated: "2026-04-02T16:45:40Z"
 ---
 

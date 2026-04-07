@@ -5,7 +5,7 @@ repo: "https://github.com/retorquere/zotero-better-bibtex"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4865]
 updated: "2026-04-06T02:19:16Z"
 exodus_score: 1
 last_scanned: "2026-04-06T20:35:19Z"

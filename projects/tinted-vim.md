@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#tinted-theming:matrix.org"
-issues: []
+issues: [4659]
 updated: "2026-03-05T02:01:20Z"
 ---
 

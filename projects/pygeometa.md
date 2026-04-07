@@ -5,7 +5,7 @@ repo: "https://github.com/geopython/pygeometa"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4310]
 updated: "2026-03-30T15:20:09Z"
 matrix_links:
   - target: "#geopython_pygeometa:gitter.im"

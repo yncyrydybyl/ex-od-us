@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#linux-vr-adventures:matrix.org]
-issues: []
+issues: [3810]
 updated: "2025-08-31T11:14:14Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/H-PixelDroid/PixelDroid"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3845]
 updated: "2025-09-21T16:09:24Z"
 matrix_links:
   - target: "#pixeldroid:gnugen.ch"

@@ -5,7 +5,7 @@ repo: "https://github.com/pr2database/pr2database"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4273]
 updated: "2026-02-26T16:23:38Z"
 matrix_links:
   - target: "#pr2-database:matrix.org"

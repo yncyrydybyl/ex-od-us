@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#opentower:matrix.org"
-issues: []
+issues: [3858]
 updated: "2026-02-01T11:13:00Z"
 ---
 

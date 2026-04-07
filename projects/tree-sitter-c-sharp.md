@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-c-sharp"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4685]
 updated: "2026-02-17T17:08:39Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

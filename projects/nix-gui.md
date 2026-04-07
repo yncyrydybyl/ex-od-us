@@ -5,7 +5,7 @@ repo: "https://github.com/nix-gui/nix-gui"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [6932]
 updated: "2022-09-01T16:39:57Z"
 ---
 

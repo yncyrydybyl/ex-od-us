@@ -5,7 +5,7 @@ repo: "https://github.com/redlib-org/redlib"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4370]
 updated: "2025-12-16T00:53:33Z"
 matrix_links:
   - target: "#redlib:matrix.org"

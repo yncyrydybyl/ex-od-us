@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#moneropay:kernal.eu"
-issues: []
+issues: [3727]
 updated: "2026-02-11T23:30:36Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#neoment-nvim:matrix.org"
-issues: []
+issues: [6868]
 updated: "2026-04-03T15:25:11Z"
 ---
 

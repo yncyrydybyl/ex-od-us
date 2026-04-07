@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#madcad:matrix.org"
-issues: []
+issues: [3882]
 updated: "2026-04-01T18:03:43Z"
 ---
 

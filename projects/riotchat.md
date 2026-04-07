@@ -5,7 +5,7 @@ repo: "https://github.com/gary-kim/riotchat"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3918]
 updated: "2026-04-03T21:06:03Z"
 matrix_links: []
 matrix_rooms:

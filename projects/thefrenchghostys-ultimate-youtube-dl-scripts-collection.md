@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pussthecat.org:pussthecat.org"
-issues: []
+issues: [4642]
 updated: "2025-06-17T12:05:27Z"
 ---
 

@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#termux_termux:gitter.im"
   - "https://matrix.to/#/#termux_dev:gitter.im"
-issues: []
+issues: [4630]
 updated: "2026-03-23T19:42:57Z"
 ---
 

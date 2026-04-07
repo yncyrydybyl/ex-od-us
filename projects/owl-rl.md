@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#RDFLib_rdflib:gitter.im"
-issues: []
+issues: [4177]
 updated: "2026-03-30T22:59:30Z"
 ---
 

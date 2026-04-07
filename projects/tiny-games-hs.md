@@ -5,7 +5,7 @@ repo: "https://github.com/haskell-game/tiny-games-hs"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4002]
 updated: "2023-08-31T19:38:00Z"
 matrix_links:
   - target: "#haskell-game:matrix.org"

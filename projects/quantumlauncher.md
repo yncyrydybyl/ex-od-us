@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#quantumgroup:matrix.org"
-issues: []
+issues: [3892]
 updated: "2026-04-04T15:17:44Z"
 ---
 

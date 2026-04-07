@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#pure-maps:matrix.org]
-issues: []
+issues: [4170]
 updated: "2025-10-15T18:34:31Z"
 ---
 

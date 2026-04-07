@@ -9,7 +9,7 @@ exodus_score: 3
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#retrodeck:matrix.org]
-issues: []
+issues: [4383]
 updated: "2026-04-02T21:25:00Z"
 ---
 

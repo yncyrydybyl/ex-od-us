@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#sonicdesktop:matrix.org"
-issues: []
+issues: [4541]
 updated: "2026-04-03T10:50:39Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#postgis:osgeo.org"
-issues: []
+issues: [4268]
 updated: "2026-04-02T19:28:07Z"
 ---
 

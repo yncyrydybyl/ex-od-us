@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#microvm:nixos.org"
-issues: []
+issues: [6717]
 updated: "2026-04-04T19:01:41Z"
 ---
 

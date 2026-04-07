@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#teal-language_community:gitter.im"
-issues: []
+issues: [4663]
 updated: "2026-03-24T21:47:24Z"
 ---
 

@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rust:gnome.org"
-issues: []
+issues: [4376]
 updated: "2026-03-16T01:52:57Z"
 ---
 

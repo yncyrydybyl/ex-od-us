@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#socialhome:federator.dev"
-issues: []
+issues: [3962]
 updated: "2026-04-05T14:02:57Z"
 ---
 

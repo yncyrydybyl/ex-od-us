@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter-grammars/tree-sitter-zig"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4717]
 updated: "2025-09-10T13:37:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

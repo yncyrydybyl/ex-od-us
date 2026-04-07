@@ -4,7 +4,7 @@ repo: "https://github.com/serai-dex/serai"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4479]
 updated: "2026-04-02T05:25:20Z"
 matrix_links:
   - target: "#serai:matrix.org"

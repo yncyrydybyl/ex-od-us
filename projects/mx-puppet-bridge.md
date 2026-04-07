@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mx-puppet-bridge:sorunome.de"
-issues: []
+issues: [6830]
 updated: "2023-03-04T03:56:07Z"
 ---
 

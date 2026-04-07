@@ -9,7 +9,7 @@ exodus_score: 3
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
-issues: []
+issues: [4693]
 updated: "2026-02-28T05:42:22Z"
 ---
 

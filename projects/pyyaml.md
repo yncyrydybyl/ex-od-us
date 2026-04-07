@@ -5,7 +5,7 @@ repo: "https://github.com/yaml/pyyaml"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4324]
 updated: "2025-09-25T21:29:27Z"
 matrix_links:
   - target: "#pyyaml:yaml.io"

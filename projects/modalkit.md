@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#modalkit:0x.badd.cafe"
-issues: []
+issues: [6774]
 updated: "2026-01-19T23:26:21Z"
 ---
 

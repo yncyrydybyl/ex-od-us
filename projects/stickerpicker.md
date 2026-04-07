@@ -5,7 +5,7 @@ repo: "https://github.com/maunium/stickerpicker"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3972]
 updated: "2026-02-18T20:17:53Z"
 matrix_links:
   - target: "#stickerpicker:maunium.net"

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#VL.StandardLibs:matrix.org"
-issues: []
+issues: [4778]
 updated: "2026-04-02T16:18:08Z"
 ---
 

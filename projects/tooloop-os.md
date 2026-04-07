@@ -5,7 +5,7 @@ repo: "https://github.com/Tooloop/Tooloop-OS"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4673]
 updated: "2024-08-01T14:00:19Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

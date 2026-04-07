@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nixpkgs-xr:matrix.org"
-issues: []
+issues: [6980]
 updated: "2026-04-06T02:31:14Z"
 ---
 

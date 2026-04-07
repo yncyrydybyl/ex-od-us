@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-css"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4689]
 updated: "2025-09-28T11:34:31Z"
 matrix_links:
   - target: "#tree-sitter-chat:matrix.org"

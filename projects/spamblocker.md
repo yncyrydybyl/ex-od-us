@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#spam-blocker:matrix.org"
-issues: []
+issues: [4550]
 updated: "2026-04-05T09:53:04Z"
 ---
 

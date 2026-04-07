@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#openlgtv:netserve.live"
-issues: []
+issues: [4405]
 updated: "2025-01-05T12:36:20Z"
 ---
 

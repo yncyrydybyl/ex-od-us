@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-alertmanager:federator.dev]
-issues: []
+issues: [3609]
 updated: "2026-03-30T11:21:38Z"
 ---
 

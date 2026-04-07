@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#plasmamobile:matrix.org"
-issues: []
+issues: [3847]
 updated: "2022-01-17T17:38:11Z"
 ---
 

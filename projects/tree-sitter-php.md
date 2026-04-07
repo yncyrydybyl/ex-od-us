@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-php"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4706]
 updated: "2026-03-19T15:00:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

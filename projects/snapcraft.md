@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#snapcraft:ubuntu.com"
-issues: []
+issues: [4530]
 updated: "2026-04-06T15:04:28Z"
 ---
 

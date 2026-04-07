@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#snowflakeos:matrix.org]
-issues: []
+issues: [6956]
 updated: "2026-02-15T09:55:35Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/SolidOS/solidos"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4537]
 updated: "2026-03-29T18:07:50Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

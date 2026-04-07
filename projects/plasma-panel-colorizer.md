@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#kde-plasma-panel-colorizer:matrix.org"
-issues: []
+issues: [4246]
 updated: "2026-04-03T04:24:24Z"
 ---
 

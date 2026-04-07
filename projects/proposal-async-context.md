@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#tc39-async-context:matrix.org"
-issues: []
+issues: [4293]
 updated: "2026-03-17T17:43:27Z"
 ---
 

@@ -27,7 +27,7 @@ matrix_rooms:
   - "https://matrix.to/#/#ribaoxiaozu:oblak.be"
   - "https://matrix.to/#/#zlibrary:oblak.be"
   - "https://matrix.to/#/#jinggangshan:matrix.org"
-issues: []
+issues: [3734]
 updated: "2025-04-01T11:16:06Z"
 ---
 

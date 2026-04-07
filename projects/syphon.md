@@ -5,7 +5,7 @@ repo: "https://github.com/syphon-org/syphon"
 platform: github
 categories: [Security, Matrix]
 status: Active
-issues: []
+issues: [4602]
 updated: "2024-08-05T13:09:26Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

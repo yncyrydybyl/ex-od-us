@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#music-kraken:matrix.org"
-issues: []
+issues: [3749]
 updated: "2025-05-23T06:54:56Z"
 ---
 
