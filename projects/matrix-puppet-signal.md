@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-signal"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7092]
 updated: "2023-01-11T22:25:03Z"
 matrix_links:
   - target: "#matrix-puppet-bridge:matrix.org"

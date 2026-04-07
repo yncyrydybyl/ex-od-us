@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mesa-llm:matrix.org"
-issues: []
+issues: [7129]
 updated: "2026-04-01T15:16:14Z"
 ---
 

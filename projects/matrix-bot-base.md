@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#trixnity:imbitbu.de"
-issues: []
+issues: [7064]
 updated: "2026-03-31T23:38:02+02:00"
 last_scanned: "2026-04-06T21:04:29Z"
 ---

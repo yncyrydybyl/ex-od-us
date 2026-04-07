@@ -5,7 +5,7 @@ repo: "https://github.com/benkuly/matrix-sms-bridge"
 platform: github
 categories: [Bridging, Matrix]
 status: Active
-issues: []
+issues: [7102]
 updated: "2025-10-20T18:31:08Z"
 verified: true
 verified_note: repo alive, room not checked

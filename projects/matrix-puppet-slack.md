@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-slack"
 platform: github
 categories: [Bridging, Matrix]
 status: Active
-issues: []
+issues: [7093]
 updated: "2022-06-11T19:19:43Z"
 matrix_links:
   - target: "#matrix-puppet-bridge:matrix.org"

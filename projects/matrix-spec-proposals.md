@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-spec-proposals"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [7103]
 updated: "2026-04-01T17:12:45Z"
 matrix_links:
   - target: "#matrix-docs:matrix.org"

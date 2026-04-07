@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-hacks/matrix-puppet-facebook"
 platform: github
 categories: [Bridging, Matrix]
 status: Active
-issues: []
+issues: [7089]
 updated: "2020-06-22T10:10:13Z"
 matrix_links:
   - target: "#matrix-puppet-bridge:matrix.org"

@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#matrix.to:matrix.org"
   - "https://matrix.to/#/#matrix:matrix.org"
-issues: []
+issues: [7106]
 updated: "2026-01-02T14:58:25Z"
 ---
 

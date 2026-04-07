@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
-issues: []
+issues: [7088]
 updated: "2021-02-11T21:13:42Z"
 ---
 

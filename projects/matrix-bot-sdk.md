@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-bot-sdk:t2bot.io]
-issues: []
+issues: [7066]
 updated: "2026-03-27T15:54:26Z"
 ---
 

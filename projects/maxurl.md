@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#image-max-url:tedomum.net"
-issues: []
+issues: [7116]
 updated: "2026-04-05T22:15:07Z"
 ---
 

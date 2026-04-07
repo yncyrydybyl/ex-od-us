@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ward:matrix.org"
-issues: []
+issues: [7053]
 updated: "2026-04-01T01:08:45Z"
 ---
 

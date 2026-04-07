@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#media-repo:t2bot.io"
-issues: []
+issues: [7080]
 updated: "2025-11-20T01:15:49Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/spantaleev/matrix-docker-ansible-deploy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7069]
 updated: "2026-04-06T12:57:04Z"
 matrix_links:
   - target: "#matrix-docker-ansible-deploy:devture.com"

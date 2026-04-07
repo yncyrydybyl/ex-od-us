@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#meshrabiya:matrix.org"
-issues: []
+issues: [7132]
 updated: "2024-12-17T14:38:47Z"
 ---
 

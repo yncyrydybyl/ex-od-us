@@ -5,7 +5,7 @@ repo: "https://github.com/saadjsct/matrixcli"
 platform: github
 categories: [Integrations, Messaging, Matrix]
 status: "Active"
-issues: []
+issues: [7112]
 updated: "2024-04-21T10:37:14Z"
 ---
 

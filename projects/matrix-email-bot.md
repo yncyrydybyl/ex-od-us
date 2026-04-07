@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#email:t2bot.io"
-issues: []
+issues: [7071]
 updated: "2024-02-16T00:07:10Z"
 ---
 

@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#project-mesa:matrix.org"
   - "https://matrix.to/#/#mesa-geo:matrix.org"
-issues: []
+issues: [7128]
 updated: "2026-03-30T14:04:37Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#materia:saintnet.tech"
-issues: []
+issues: [7052]
 updated: "2026-04-04T19:33:17Z"
 ---
 

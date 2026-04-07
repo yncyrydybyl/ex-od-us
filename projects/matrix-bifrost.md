@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#bifrost:half-shot.uk"
-issues: []
+issues: [7063]
 updated: "2026-04-01T13:21:59Z"
 ---
 

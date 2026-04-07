@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-register-bot:msg-net.de"
-issues: []
+issues: [7095]
 updated: "2021-06-22T15:28:28Z"
 ---
 

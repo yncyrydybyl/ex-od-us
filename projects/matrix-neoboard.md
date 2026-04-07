@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nordeck:matrix.org"
-issues: []
+issues: [7082]
 updated: "2026-04-06T16:47:45Z"
 ---
 

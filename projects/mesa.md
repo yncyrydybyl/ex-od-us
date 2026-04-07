@@ -5,7 +5,7 @@ repo: "https://github.com/mesa/mesa"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7130]
 updated: "2026-04-04T06:05:33Z"
 matrix_links:
   - target: "#project-mesa:matrix.org"

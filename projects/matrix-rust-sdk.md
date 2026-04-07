@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-rust-sdk"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7097]
 updated: "2026-04-06T14:37:00Z"
 matrix_links:
   - target: "#matrix-rust-sdk:matrix.org"

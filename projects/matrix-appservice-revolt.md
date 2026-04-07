@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-appservice-revolt:bus-hit.me"
-issues: []
+issues: [7058]
 updated: "2024-07-21T05:53:19+02:00"
 last_scanned: "2026-04-06T21:01:48Z"
 ---

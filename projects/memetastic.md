@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#memetastic:matrix.org"
-issues: []
+issues: [7125]
 updated: "2026-03-06T20:36:42Z"
 ---
 

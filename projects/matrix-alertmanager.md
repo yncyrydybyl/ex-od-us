@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-alertmanager:federator.dev]
-issues: []
+issues: [7056]
 updated: "2026-03-30T11:21:38Z"
 ---
 

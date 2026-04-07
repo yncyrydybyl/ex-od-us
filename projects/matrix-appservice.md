@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-appservice-wechaty:matrix.org]
-issues: []
+issues: [7061]
 updated: "2022-09-09T08:01:55Z"
 ---
 

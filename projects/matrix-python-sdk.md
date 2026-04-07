@@ -5,7 +5,7 @@ repo: "https://github.com/matrix-org/matrix-python-sdk"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7094]
 updated: "2022-10-16T09:13:19Z"
 exodus_score: 1
 last_scanned: "2026-04-07T06:34:49Z"

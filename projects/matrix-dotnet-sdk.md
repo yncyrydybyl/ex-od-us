@@ -5,7 +5,7 @@ repo: "https://github.com/Half-Shot/matrix-dotnet-sdk"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7070]
 updated: "2022-12-08T04:01:44Z"
 matrix_links:
   - target: "#dotnet:half-shot.uk"

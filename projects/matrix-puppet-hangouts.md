@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-puppet-bridge:matrix.org"
-issues: []
+issues: [7090]
 updated: "2020-03-30T20:33:58Z"
 ---
 
