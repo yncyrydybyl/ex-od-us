@@ -1,20 +1,14 @@
 ---
-name: "Neo Store"
-description: "An F-Droid client with modern UI and an arsenal of extra features."
+name: Neo Store
+description: An F-Droid client with modern UI and an arsenal of extra features.
 repo: "https://github.com/NeoApplications/Neo-Store"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#neo-store:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#neo-store:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#neo-store:matrix.org]
 issues: [6864]
 updated: "2026-03-27T11:53:46Z"
 ---

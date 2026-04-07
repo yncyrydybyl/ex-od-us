@@ -8,7 +8,8 @@ status: Active
 issues: [4542]
 updated: "2025-11-07T02:21:06Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#sonusmix:matrix.org]
 ---
 
 Mirror of https://codeberg.org/sonusmix/sonusmix

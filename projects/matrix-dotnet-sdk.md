@@ -8,9 +8,9 @@ status: Active
 issues: [3617]
 updated: "2022-12-08T04:01:44Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#dotnet:half-shot.uk]
+matrix_rooms: [https://matrix.to/#/#dotnet:half-shot.uk.svg, https://matrix.to/#/#dotnet:half-shot.uk]
 exodus_score: 5
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 A matrix client library in .NET (C#)

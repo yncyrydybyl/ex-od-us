@@ -1,20 +1,14 @@
 ---
-name: "Ergot"
-description: "Eloquence in Messaging"
+name: Ergot
+description: Eloquence in Messaging
 repo: "https://github.com/jamesmunns/ergot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#mnemos-dev:beeper.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#mnemos-dev:beeper.com"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#mnemos-dev:beeper.com]
 issues: [6064]
 updated: "2026-03-28T21:23:52Z"
 ---

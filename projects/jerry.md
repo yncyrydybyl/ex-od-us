@@ -1,20 +1,14 @@
 ---
-name: "Jerry"
-description: "watch anime with automatic anilist syncing and other cool stuff"
+name: Jerry
+description: watch anime with automatic anilist syncing and other cool stuff
 repo: "https://github.com/justchokingaround/jerry"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lobster-and-jerry:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lobster-and-jerry:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lobster-and-jerry:matrix.org]
 issues: [6738]
 updated: "2026-04-05T19:02:43Z"
 ---

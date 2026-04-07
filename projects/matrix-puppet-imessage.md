@@ -7,15 +7,10 @@ categories: [Bridging, Matrix]
 status: Active
 issues: [3639]
 updated: "2020-08-25T20:01:26Z"
-matrix_links:
-  - target: "#matrix-puppet-bridge:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 A two-way puppeted Matrix bridge for Apple iMessage / Messages

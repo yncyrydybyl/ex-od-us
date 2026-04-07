@@ -1,26 +1,14 @@
 ---
-name: "Website"
-description: "The Datenanfragen.de website including the request PDF generator and company information database"
+name: Website
+description: The Datenanfragen.de website including the request PDF generator and company information database
 repo: "https://github.com/datenanfragen/website"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#dade-i18n:matrix.altpeter.me"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#datenanfragen:matrix.altpeter.me"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#dade-i18n:matrix.altpeter.me"
-  - "https://matrix.to/#/#datenanfragen:matrix.altpeter.me"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#dade-i18n:matrix.altpeter.me, https://matrix.to/#/#datenanfragen:matrix.altpeter.me]
 issues: [5801]
 updated: "2026-03-30T19:35:08Z"
 ---

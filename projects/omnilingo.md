@@ -8,9 +8,9 @@ status: Active
 issues: [7171]
 updated: "2023-11-23T01:42:09Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#omnilingo:matrix.org]
+matrix_rooms: [https://matrix.to/#/#OmniLingo:matrix.org, https://matrix.to/#/#omnilingo:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 Listening-based language learning

@@ -1,26 +1,14 @@
 ---
-name: "Scribe Android"
-description: "Android app with keyboards for language learners"
+name: Scribe Android
+description: Android app with keyboards for language learners
 repo: "https://github.com/scribe-org/Scribe-Android"
 platform: github
 categories: [Messaging]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#scribe_community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#ScribeAndroid:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ScribeAndroid:matrix.org"
-  - "https://matrix.to/#/#scribe_community:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ScribeAndroid:matrix.org, https://matrix.to/#/#scribe_community:matrix.org]
 issues: [4465]
 updated: "2026-03-31T12:38:32Z"
 ---

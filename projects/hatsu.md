@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6509]
 updated: "2025-12-14T05:59:05Z"
-matrix_links:
-  - target: "#importantimport:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#importantimport:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.

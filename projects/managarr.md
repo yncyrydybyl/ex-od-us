@@ -10,9 +10,9 @@ updated: "2026-04-02T15:59:41Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#managarr:matrix.org]
+matrix_rooms: [https://matrix.to/#/#managarr:matrix.org, https://matrix.to/#/#managarr-room:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 A TUI and CLI for managing *arr servers. Built with 🤎 in Rust

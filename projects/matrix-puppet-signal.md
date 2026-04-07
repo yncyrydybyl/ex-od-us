@@ -8,9 +8,9 @@ status: Active
 issues: [3641]
 updated: "2023-01-11T22:25:03Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 A Signal bridge for Matrix

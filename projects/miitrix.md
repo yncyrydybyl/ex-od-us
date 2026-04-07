@@ -8,9 +8,9 @@ status: Active
 issues: [6718]
 updated: "2020-08-03T16:24:11Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#miitrix:sorunome.de]
+matrix_rooms: [https://matrix.to/#/#miitrix:sorunome.de, https://matrix.to/#/#miitrix:sorunome.de.svg]
 exodus_score: 5
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 A Nintendo 3DS matrix client

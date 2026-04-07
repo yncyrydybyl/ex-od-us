@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6931]
 updated: "2026-04-06T05:24:25Z"
-matrix_links:
-  - target: "#limine:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#limine:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)

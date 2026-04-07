@@ -10,7 +10,8 @@ updated: "2025-03-17T13:37:15Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#chimehq:matrix.org]
 ---
 
 Concurrency support for NSXPCConnection

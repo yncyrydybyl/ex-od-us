@@ -8,7 +8,8 @@ status: Active
 issues: [6705]
 updated: "2026-04-06T12:44:38Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg]
 ---
 
 Android TV Client for Jellyfin

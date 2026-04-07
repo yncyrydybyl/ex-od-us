@@ -75,24 +75,24 @@
     "size": 6199
   },
   "AMDESE/OpenBMC": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e5b8c9163f7e9b9ed473fc118b85a3c1589e9c29e38c14718e020949f438b8e8\"",
+    "fetched": "2026-04-07T19:33:14Z",
+    "filename": "README.md",
     "size": 5148
   },
   "AMythicDev/minus": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e621ba5bb3fcb6b030679dc52a89c45375c67e188efc6951a2ff4c0fa2f339ab\"",
+    "fetched": "2026-04-07T19:32:52Z",
+    "filename": "README.md",
     "size": 6933
   },
   "ANSSI-FR/cry-me": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"60a6de65123f2b3d44cba1ebcefdd4e11efffddb53934a788ea5b3aa69263443\"",
+    "fetched": "2026-04-07T19:30:19Z",
+    "filename": "README.md",
     "size": 16053
   },
   "APKLab/APKLab": {
@@ -110,10 +110,10 @@
     "size": 8414
   },
   "AboutRSS/ALL-about-RSS": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d86a5a7791bc96f36f99c5721dcbebf5dc7a9747ce49345f1666bb8ceb01ad77\"",
+    "fetched": "2026-04-07T19:28:51Z",
+    "filename": "README.md",
     "size": 237908
   },
   "Acclorite/book-story": {
@@ -152,10 +152,10 @@
     "size": 137969
   },
   "AlfaazPlus/QuranApp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a3f0d064ecdc10e547fa569197f2fdb175c5ad5f415881271c430075a6ad8c08\"",
+    "fetched": "2026-04-07T19:34:24Z",
+    "filename": "README.md",
     "size": 5866
   },
   "Alien-Alfa/WhatsAppBot-MD": {
@@ -173,10 +173,10 @@
     "size": 11668
   },
   "AllureOfTheStars/Allure": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f1bde81a613b2ef6dd8a09ef493ea34757dadb98e0a1803ebefc393fdf18e12e\"",
+    "fetched": "2026-04-07T19:28:52Z",
+    "filename": "README.md",
     "size": 11615
   },
   "AlmaLinux/bootc-images": {
@@ -187,10 +187,10 @@
     "size": 3044
   },
   "Alovoa/alovoa": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"54740b3e279b1d8ac13df796e6155b524b7c8b7a0e02ce0363f459b16c6dd4ca\"",
+    "fetched": "2026-04-07T19:28:52Z",
+    "filename": "README.md",
     "size": 4857
   },
   "Am0rphous/Awesome": {
@@ -250,24 +250,24 @@
     "size": 2786
   },
   "ArchLinuxStudio/ArchLinuxTutorial": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f01e6606872e732f98996b5291c2a515f810722cfff4dc34e70497706f508243\"",
+    "fetched": "2026-04-07T19:29:05Z",
+    "filename": "README.md",
     "size": 3474
   },
   "ArchLinuxStudio/ShellTutorial": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5668dc1283e3990f6529338d2907d48e3bd2cc75cd962f7e8078e92ac9e3a133\"",
+    "fetched": "2026-04-07T19:34:57Z",
+    "filename": "README.md",
     "size": 2728
   },
   "Arcticons-Team/Arcticons": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"627e9f4947cd8895615d722239b040a3458ac15a8896370fc322bb746001120c\"",
+    "fetched": "2026-04-07T19:29:06Z",
+    "filename": "README.md",
     "size": 2452
   },
   "ArmenAg/Improvisation": {
@@ -292,10 +292,10 @@
     "size": 3638
   },
   "AsteroidOS/AsteroidOSSync": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"198b8c4cc2aa6ceaccab65a7f3fe00c3f7f25ecf48b81496c5e503a0c03533ee\"",
+    "fetched": "2026-04-07T19:29:08Z",
+    "filename": "README.md",
     "size": 5828
   },
   "AsteroidOS/asteroid": {
@@ -341,10 +341,10 @@
     "size": 2544
   },
   "BibleNotify/BibleNotify": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"81d8651fa4f44ae1ff3a73ef417d63faf6225b4074f1c8c69fddbe72fd67b5d0\"",
+    "fetched": "2026-04-07T19:29:17Z",
+    "filename": "README.md",
     "size": 2675
   },
   "BioArchLinux/Packages": {
@@ -419,10 +419,10 @@
     "size": 4774
   },
   "CachyOS/cachyos-calamares": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ec94a2a80fa2697100456cb21cb5b3fa2b6ece6c517cd55b0344e86e2caaf520\"",
+    "fetched": "2026-04-07T19:29:41Z",
+    "filename": "README.md",
     "size": 3003
   },
   "Carnap/Carnap": {
@@ -444,115 +444,115 @@
     "sha": "575a5a7204756d2f18cda417033489094f92eabd"
   },
   "CherryNetwork/Cherry-Node": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b1153a584ab1f3ec34a6a4922988fd27991eaabebbb893ff527248d3c47c165a\"",
+    "fetched": "2026-04-07T19:29:55Z",
+    "filename": "README.md",
     "size": 2001
   },
   "ChimeHQ/AsyncXPCConnection": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6efc5c3ad4ff0b8886e90381fd4f933629e757746b83656edd4ccfdbc021a60c\"",
+    "fetched": "2026-04-07T19:29:09Z",
+    "filename": "README.md",
     "size": 4797
   },
   "ChimeHQ/Background": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0184ae19bae64c418a7a819ba0b137105a496c1aad693b82a54de65c9b86089b\"",
+    "fetched": "2026-04-07T19:29:14Z",
+    "filename": "README.md",
     "size": 7276
   },
   "ChimeHQ/Chime": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a93ce5044f4c90db8aebba4fb3d18726e509cfa6c4ce806fe7287fb22552f6ce\"",
+    "fetched": "2026-04-07T19:29:56Z",
+    "filename": "README.md",
     "size": 6150
   },
   "ChimeHQ/Extendable": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bec18e8f694b4196b5b293fca8ff1ece16c04496efaa11bbc69ad593975f6627\"",
+    "fetched": "2026-04-07T19:30:57Z",
+    "filename": "README.md",
     "size": 6318
   },
   "ChimeHQ/Flexer": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f8c731cda9c55d2939b73ebb689195d14ced3413a5270adff4e7529b236cace9\"",
+    "fetched": "2026-04-07T19:31:07Z",
+    "filename": "README.md",
     "size": 5666
   },
   "ChimeHQ/Glyph": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"64df2f810ec2eb9a81269da9c28485267cc94723a159e5cdbb3d88e0aa1da12c\"",
+    "fetched": "2026-04-07T19:31:22Z",
+    "filename": "README.md",
     "size": 3949
   },
   "ChimeHQ/JSONRPC": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8c396e8e8b6f583781be026b86609ffb00c305067862e0687b916f896e871be3\"",
+    "fetched": "2026-04-07T19:31:57Z",
+    "filename": "README.md",
     "size": 3798
   },
   "ChimeHQ/KeyCodes": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"af0ba15c22ed0f024bcda1c3b2c6d931838d52fb6b51fc1db1dadad2f97e2745\"",
+    "fetched": "2026-04-07T19:32:01Z",
+    "filename": "README.md",
     "size": 2383
   },
   "ChimeHQ/LanguageServerProtocol": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"359a7b9d3cf659a4836b53348f54da9088a0facd13047375b432bb58d8ad9d0b\"",
+    "fetched": "2026-04-07T19:32:04Z",
+    "filename": "README.md",
     "size": 7688
   },
   "ChimeHQ/Meter": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"86a96f1316c2745580d8f757d9dd30cfd4ba8c8a710fa13f8356437418914282\"",
+    "fetched": "2026-04-07T19:32:37Z",
+    "filename": "README.md",
     "size": 5424
   },
   "ChimeHQ/MeterReporter": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"94b09d0b34038359442704926fff42812b273a76797a040dddb6db387132cb57\"",
+    "fetched": "2026-04-07T19:32:37Z",
+    "filename": "README.md",
     "size": 3569
   },
   "ChimeHQ/ProcessEnv": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"27e8ff01f4047b5f287a60406c44261bbc6b3e2ec2889cce3b2fa90603116593\"",
+    "fetched": "2026-04-07T19:34:07Z",
+    "filename": "README.md",
     "size": 2391
   },
   "ChimeHQ/Rearrange": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7005b6cdb42f81e28233f6ad73f1a365502b329f64b365d03ab7c0cc74f91a73\"",
+    "fetched": "2026-04-07T19:34:27Z",
+    "filename": "README.md",
     "size": 3437
   },
   "ChimeHQ/ThemePark": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7233ed17c67ca087c7e2fa1d7c083d6984475e242619963350ca69e2b4c7a753\"",
+    "fetched": "2026-04-07T19:35:40Z",
+    "filename": "README.md",
     "size": 4514
   },
   "ChimeHQ/WindowTreatment": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"94c2cb9220e4fc5d9c3befc15ee86b7e2ea7371fe2aaae6a4771343bf91b7dcc\"",
+    "fetched": "2026-04-07T19:36:29Z",
+    "filename": "README.md",
     "size": 3747
   },
   "Chocobozzz/PeerTube": {
@@ -619,10 +619,10 @@
     "size": 16648
   },
   "CommunitySolidServer/CommunitySolidServer": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cdc690b205a7d239f4232a635cdb0ced0bfb40546d1d492a1330a751553d1f54\"",
+    "fetched": "2026-04-07T19:30:01Z",
+    "filename": "README.md",
     "size": 5303
   },
   "ConsensusJ/consensusj": {
@@ -672,10 +672,10 @@
     "size": 400478
   },
   "CorsixTH/CorsixTH": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1737a2e08968ab9cb97d9090165f174e5d9df2abb65cc869abaceb9502748f77\"",
+    "fetched": "2026-04-07T19:30:16Z",
+    "filename": "README.md",
     "size": 6725
   },
   "Cosmian/kms": {
@@ -721,10 +721,10 @@
     "size": 35999
   },
   "Cyrix126/gupaxx": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b69182dfab9eef142a377d770f34f46a479dc958f6356b363721ad6f7f2c1dcd\"",
+    "fetched": "2026-04-07T19:31:33Z",
+    "filename": "README.md",
     "size": 7205
   },
   "DLR-SC/repository-synergy": {
@@ -756,17 +756,17 @@
     "size": 2393
   },
   "Dark-Alex-17/managarr": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d2499f470952819e341bc782d27337b8054fa3c90ffac0b70539068bac7cc58b\"",
+    "fetched": "2026-04-07T19:32:14Z",
+    "filename": "README.md",
     "size": 26371
   },
   "DarkPlacesEngine/DarkPlaces": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7abd0d74462d4c43bebcfc412a4838b72c36e0c7ea4242b0b7bae590b31a2772\"",
+    "fetched": "2026-04-07T19:30:23Z",
+    "filename": "README.md",
     "size": 7166
   },
   "DavidDragonsage/FooocusPlus": {
@@ -917,10 +917,10 @@
     "size": 8098
   },
   "Eugeny/tabby": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bcbb65d942e6a7f761b017f417497f7addedd497f650de99e87659b0ede85763\"",
+    "fetched": "2026-04-07T19:35:24Z",
+    "filename": "README.md",
     "size": 58720
   },
   "Evernight/lazy-beancount": {
@@ -931,17 +931,17 @@
     "size": 12611
   },
   "Evidlo/passhole": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0a54989f4d5f44ceccbfa2f7c8089d60d5da097de9938e6211ac51c990c7041e\"",
+    "fetched": "2026-04-07T19:33:52Z",
+    "filename": "README.rst",
     "size": 3280
   },
   "Excision-Mail/Excision-Mail": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0821b646c3617b96896f29688e93fd31ee23cb96bed14bf3eb2aa4bb86d14095\"",
+    "fetched": "2026-04-07T19:30:57Z",
+    "filename": "README.md",
     "size": 5635
   },
   "Exiv2/exiv2": {
@@ -959,17 +959,17 @@
     "size": 5871
   },
   "FaFre/WebLibre": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e997b935c44a136d0c50cd398a531d75df5ea49a4374f5cb95b0da962ec07c77\"",
+    "fetched": "2026-04-07T19:36:27Z",
+    "filename": "README.md",
     "size": 11822
   },
   "FabricLabs/soundtrack": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fa63a51ac884946cf8bab9126efe00c8f2366fb59685483559074804b41ac3ac\"",
+    "fetched": "2026-04-07T19:35:10Z",
+    "filename": "README.md",
     "size": 2396
   },
   "FacilMap/facilmap": {
@@ -994,10 +994,10 @@
     "size": 4506
   },
   "FahrplanDatenGarten/pyhafas": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7b89221f49ebe21d8c0488bdfc2ef6bb3af89576511b3a8422dcf360f1327323\"",
+    "fetched": "2026-04-07T19:34:15Z",
+    "filename": "README.md",
     "size": 2065
   },
   "FalkAlexander/PasswordSafe": {
@@ -1008,10 +1008,10 @@
     "size": 2481
   },
   "FaradayApp/Faraday-android": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"25337b5d72b00d2dba96178f4aae58bf68656f7a30fe6ce68a6efa4c30e3caa2\"",
+    "fetched": "2026-04-07T19:30:59Z",
+    "filename": "README.md",
     "size": 8252
   },
   "FareedKhan-dev/qwen3-MoE-from-scratch": {
@@ -1029,10 +1029,10 @@
     "size": 3013
   },
   "FliegendeWurst/TriliumDroid": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0fbd3b555ef64842388c87aeaae99f3ffe53ef5d9828f6d404f390fab5d49152\"",
+    "fetched": "2026-04-07T19:36:12Z",
+    "filename": "README.md",
     "size": 5973
   },
   "FlightGear/flightgear": {
@@ -1043,10 +1043,10 @@
     "size": 1380
   },
   "ForTheCommunity/TorrentsDigger": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"300a630b40e15002a4e12184798e910a33b2d52bf1be67762862e179ff7081e4\"",
+    "fetched": "2026-04-07T19:35:52Z",
+    "filename": "README.md",
     "size": 4327
   },
   "ForetagInc/alchemy": {
@@ -1096,10 +1096,10 @@
     "size": 7118
   },
   "FuzzrNet/Fuzzr": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2e8bab64fada871c98efb09954ea5e8c1e652d9e4912bb42d72302edab45d91a\"",
+    "fetched": "2026-04-07T19:31:17Z",
+    "filename": "README.md",
     "size": 5629
   },
   "GNOME/geary": {
@@ -1138,10 +1138,10 @@
     "size": 5246
   },
   "GNOME/gnome-shell-extensions": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8d90246e4ebe9d238578a0037a9f1fd4f148aad5024adc94fe0e7137a600f517\"",
+    "fetched": "2026-04-07T19:31:23Z",
+    "filename": "README.md",
     "size": 4535
   },
   "GNOME/gnome-software": {
@@ -1187,10 +1187,10 @@
     "size": 9133
   },
   "GTrunSec/hivebus": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3b45fd0799f585f95b0c9a383dfabadde6d5ea99df05cdbd0c8dcf194f96bf54\"",
+    "fetched": "2026-04-07T19:31:37Z",
+    "filename": "README.md",
     "size": 1391
   },
   "GardensOfKadesh/Homeworld": {
@@ -1257,10 +1257,10 @@
     "size": 2593
   },
   "H2-invent/jitsi-admin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e11a02413e472902efede458c9bea9cb1f643f3b46e556b55de196b1fbb1753d\"",
+    "fetched": "2026-04-07T19:31:56Z",
+    "filename": "README.md",
     "size": 6304
   },
   "HairlessPrimate/ComfyUI-Llama": {
@@ -1292,10 +1292,10 @@
     "size": 2276
   },
   "Half-Shot/matrix-dotnet-sdk": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1c4cb635fcac03dbd56a10c0dca92c867a9331bd14d0e49d185faed99c1638e6\"",
+    "fetched": "2026-04-07T19:32:19Z",
+    "filename": "README.md",
     "size": 1616
   },
   "HarHarLinks/tune-your-chat": {
@@ -1320,10 +1320,10 @@
     "size": 5672
   },
   "HerXayah/Use-Gaming-Tweaks": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5780430061880f5b06bc6791b693cb3a1ad21e97a59364ee2c7960c9fddfcc89\"",
+    "fetched": "2026-04-07T19:36:15Z",
+    "filename": "README.md",
     "size": 18146
   },
   "HeyMegabyte/install.doctor": {
@@ -1348,10 +1348,10 @@
     "size": 7085
   },
   "HoolockLinux/docs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"877cf802b185bfb44bcfb40e9f689736f13235fdc243502b34acd431788a0cb8\"",
+    "fetched": "2026-04-07T19:30:33Z",
+    "filename": "README.md",
     "size": 1480
   },
   "Hostdon/pleroma": {
@@ -1390,10 +1390,10 @@
     "size": 6248
   },
   "IceDBorn/pipewire-screenaudio": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"37adb9f8fab8507c1ddbf2484ba77f39d4fc815580e9da80d3673b99195d0bd4\"",
+    "fetched": "2026-04-07T19:34:01Z",
+    "filename": "README.md",
     "size": 3161
   },
   "IceFireDB/IceFireDB": {
@@ -1404,10 +1404,10 @@
     "size": 11548
   },
   "Icyrockton/MegaVul": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"db26bf1fd312b8bde71842304886fa2eb4397c37e454661f2692b31eb5c1326d\"",
+    "fetched": "2026-04-07T19:32:29Z",
+    "filename": "README.md",
     "size": 10908
   },
   "Igalia/wpe-android": {
@@ -1530,10 +1530,10 @@
     "size": 9026
   },
   "JunkFood02/Seal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d496f6c4becd0835915e9ba56eb3117d0edf248343bf4e0607efbb9df7b86ba4\"",
+    "fetched": "2026-04-07T19:34:51Z",
+    "filename": "README.md",
     "size": 9952
   },
   "JupiterBroadcasting/jupiterbroadcasting.com": {
@@ -1544,10 +1544,10 @@
     "size": 3128
   },
   "KB1RD/matrix-notepad": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5acd7ed0a2cb971dae5cbf407d2785d6cb4e0323a33e7b9353e0d42a89926337\"",
+    "fetched": "2026-04-07T19:32:20Z",
+    "filename": "README.md",
     "size": 5937
   },
   "KB1RD/matrix-pstn-bridge": {
@@ -1586,17 +1586,17 @@
     "size": 6354
   },
   "KDE/kclock": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"465a9226d8292736f25db0ba9105b8b01717e4522fe7269f26fd933fdf1ffcc9\"",
+    "fetched": "2026-04-07T19:31:59Z",
+    "filename": "README.md",
     "size": 4152
   },
   "KDE/kitinerary": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"160704a4ef78c9d87ba47c2be3a46c148ac0904bd914d08520abc223c6245987\"",
+    "fetched": "2026-04-07T19:32:02Z",
+    "filename": "README.md",
     "size": 8859
   },
   "KDE/merkuro": {
@@ -1670,17 +1670,17 @@
     "size": 20539
   },
   "KnugiHK/WhatsApp-Chat-Exporter": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7666483ae9eac36f4efbe189f77c7520f86e9c017dfff3f2594feb1e9c6b6fe8\"",
+    "fetched": "2026-04-07T19:36:28Z",
+    "filename": "README.md",
     "size": 17631
   },
   "Kosmorro/kosmorro": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f11498fb0cdd0cdb6add1724bc9ae8f36518e7de3773f0be0463e4b72beedd68\"",
+    "fetched": "2026-04-07T19:32:03Z",
+    "filename": "README.md",
     "size": 2458
   },
   "Kraftland/portable": {
@@ -1712,10 +1712,10 @@
     "size": 2142
   },
   "LambdaHack/LambdaHack": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cf891c28a4284079c5928d789b76550c98f520e9e6107554fb326d019b1265c3\"",
+    "fetched": "2026-04-07T19:32:03Z",
+    "filename": "README.md",
     "size": 17663
   },
   "LanaLob/algorithm_sveta": {
@@ -1747,10 +1747,10 @@
     "size": 7692
   },
   "LemmyNet/activitypub-federation-rust": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0e684243a6eb5c38eaf880b9a2cff5db2cc86c8a24d1830467e142ec336e0277\"",
+    "fetched": "2026-04-07T19:28:50Z",
+    "filename": "README.md",
     "size": 3492
   },
   "LemmyNet/jerboa": {
@@ -1817,10 +1817,10 @@
     "size": 6467
   },
   "LinwoodDev/Flow": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"00f8b5559b004254e0abb7ad65fae2b0ca57e5e406364e4e817cd3ebdc4b945e\"",
+    "fetched": "2026-04-07T19:31:08Z",
+    "filename": "README.md",
     "size": 6350
   },
   "LinwoodDev/Setonix": {
@@ -1971,17 +1971,17 @@
     "size": 15208
   },
   "MasterKia/PersianBlocker": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5788316578eb44f39061eaa71ccea686d7c904541f14afa1084d98f73f292939\"",
+    "fetched": "2026-04-07T19:33:55Z",
+    "filename": "README.md",
     "size": 14083
   },
   "Materialious/Materialious": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b769d479a6bd0f2125ad702d10c8e752d9bbe83bedaccc2b1cdde8fc940ba114\"",
+    "fetched": "2026-04-07T19:32:16Z",
+    "filename": "README.md",
     "size": 8084
   },
   "MatinSenPai/Zanjir": {
@@ -2013,10 +2013,10 @@
     "size": 2044
   },
   "MeteorClientPlus/MeteorPlus": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f145ab17fb34bf7e624da9955b32f24a2fb6c742e55725b44d0b32caf11eccf8\"",
+    "fetched": "2026-04-07T19:32:37Z",
+    "filename": "README.md",
     "size": 6487
   },
   "Metron-Project/metron": {
@@ -2083,10 +2083,10 @@
     "size": 3814
   },
   "MozillaSecurity/ffpuppet": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4accb8127b9884041729178167a760cd6ec31c5c8c4a5d60b439c3b685168deb\"",
+    "fetched": "2026-04-07T19:31:01Z",
+    "filename": "README.md",
     "size": 2872
   },
   "MozillaSecurity/fuzzfetch": {
@@ -2153,10 +2153,10 @@
     "size": 3911
   },
   "NaufraZapp/Naufrabot-base": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0038fd8cebf4d5c09baf281d5adddd6e3e0d36659ba722742d0d5ac9db636e19\"",
+    "fetched": "2026-04-07T19:33:00Z",
+    "filename": "README.md",
     "size": 2379
   },
   "Naxdy/niri": {
@@ -2174,10 +2174,10 @@
     "size": 6943
   },
   "NeoApplications/Neo-Store": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0ba288aa8175db33798a13b68c6e7b86bca3399fd86038ff0ab3273d2a8ed32e\"",
+    "fetched": "2026-04-07T19:33:02Z",
+    "filename": "README.md",
     "size": 6977
   },
   "NetBSD/pkgsrc": {
@@ -2335,10 +2335,10 @@
     "size": 15080
   },
   "Nokse22/ascii-draw": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ffcb23ed828ce9d8c61a18f9a28b465b78b80c085a42473c2a757b03570c8880\"",
+    "fetched": "2026-04-07T19:29:07Z",
+    "filename": "README.md",
     "size": 5766
   },
   "Nokse22/high-tide": {
@@ -2426,10 +2426,10 @@
     "size": 11693
   },
   "OpenHV/OpenHV": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3c0a6c9cf9396ac92718d475d095cdab987cd573bab8a575b96eb7d325d4f603\"",
+    "fetched": "2026-04-07T19:33:15Z",
+    "filename": "README.md",
     "size": 3728
   },
   "OpenMS/OpenMS": {
@@ -2440,10 +2440,10 @@
     "size": 7321
   },
   "OpenMandrivaAssociation/distribution": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"eb11a7b7659999ac12570403cfe4598420a4512731937f9085a0ca589ff684c4\"",
+    "fetched": "2026-04-07T19:30:30Z",
+    "filename": "README.md",
     "size": 2667
   },
   "OpenPawz/openpawz": {
@@ -2496,10 +2496,10 @@
     "size": 4464
   },
   "OpenVoiceOS/ovos-docker": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f21831634e6473c0950aa1458d86663204bba98290f7783480bd1bbcf4fd08f5\"",
+    "fetched": "2026-04-07T19:33:43Z",
+    "filename": "README.md",
     "size": 3909
   },
   "OxiDD/oxidd": {
@@ -2601,10 +2601,10 @@
     "size": 3724
   },
   "PrismLauncher/PrismLauncher": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"454ce8b996cbdcc88bb5104e5b545aac15b2c6b636abe3af3338c01d1ffd01c5\"",
+    "fetched": "2026-04-07T19:34:06Z",
+    "filename": "README.md",
     "size": 6972
   },
   "PrivacidadeDigital/Privacidade.Digital": {
@@ -2615,10 +2615,10 @@
     "size": 3253
   },
   "ProfessorManhattan/rss-worker": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ccf19d626c4bfbe770e89d4ad6f9106061c2f3df7fd4b2b2cb9b4d32448b3f25\"",
+    "fetched": "2026-04-07T19:34:45Z",
+    "filename": "README.md",
     "size": 7019
   },
   "ProtonMail/rust-mail": {
@@ -2685,10 +2685,10 @@
     "size": 3037
   },
   "RDFLib/rdflib": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3f391a6fd64b92987aa01a136278755f1c77e44279f6f4deb90172119e50b4ab\"",
+    "fetched": "2026-04-07T19:34:26Z",
+    "filename": "README.md",
     "size": 10614
   },
   "RHVoice/RHVoice": {
@@ -2720,10 +2720,10 @@
     "size": 1526
   },
   "Rafostar/clapper": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"75f9c64e28a7f3030831c67bd3f15c10c70f29333b2289ea4616604e82aaf6e3\"",
+    "fetched": "2026-04-07T19:29:57Z",
+    "filename": "README.md",
     "size": 5011
   },
   "RebekkaMa/android-sms-gateway-server": {
@@ -2748,17 +2748,17 @@
     "size": 5203
   },
   "Restioson/xtra": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7fa73cfcb397a00f0bd4c03bfa22668983a5dfcc75b219efa5e5b516b9f8a07e\"",
+    "fetched": "2026-04-07T19:36:33Z",
+    "filename": "README.md",
     "size": 3883
   },
   "RetroDECK/RetroDECK": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"380a5b8dd793099a01662587cc496d9bd638ab3c34bebddbfcf8a74ee0f17d15\"",
+    "fetched": "2026-04-07T19:34:37Z",
+    "filename": "README.md",
     "size": 5155
   },
   "RevenantX/LiteNetLib": {
@@ -2860,10 +2860,10 @@
     "size": 3473
   },
   "SamR1/FitTrackee": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b123277fb36edf78c1412f5bb3a9988446c4e226f88b8092d3dbbbe76de473e0\"",
+    "fetched": "2026-04-07T19:31:05Z",
+    "filename": "README.md",
     "size": 4474
   },
   "Sanidhya30/Jellyfin-Newsletter": {
@@ -2944,31 +2944,31 @@
     "size": 17703
   },
   "SentryPeer/SentryPeer": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1fec090a0e358a293998ec1c7c06a6a2a4a130a22c89eb3ed713a8f692cc173b\"",
+    "fetched": "2026-04-07T19:34:53Z",
+    "filename": "README.md",
     "size": 31493
   },
   "SentryShot/sentryshot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"15019cb83f8f4c21bbc3d47023bd76227f23bdef406aebfb67fdf33d07c41ff7\"",
+    "fetched": "2026-04-07T19:34:53Z",
+    "filename": "README.md",
     "size": 1443
   },
   "SeppPenner/SparkplugNet": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a3c8199abeaf34c71318e3d028154281540bd04af79736a2b6a3e4d98bc169dc\"",
+    "fetched": "2026-04-07T19:35:11Z",
+    "filename": "README.md",
     "size": 10890
   },
   "Sesu8642/FeudalTactics": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0a14cb9b1801fe3cf0e11bb2634f03bd3a92d84bca18b9fc78ddecb36a88943f\"",
+    "fetched": "2026-04-07T19:31:01Z",
+    "filename": "README.md",
     "size": 5185
   },
   "ShakataGaNai/awesome-meshtastic": {
@@ -2986,10 +2986,10 @@
     "size": 34346
   },
   "SilkMC/silk": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5d0c7aba37db27f5f471259c95773452ba262673d6517d1052eba1cf78ddebea\"",
+    "fetched": "2026-04-07T19:35:00Z",
+    "filename": "readme.md",
     "size": 1429
   },
   "SimoMay/find-oss": {
@@ -3000,10 +3000,10 @@
     "size": 138935
   },
   "SkyUOI/OurChat": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"08c79e0f024d67da95e0cc13a47a2fb8ca28bbca84d7b53cf4e42d232ec420a5\"",
+    "fetched": "2026-04-07T19:33:42Z",
+    "filename": "README.md",
     "size": 4894
   },
   "Skylar-Tech/node-red-contrib-matrix-chat": {
@@ -3021,10 +3021,10 @@
     "size": 1310
   },
   "Smithay/smithay": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"32f63798dc6325949f0add33166e2087e72e05491cc9f9103debbf698424b4d8\"",
+    "fetched": "2026-04-07T19:35:06Z",
+    "filename": "README.md",
     "size": 4627
   },
   "Smithay/smithay-clipboard": {
@@ -3056,17 +3056,17 @@
     "size": 5652
   },
   "SolariusScorch/XComFiles": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1ae06779a6e9aecceca7d03f0d5961fd228631b6c903a0c62dd81c1984ddc4f1\"",
+    "fetched": "2026-04-07T19:36:32Z",
+    "filename": "README.md",
     "size": 3625
   },
   "SolidOS/solidos": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b037d5d0dd1aba4953f0432d0d777f9b824a4081068cbe9161f7094e7769ce41\"",
+    "fetched": "2026-04-07T19:35:08Z",
+    "filename": "README.md",
     "size": 28166
   },
   "Sonic-DE/sonic-win": {
@@ -3077,10 +3077,10 @@
     "size": 3854
   },
   "Sorunome/miitrix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9296431d4b22653fca571df86618cedd70406dee3b9f89efe9d084e93b4b8f6f\"",
+    "fetched": "2026-04-07T19:32:38Z",
+    "filename": "README.md",
     "size": 471
   },
   "Sorunome/mx-puppet-bridge": {
@@ -3091,10 +3091,10 @@
     "size": 5151
   },
   "Sorunome/mx-puppet-instagram": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0668d957d444b4d54fcc9c1077c00a7b30e108402cc2853cb06fd47e2c2b8147\"",
+    "fetched": "2026-04-07T19:33:00Z",
+    "filename": "README.md",
     "size": 2211
   },
   "Soundux/Soundux": {
@@ -3133,10 +3133,10 @@
     "size": 1830
   },
   "Spotifyd/spotifyd": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"729f88600e98231509a656e657205d7b382e106b29de9cb2f18976cae0763ff9\"",
+    "fetched": "2026-04-07T19:35:12Z",
+    "filename": "README.md",
     "size": 1944
   },
   "Start9Labs/start-os": {
@@ -3175,10 +3175,10 @@
     "size": 31259
   },
   "TachibanaGeneralLaboratories/download-navi": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"77669cb1e3e400e97df0083425195fc63f94bd655a449b5d44a8ad2edc89e383\"",
+    "fetched": "2026-04-07T19:30:34Z",
+    "filename": "README.md",
     "size": 5040
   },
   "Teahouse-Studios/akari-bot": {
@@ -3196,10 +3196,10 @@
     "size": 27988
   },
   "TeamNewPipe/NewPipe": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0ed7cf63d104f59ca72af5bcf1a52cd06a20e5daca414138219f34ab83ea30ac\"",
+    "fetched": "2026-04-07T19:33:04Z",
+    "filename": "README.md",
     "size": 14354
   },
   "TeamPiped/Piped": {
@@ -3210,10 +3210,10 @@
     "size": 8414
   },
   "Telecominfraproject/oopt-gnpy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4b4c82b3290841831d1f3bde51c9e534d726a69fff592ce47140cc1b38a3fe87\"",
+    "fetched": "2026-04-07T19:33:13Z",
+    "filename": "README.md",
     "size": 3189
   },
   "Telegram-FOSS-Team/Telegram-FOSS": {
@@ -3238,17 +3238,17 @@
     "size": 5495
   },
   "TencentYoutuResearch/EnConda-Bench": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"eacaba2f2bb0bbe223012dcfc8bff8c71cf622e833fbc8cf0fd0a19d701940b5\"",
+    "fetched": "2026-04-07T19:30:46Z",
+    "filename": "README.md",
     "size": 7381
   },
   "Tenkiv/physikal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7848fcc356a498cf7476c17e307ec95de729cd8a98eaf729962e66fb09c5497f\"",
+    "fetched": "2026-04-07T19:33:56Z",
+    "filename": "README.md",
     "size": 2727
   },
   "The-LainOS-Project/LainOS": {
@@ -3315,10 +3315,10 @@
     "size": 23011
   },
   "TheEvilSkeleton/Upscaler": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"dcdbd234ac3c84c009cfc29eb5dc474c717037efa1a73dc3e82d8eaf5efc73ea\"",
+    "fetched": "2026-04-07T19:36:15Z",
+    "filename": "README.md",
     "size": 1238
   },
   "TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection": {
@@ -3350,10 +3350,10 @@
     "size": 16660
   },
   "Tooloop/Tooloop-OS": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d3d09b81fb5dbc191202d0ae1be02aabe6706c92173e2c5c39b5dde5a1e2f4a4\"",
+    "fetched": "2026-04-07T19:35:51Z",
+    "filename": "README.md",
     "size": 2947
   },
   "TrackerControl/tracker-control-android": {
@@ -3427,10 +3427,10 @@
     "size": 9129
   },
   "VHDL-LS/rust_hdl_vscode": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"98f471e9f968837dd3f661fa0c2e7d67d7770b8a6f29c6773f213562de2d6313\"",
+    "fetched": "2026-04-07T19:34:46Z",
+    "filename": "README.md",
     "size": 3715
   },
   "Vortriz/scientific-env": {
@@ -3525,10 +3525,10 @@
     "size": 10782
   },
   "Wilfred/difftastic": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4ff90ac2e788ccd6349170593c32be0a53ac332a0974520053849716be6a1644\"",
+    "fetched": "2026-04-07T19:30:27Z",
+    "filename": "README.md",
     "size": 6987
   },
   "Windows81/Roblox-Freedom-Distribution": {
@@ -3546,10 +3546,10 @@
     "size": 2513
   },
   "WofWca/jumpcutter": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e746589faad8a83763abab127170a48bcf0417c989d53834882f602fcc11d00b\"",
+    "fetched": "2026-04-07T19:31:58Z",
+    "filename": "README.md",
     "size": 18290
   },
   "WolfIcefang/dactyl-chimera-keyboard": {
@@ -3560,17 +3560,17 @@
     "size": 7384
   },
   "WrenSecurity/wrenidm": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"774c645d2fa7b5024b21a56bcc6c6ea766589ecb559579eb1089ea8bc44def14\"",
+    "fetched": "2026-04-07T19:36:31Z",
+    "filename": "README.md",
     "size": 5228
   },
   "X11Libre/ports-gentoo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"669efe6f11dddffafdbc59012938d749e14cd0d1efb37f1c1c997fd9a0f605f5\"",
+    "fetched": "2026-04-07T19:34:05Z",
+    "filename": "README.md",
     "size": 7240
   },
   "X11Libre/xserver": {
@@ -3602,17 +3602,17 @@
     "size": 10496
   },
   "Xuanwo/gg": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"649985f509af05f5c02fd369f1076f136b7b448944063819d40a20434f3c42ec\"",
+    "fetched": "2026-04-07T19:31:18Z",
+    "filename": "README.md",
     "size": 2719
   },
   "Xyntopia/taskyon": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b3dead7ee2661f1805be9b9f8b98ff0e7bc6bc9bbaea9808d6b70b346dd98de2\"",
+    "fetched": "2026-04-07T19:35:35Z",
+    "filename": "README.md",
     "size": 7874
   },
   "a-kenji/flake-edit": {
@@ -3679,10 +3679,10 @@
     "size": 7024
   },
   "acaloiaro/neoq": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"648899829358636a190c9a3c9699e49450fc778d5b9cafab6d9d093790f684cc\"",
+    "fetched": "2026-04-07T19:33:03Z",
+    "filename": "README.md",
     "size": 6093
   },
   "acelinkio/argocd-homelab": {
@@ -3757,17 +3757,17 @@
     "size": 3508
   },
   "ahdinosaur/blinksy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"66e284113bbc4b0928e05881ba5efa5f7fb10348d7f59386fc99fcaf03304e3f\"",
+    "fetched": "2026-04-07T19:29:21Z",
+    "filename": "README.md",
     "size": 19705
   },
   "ahdinosaur/rimu": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2314a0b4d0d235b6e1ad3b34da9605c350b836ce2dca5f2afc2f30888a91cd7a\"",
+    "fetched": "2026-04-07T19:34:38Z",
+    "filename": "README.md",
     "size": 5708
   },
   "aiida-vasp/aiida-vasp": {
@@ -3792,10 +3792,10 @@
     "size": 6323
   },
   "aio-libs/frozenlist": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"725224d031832f916c4506af9d0e7c78b54617f73918e4b18bacd9c36e67cfa4\"",
+    "fetched": "2026-04-07T19:31:14Z",
+    "filename": "README.rst",
     "size": 3461
   },
   "aio-libs/multidict": {
@@ -3873,10 +3873,10 @@
     "size": 16349
   },
   "almindor/mipidsi": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b4ffffe7e73929a5e75d3b3043dc19b488e964109a61144a959ceb1df79d4ba6\"",
+    "fetched": "2026-04-07T19:32:53Z",
+    "filename": "README.md",
     "size": 3114
   },
   "alpine-collective/awesome": {
@@ -3908,10 +3908,10 @@
     "size": 5361
   },
   "amaranth-lang/amaranth": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"34c11f6aac3eea8c4e75dcffd40ac478345146f826bfefaeda70f9bb6d6d5e9d\"",
+    "fetched": "2026-04-07T19:28:53Z",
+    "filename": "README.md",
     "size": 3509
   },
   "amber-lang/amber": {
@@ -3950,10 +3950,10 @@
     "size": 2526
   },
   "ananthakumaran/paisa": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3056882ba89bd7b4846a660a475fb350f4d684aecb03125511c202d980193013\"",
+    "fetched": "2026-04-07T19:33:43Z",
+    "filename": "README.md",
     "size": 786
   },
   "andir/npins": {
@@ -3971,10 +3971,10 @@
     "size": 14176
   },
   "anoadragon453/matrix-reminder-bot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"11889faaa7c52c343e1a8297fa78b2c5c570f43faaa1a202b729fbee5fe4cfcf\"",
+    "fetched": "2026-04-07T19:32:28Z",
+    "filename": "README.md",
     "size": 7764
   },
   "ansible-collections/ansible.utils": {
@@ -4017,10 +4017,10 @@
     "size": 9720
   },
   "ansible-collections/news-for-maintainers": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"010c73dc3d80cd12a8171bd1bd31e6f642b8e7632fb8f3348ad328d4a43226a1\"",
+    "fetched": "2026-04-07T19:33:04Z",
+    "filename": "README.md",
     "size": 2773
   },
   "ansible-community/ansible-build-data": {
@@ -4038,17 +4038,17 @@
     "size": 1477
   },
   "ansible-community/antsibull-build": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"98661b3a4ba4d35b63d0a9b8a76f04dded8e3ba02e900d41306bab9a239634b8\"",
+    "fetched": "2026-04-07T19:28:59Z",
+    "filename": "README.md",
     "size": 7251
   },
   "ansible-community/antsibull-changelog": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"80f627627debc5455b776673bacb7963882c1bbc2caec06b03e8880bba693e54\"",
+    "fetched": "2026-04-07T19:29:00Z",
+    "filename": "README.md",
     "size": 5864
   },
   "ansible-community/antsibull-docs": {
@@ -4147,10 +4147,10 @@
     "size": 3668
   },
   "aptly-dev/aptly": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ca43e8abd3a6f70888604c3a128151dbac596e9c3bcb375c50709e0840b73faf\"",
+    "fetched": "2026-04-07T19:29:04Z",
+    "filename": "README.rst",
     "size": 5058
   },
   "arbor-sim/arbor": {
@@ -4224,10 +4224,10 @@
     "size": 5810
   },
   "arcuru/pokem": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fb24403fa6cd63648805dc5f5b04dffdfb401e77ccf21df73aea1e0f3b80f1f9\"",
+    "fetched": "2026-04-07T19:34:04Z",
+    "filename": "README.md",
     "size": 11079
   },
   "arendst/Tasmota": {
@@ -4308,10 +4308,10 @@
     "size": 23013
   },
   "asciinema/asciinema": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c230961e376d0ee3fb33ce15d85f7b6ac7e6e97ad3ba594e6a19cfeac45845bd\"",
+    "fetched": "2026-04-07T19:29:08Z",
+    "filename": "README.md",
     "size": 4882
   },
   "ashos/ashos": {
@@ -4357,17 +4357,17 @@
     "size": 180778
   },
   "authelia/authelia": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d9cffa777f037cb9bd474b79c2004eabea4f210430962a4494e22e6f9dc5ea4d\"",
+    "fetched": "2026-04-07T19:29:09Z",
+    "filename": "README.md",
     "size": 74474
   },
   "authelia/chartrepo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"528ce50c04faf28ddf9697d18c206a4e070202eadd306ea81bd39e479d728a7b\"",
+    "fetched": "2026-04-07T19:29:52Z",
+    "filename": "README.md",
     "size": 2167
   },
   "avanc/photOS": {
@@ -4462,10 +4462,10 @@
     "size": 4666
   },
   "basicswap/basicswap": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b5131c9fee13dbe82a735b56a837cbba090e615edd1aec7c990a9cc111628b3f\"",
+    "fetched": "2026-04-07T19:29:17Z",
+    "filename": "README.md",
     "size": 5266
   },
   "baskerville/bspwm": {
@@ -4476,10 +4476,10 @@
     "size": 9565
   },
   "bayang/jelu": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7ea8faed4b04c35bc0d5d596f2ba50d71ef69dbb6551e0f9bd596550be1bdf96\"",
+    "fetched": "2026-04-07T19:31:53Z",
+    "filename": "README.md",
     "size": 6598
   },
   "bcosca/fatfree": {
@@ -4497,17 +4497,17 @@
     "size": 4419
   },
   "beemdevelopment/Aegis": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4d6f3802c0552a555919a80d5d7a9bdd7e0dfefc1d4e65f49a1c6d618d00dbb3\"",
+    "fetched": "2026-04-07T19:28:50Z",
+    "filename": "README.md",
     "size": 7639
   },
   "beeper/bridge-manager": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9caccc6d6d9df0117239c102a5c8cb1c91d6fafd57736653d6935aa881f277e0\"",
+    "fetched": "2026-04-07T19:29:33Z",
+    "filename": "README.md",
     "size": 9561
   },
   "benkuly/matrix-sms-bridge": {
@@ -4539,14 +4539,17 @@
     "size": 11
   },
   "better-rs/annotated-rs": {
-    "etag": "\"b8d587e313dc1be9b065cb816b5b425157f8b581\"",
-    "sha": "b8d587e313dc1be9b065cb816b5b425157f8b581"
+    "branch": "master",
+    "etag": "\"d4611d53f4662ec146f6910c2ec7432ca02dc9ce2d8bbf1d5767e47a54640b8c\"",
+    "fetched": "2026-04-07T19:28:59Z",
+    "filename": "Readme.md",
+    "size": 3599
   },
   "beyondstorage/go-storage": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fc9f807d8002af5b9322bfc4c44046d258dfb9e580f70dbfd04b2c500358cd0f\"",
+    "fetched": "2026-04-07T19:31:25Z",
+    "filename": "README.md",
     "size": 11959
   },
   "bilbilak/treegen": {
@@ -4557,10 +4560,10 @@
     "size": 3688
   },
   "bilelmoussaoui/flatpak-vscode": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4125a1e87976295360ea1ebc585747480ed594036f483dba0820cf6586f2476c\"",
+    "fetched": "2026-04-07T19:31:06Z",
+    "filename": "README.md",
     "size": 3307
   },
   "binwiederhier/ntfy": {
@@ -4585,17 +4588,17 @@
     "size": 8959
   },
   "biomejs/gritql": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1350a10346e300bb203e513998176afbcfa990c965a5dd89508f68dfe8a19f50\"",
+    "fetched": "2026-04-07T19:31:31Z",
+    "filename": "README.md",
     "size": 5529
   },
   "bisq-network/bisq-website": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"deceed55e4498fd220b8d8eccf2efa913f4e9cdc2eea8e4223129382d9c3d056\"",
+    "fetched": "2026-04-07T19:29:18Z",
+    "filename": "README.md",
     "size": 3976
   },
   "bisq-network/bisq2": {
@@ -4606,10 +4609,10 @@
     "size": 2778
   },
   "bitbetterde/Threematrix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f5bb3d968325a2f1d7f2e7ffe0211b3c0b926a0058743272d7aee9d36476b110\"",
+    "fetched": "2026-04-07T19:35:43Z",
+    "filename": "README.md",
     "size": 7344
   },
   "bitcoinj/bitcoinj": {
@@ -4624,10 +4627,10 @@
     "size": 18008
   },
   "bitfireAT/webdav-push": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c682c4f2bb3d7aea2814e164553cc9146433ab4654d44f0e59def76c046710f2\"",
+    "fetched": "2026-04-07T19:36:25Z",
+    "filename": "README.md",
     "size": 5020
   },
   "bkuhlmann/mac_os-config": {
@@ -4649,10 +4652,10 @@
     "size": 9245
   },
   "blaggacao/frappix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2dc1768e1bcbfcabb9fa4162b02d9c7af89abd11fa00f086d11e8e8ed9991adf\"",
+    "fetched": "2026-04-07T19:31:10Z",
+    "filename": "README.md",
     "size": 2267
   },
   "blckswmngbrd/Dempster-Shafer-Trading-Algo": {
@@ -4691,10 +4694,10 @@
     "size": 2483
   },
   "bnjbvr/cargo-machete": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e38b4767de5255ffe6d03adc1f5062910860d57514b3fffcecc6888cc1649e53\"",
+    "fetched": "2026-04-07T19:29:42Z",
+    "filename": "README.md",
     "size": 4628
   },
   "bnjbvr/trinity": {
@@ -4712,10 +4715,10 @@
     "size": 4546
   },
   "boa-dev/boa": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d3e227eb5aadb544334c176160ec990df5ce6715e2f9e6146a07d257e0e0dc87\"",
+    "fetched": "2026-04-07T19:29:28Z",
+    "filename": "README.md",
     "size": 7593
   },
   "boa-dev/temporal": {
@@ -4768,10 +4771,10 @@
     "size": 1762
   },
   "bragefuglseth/keypunch": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"846ffb487b9132f5efc3dc8da2c29111b5488d32d5b31c005f583301fa3aa112\"",
+    "fetched": "2026-04-07T19:32:01Z",
+    "filename": "README.md",
     "size": 4145
   },
   "brainstorm/bbtrackball-rs": {
@@ -4789,10 +4792,10 @@
     "size": 9407
   },
   "breezy-team/breezy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2862ab61eb0a8035e171d75ad3eb2a194bd8acd1f5599a718bd61d00a04e022e\"",
+    "fetched": "2026-04-07T19:29:32Z",
+    "filename": "README.rst",
     "size": 2420
   },
   "breezy-weather/breezy-weather": {
@@ -4817,10 +4820,10 @@
     "size": 1639
   },
   "bright/zk-snarks-with-substrate": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e04c50cc9f1d4b54034733d031c499db4deb34f237846278c180d5fdfd36807d\"",
+    "fetched": "2026-04-07T19:36:44Z",
+    "filename": "README.md",
     "size": 9901
   },
   "brndnmtthws/conky": {
@@ -4838,17 +4841,17 @@
     "size": 8793
   },
   "brndnmtthws/thetagang": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9c68b20f0cb1c3e6b600ce1cbc2c1bcd46f80af9681cc66b00d37a7592c2511a\"",
+    "fetched": "2026-04-07T19:35:41Z",
+    "filename": "README.md",
     "size": 24229
   },
   "bsd-ac/wayland-desktop": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cb7923d30e446628618aff8356312a134b69b842247ba3e047c65d77b45ccd47\"",
+    "fetched": "2026-04-07T19:36:24Z",
+    "filename": "README.md",
     "size": 1664
   },
   "btcpay-monero/btcpayserver-monero-plugin": {
@@ -4877,10 +4880,10 @@
     "sha": "a46a3a01e3bb067deb9b46a5af789b3c074f87fd"
   },
   "bugzilla/harmony": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0ea1779dc3be65500ab23acfe53352913cf1446ca786d9d783b6f2d26dac0ff4\"",
+    "fetched": "2026-04-07T19:31:34Z",
+    "filename": "README.md",
     "size": 2369
   },
   "bunturx/Awesome-Blockchain-Security": {
@@ -4888,10 +4891,10 @@
     "sha": "a95b214eb2607eb1e9e8da276ec8865570751c96"
   },
   "cachix/cachix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"09805bf39ef0356700147025fc6ffd231270495dc5bf80934e5fe7d3730d4751\"",
+    "fetched": "2026-04-07T19:29:34Z",
+    "filename": "README.md",
     "size": 3631
   },
   "caliwyr/Software": {
@@ -4944,10 +4947,10 @@
     "size": 11872
   },
   "canonical/operator": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3f8694e3221a8e2dea31b5c0164a41c75039c63c6c01bd6690dc29efd856c811\"",
+    "fetched": "2026-04-07T19:33:17Z",
+    "filename": "README.md",
     "size": 5929
   },
   "canonical/rockcraft": {
@@ -4972,10 +4975,10 @@
     "size": 3459
   },
   "capnproto/go-capnp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"75baae96419a1a3a9ae769acc55dbb75836145944cbd28348da7fe66d6862206\"",
+    "fetched": "2026-04-07T19:31:24Z",
+    "filename": "README.md",
     "size": 2856
   },
   "capy-ui/capy": {
@@ -4993,10 +4996,10 @@
     "size": 11409
   },
   "cargo-generate/cargo-generate": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"012cdd61756556d15001bafe23d504f0da8ed85ead465642a33d93fce195ebc9\"",
+    "fetched": "2026-04-07T19:29:41Z",
+    "filename": "README.md",
     "size": 3402
   },
   "cartesapp/cartes": {
@@ -5049,17 +5052,17 @@
     "size": 11183
   },
   "celzero/rethink-app": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0240fabdcee4b36bcd387889fc437ce1dcc270e972462bef63b3668724bf1b76\"",
+    "fetched": "2026-04-07T19:34:36Z",
+    "filename": "README.md",
     "size": 14948
   },
   "cemu-project/Cemu": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1be8a1009797f808dedee2173e1bee1d274fab4dac17b22f6700f24a90f02688\"",
+    "fetched": "2026-04-07T19:29:51Z",
+    "filename": "README.md",
     "size": 3503
   },
   "cfengine/masterfiles": {
@@ -5091,17 +5094,17 @@
     "size": 5913
   },
   "cherrypy/cheroot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"13dd8709aa959c64aee5dcf194229ccd47ae2406f677396f221b61390ddd76c1\"",
+    "fetched": "2026-04-07T19:29:55Z",
+    "filename": "README.rst",
     "size": 4156
   },
   "chewing/libchewing": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d76594dc698552b7f780b9dfe2f1319ed123b5f24ee2fd713cb2760878cfce9e\"",
+    "fetched": "2026-04-07T19:32:05Z",
+    "filename": "README.md",
     "size": 14039
   },
   "chipsalliance/chisel": {
@@ -5207,10 +5210,10 @@
     "size": 16416
   },
   "codegouvfr/catalogi": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"20b7a41d299021f2b5ea3a0eb363b84b2cddd09f6d0c59535d7b5be4a29697be\"",
+    "fetched": "2026-04-07T19:29:51Z",
+    "filename": "README.md",
     "size": 1765
   },
   "codehag/compiler-compiler-dev": {
@@ -5340,10 +5343,10 @@
     "size": 3567
   },
   "crazy-max/diun": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d79c8c7aa00abfbfc29b47aff7d8b38274430f6d347e25bea866655a4c7882c6\"",
+    "fetched": "2026-04-07T19:30:31Z",
+    "filename": "README.md",
     "size": 2968
   },
   "cri-o/cri-o": {
@@ -5354,10 +5357,10 @@
     "size": 16491
   },
   "crnlc/PlayHide": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f9e6f27ca569b486148689cb249b97f53f07b199004c00ff13c56dee0843e911\"",
+    "fetched": "2026-04-07T19:34:02Z",
+    "filename": "README.md",
     "size": 4397
   },
   "croqaz/awesome-decentralized": {
@@ -5368,10 +5371,10 @@
     "size": 19335
   },
   "cross-rs/cross": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"26390e43e3c16fa12366c80a982116d03c26d798579f5287b1079331e498c55b\"",
+    "fetched": "2026-04-07T19:30:17Z",
+    "filename": "README.md",
     "size": 16146
   },
   "cross-rs/cross-toolchains": {
@@ -5396,10 +5399,10 @@
     "size": 2932
   },
   "cupy/cupy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"408eee74399b3669f42d1dcec8de3986984c6e824c1557b53fe22f78dfa19d4a\"",
+    "fetched": "2026-04-07T19:30:20Z",
+    "filename": "README.md",
     "size": 6444
   },
   "cyanreg/avtransport": {
@@ -5431,10 +5434,10 @@
     "size": 10413
   },
   "cylc/cylc-flow": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"95d0a6e97c52d82fc9c1b47a1c4dbbe6ce2009f47babbbb4cc055f53695462d5\"",
+    "fetched": "2026-04-07T19:30:22Z",
+    "filename": "README.md",
     "size": 5208
   },
   "cylc/cylc-ui": {
@@ -5459,17 +5462,17 @@
     "size": 40721
   },
   "dani-garcia/bw_web_builds": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"24ce91af2dee578f7e3ec557ec3336be81f593b188411e01c8e5457551cfc649\"",
+    "fetched": "2026-04-07T19:29:33Z",
+    "filename": "README.md",
     "size": 6571
   },
   "dani-garcia/vaultwarden": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"50f9eaca05e7d56c5431fb8abcf25bade186ff9184e0980d678ba99a6bddee11\"",
+    "fetched": "2026-04-07T19:36:16Z",
+    "filename": "README.md",
     "size": 11097
   },
   "danilw/GLSL-howto": {
@@ -5480,10 +5483,10 @@
     "size": 8352
   },
   "danilw/GPU-my-list-of-bugs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9fb18ceab107f732c676b0de53ed92ca33ec00b5d7c12c8b5cc2fe5559282c74\"",
+    "fetched": "2026-04-07T19:31:29Z",
+    "filename": "README.md",
     "size": 33962
   },
   "danilw/godot-utils-and-other": {
@@ -5501,10 +5504,10 @@
     "size": 9031
   },
   "dankamongmen/notcurses": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7b13b55bb22bcfe0e48b3e4bd23e3edc59cf7bea0827a8d7e8e2fff7a219b1de\"",
+    "fetched": "2026-04-07T19:33:07Z",
+    "filename": "README.md",
     "size": 32925
   },
   "danoon2/Boxedwine": {
@@ -5550,10 +5553,10 @@
     "size": 19551
   },
   "datenanfragen/website": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ffc7535ceb953100a8ede706e8916b77f2b6502b0efb85a44fc0ecbd7f563ad0\"",
+    "fetched": "2026-04-07T19:30:25Z",
+    "filename": "README.md",
     "size": 5463
   },
   "dawndrums/dawndrums": {
@@ -5635,10 +5638,10 @@
     "size": 2212
   },
   "denog/routing-guide": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9415aa7ff0e580be617f1d880a5b0ded5732a32d1445e9a103ba1c0b67144298\"",
+    "fetched": "2026-04-07T19:34:43Z",
+    "filename": "README.md",
     "size": 2027
   },
   "denoland/deno": {
@@ -5712,10 +5715,10 @@
     "size": 11575
   },
   "devture/matrix-corporal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1778a9ffa61410f0dac3e92423754c0a7fd8c6537dc769857d64ec65f8f18ed3\"",
+    "fetched": "2026-04-07T19:32:18Z",
+    "filename": "README.md",
     "size": 6047
   },
   "devture/matrix-synapse-shared-secret-auth": {
@@ -5733,10 +5736,10 @@
     "size": 4773
   },
   "dgreid/crosvm": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"19618a2913ea60df9318bb9a492244e4fa9b05a6f77d41e03541c37f60b68023\"",
+    "fetched": "2026-04-07T19:30:18Z",
+    "filename": "README.md",
     "size": 1417
   },
   "diamondburned/gotk4": {
@@ -5751,10 +5754,10 @@
     "sha": "ec66e51d4ca25bf82274a35d3e420d95fe7d3163"
   },
   "dictation-toolbox/dragonfly": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"acc6156603c5fccd7703a0bb97ae4542a776a2a483de38793515a1559ae4faaf\"",
+    "fetched": "2026-04-07T19:30:35Z",
+    "filename": "README.rst",
     "size": 9205
   },
   "direnv/direnv": {
@@ -5779,17 +5782,17 @@
     "size": 6559
   },
   "divnix/hive": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"eef410b1f7643faba6b3437e7883f43e2e40d522b9e4f1db2ff915c5a61c12cc\"",
+    "fetched": "2026-04-07T19:31:36Z",
+    "filename": "README.md",
     "size": 1345
   },
   "divnix/std": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"71a1efadcd6bf286fdb944930274db479e9fcd496ed1693f99b0ccc4e5fdc238\"",
+    "fetched": "2026-04-07T19:35:14Z",
+    "filename": "README.md",
     "size": 8166
   },
   "dmjio/miso": {
@@ -5800,10 +5803,10 @@
     "size": 25352
   },
   "dnglab/dnglab": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"00c570b7527046d2bf78e1a362be46067b9d4d75996aa431b2ffd0232dfc9e98\"",
+    "fetched": "2026-04-07T19:30:33Z",
+    "filename": "README.md",
     "size": 13058
   },
   "dodona-edu/dolos": {
@@ -5881,31 +5884,31 @@
     "size": 252
   },
   "drogue-iot/drogue-cloud": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c493f74b048adb359b66dea56b5fc6d219d551950948af34c9cf907e37da0152\"",
+    "fetched": "2026-04-07T19:30:35Z",
+    "filename": "README.md",
     "size": 3237
   },
   "drogue-iot/drogue-device": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"839887c8e4eb524a79daacffd3b3bf2862435b6c4cab0ec4b639ccb73653b799\"",
+    "fetched": "2026-04-07T19:30:36Z",
+    "filename": "README.md",
     "size": 3865
   },
   "drogue-iot/embedded-tls": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f564cf66ca605b8f6782da24cbd9276a21316906e5c24dd45b0089ad4c7c4079\"",
+    "fetched": "2026-04-07T19:30:45Z",
+    "filename": "README.md",
     "size": 1862
   },
   "drogue-iot/reqwless": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0f162399a7dd4c3f8156706c82102b36390922c5843c6333792263da18153c95\"",
+    "fetched": "2026-04-07T19:34:36Z",
+    "filename": "README.md",
     "size": 5453
   },
   "droidian/droidian": {
@@ -5937,10 +5940,10 @@
     "size": 5047
   },
   "dtn7/dtn7-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c0d38960b8c9d33c049bf04842715f5198f0a123e25675dd5bdcfe7ac6488292\"",
+    "fetched": "2026-04-07T19:30:36Z",
+    "filename": "README.md",
     "size": 6175
   },
   "duesee/imap-codec": {
@@ -5951,10 +5954,10 @@
     "size": 16472
   },
   "dumux/dumux": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"127420461001531475f7a00872788b18d420d4c6e24e5b86d7670a16703d42b8\"",
+    "fetched": "2026-04-07T19:30:37Z",
+    "filename": "README.md",
     "size": 14913
   },
   "dune3d/dune3d": {
@@ -6021,10 +6024,10 @@
     "size": 2266
   },
   "ecmaos/ecmaos": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"da69a2d7cfeb06c5b0df875dc9b9aa5bb099d91f54482dfee093c14e3e455176\"",
+    "fetched": "2026-04-07T19:30:38Z",
+    "filename": "README.md",
     "size": 24941
   },
   "edkedk99/awesome-hledger": {
@@ -6035,10 +6038,10 @@
     "size": 9160
   },
   "einsteinpy/einsteinpy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9efb5b3a432e6e50a40944b9ead76703ba2f246ef6755fe3eb8097f94ab5e5f9\"",
+    "fetched": "2026-04-07T19:30:39Z",
+    "filename": "README.rst",
     "size": 9191
   },
   "electronic-structure/SIRIUS": {
@@ -6063,10 +6066,10 @@
     "size": 3724
   },
   "element-hq/dendrite": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cc5112ffbc834e0a491fe0f5ea0ff8df7d296774b395048f3ff0dd67b043e091\"",
+    "fetched": "2026-04-07T19:30:25Z",
+    "filename": "README.md",
     "size": 6855
   },
   "element-hq/element-admin": {
@@ -6105,17 +6108,17 @@
     "size": 5008
   },
   "element-hq/element-web": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"96d7d74fb66945f4470cb314712b3558f6ce8d4a5e65f3974665bd9b5b3fd3a8\"",
+    "fetched": "2026-04-07T19:30:42Z",
+    "filename": "README.md",
     "size": 6292
   },
   "element-hq/element-x-android": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"72a6c2630e9df895b677c2272a8d049ce99f097ff6a61475f4ba597ade5d1854\"",
+    "fetched": "2026-04-07T19:30:42Z",
+    "filename": "README.md",
     "size": 8133
   },
   "element-hq/element-x-ios": {
@@ -6161,17 +6164,17 @@
     "size": 64560
   },
   "elm-tooling/elm-language-client-vscode": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1618962e15511d78d639156747a457df33be83d5838e1c0bbba9d05d7f78ec39\"",
+    "fetched": "2026-04-07T19:30:42Z",
+    "filename": "README.md",
     "size": 5285
   },
   "elm-tooling/elm-language-server": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"32b13a3c83ea8e71183b5fa272c376b037434134ebeab2b7baaa29c81551f385\"",
+    "fetched": "2026-04-07T19:30:43Z",
+    "filename": "README.md",
     "size": 22312
   },
   "elm1nst3r/GHOST-osint-crm": {
@@ -6189,45 +6192,45 @@
     "size": 3582
   },
   "emanuele-f/PCAPdroid": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b99d0752734f64ae3327cf9b21983d0612fa37d271b481042dee679c0a78c79d\"",
+    "fetched": "2026-04-07T19:33:53Z",
+    "filename": "README.md",
     "size": 5457
   },
   "emavgl/oinkoin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c6d20c8125cc716bd1a85f3ab3621f3a9a2438b4fe96ad62359cfb2f792308e7\"",
+    "fetched": "2026-04-07T19:33:12Z",
+    "filename": "README.md",
     "size": 7202
   },
   "embassy-rs/ekv": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ee3960e1053c4130590bef50401bcbecfa9755f16425fc7103a74552cc9343a3\"",
+    "fetched": "2026-04-07T19:30:41Z",
+    "filename": "README.md",
     "size": 4674
   },
   "embassy-rs/embassy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d42eb30ea16d254e4bd86e19a8832d3a85740e88b3018052fcecb6ae7f8211ea\"",
+    "fetched": "2026-04-07T19:30:43Z",
+    "filename": "README.md",
     "size": 8772
   },
   "embedded-graphics/embedded-graphics": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"71ac06c1cbb3c76ca430eae2cc92cd94e3bb26bbd4531088d537f517b0eaf7fd\"",
+    "fetched": "2026-04-07T19:30:44Z",
+    "filename": "README.md",
     "size": 16923
   },
   "embedded-graphics/simulator": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1970a8552eed4b06dac0944d684c7752eb36259d7af40c56dfd43c70bd0f6b4a\"",
+    "fetched": "2026-04-07T19:35:02Z",
+    "filename": "README.md",
     "size": 6436
   },
   "emilylange/matrix-sip-bridge": {
@@ -6245,24 +6248,24 @@
     "size": 9940
   },
   "engineerjoe440/ElectricPy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"558d934357a7ef2d2b5291c387010b50a7db613db5ad4a39d1cb20f046cd3da5\"",
+    "fetched": "2026-04-07T19:30:41Z",
+    "filename": "README.md",
     "size": 7827
   },
   "enola-dev/enola": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7775c6a7a99a9c08c66c8cfbdd3602d14eeb340555fb6e0a48917679f2f5b87b\"",
+    "fetched": "2026-04-07T19:30:47Z",
+    "filename": "README.md",
     "size": 4843
   },
   "envmodules/modules": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ef5e1d024b89549f9caeced405a56e504450ec6c654fe0db96f1aee9f44aa4b1\"",
+    "fetched": "2026-04-07T19:32:54Z",
+    "filename": "README.md",
     "size": 8023
   },
   "ephemery-testnet/ephemery-resources": {
@@ -6315,66 +6318,66 @@
     "size": 3887
   },
   "eskerda/pybikes": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"621c4b901016af894ca7cc17b74ee8f86f481c4dfc602a382cf8c730701cc86a\"",
+    "fetched": "2026-04-07T19:34:14Z",
+    "filename": "README.md",
     "size": 5419
   },
   "esoui/esoui": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f065ed0746eb3ec42799845439d8fa1347d1ac85a45c4e8fec335eb64691a6e2\"",
+    "fetched": "2026-04-07T19:30:49Z",
+    "filename": "README.md",
     "size": 759
   },
   "esp-rs/awesome-esp-rust": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"67684fec9135dfe432e654fea55d309c68e08111678f7fbb67c0257edb8fe004\"",
+    "fetched": "2026-04-07T19:29:11Z",
+    "filename": "README.md",
     "size": 15228
   },
   "esp-rs/embedded-svc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cd3f480574400de593ed3b3221d6883e5bff4f56dc9932d65a73c8f24f7a9dac\"",
+    "fetched": "2026-04-07T19:30:45Z",
+    "filename": "README.md",
     "size": 1497
   },
   "esp-rs/embuild": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"01a88861aac91029b2756692f99a19b5c0192247bf1add7cb68eb669c3b7920f\"",
+    "fetched": "2026-04-07T19:30:45Z",
+    "filename": "README.md",
     "size": 1919
   },
   "esp-rs/esp-hal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"876e9ad55e5306095b95d5750d13b3bea70aecfb76b0f1e2bd32436d429088f4\"",
+    "fetched": "2026-04-07T19:30:50Z",
+    "filename": "README.md",
     "size": 5530
   },
   "esp-rs/esp-hal-community": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1ee81604447c6e1ae9fe3f0d38f6a47faefa426ebce7da4bbffdbfba22fb96bf\"",
+    "fetched": "2026-04-07T19:30:50Z",
+    "filename": "README.md",
     "size": 2986
   },
   "esp-rs/esp-idf-hal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c939dac0ea1f1f5f5ad36d06cac46721353773f63b8851bbb849b75be7e96fc8\"",
+    "fetched": "2026-04-07T19:30:51Z",
+    "filename": "README.md",
     "size": 4886
   },
   "esp-rs/esp-idf-svc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f8b2455731729bbab60870d8e7d6e4b45f20820178f60f30665898971682e937\"",
+    "fetched": "2026-04-07T19:30:52Z",
+    "filename": "README.md",
     "size": 3945
   },
   "esp-rs/esp-idf-sys": {
@@ -6385,17 +6388,17 @@
     "size": 4619
   },
   "esp-rs/esp-idf-template": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"99c8faa0839264f0f92d5b8018ac6e7ff7b932140b75c0dee90382d469ab63b6\"",
+    "fetched": "2026-04-07T19:30:52Z",
+    "filename": "README.md",
     "size": 15697
   },
   "esp-rs/esp-pacs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"403f85af66ee4948385ba26d7b03b2a50842f9eb8a01d45b181ab0a77b18b96d\"",
+    "fetched": "2026-04-07T19:30:53Z",
+    "filename": "README.md",
     "size": 5093
   },
   "esp-rs/espflash": {
@@ -6406,17 +6409,17 @@
     "size": 2144
   },
   "esp-rs/espup": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a1f913c40b2141770bde413af620442fd1e243bd95fda90f0e0b3b8591b4b968\"",
+    "fetched": "2026-04-07T19:30:54Z",
+    "filename": "README.md",
     "size": 11997
   },
   "esp-rs/openthread": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c5bced90b43f44544ceaef832f89302e63dae571104202116adc8c6c05fc0653\"",
+    "fetched": "2026-04-07T19:33:16Z",
+    "filename": "README.md",
     "size": 6809
   },
   "esp32-open-mac/esp32-open-mac": {
@@ -6427,17 +6430,17 @@
     "size": 5591
   },
   "ethanuppal/marlin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f22447c72eb569f1e455ce310bce8ae8ef044e9f96be68ce80d8e1f1d989ad9b\"",
+    "fetched": "2026-04-07T19:32:15Z",
+    "filename": "README.md",
     "size": 7394
   },
   "ethercrab-rs/ethercrab": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f6b87551228c46474e8f67aa5c26e703c10be49d0d404cadea31f87739791813\"",
+    "fetched": "2026-04-07T19:30:55Z",
+    "filename": "README.md",
     "size": 7169
   },
   "etkecc/baibot": {
@@ -6455,10 +6458,10 @@
     "size": 20438
   },
   "etkecc/postmoogle": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"efe04e941f40593b1ab5802cdb5765664b151795f486570b9f0b614211edc1db\"",
+    "fetched": "2026-04-07T19:34:05Z",
+    "filename": "README.md",
     "size": 13427
   },
   "eukara/freecs": {
@@ -6504,10 +6507,10 @@
     "size": 12256
   },
   "exasim-project/NeoN": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6d1e12f9715734057f802f3b933f9c7004ebb9c114c1d5482f7ec03fbdeb7546\"",
+    "fetched": "2026-04-07T19:33:03Z",
+    "filename": "README.md",
     "size": 3897
   },
   "exosphere-project/exosphere": {
@@ -6539,10 +6542,10 @@
     "size": 3562
   },
   "faervan/bar-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"573a8ffc8437161e4edecf2c0b0643da5d47323d235279b37a7ff2f54977fcf7\"",
+    "fetched": "2026-04-07T19:29:16Z",
+    "filename": "README.md",
     "size": 5508
   },
   "fair-acc/gnuradio4": {
@@ -6567,17 +6570,17 @@
     "size": 5172
   },
   "farmOS/farmOS-map": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"902d96fc805a32653b582cdf3aa361740cfb803da3a0d4f72348c58d44820df8\"",
+    "fetched": "2026-04-07T19:30:59Z",
+    "filename": "README.md",
     "size": 31647
   },
   "farmOS/field-kit": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"13c54d66c81fb802f2b5867bc6d3a7c011e682f5599a6d37a6fa489050dabb67\"",
+    "fetched": "2026-04-07T19:31:02Z",
+    "filename": "README.md",
     "size": 2166
   },
   "fazedordecodigo/PyFlunt": {
@@ -6616,10 +6619,10 @@
     "size": 25
   },
   "fedify-dev/hollo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6dba8ed37e1c3fdadda00072c55d43fc3cdb2a6291b757fa626993ad80f88642\"",
+    "fetched": "2026-04-07T19:31:37Z",
+    "filename": "README.md",
     "size": 1865
   },
   "fediverse-devnet/feditest": {
@@ -6665,10 +6668,10 @@
     "size": 4989
   },
   "fgsect/scat": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b4b8c9d26576c96b8713ee09311e5630128b2db35b3d63771d570e180063b9f0\"",
+    "fetched": "2026-04-07T19:34:50Z",
+    "filename": "README.md",
     "size": 8196
   },
   "filecoin-project/community": {
@@ -6707,10 +6710,10 @@
     "size": 5521
   },
   "flaskbb/flaskbb": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c2bc4c3c76b7fa66a41c2901dd5d87094b2534a2568fc7ba9836431feb47ffcc\"",
+    "fetched": "2026-04-07T19:31:05Z",
+    "filename": "README.md",
     "size": 1460
   },
   "flatcar/Flatcar": {
@@ -6798,10 +6801,10 @@
     "size": 4330
   },
   "flightphp/core": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7eebe8c1b83486ced984a31f1648bdf36a3b4fc24c0eb95dd0d43a3fdb213345\"",
+    "fetched": "2026-04-07T19:30:14Z",
+    "filename": "README.md",
     "size": 3759
   },
   "floccusaddon/floccus": {
@@ -6819,17 +6822,17 @@
     "size": 2837
   },
   "florisboard/florisboard": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ff7d07e4c0972085d9c792d0f968af2616a73a7bcbbf402381fa8b02daca8fc9\"",
+    "fetched": "2026-04-07T19:31:07Z",
+    "filename": "README.md",
     "size": 8635
   },
   "fluiddyn/fluidsim": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"36633e63ee59a560962eb8fc0f2a21198736b16748004c85b152dd2404b1262c\"",
+    "fetched": "2026-04-07T19:31:08Z",
+    "filename": "README.md",
     "size": 5583
   },
   "flxzt/rnote": {
@@ -6854,10 +6857,10 @@
     "size": 21930
   },
   "forgefed/forgefed": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0f896db52c6b8febaeeed87788bd531f037685366a0761109c78f61eb8640912\"",
+    "fetched": "2026-04-07T19:31:09Z",
+    "filename": "README.md",
     "size": 3700
   },
   "fort-nix/nix-bitcoin": {
@@ -6875,17 +6878,17 @@
     "size": 15907
   },
   "fossar/selfoss": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"077b5a7016670b68cc41dd12052e6f8f5d11f02599d039896950e6a9612e6af8\"",
+    "fetched": "2026-04-07T19:34:52Z",
+    "filename": "README.md",
     "size": 7107
   },
   "fr1kin/ForgeHax": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1feb713d63f89d95139270b642c21c350eb05403cd719b5f7f8f3dc799200250\"",
+    "fetched": "2026-04-07T19:31:10Z",
+    "filename": "README.md",
     "size": 2936
   },
   "fr3ts0n/AndrOBD": {
@@ -6910,10 +6913,10 @@
     "size": 4020
   },
   "freebayes/freebayes": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"42ce7c08379335f5dffdb21bdbd8a0531f5fa5400e06d79ec0a365173db9e674\"",
+    "fetched": "2026-04-07T19:31:11Z",
+    "filename": "README.md",
     "size": 28065
   },
   "freenet/freenet-core": {
@@ -7029,10 +7032,10 @@
     "size": 3100
   },
   "gary-kim/riotchat": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d6dd300511744a753201e876ebd54306cd1c12e5f346c0e19785a879929bdd7e\"",
+    "fetched": "2026-04-07T19:34:39Z",
+    "filename": "README.md",
     "size": 2435
   },
   "gd32v-rust/gd32vf103-hal": {
@@ -7071,17 +7074,17 @@
     "size": 4668
   },
   "geomoose/gm3": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d152113f07f2714154fd5513166522b72b474360b507266e539d5fd41663e2de\"",
+    "fetched": "2026-04-07T19:31:22Z",
+    "filename": "README.md",
     "size": 1386
   },
   "geopython/diving-into-pygeoapi": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"70d5324793c2e5dad3b7e7adb91c1608f9c4a333c1cf8e773668bb108ece4063\"",
+    "fetched": "2026-04-07T19:30:31Z",
+    "filename": "README.md",
     "size": 3819
   },
   "geopython/pygeometa": {
@@ -7092,10 +7095,10 @@
     "size": 7249
   },
   "georgeharker/tree-sitter-zsh": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"76a2b133dc09917f1ed77f2af6dca0e342fbb1c90283fe1a1cf51df0eb7fcc03\"",
+    "fetched": "2026-04-07T19:36:10Z",
+    "filename": "README.md",
     "size": 2636
   },
   "geraldohomero/best-foss-alternatives": {
@@ -7113,10 +7116,10 @@
     "size": 3490
   },
   "get10101/10101": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f9eead412a2507249a0fe0c981ba381934660a3c7c293f6bd03aea1554c051c7\"",
+    "fetched": "2026-04-07T19:28:48Z",
+    "filename": "README.md",
     "size": 4740
   },
   "getsolus/packages": {
@@ -7141,10 +7144,10 @@
     "size": 3900
   },
   "gfx-rs/rspirv": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"01989b994e72e1e2bcf563f7b707890485593e9afe3cbb7aee80ff90e720876f\"",
+    "fetched": "2026-04-07T19:34:44Z",
+    "filename": "README.md",
     "size": 7587
   },
   "gfx-rs/wgpu": {
@@ -7162,10 +7165,10 @@
     "size": 3643
   },
   "ghc-proposals/ghc-proposals": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"56162c424175d952acac72b4994e803549fdabeaf87e8908957534fcce001b13\"",
+    "fetched": "2026-04-07T19:31:21Z",
+    "filename": "README.rst",
     "size": 51857
   },
   "ghc/ghc": {
@@ -7211,10 +7214,10 @@
     "size": 23758
   },
   "glacambre/firenvim": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0c3cfab32c7735a3c060c866810a0b8b9e6a30ec01c280d2f22c2b134c60e0a0\"",
+    "fetched": "2026-04-07T19:31:04Z",
+    "filename": "README.md",
     "size": 20824
   },
   "go-debos/debos": {
@@ -7225,17 +7228,17 @@
     "size": 9186
   },
   "go-fed/activity": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d30c68089256efb05ac054acbd18e58f4e0e9ee6f066b62137c7a1c868187bc0\"",
+    "fetched": "2026-04-07T19:28:48Z",
+    "filename": "README.md",
     "size": 6465
   },
   "go-fed/apcore": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3e62a17fa7841304d517e6608aa74b78fe8d6e3a98b7fc4e52b1b7f8774d3404\"",
+    "fetched": "2026-04-07T19:29:00Z",
+    "filename": "README.md",
     "size": 3837
   },
   "go-fed/httpsig": {
@@ -7309,24 +7312,24 @@
     "size": 9462
   },
   "gotham-rs/gotham": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a528198a488c84c3f7bb1274a98e981e83e85e7bab5fef86e3683e11e7bd1e7e\"",
+    "fetched": "2026-04-07T19:31:28Z",
+    "filename": "README.md",
     "size": 4426
   },
   "gotify/server": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2cf9258551bde64ac45bd89fee2abe3df5daa778a1a39ae063a9f5ffe220f0a7\"",
+    "fetched": "2026-04-07T19:34:57Z",
+    "filename": "README.md",
     "size": 3174
   },
   "gotvc/got": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"feb5fc37ea9c24e274758a6944d58496516a877da4b19657fc513afb1054fea6\"",
+    "fetched": "2026-04-07T19:31:26Z",
+    "filename": "README.md",
     "size": 2973
   },
   "gpuweb/cts": {
@@ -7337,10 +7340,10 @@
     "size": 1029
   },
   "gpuweb/gpuweb": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"df581066c307ddb575181d66cf9b1424e49a205eda2b2b79531fa2b211a9746a\"",
+    "fetched": "2026-04-07T19:31:30Z",
+    "filename": "README.md",
     "size": 2568
   },
   "gridcoin-community/Gridcoin-Research": {
@@ -7358,10 +7361,10 @@
     "size": 6899
   },
   "gsantner/memetastic": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4d9f81482347530c37c89052c5f40621056dd9b7e9e28d4e840b4d64053fbd8d\"",
+    "fetched": "2026-04-07T19:32:29Z",
+    "filename": "README.md",
     "size": 10605
   },
   "gtk-kn/gtk-kn": {
@@ -7379,10 +7382,10 @@
     "size": 4259
   },
   "guardrail-dev/guardrail": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e8e9b3712fe01194f3c3d302c5f64f664bb58cf666efa2d9df7e189bc2492faf\"",
+    "fetched": "2026-04-07T19:31:33Z",
+    "filename": "README.md",
     "size": 6655
   },
   "gupax-io/gupax": {
@@ -7407,17 +7410,17 @@
     "size": 10300
   },
   "hackmdio/codimd": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2f21cb3a4f3fd2386d0a935dfb1874337819b974a1edc904b3cffc5c5831f9ff\"",
+    "fetched": "2026-04-07T19:30:00Z",
+    "filename": "README.md",
     "size": 6789
   },
   "hadronized/luminance-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"72f0e40a46dcc91f874a0bfa01356094d5685b076e8f51c5ea498e1af4908f86\"",
+    "fetched": "2026-04-07T19:32:11Z",
+    "filename": "README.md",
     "size": 9866
   },
   "haecker-felix/hebbot": {
@@ -7477,10 +7480,10 @@
     "size": 6723
   },
   "haskell/ghcup-hs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4de4d9f440f33d48a15b7d83ad6a9e2058b1543a67a3bdd6ce76f26313c8a9e8\"",
+    "fetched": "2026-04-07T19:31:22Z",
+    "filename": "README.md",
     "size": 1365
   },
   "haskell/ghcup-metadata": {
@@ -7526,17 +7529,17 @@
     "size": 6620
   },
   "heal-research/pyoperon": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"084bca4f43a65b418b89ecf1f9da7f9c287a2e51046ce320baf7e061f09dae13\"",
+    "fetched": "2026-04-07T19:34:16Z",
+    "filename": "README.md",
     "size": 2532
   },
   "hedgedoc/hedgedoc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"51904970e4567ce69a2f262628fe20b0ecd32a2a1eb4d81f395722742254c20f\"",
+    "fetched": "2026-04-07T19:31:35Z",
+    "filename": "README.md",
     "size": 6056
   },
   "helfertool/helfertool": {
@@ -7547,10 +7550,10 @@
     "size": 1754
   },
   "helix-editor/helix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a9a1c9abd93c6653743186acd49fed7a35d059b15de87b12f26bc26514669a43\"",
+    "fetched": "2026-04-07T19:31:35Z",
+    "filename": "README.md",
     "size": 2697
   },
   "henrygd/beszel": {
@@ -7631,10 +7634,10 @@
     "size": 37612
   },
   "howeyc/ledger": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"dea0d31cf3da292a747136218309b62d1b58ed4ac7bd883c4d1168bc7b05f6eb\"",
+    "fetched": "2026-04-07T19:32:05Z",
+    "filename": "README.md",
     "size": 1324
   },
   "hpjansson/chafa": {
@@ -7673,10 +7676,10 @@
     "size": 57657
   },
   "ibi-group/datatools-server": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1ebe9443739bc6234a1486ab3dec2071e1e35e6039753ed23dc90287c9d99e26\"",
+    "fetched": "2026-04-07T19:30:24Z",
+    "filename": "README.md",
     "size": 306
   },
   "ibi-group/datatools-ui": {
@@ -7715,17 +7718,17 @@
     "size": 14498
   },
   "icssw-org/MeshCom-Firmware": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5300f6c85f215ae459be57cb7c87921b71a7d003259d9fa18b6cfee4f8a0fcbc\"",
+    "fetched": "2026-04-07T19:32:30Z",
+    "filename": "README.md",
     "size": 12399
   },
   "immers-space/activitypub-express": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"04277412523dbecb9f123d05c537f9b40b4a36d86ea86729cab44b331c019431\"",
+    "fetched": "2026-04-07T19:28:49Z",
+    "filename": "README.md",
     "size": 15711
   },
   "immers-space/immers": {
@@ -7743,10 +7746,10 @@
     "size": 6676
   },
   "importantimport/hatsu": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"dc5e1ae491a1132300544d361157271fa715d2ad21c8c55db00b8a50a5bfdc9e\"",
+    "fetched": "2026-04-07T19:31:34Z",
+    "filename": "README.md",
     "size": 5299
   },
   "imq/awesome-projects": {
@@ -7757,10 +7760,10 @@
     "size": 224963
   },
   "imxrt-rs/imxrt-hal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"076336d790627dc88dd36d83264c9f6210789dfad737c33c03e3190f5c124c8b\"",
+    "fetched": "2026-04-07T19:31:42Z",
+    "filename": "README.md",
     "size": 1793
   },
   "indico/indico": {
@@ -7778,10 +7781,10 @@
     "size": 11944
   },
   "inet256/inet256": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"25cdc8f2d5e5657e8f18318f9ee4e0dd6811c8d5146971399a7b7bc2fcf2fefa\"",
+    "fetched": "2026-04-07T19:31:43Z",
+    "filename": "README.md",
     "size": 4464
   },
   "internet4000/find": {
@@ -7820,17 +7823,17 @@
     "size": 7214
   },
   "ipfs-shipyard/py-ipfs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fd6c65688c4143fbf23e001370814ac14174e162c3314afa65ec474844ea2652\"",
+    "fetched": "2026-04-07T19:34:14Z",
+    "filename": "README.md",
     "size": 7764
   },
   "ipfs-shipyard/py-ipfs-http-client": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8583b36f6a6483446596092e8e673d7cc7d0c11679e182d6d26a0a15fc4918c7\"",
+    "fetched": "2026-04-07T19:34:14Z",
+    "filename": "README.md",
     "size": 10857
   },
   "ipfs/boxo": {
@@ -7862,10 +7865,10 @@
     "size": 18397
   },
   "ipfs/ipfs-companion": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0dc6da210666677e8a18294cbdf53b43365fee31cc9807aef62d2fe05cebe814\"",
+    "fetched": "2026-04-07T19:31:46Z",
+    "filename": "README.md",
     "size": 15726
   },
   "ipfs/ipfs-docs": {
@@ -7883,10 +7886,10 @@
     "size": 11207
   },
   "ipfs/ipfs-webui": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d363f4c793d9b3526cf6cff212286006ff538ae0499475ea95a64d596f9c7f7a\"",
+    "fetched": "2026-04-07T19:31:47Z",
+    "filename": "README.md",
     "size": 5521
   },
   "ipfs/js-kubo-rpc-client": {
@@ -7904,10 +7907,10 @@
     "size": 13146
   },
   "ipfs/npm-kubo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9ab29db4a4a8c41f55cdc4fef0d6c9f018fe33e2599a4bab2f8d73756bf717a5\"",
+    "fetched": "2026-04-07T19:33:08Z",
+    "filename": "README.md",
     "size": 5517
   },
   "ipfs/rainbow": {
@@ -7918,10 +7921,10 @@
     "size": 10799
   },
   "ipfs/someguy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bd9c2668059ac682b803013970f713772d134648c36ec0ce2e5e55b1c99e2d2c\"",
+    "fetched": "2026-04-07T19:35:08Z",
+    "filename": "README.md",
     "size": 4801
   },
   "ipld/go-car": {
@@ -7974,17 +7977,17 @@
     "size": 8507
   },
   "islandoftex/arara": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f28108d72df5fc74bde2f945149bcb2151ec2c65039ad552dbe8c35517628605\"",
+    "fetched": "2026-04-07T19:29:04Z",
+    "filename": "README.md",
     "size": 4824
   },
   "isledecomp/isle": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5b409da91f19346abe254dff8965077eb1bef038c9b39c735c74d155df6c4f2f\"",
+    "fetched": "2026-04-07T19:31:48Z",
+    "filename": "README.md",
     "size": 8425
   },
   "isledecomp/isle-portable": {
@@ -8002,17 +8005,17 @@
     "size": 6344
   },
   "itsvic-dev/parcel": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"63e0967939793e486bcc6538e931e6266a2c1b41125e696fb45e4203dcf19fd8\"",
+    "fetched": "2026-04-07T19:33:48Z",
+    "filename": "README.md",
     "size": 1996
   },
   "iv-org/invidious": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"26dc4ea4a364b94a9e2bd5be2aee149223e1c20e82b911a3cc471883686765dd\"",
+    "fetched": "2026-04-07T19:31:45Z",
+    "filename": "README.md",
     "size": 6841
   },
   "jackrosenthal/threelayout": {
@@ -8051,10 +8054,10 @@
     "size": 5927
   },
   "jamesmunns/ergot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"74ed1037f7b4c3d5ddbff67abb8d60c4e86a050b5cf0cfa604c3cfc74e051346\"",
+    "fetched": "2026-04-07T19:30:49Z",
+    "filename": "README.md",
     "size": 3107
   },
   "jamesthesken/pixel": {
@@ -8086,10 +8089,10 @@
     "size": 223513
   },
   "jaywink/matrix-alertmanager": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fec7c9a25c1d551aae379c993864d9c73acf52ddcdbf435e7f2d7e4f92bc5f27\"",
+    "fetched": "2026-04-07T19:32:16Z",
+    "filename": "README.md",
     "size": 3194
   },
   "jaywink/socialhome": {
@@ -8107,24 +8110,24 @@
     "size": 25192
   },
   "jeffvli/feishin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cb30d7e6bbf1be27250bdf029d53cd953d99656c9919b2fc43fb4275013eabad\"",
+    "fetched": "2026-04-07T19:31:00Z",
+    "filename": "README.md",
     "size": 12739
   },
   "jellyfin/Swiftfin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0693f05671dfd41a17938317c1c16a02853bb093bfdf2b7aef68cb963c48058c\"",
+    "fetched": "2026-04-07T19:35:20Z",
+    "filename": "README.md",
     "size": 3098
   },
   "jellyfin/jellyfin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"24da95765b7b2afc8dd39fc366918eda6ac571b2b530b207a83fb25470f81fb8\"",
+    "fetched": "2026-04-07T19:31:52Z",
+    "filename": "README.md",
     "size": 13555
   },
   "jellyfin/jellyfin-android": {
@@ -8135,10 +8138,10 @@
     "size": 4849
   },
   "jellyfin/jellyfin-androidtv": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"dffddfb6a71e5da0ac2d2004955d5b5bdbeab48b729e83a75714b8d7ea34490d\"",
+    "fetched": "2026-04-07T19:31:48Z",
+    "filename": "README.md",
     "size": 4019
   },
   "jellyfin/jellyfin-ios": {
@@ -8156,24 +8159,24 @@
     "size": 6690
   },
   "jellyfin/jellyfin-meta": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cad10b1626838fa5692547e57e92a93bdfab836324f8669242b0c19275d698fc\"",
+    "fetched": "2026-04-07T19:31:49Z",
+    "filename": "README.md",
     "size": 1249
   },
   "jellyfin/jellyfin-packaging": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a27aecc625ce0804b851ef1f1bdc5bcc4cc1a24eb83210214f7b970677b13e4a\"",
+    "fetched": "2026-04-07T19:31:49Z",
+    "filename": "README.md",
     "size": 14066
   },
   "jellyfin/jellyfin-sdk-csharp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6775a3ebc0c7412ad3aa569c0943cf5114212b58beafcc11f147e8a3ca1ff064\"",
+    "fetched": "2026-04-07T19:31:50Z",
+    "filename": "README.md",
     "size": 1409
   },
   "jellyfin/jellyfin-sdk-kotlin": {
@@ -8184,17 +8187,17 @@
     "size": 3260
   },
   "jellyfin/jellyfin-server-macos": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7d41f2d81168b589225b17e633ca32f2b43fc9796a6906d8640cbcb15e5fc8bf\"",
+    "fetched": "2026-04-07T19:31:50Z",
+    "filename": "README.md",
     "size": 4816
   },
   "jellyfin/jellyfin-server-windows": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d2b26a8ebe8fe56b822b5c5eeb6cf620808b8b5cb9ff48f5ab7d1f0d60114e13\"",
+    "fetched": "2026-04-07T19:31:51Z",
+    "filename": "README.md",
     "size": 7051
   },
   "jellyfin/jellyfin-vue": {
@@ -8212,10 +8215,10 @@
     "size": 2820
   },
   "jellyfin/jellyfin-xbox": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c9690e178cfadad305c66b2b42cc9260b3d69388740f2a9303738d2a469e1192\"",
+    "fetched": "2026-04-07T19:31:52Z",
+    "filename": "README.md",
     "size": 2253
   },
   "jellyflix-app/jellyflix": {
@@ -8359,10 +8362,10 @@
     "size": 1543
   },
   "joshuaboniface/rffmpeg": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c98ef5ff0aaa914ad8505de5b14ba3d41833d130393fe92edc1aff1f99477bf1\"",
+    "fetched": "2026-04-07T19:34:37Z",
+    "filename": "README.md",
     "size": 19624
   },
   "jovandeginste/workout-tracker": {
@@ -8443,10 +8446,10 @@
     "size": 1232
   },
   "justchokingaround/jerry": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1dfbfd748e78c6029892d0c8ca85f9be50eac77e48d79f6bb05ac7b0d15739f5\"",
+    "fetched": "2026-04-07T19:31:55Z",
+    "filename": "README.md",
     "size": 6413
   },
   "justchokingaround/lobster": {
@@ -8471,17 +8474,17 @@
     "size": 4565
   },
   "kaito-tokyo/live-backgroundremoval-lite": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"93bada6d0cbc1e43f24284a44307ba792ee42ef74afe0b5690094db4eec10365\"",
+    "fetched": "2026-04-07T19:32:10Z",
+    "filename": "README.md",
     "size": 14395
   },
   "kantord/LibreLingo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c426a387fc0f08a85d48cd943095320cefc53aa3b289ad2ce6fc8a2c24b5358e\"",
+    "fetched": "2026-04-07T19:32:07Z",
+    "filename": "README.md",
     "size": 44969
   },
   "karinushka/paneru": {
@@ -8520,10 +8523,10 @@
     "size": 2919
   },
   "keepassxreboot/keepassxc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f096dc29680e6e6ae64592a1249bd04b50f9936dc099117e2459e2334dae19be\"",
+    "fetched": "2026-04-07T19:32:00Z",
+    "filename": "README.md",
     "size": 5539
   },
   "keeshii/ryuu-play": {
@@ -8569,10 +8572,10 @@
     "size": 4341
   },
   "keshav-space/safenotes": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"baeb5cbe9e4f142124d4d06b626a8315f800aeec146394ae973c5f62be48243a\"",
+    "fetched": "2026-04-07T19:34:48Z",
+    "filename": "README.md",
     "size": 7418
   },
   "kiarafbickers/awesome-selfhosted-product": {
@@ -8611,10 +8614,10 @@
     "size": 6389
   },
   "kokonior/Rust-Project": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"08991c1908c7ef0c14acb48aaffaad29d321c9f025ec88edc2f6a2f320a2fb4d\"",
+    "fetched": "2026-04-07T19:34:47Z",
+    "filename": "README.md",
     "size": 206
   },
   "komunumo/komunumo": {
@@ -8625,10 +8628,10 @@
     "size": 17642
   },
   "kpfleming/jinjanator": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"09d5ac30657330058e209f0003732ee4503366e8c609b53c447b11306fe97129\"",
+    "fetched": "2026-04-07T19:31:55Z",
+    "filename": "README.md",
     "size": 16066
   },
   "krille-chan/fluffychat": {
@@ -8639,10 +8642,10 @@
     "size": 5090
   },
   "kristoff-it/supermd": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f07d487326d0a21de149ba6449fcc3faebd181d66b528fc6718482ca53ea1bd5\"",
+    "fetched": "2026-04-07T19:35:19Z",
+    "filename": "README.md",
     "size": 74
   },
   "krombel/matrix-register-bot": {
@@ -8730,10 +8733,10 @@
     "size": 679
   },
   "layday/instawow": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cafcf9faf191d6c31a4fc3a9f8fe4b6034f7c7a481ae0c155b2ed3a3d982cb3e\"",
+    "fetched": "2026-04-07T19:31:44Z",
+    "filename": "README.rst",
     "size": 9475
   },
   "layters/testshop": {
@@ -8765,10 +8768,10 @@
     "size": 23566
   },
   "leifeld-lab/dna": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"27dff0c4f53be29fcd5338eeadbfc39f1cc3359fa79f328d1a8d22f31c5ccd57\"",
+    "fetched": "2026-04-07T19:30:32Z",
+    "filename": "README.md",
     "size": 9762
   },
   "leil-io/leilfs": {
@@ -8793,10 +8796,10 @@
     "size": 13202
   },
   "levnikmyskin/hyprland-virtual-desktops": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"738bc3439e1ba7cedc58f89209d27721ccc8f44b472e27da5e643876813e50e0\"",
+    "fetched": "2026-04-07T19:31:40Z",
+    "filename": "README.md",
     "size": 23479
   },
   "libgeos/geos": {
@@ -8807,10 +8810,10 @@
     "size": 5845
   },
   "libkeepass/pykeepass": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"740fe5a2ff5389576a0640243f59daa2bae6a22441b5a8bf3faee43213878c73\"",
+    "fetched": "2026-04-07T19:34:16Z",
+    "filename": "README.md",
     "size": 5199
   },
   "libp2p/libp2p": {
@@ -8821,10 +8824,10 @@
     "size": 8223
   },
   "libre-tube/LibreTube": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"02a89e9538bba133b4be3fbfdaffd655f78b63cee7cb9f37ee1ab8eb6bc3136a\"",
+    "fetched": "2026-04-07T19:32:09Z",
+    "filename": "README.md",
     "size": 8534
   },
   "libreddit/libreddit": {
@@ -8835,10 +8838,10 @@
     "size": 15265
   },
   "librekeys/picoforge": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e9ee5805f14351fbfe7dd54878cbbce82cbfce96fcbc12037cdb9f96e466b864\"",
+    "fetched": "2026-04-07T19:33:57Z",
+    "filename": "README.md",
     "size": 11789
   },
   "libremonde-org/paper-research-privacy-matrix.org": {
@@ -8863,10 +8866,10 @@
     "size": 5520
   },
   "lightspark/lightspark": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"99bfe6072a88af6185cbff9f72f31601a261cbfa5e901e9a66e5da60ba025f34\"",
+    "fetched": "2026-04-07T19:32:09Z",
+    "filename": "README.md",
     "size": 5862
   },
   "ligurio/awesome-openbsd": {
@@ -8884,10 +8887,10 @@
     "size": 3497
   },
   "limine-bootloader/limine": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5ae2addc21382518d124df319a70a7dcf3b394a0d20c79cc1e51dd4c0d18af23\"",
+    "fetched": "2026-04-07T19:32:10Z",
+    "filename": "README.md",
     "size": 4102
   },
   "linka-cloud/d2vm": {
@@ -8954,10 +8957,10 @@
     "size": 1299
   },
   "linuxdeepin/dtkcore": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"68b3d9e712e8cda1f720852cd0f9a268918234c4a537daa48517d73f13c0182d\"",
+    "fetched": "2026-04-07T19:30:36Z",
+    "filename": "README.md",
     "size": 1653
   },
   "linuxdeepin/dtkgui": {
@@ -8968,10 +8971,10 @@
     "size": 1067
   },
   "linuxdeepin/qt5integration": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0a3f98ce4ac29d5b4085ca8af9a485ec40217b693e74a96b002b40c6664e91db\"",
+    "fetched": "2026-04-07T19:34:22Z",
+    "filename": "README.md",
     "size": 1516
   },
   "linuxmint/cjs": {
@@ -9045,10 +9048,10 @@
     "size": 35434
   },
   "litestar-org/pytest-databases": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"37ea61f33a33c8fda08f7a47895d479aa41b4a928da4598b7c525f0ad87e3b2b\"",
+    "fetched": "2026-04-07T19:34:17Z",
+    "filename": "README.md",
     "size": 10180
   },
   "livecvebench/CVE-Factory": {
@@ -9122,10 +9125,10 @@
     "size": 3622
   },
   "luainkernel/lunatik": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ac4a912319089d7014224f0f5f4318edb0b3de9147f819c8dc4dc8d7f837e80c\"",
+    "fetched": "2026-04-07T19:32:12Z",
+    "filename": "README.md",
     "size": 20537
   },
   "luantak/FokusLauncher": {
@@ -9136,10 +9139,10 @@
     "size": 7126
   },
   "luisbocanegra/kde-material-you-colors": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9408d4bb00f0f108bdd87ed260d3466f8304aa7b7007852545c734112bc505bd\"",
+    "fetched": "2026-04-07T19:31:59Z",
+    "filename": "README.md",
     "size": 13545
   },
   "luisbocanegra/plasma-panel-colorizer": {
@@ -9185,10 +9188,10 @@
     "size": 9194
   },
   "m3tozz/FastCat": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8f53176b02c9cd8f12af429c4a5904d5f2a092a69aa5c20b90c6284a853514bc\"",
+    "fetched": "2026-04-07T19:31:00Z",
+    "filename": "README.md",
     "size": 4441
   },
   "m4thxyz/blackofc": {
@@ -9205,6 +9208,13 @@
     "filename": "",
     "size": 5273
   },
+  "mRemoteNG/mRemoteNG": {
+    "branch": "master",
+    "etag": "\"368eefa3a2d9deedd0d344967a6262352bd9fa711e423bf2c21fc324b4fbccfb\"",
+    "fetched": "2026-04-07T19:32:59Z",
+    "filename": "README.MD",
+    "size": 3961
+  },
   "mTvare6/hello-world.rs": {
     "branch": "",
     "etag": "",
@@ -9220,10 +9230,10 @@
     "size": 3180
   },
   "machinekit/machinekit-hal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d3ffd73d58d741784cbf1bd1efe2a8a09b4f7c4a3ff36380d287d1b6b02b768f\"",
+    "fetched": "2026-04-07T19:32:12Z",
+    "filename": "README.md",
     "size": 16015
   },
   "madeofpendletonwool/PinePods": {
@@ -9248,10 +9258,10 @@
     "size": 5811
   },
   "magic-wormhole/magic-wormhole": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"dcc9efe4fe328fc0f7e6e4606526813716d4476b6fed6d591c97de765124edec\"",
+    "fetched": "2026-04-07T19:32:12Z",
+    "filename": "README.md",
     "size": 2690
   },
   "magic-wormhole/magic-wormhole-protocols": {
@@ -9283,10 +9293,10 @@
     "size": 5200
   },
   "manjaro-sway/manjaro-sway": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"453ffc8818df0be5f53ff1ac0b180bd96532fa4aa9f5da1ca9a5adda25e816fd\"",
+    "fetched": "2026-04-07T19:32:14Z",
+    "filename": "README.md",
     "size": 22073
   },
   "manyfold3d/manyfold": {
@@ -9332,17 +9342,17 @@
     "size": 6535
   },
   "martinlaxenaire/gpu-curtains": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e76a20731b401ab57b983939458e89c1c3b9e4731d3cd29d0921b9c6b9debd1c\"",
+    "fetched": "2026-04-07T19:31:29Z",
+    "filename": "README.md",
     "size": 7135
   },
   "marxin/cvise": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2d2db88bcee751ea8ac5a4719f776a214aa306ffab39cb8ef520786736e678dc\"",
+    "fetched": "2026-04-07T19:30:21Z",
+    "filename": "README.md",
     "size": 5948
   },
   "mateusz-bak/openreads": {
@@ -9353,10 +9363,10 @@
     "size": 5987
   },
   "matrix-construct/construct": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7325bdb82dbf9506835dc6a08b5a62944ca550b41c30f9fff7ba778ed689094c\"",
+    "fetched": "2026-04-07T19:30:13Z",
+    "filename": "README.md",
     "size": 2831
   },
   "matrix-construct/tuwunel": {
@@ -9367,17 +9377,17 @@
     "size": 9352
   },
   "matrix-hacks/matrix-puppet-bridge": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cf9b43dd5aa8d1e1daec01044f7c820bd90a5dfcdbbadef71efb356a1870eee8\"",
+    "fetched": "2026-04-07T19:32:20Z",
+    "filename": "README.md",
     "size": 11331
   },
   "matrix-hacks/matrix-puppet-facebook": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"008341ffe8fa3b5905f704634a437f16d6df449b21f5b84d0d9b0dabcc2d9275\"",
+    "fetched": "2026-04-07T19:32:21Z",
+    "filename": "README.md",
     "size": 5567
   },
   "matrix-hacks/matrix-puppet-hangouts": {
@@ -9388,24 +9398,24 @@
     "size": 8159
   },
   "matrix-hacks/matrix-puppet-imessage": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6941f5582d1bcbd4c1317c87552b6cde61c8c1322aa6fe2076cea544f05af5f2\"",
+    "fetched": "2026-04-07T19:32:21Z",
+    "filename": "README.md",
     "size": 2177
   },
   "matrix-hacks/matrix-puppet-signal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"27243b7f5799a2d25e6371c2a5067ea924de31838abb89b316bbb83867f9fff2\"",
+    "fetched": "2026-04-07T19:32:22Z",
+    "filename": "README.md",
     "size": 4074
   },
   "matrix-hacks/matrix-puppet-slack": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e6e53fb1e756a84c2f51222dbe8252d29fccec8c15f816fc7438a721dd86cc8b\"",
+    "fetched": "2026-04-07T19:32:23Z",
+    "filename": "README.md",
     "size": 4864
   },
   "matrix-nio/matrix-nio": {
@@ -9423,17 +9433,17 @@
     "size": 29111
   },
   "matrix-org/matrix-appservice-discord": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cfccd8bee1f9339ce3b4b72fab510f64c2d7a9ecc85ab6a67a699e14d4d2a2cc\"",
+    "fetched": "2026-04-07T19:32:17Z",
+    "filename": "README.md",
     "size": 6721
   },
   "matrix-org/matrix-appservice-irc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f93455d89c5883612f89410c71aa2cb4e137c0c33658caff3eb7309bfdd8d9c0\"",
+    "fetched": "2026-04-07T19:32:19Z",
+    "filename": "README.md",
     "size": 2421
   },
   "matrix-org/matrix-bifrost": {
@@ -9458,10 +9468,10 @@
     "size": 19887
   },
   "matrix-org/matrix-python-sdk": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"18a4e84272eac4302b5205919e0b150c9660b7bc7b5a4219700eac5076914742\"",
+    "fetched": "2026-04-07T19:32:26Z",
+    "filename": "README.rst",
     "size": 3703
   },
   "matrix-org/matrix-rust-sdk": {
@@ -9486,10 +9496,10 @@
     "size": 6521
   },
   "matrix-org/matrix-viewer": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f07fa3292450f0ece37e90bae9f7d9bdf88fdd2e27bc24909628125e96aefee0\"",
+    "fetched": "2026-04-07T19:32:28Z",
+    "filename": "README.md",
     "size": 5775
   },
   "matrix-org/matrix-widget-api": {
@@ -9528,10 +9538,10 @@
     "size": 6324
   },
   "matrix-org/purple-matrix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"42c8d04827bbc7d17ab492cd4889254ee2b0ecf81ee86dd97031efde06d6a5e5\"",
+    "fetched": "2026-04-07T19:34:12Z",
+    "filename": "README.md",
     "size": 3955
   },
   "matrix-org/seshat": {
@@ -9542,45 +9552,45 @@
     "size": 1980
   },
   "matrix-org/thirdroom": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c6f00a2a67f35b184bb95aaa9f2150f2389eb204aeb59bc39348c737e4770b8e\"",
+    "fetched": "2026-04-07T19:35:42Z",
+    "filename": "README.md",
     "size": 20919
   },
   "mattmassicotte/Empire": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8f10e5ee9c3693ce0fea1fe06b414989f82d8177525e9748197740c7bb444b56\"",
+    "fetched": "2026-04-07T19:30:46Z",
+    "filename": "README.md",
     "size": 7464
   },
   "mattmassicotte/Jot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"978ded6e65b197c4d04adc10ef1eb6b967740e93dff5928c9f2b512d94fe32de\"",
+    "fetched": "2026-04-07T19:31:57Z",
+    "filename": "README.md",
     "size": 3909
   },
   "mattmassicotte/MainOffender": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b71ca0ea78a1ec65b11f1ab1f57b1da95ae95e585ac4d6091d376d65fbb12015\"",
+    "fetched": "2026-04-07T19:32:13Z",
+    "filename": "README.md",
     "size": 4100
   },
   "mattmassicotte/Multipass": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"40596081d3dce41175c8f49552fdeab10f7ed66f290d40c5a7578a84fbd5b570\"",
+    "fetched": "2026-04-07T19:32:59Z",
+    "filename": "README.md",
     "size": 2601
   },
   "mattmassicotte/Queue": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ba37c8666edad7608026acd86fd48cf7dd76bfeaded57b4dcbf4bd1a3d390269\"",
+    "fetched": "2026-04-07T19:34:24Z",
+    "filename": "README.md",
     "size": 3672
   },
   "mattmassicotte/TaskGate": {
@@ -9591,10 +9601,10 @@
     "size": 3655
   },
   "mattmassicotte/nsui": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4048dae208f9d9c96d469195e38be8daa41c1d038729383e0e6a5268ae244d22\"",
+    "fetched": "2026-04-07T19:33:09Z",
+    "filename": "README.md",
     "size": 5283
   },
   "mattwparas/steel": {
@@ -9661,10 +9671,10 @@
     "size": 867
   },
   "mautrix/gmessages": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7b1962981261d116c1ec8be6a434d90684791cf0e624a25bc4a2b3803fac216b\"",
+    "fetched": "2026-04-07T19:31:23Z",
+    "filename": "README.md",
     "size": 705
   },
   "mautrix/go": {
@@ -9703,17 +9713,17 @@
     "size": 690
   },
   "mautrix/python": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ccfb562e3a037a5fbf50bea1e3fcd138e8073952b4a11fbfdf79f7dd312183d4\"",
+    "fetched": "2026-04-07T19:34:21Z",
+    "filename": "README.rst",
     "size": 3118
   },
   "mautrix/signal": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"050dab26370db93de46f12b6fdbf16cfe4acc929718489e82888c11a7e40d27f\"",
+    "fetched": "2026-04-07T19:34:58Z",
+    "filename": "README.md",
     "size": 943
   },
   "mautrix/slack": {
@@ -9822,10 +9832,10 @@
     "size": 2674
   },
   "metacall/gsoc-2022": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7ceb5e1c427608c23230ceda29966d4e5a7d345e5d9fb78b4631a8313eb590cb\"",
+    "fetched": "2026-04-07T19:31:32Z",
+    "filename": "README.md",
     "size": 24854
   },
   "metio/kube-custom-resources-rs": {
@@ -9857,10 +9867,10 @@
     "size": 8128
   },
   "michpolicht/CuteHMI": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"98b8318911e6e42890a5486ed77c1a7d3c9399832f2ec0fc426317dba9ad828b\"",
+    "fetched": "2026-04-07T19:30:20Z",
+    "filename": "README.md",
     "size": 8153
   },
   "microvm-nix/microvm.nix": {
@@ -9920,10 +9930,10 @@
     "size": 6181
   },
   "mirukana/mirage": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f6cd99df6512db16f2d911bdcf89b93039a6e3950a7cec77d98a9801acb9b826\"",
+    "fetched": "2026-04-07T19:32:54Z",
+    "filename": "README.md",
     "size": 3925
   },
   "mises-id/mises-browser-core": {
@@ -9941,10 +9951,10 @@
     "size": 7209
   },
   "mjakeman/extension-manager": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"24fd88ccc42d4162fb311eb4c7879195c3421b0f5ccd9bedadd565ca9f6e0cc4\"",
+    "fetched": "2026-04-07T19:30:58Z",
+    "filename": "README.md",
     "size": 5768
   },
   "mjl-/mox": {
@@ -9990,24 +10000,24 @@
     "size": 36185
   },
   "mollyim/mollyim-android": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"32e6ed3a3dfa2774d5b6abeaf2fca80631b22d2333fe8bff437dc692f11f9ac6\"",
+    "fetched": "2026-04-07T19:32:55Z",
+    "filename": "README.md",
     "size": 8776
   },
   "monero-project/monero-gui": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"cb2dd4f151f39fcbebf04710c5dec51bb476d445ba2c312c90d3418e7a1d38f8\"",
+    "fetched": "2026-04-07T19:32:55Z",
+    "filename": "README.md",
     "size": 17441
   },
   "monero-project/monero-site": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9f73577ae469c74848cbb136674316eadce31dbfed909b3c231831d024a2224f\"",
+    "fetched": "2026-04-07T19:32:56Z",
+    "filename": "README.md",
     "size": 23242
   },
   "moneropay/moneropay": {
@@ -10053,10 +10063,10 @@
     "size": 5200
   },
   "mozilla-firefox/firefox": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"de44fcc4261c437cd232243fdc85f647a29a513e79607726f906ce780365ad3f\"",
+    "fetched": "2026-04-07T19:31:03Z",
+    "filename": "README.md",
     "size": 1054
   },
   "mozilla-frontend-infra/codetribute": {
@@ -10116,10 +10126,10 @@
     "size": 18438
   },
   "mozilla/translations": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ef3240b29e6fa0494624813c41c7e1f0f4c954326524d1ddd5d312204eff7c3f\"",
+    "fetched": "2026-04-07T19:35:52Z",
+    "filename": "README.md",
     "size": 4468
   },
   "mozilla/uniffi-rs": {
@@ -10263,10 +10273,10 @@
     "size": 33931
   },
   "natsukagami/mpd-mpris": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"58a3be54e65a5a0aa83fef8df1a9e927d34476248395d9389f75d09f4f416e25\"",
+    "fetched": "2026-04-07T19:32:56Z",
+    "filename": "README.md",
     "size": 4826
   },
   "nekename/OpenDeck": {
@@ -10340,17 +10350,17 @@
     "size": 10236
   },
   "nexy7574/nio-bot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1d34656fa6b44787eeea0d86f41c16bc414ca6746136d5fd4c339c1caf655838\"",
+    "fetched": "2026-04-07T19:33:06Z",
+    "filename": "README.md",
     "size": 4843
   },
   "ngi-nix/summer-of-nix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e3178ebc83f16c2a43cbb27846258ab4aa5883a85cd08a925afc77f4161131f5\"",
+    "fetched": "2026-04-07T19:35:18Z",
+    "filename": "README.md",
     "size": 13770
   },
   "niallang/Nial_Development": {
@@ -10410,17 +10420,17 @@
     "size": 20644
   },
   "nim-lang/Nim": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"09d2ea6c4d410aad43e3b86f17b521ff30cf4e0a99c2c7534d9bc07a488e6301\"",
+    "fetched": "2026-04-07T19:33:06Z",
+    "filename": "readme.md",
     "size": 13033
   },
   "nim-works/cps": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"72c29b65a56e0d955992864fe4b256e2026410aeea404406c1fffcfccaa4c8b3\"",
+    "fetched": "2026-04-07T19:30:17Z",
+    "filename": "README.md",
     "size": 15241
   },
   "nim-works/nimskull": {
@@ -10438,10 +10448,10 @@
     "size": 5690
   },
   "niochat/nio": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4fe6bc8f79243a346ab45d0cf672226a669fe4726c5d2c0afe9ba9b35d89d4cf\"",
+    "fetched": "2026-04-07T19:33:07Z",
+    "filename": "README.md",
     "size": 2298
   },
   "niri-wm/awesome-niri": {
@@ -10473,10 +10483,10 @@
     "size": 1287
   },
   "nix-community/authentik-nix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c3c8e4042fc7774b362721f178076b45e3c5e9101392c21addc4a7b45b87681e\"",
+    "fetched": "2026-04-07T19:29:10Z",
+    "filename": "README.md",
     "size": 7655
   },
   "nix-community/awesome-nix": {
@@ -10494,10 +10504,10 @@
     "size": 13153
   },
   "nix-community/disko": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"abf62735b1657903fde602b5db8f4337cc87c177b620e1bfb9c3dcbf055d7075\"",
+    "fetched": "2026-04-07T19:30:29Z",
+    "filename": "README.md",
     "size": 5007
   },
   "nix-community/dream2nix": {
@@ -10613,10 +10623,10 @@
     "size": 14536
   },
   "nix-community/npmlock2nix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7e984205b0bc97d8a5962fdd33c198a226e6a5559fe5437687ceb75bc2b52bd3\"",
+    "fetched": "2026-04-07T19:33:08Z",
+    "filename": "README.md",
     "size": 5923
   },
   "nix-community/poetry2nix": {
@@ -10627,10 +10637,10 @@
     "size": 24904
   },
   "nix-community/rnix-parser": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a00f4bbdcd2c720b95228b9c9f57d1d41cc37732fa7f7e8e5ceca1537d49069e\"",
+    "fetched": "2026-04-07T19:34:42Z",
+    "filename": "README.md",
     "size": 3406
   },
   "nix-community/robotnix": {
@@ -10816,10 +10826,10 @@
     "size": 5596
   },
   "numtide/devshell": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"029bbaeb3e03cb25b3fbe7cc090349f0a00d694de8f19c5c201f3ab18b97dfaa\"",
+    "fetched": "2026-04-07T19:30:26Z",
+    "filename": "README.md",
     "size": 5904
   },
   "numtide/flake-utils": {
@@ -10872,10 +10882,10 @@
     "size": 2784
   },
   "nxengine/nxengine-evo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a9f54ff31f4510bf05e2d41679134029cfbb97a03a111e1ddd489bba30668e20\"",
+    "fetched": "2026-04-07T19:33:09Z",
+    "filename": "README.md",
     "size": 1711
   },
   "nxm-rs/nexum": {
@@ -10914,17 +10924,17 @@
     "size": 11743
   },
   "oddlama/embedded-devices": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2fea22f4c8b37acb03ca655d7c1c44491efc751f32b3a298804be80825458806\"",
+    "fetched": "2026-04-07T19:30:44Z",
+    "filename": "README.md",
     "size": 26
   },
   "oemof/oemof-solph": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"20e7f238aede6dff83f4983d7e7a247476fbef709cdbd7e0c4efe1cfeb9a0061\"",
+    "fetched": "2026-04-07T19:33:12Z",
+    "filename": "README.rst",
     "size": 10859
   },
   "officialdakari/Extera": {
@@ -10956,10 +10966,10 @@
     "size": 49503
   },
   "omnilingo/omnilingo": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"71dfc6c78663d168aef840bd81d2f80f30ef3c6747add9804ce514f26e58c1bf\"",
+    "fetched": "2026-04-07T19:33:13Z",
+    "filename": "README.md",
     "size": 4691
   },
   "open-energy-transition/Awesome-Electrical-Grid-Mapping": {
@@ -10991,10 +11001,10 @@
     "size": 1015
   },
   "openSUSE/software-o-o": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3c7f1f353659a8d9c3b56dac9aca66aee942733ff3e489389a101e437db1ab4b\"",
+    "fetched": "2026-04-07T19:35:07Z",
+    "filename": "README.md",
     "size": 1404
   },
   "openbikesensor/OpenBikeSensorFirmware": {
@@ -11012,17 +11022,17 @@
     "size": 7499
   },
   "openboard-team/openboard": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bb3daad21c0b4cb255dedfbabcb47a556ff7c855bd8556acfc130ae78de0cc68\"",
+    "fetched": "2026-04-07T19:33:14Z",
+    "filename": "README.md",
     "size": 8937
   },
   "opencloud-eu/opencloud": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"57c575b52d1b62539aa2f301decbca6671663976a0e498cabea1f5fc99e499ed\"",
+    "fetched": "2026-04-07T19:33:15Z",
+    "filename": "README.md",
     "size": 3023
   },
   "opencloud-eu/web": {
@@ -11040,17 +11050,17 @@
     "size": 2678
   },
   "opencontainers/umoci": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3cf19df18292dbc4969457c1751acf2df9d3f482466e87034274f71e62971800\"",
+    "fetched": "2026-04-07T19:36:14Z",
+    "filename": "README.md",
     "size": 12595
   },
   "openfare/openfare": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2bb707605371d57e2729f4c5ab8216c0437046a173186d009a82ff3ef5c7f7bd\"",
+    "fetched": "2026-04-07T19:33:15Z",
+    "filename": "README.md",
     "size": 3084
   },
   "openiked/openiked-portable": {
@@ -11082,10 +11092,10 @@
     "size": 2252
   },
   "openpatch/hyperbook": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"37e12ecf6d95ae9da2f1e71d73a899761a8f701558ecfed52a7832880e4a3460\"",
+    "fetched": "2026-04-07T19:31:39Z",
+    "filename": "README.md",
     "size": 1973
   },
   "openstreetmap-ng/openstreetmap-ng": {
@@ -11103,10 +11113,10 @@
     "size": 2787
   },
   "opentripplanner/OpenTripPlanner": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a94ac5bc9ef87ef5d33eac527fd1f2507ac1d642637a377db0c467e18276d481\"",
+    "fetched": "2026-04-07T19:33:16Z",
+    "filename": "README.md",
     "size": 4462
   },
   "openwpm/OpenWPM": {
@@ -11117,24 +11127,24 @@
     "size": 15001
   },
   "opsdroid/opsdroid": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"fee15fb4030ad3ba4cd8eade92c766344c58dbbc69f065a0e4255bb7b98d369f\"",
+    "fetched": "2026-04-07T19:33:17Z",
+    "filename": "README.md",
     "size": 5311
   },
   "orbitdb/orbitdb": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5c3d20d1ea73aca23dc8f3e71d156431d61f116f523633bf9bfed2217b98f2e5\"",
+    "fetched": "2026-04-07T19:33:18Z",
+    "filename": "README.md",
     "size": 8023
   },
   "orbitdb/voyager": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ac1fe710181dfa8ff6db4decf674a82acb3b68e83cacfd0e4e6d4902270c11e0\"",
+    "fetched": "2026-04-07T19:36:20Z",
+    "filename": "README.md",
     "size": 8098
   },
   "orcwg/cra-attestations": {
@@ -11180,17 +11190,17 @@
     "size": 4320
   },
   "orion-rs/orion": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f5b4a42d843a212f9afe8656928c99987fdcc18694ee3c6b9318d1e0244e5360\"",
+    "fetched": "2026-04-07T19:33:40Z",
+    "filename": "README.md",
     "size": 4728
   },
   "orogene/orogene": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e99133435d8ce48591793b0d539706a260250e9d65d3f8c2aec17aa5508a726a\"",
+    "fetched": "2026-04-07T19:33:41Z",
+    "filename": "README.md",
     "size": 2217
   },
   "osandov/drgn": {
@@ -11257,10 +11267,10 @@
     "size": 681
   },
   "ouchadam/small-talk": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6d9757310cf11ac253cfcc6baa25b27994e364ac5b33d585a018323263d49274\"",
+    "fetched": "2026-04-07T19:35:05Z",
+    "filename": "README.md",
     "size": 6199
   },
   "outbit/ansible-docgen": {
@@ -11292,10 +11302,10 @@
     "size": 8987
   },
   "owncloud/web": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ec1d381f985c8bf1ab92a3ddf7b6770343e52da9d96fc1a6170bc79f20201799\"",
+    "fetched": "2026-04-07T19:33:43Z",
+    "filename": "README.md",
     "size": 7617
   },
   "package-url/purl-spec": {
@@ -11418,10 +11428,10 @@
     "size": 4672
   },
   "patternfly-yew/patternfly-yew": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2c1a82113f0abd777732fe5e539e82d523c8d57f157b7fb620e29349dcebeee7\"",
+    "fetched": "2026-04-07T19:33:53Z",
+    "filename": "README.md",
     "size": 1015
   },
   "paulaime/awesome-privacy": {
@@ -11481,10 +11491,10 @@
     "size": 2227
   },
   "phetsims/paper-land": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1b2979e23b9cc3a49eceacc130d209b102f5536784db38eee6d4f5387cc69653\"",
+    "fetched": "2026-04-07T19:33:47Z",
+    "filename": "README.md",
     "size": 3477
   },
   "phuhl/bspwm-rounded": {
@@ -11495,31 +11505,31 @@
     "size": 9557
   },
   "pikelet-lang/pikelet": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"080d535b6ca2d8ffabfecac09b918662d5c02bab1014f9eb3d97328757846cba\"",
+    "fetched": "2026-04-07T19:33:58Z",
+    "filename": "README.md",
     "size": 1661
   },
   "pilot51/voicenotify": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bded43a8baededb56641909eede95bb853665472577ea4f36d1c7c55e8d00246\"",
+    "fetched": "2026-04-07T19:36:20Z",
+    "filename": "README.md",
     "size": 8780
   },
   "pimalaya/comodoro": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9eb4dfdcb9acf6f6180ff90f024ae78719e390806e0b436336362d8923b7f71d\"",
+    "fetched": "2026-04-07T19:30:02Z",
+    "filename": "README.md",
     "size": 8462
   },
   "pimalaya/core": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bfd943a9e05cdd3f98a85d20447cdf512694857d75f4941b775b5f68e458c553\"",
+    "fetched": "2026-04-07T19:33:59Z",
+    "filename": "README.md",
     "size": 4155
   },
   "pimalaya/himalaya": {
@@ -11537,17 +11547,17 @@
     "size": 12368
   },
   "pimalaya/mirador": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4e3e2c2a65005494e5bd336fc1da8ec3a78c3e1b4f74235b008399ae50d58326\"",
+    "fetched": "2026-04-07T19:32:53Z",
+    "filename": "README.md",
     "size": 16859
   },
   "pimalaya/neverest": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"06fa8ce27a0a341695ac93bdec4dcc9bc4656bcf3227507a00166417bd2b7c60\"",
+    "fetched": "2026-04-07T19:33:03Z",
+    "filename": "README.md",
     "size": 17950
   },
   "pine64/ArduinoCore-bouffalo": {
@@ -11558,17 +11568,17 @@
     "size": 2144
   },
   "pinnacle-comp/pinnacle": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f082cfdc2582635a37dc9d5d9bc979137b3faa61ee03553739b15d9d581ad84c\"",
+    "fetched": "2026-04-07T19:34:00Z",
+    "filename": "README.md",
     "size": 1852
   },
   "pixlwave/Watch-The-Matrix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6675c310b02cc69be1612d42de902b9237ced9aab2607982e0eab67557950f57\"",
+    "fetched": "2026-04-07T19:36:21Z",
+    "filename": "README.md",
     "size": 951
   },
   "piyoki/nixos-config": {
@@ -11600,10 +11610,10 @@
     "size": 12195
   },
   "pleiszenburg/zugbruecke": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7b9119eee0a0f64562f17c51e094021676b6fefbc2bfbccde98e4401ce8702bc\"",
+    "fetched": "2026-04-07T19:36:46Z",
+    "filename": "README.md",
     "size": 9764
   },
   "pluja/awesome-privacy": {
@@ -11614,87 +11624,87 @@
     "size": 120763
   },
   "pocketblue/pocketblue": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"50affc0dafcc4b21b9d0d7438b2e07e347b6b0bb36517401f3a45191cf2c8193\"",
+    "fetched": "2026-04-07T19:34:03Z",
+    "filename": "README.md",
     "size": 3178
   },
   "podverse/podverse-web": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1f8c13b5177f9366e338b0ac1eaf1f21b1b91fef851741dda93213039ccb8ff8\"",
+    "fetched": "2026-04-07T19:34:03Z",
+    "filename": "README.md",
     "size": 3296
   },
   "pojntfx/bofied": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"931653205c1a30467636e898a49db8804178aa940c0aefbef9229119ebe9a49d\"",
+    "fetched": "2026-04-07T19:29:29Z",
+    "filename": "README.md",
     "size": 20890
   },
   "pojntfx/go-nbd": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"15e59182b76af2f046686e0e6fb3f85a80a9a8933c41d8e544a5f5dae6cf8e98\"",
+    "fetched": "2026-04-07T19:31:24Z",
+    "filename": "README.md",
     "size": 6059
   },
   "pojntfx/htorrent": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0f6615157ec48e8b42abd5ebf435f0a454fdf12ef6679f819712266518eace18\"",
+    "fetched": "2026-04-07T19:31:38Z",
+    "filename": "README.md",
     "size": 18949
   },
   "pojntfx/multiplex": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0def829390bba2c97d4ff7ead0c3796df616b32ecdcb321fa7a24dbf1e743e0e\"",
+    "fetched": "2026-04-07T19:33:00Z",
+    "filename": "README.md",
     "size": 11319
   },
   "pojntfx/octarchive": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9187cd99936119c0c787e4da321d277e381984fe147067bf3f164787dab77865\"",
+    "fetched": "2026-04-07T19:33:09Z",
+    "filename": "README.md",
     "size": 8354
   },
   "pojntfx/panrpc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"19bd3bee54868a9f1e86460f2ba9084b12008a7590dd486287dc6c68cb873ec2\"",
+    "fetched": "2026-04-07T19:33:44Z",
+    "filename": "README.md",
     "size": 83919
   },
   "pojntfx/r3map": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"46032b208b0bf8c92f0651a837e1c4c435ca5b2afffb54b4fba58d226ae08fd3\"",
+    "fetched": "2026-04-07T19:34:25Z",
+    "filename": "README.md",
     "size": 34445
   },
   "pojntfx/ram-dl": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6205ad964eae0ed2d44eb061172604c2e6f04eaa75cd9d27ddf9e40013c1d734\"",
+    "fetched": "2026-04-07T19:34:26Z",
+    "filename": "README.md",
     "size": 6587
   },
   "pojntfx/stfs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0c9aea1d4660efa83b98d18494067b52064e0e5e50142da444c62222e17363a4\"",
+    "fetched": "2026-04-07T19:35:16Z",
+    "filename": "README.md",
     "size": 27852
   },
   "pojntfx/weron": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"59a8d0952c0bdda25282aaa2f54946b1810450f2164c0e23243b8ef97be10754\"",
+    "fetched": "2026-04-07T19:36:27Z",
+    "filename": "README.md",
     "size": 31290
   },
   "poljar/weechat-matrix": {
@@ -11740,10 +11750,10 @@
     "size": 6439
   },
   "polkadot-js/api": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"abf20d369cec3ac9bc8fe0ad1fc6e6d357605995eb51c50184c1a48a4bc41d9b\"",
+    "fetched": "2026-04-07T19:29:01Z",
+    "filename": "README.md",
     "size": 609
   },
   "polkadot-js/build-deno.land": {
@@ -11754,10 +11764,10 @@
     "size": 1336
   },
   "polymorphicshade/Tubular": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"df193f1d624403737fab0468a9990f5cdca52887f6a9ca304c5f494115c9b343\"",
+    "fetched": "2026-04-07T19:36:13Z",
+    "filename": "README.md",
     "size": 1553
   },
   "pooneyy/1Panel-Appstore": {
@@ -11894,31 +11904,31 @@
     "size": 4392
   },
   "proninyaroslav/blink-comparison": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1e1e6f3ddc5021a6e508299e01fb3dfb6871fb6fd747fc76129b8c7f2e8cb2c7\"",
+    "fetched": "2026-04-07T19:29:20Z",
+    "filename": "README.md",
     "size": 6710
   },
   "proninyaroslav/libretorrent": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3ac01c15a41691a05456db82d8f171c3a97095af58a7cbed55743b3940dbd91f\"",
+    "fetched": "2026-04-07T19:32:08Z",
+    "filename": "README.md",
     "size": 5796
   },
   "proninyaroslav/libretrack": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3ad17d8ec94a89d182d4218f0b3eb7dc1d6422d872ad4c32a36ac4462975ffe2\"",
+    "fetched": "2026-04-07T19:32:08Z",
+    "filename": "README.md",
     "size": 6458
   },
   "propensive/fury-old": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"85c70f20f4e28333eecf8f6518046f2f3f225abf15dbb91aeacd564bf6429ded\"",
+    "fetched": "2026-04-07T19:31:16Z",
+    "filename": "readme.md",
     "size": 4074
   },
   "protractor-cucumber-framework/protractor-cucumber-framework": {
@@ -11943,10 +11953,10 @@
     "size": 12860
   },
   "public-transport/ideas": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"026eb7c6a296dafec16c14afbf17d6f08ec0cec70a3bb4464e555650efa2160a\"",
+    "fetched": "2026-04-07T19:31:42Z",
+    "filename": "readme.md",
     "size": 1630
   },
   "public-transport/transitous": {
@@ -11957,10 +11967,10 @@
     "size": 1269
   },
   "publicodes/publicodes": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3cb8e90b0d36d8bb247f2a4878da19397c4a8c6852266b7fb0dde63c8e2623d2\"",
+    "fetched": "2026-04-07T19:34:09Z",
+    "filename": "README.md",
     "size": 2387
   },
   "pulp/pulp-oci-images": {
@@ -11971,24 +11981,24 @@
     "size": 2326
   },
   "pulp/pulp-operator": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0b35b0a36da0212e477aeb2dbc74c96ead86709dd22a18f732589bddee296ab6\"",
+    "fetched": "2026-04-07T19:34:10Z",
+    "filename": "README.md",
     "size": 3134
   },
   "puremourning/vimspector": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8ea5737c8ba8168752110ea110aaa5c5235c220a3272cfdfbcb54823efbe4f7d\"",
+    "fetched": "2026-04-07T19:36:18Z",
+    "filename": "README.md",
     "size": 116588
   },
   "purescript/purescript": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"26cd39b251b1905f2a769d1a351f73b538b5685596b4f13e612ae615a034a299\"",
+    "fetched": "2026-04-07T19:34:11Z",
+    "filename": "README.md",
     "size": 1790
   },
   "purpleidea/mgmt": {
@@ -11999,10 +12009,10 @@
     "size": 6673
   },
   "pushbits/server": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"32797e1f390e487cc2d44695672e008fdef15ffea3ac2480548c0c4aa63534ba\"",
+    "fetched": "2026-04-07T19:34:13Z",
+    "filename": "README.md",
     "size": 4659
   },
   "pwntester/octo.nvim": {
@@ -12097,17 +12107,17 @@
     "size": 5617
   },
   "quartiq/miniconf": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f52466fb1d20f1ca1150b97d6b67559006b1b42142413a7493c10a1a711e57f4\"",
+    "fetched": "2026-04-07T19:32:51Z",
+    "filename": "README.md",
     "size": 18
   },
   "quartiq/minimq": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3d0bedc839523b34f90fc213af97b0e5fb967a0628218af1d668b71360272f52\"",
+    "fetched": "2026-04-07T19:32:52Z",
+    "filename": "README.md",
     "size": 2049
   },
   "quartiq/stabilizer": {
@@ -12125,10 +12135,10 @@
     "size": 4598
   },
   "quarto-dev/quarto-markdown": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"60eb5791fca2893e8cca570755fc1320fd4074c8f4756d99a8a33828f0502f0b\"",
+    "fetched": "2026-04-07T19:34:22Z",
+    "filename": "README.md",
     "size": 2632
   },
   "quickwit-oss/tantivy": {
@@ -12153,10 +12163,10 @@
     "size": 3942
   },
   "quincy-rs/quincy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bfc0d2c108b4dfd4cd08d349b718f1bec9754ecc41df6a9406f09083c5c96bce\"",
+    "fetched": "2026-04-07T19:34:24Z",
+    "filename": "README.md",
     "size": 18385
   },
   "quinn-rs/quinn": {
@@ -12167,17 +12177,17 @@
     "size": 6275
   },
   "quotient-im/Quaternion": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c1086b0cbaf8114cbdfe57b21922ade7e242bf7c74c7f1bff049229736eeeecd\"",
+    "fetched": "2026-04-07T19:34:23Z",
+    "filename": "README.md",
     "size": 21509
   },
   "quotient-im/libQuotient": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"63a07b1aeb43e2864984d04d15f76702c86706ede00ba6d9ccfeed02f18b263c\"",
+    "fetched": "2026-04-07T19:32:07Z",
+    "filename": "README.md",
     "size": 15987
   },
   "qvacua/vimr": {
@@ -12202,10 +12212,10 @@
     "size": 10296
   },
   "rackslab/Slurm-web": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a8ee097642ba4c58ef3a397d5f3c6039bba21e8d9a1af7c5d796b3f6115941d4\"",
+    "fetched": "2026-04-07T19:35:04Z",
+    "filename": "README.md",
     "size": 1831
   },
   "radareorg/radare2": {
@@ -12279,10 +12289,10 @@
     "size": 7808
   },
   "rauc/meta-rauc-community": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"89492b6b57e552362f0cd754640a33a46dae46b0738ce697483c0c0ad183962d\"",
+    "fetched": "2026-04-07T19:32:36Z",
+    "filename": "README.rst",
     "size": 3190
   },
   "rauc/rauc": {
@@ -12293,10 +12303,10 @@
     "size": 10807
   },
   "rauc/rauc-hawkbit-updater": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"044a003d8eaf5150127c8989bb0da0e470e1026f34fb4795697c798d2dbc8816\"",
+    "fetched": "2026-04-07T19:34:26Z",
+    "filename": "README.md",
     "size": 4684
   },
   "ravynsoft/ravynos": {
@@ -12412,10 +12422,10 @@
     "size": 1009
   },
   "redsolver/noteless": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"21953903902c2c9f3d953754096ce38ada9276ae71ef087308101b0751c36b63\"",
+    "fetched": "2026-04-07T19:33:07Z",
+    "filename": "README.md",
     "size": 7595
   },
   "reflex-frp/reflex": {
@@ -12433,10 +12443,10 @@
     "size": 28995
   },
   "renyuneyun/Easer": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"98e4b0717f2690de1a18b9ca7ea59006e6da32ebafdf4a1c6117f82baa70f955\"",
+    "fetched": "2026-04-07T19:30:37Z",
+    "filename": "README.md",
     "size": 5174
   },
   "retorquere/zotero-better-bibtex": {
@@ -12454,10 +12464,10 @@
     "size": 1608
   },
   "rgraphql/rgraphql": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b2b911bc8d4d315e551e921b32199b8d6ceef6021a31f50bd5d8824fa34b226d\"",
+    "fetched": "2026-04-07T19:34:38Z",
+    "filename": "README.md",
     "size": 10137
   },
   "rhosocial/go-dag": {
@@ -12608,10 +12618,10 @@
     "size": 16368
   },
   "ron-rs/ron": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b01a40e64e0c1b92fb04fd26a53820a6edc79601d6e5b514c26589b3d59c929c\"",
+    "fetched": "2026-04-07T19:34:43Z",
+    "filename": "README.md",
     "size": 11057
   },
   "rorm-orm/rorm": {
@@ -12699,17 +12709,17 @@
     "size": 10139
   },
   "rtbrick/bngblaster": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"03ada822b17dc0efd05cce98cc0f6ea3c0376b2eebe45e711a8d6734438c660e\"",
+    "fetched": "2026-04-07T19:29:22Z",
+    "filename": "README.md",
     "size": 3349
   },
   "rtic-rs/rtic": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"62a45dd4d4f2f02eddfad7211e53732a08c38fed0a6549ca43777e4ec324a435\"",
+    "fetched": "2026-04-07T19:34:46Z",
+    "filename": "README.md",
     "size": 4911
   },
   "ru-crypto-anarchy/faq": {
@@ -12748,10 +12758,10 @@
     "size": 16051
   },
   "rust-dark-light/dark-light": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"87abd96e1d04ea8e3343d01fc26e81bfe12ee755da5e6f6096b1feef0d6efb27\"",
+    "fetched": "2026-04-07T19:30:22Z",
+    "filename": "README.md",
     "size": 1501
   },
   "rust-embedded/awesome-embedded-rust": {
@@ -12769,10 +12779,10 @@
     "size": 2452
   },
   "rust-embedded/discovery-mb2": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f5de6f6c2374cd33dc84fb2bef6c9039a9b039458bc8f9858174c72b420cb5c9\"",
+    "fetched": "2026-04-07T19:30:29Z",
+    "filename": "README.md",
     "size": 3903
   },
   "rust-embedded/wg": {
@@ -12783,10 +12793,10 @@
     "size": 19376
   },
   "rust-ethereum/evm": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"91d9356b009bcacbcec943502d0fbc1007252dba1790bcd261a193c6865dfa7c\"",
+    "fetched": "2026-04-07T19:30:56Z",
+    "filename": "README.md",
     "size": 1736
   },
   "rust-gamedev/wg": {
@@ -12895,10 +12905,10 @@
     "size": 23112
   },
   "rytilahti/python-miio": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2a2e2ea0a9176f9b6705ecaf51270beb9209e51f4c6d7e7952d30e7c541c4152\"",
+    "fetched": "2026-04-07T19:34:18Z",
+    "filename": "README.md",
     "size": 15347
   },
   "s0cm0nkey/Security-Reference-Guide": {
@@ -12937,24 +12947,24 @@
     "size": 8731
   },
   "samcday/phrog": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1133dee602373c8d2372947f3ae9fe62d506eb6bb09b842bc33f16a6a70e2188\"",
+    "fetched": "2026-04-07T19:33:56Z",
+    "filename": "README.md",
     "size": 2681
   },
   "sanitizers/octomachinery": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f3ab4c5d4f1b1803292cea8c1e0e8106d82e01ed61d23f7f709d6664cc8f2eec\"",
+    "fetched": "2026-04-07T19:33:11Z",
+    "filename": "README.rst",
     "size": 4235
   },
   "sanjacob/BlackboardSync": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"8dcacda238a7e2d438e5de71b910ba0e9e85c33d2c29517ed21f502284c089bf\"",
+    "fetched": "2026-04-07T19:29:19Z",
+    "filename": "README.md",
     "size": 6104
   },
   "santawho/oeffi-ng": {
@@ -12965,10 +12975,10 @@
     "size": 3624
   },
   "satellogic/telluric": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"53753774876d0734df806aec40f324a8047e83b9306d220330b7f5b9965078d4\"",
+    "fetched": "2026-04-07T19:35:38Z",
+    "filename": "README.md",
     "size": 2067
   },
   "saucer/saucer": {
@@ -12979,10 +12989,10 @@
     "size": 7633
   },
   "sbondCo/Watcharr": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"96c68a98ff5e4ec713489547f20085179e14f654fdebd381ad3f06db311678f6\"",
+    "fetched": "2026-04-07T19:36:22Z",
+    "filename": "README.md",
     "size": 5380
   },
   "scaleapi/browser-art": {
@@ -13028,17 +13038,17 @@
     "size": 4520
   },
   "scorelab/Codelabz": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ed6a50ecfa50e15b15ff5045bd7c47273ad3cb4dc4277c34354a891cc136e980\"",
+    "fetched": "2026-04-07T19:29:59Z",
+    "filename": "README.md",
     "size": 4209
   },
   "scribe-org/Scribe-Android": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d1cd26d485ad63ae2f5f7aaf969b8cbcb57e02ab5e7bf1b7d127d01c7224990e\"",
+    "fetched": "2026-04-07T19:34:51Z",
+    "filename": "README.md",
     "size": 24084
   },
   "scribe-org/Scribe-Data": {
@@ -13084,10 +13094,10 @@
     "size": 2667
   },
   "serenity-js/serenity-js": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0e7923bb75b28697195b4aec31d025f4505c5c547c62a0b5aba9b0fd28991e40\"",
+    "fetched": "2026-04-07T19:34:55Z",
+    "filename": "README.md",
     "size": 6274
   },
   "serenity-js/serenity-js-cucumber-playwright-template": {
@@ -13098,10 +13108,10 @@
     "size": 11787
   },
   "serialport/serialport-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d46e8395ae35e256da6e10f301f3386d4698d73cc42ca12fdb91c65d6846f3bc\"",
+    "fetched": "2026-04-07T19:34:56Z",
+    "filename": "README.md",
     "size": 8401
   },
   "serilog-contrib/Serilog.Sinks.Telegram.Alternative": {
@@ -13168,10 +13178,10 @@
     "size": 1088
   },
   "sevonj/scratchmark": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f3f87f538cb05868cf957e2fc8ff3ff4b1b6e1ce4a27a06ca176fd135774d8ec\"",
+    "fetched": "2026-04-07T19:34:50Z",
+    "filename": "README.md",
     "size": 3471
   },
   "shawntabrizi/awesome-polkadot": {
@@ -13203,24 +13213,24 @@
     "size": 3816
   },
   "shoebot/shoebot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b3c26e3b7b9ac32cd22a318cd524bda3fbf0f8806974c9d9e7b1a18cf885cf95\"",
+    "fetched": "2026-04-07T19:34:58Z",
+    "filename": "README.md",
     "size": 3010
   },
   "sigmaSd/Stimulator": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4a77e8bfb9080d126b52708e9e93f7c91010ec0caf3448b8c33e9041fbad37b0\"",
+    "fetched": "2026-04-07T19:35:17Z",
+    "filename": "README.md",
     "size": 2644
   },
   "signaller-matrix/signaller": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"68c196b2c669a08d431be3abdc2aab81d425beb37d5aebab0a2ca14af442e8f2\"",
+    "fetched": "2026-04-07T19:34:59Z",
+    "filename": "README.md",
     "size": 2097
   },
   "silenty4ng/k5web": {
@@ -13231,10 +13241,10 @@
     "size": 2495
   },
   "simd-everywhere/simde": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3ab12687cfdda9c48ae131d4d08f3a274cc428c00802fa4ff3c48413e88ebe27\"",
+    "fetched": "2026-04-07T19:35:01Z",
+    "filename": "README.md",
     "size": 50297
   },
   "simonvic/dotfiles": {
@@ -13280,10 +13290,10 @@
     "size": 14350
   },
   "skiffos/SkiffOS": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"de196e0a0cf11842b2cdbe5e9332f78509b8059f0147953e46be89f4a086100a\"",
+    "fetched": "2026-04-07T19:35:03Z",
+    "filename": "README.md",
     "size": 31102
   },
   "skim-rs/skim": {
@@ -13315,10 +13325,10 @@
     "size": 20682
   },
   "smol-rs/smol": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6e446ca1798381fd6853ba8ff09af9d541c87044a7044324f46c8c13da846f65\"",
+    "fetched": "2026-04-07T19:35:06Z",
+    "filename": "README.md",
     "size": 5065
   },
   "smoltcp-rs/smoltcp": {
@@ -13329,10 +13339,10 @@
     "size": 21824
   },
   "smoores-dev/storyteller": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b299bf02eeb2004c2e6f6d33a8bc627f2fcf1707b782778d95c361d3c1b831f5\"",
+    "fetched": "2026-04-07T19:35:18Z",
+    "filename": "README.md",
     "size": 2703
   },
   "snakeyaml/snakeyaml": {
@@ -13406,10 +13416,10 @@
     "size": 4370
   },
   "sonusmix/sonusmix": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"69f8b3b2769097c6acccc1fc515889af403e2274a20883ed04d0c70831bd9e9d\"",
+    "fetched": "2026-04-07T19:35:09Z",
+    "filename": "README.md",
     "size": 7655
   },
   "sophgocommunity/CV180-Duo": {
@@ -13448,10 +13458,10 @@
     "size": 2523
   },
   "spack/spack": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"051d1b07d5bf758fd75d9c3d7a918146fbfa9fa4e9f63036821918822f4115ad\"",
+    "fetched": "2026-04-07T19:35:11Z",
+    "filename": "README.md",
     "size": 8698
   },
   "spack/spack-packages": {
@@ -13497,10 +13507,10 @@
     "size": 1856
   },
   "squey/squey": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"62f09b496daef74706b64472bab02cc1b09ee29f66e71f601484f14d9bb9e433\"",
+    "fetched": "2026-04-07T19:35:13Z",
+    "filename": "README.md",
     "size": 5268
   },
   "srid/neuron": {
@@ -13518,10 +13528,10 @@
     "size": 3077
   },
   "sscs-ose/sscs-chipathon-2025": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ebbb15a004b648250639077d8e930a9bbd18daddae4e606f411c1c0c7cc3caa4\"",
+    "fetched": "2026-04-07T19:35:13Z",
+    "filename": "README.md",
     "size": 3161
   },
   "sscs-ose/sscs-ose-code-a-chip.github.io": {
@@ -13532,10 +13542,10 @@
     "size": 5725
   },
   "stalwartlabs/webadmin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2fe6721801b240fc7e227e874ea42357356e7faedf69f32f0a406bf21392ba9f\"",
+    "fetched": "2026-04-07T19:36:25Z",
+    "filename": "README.md",
     "size": 4319
   },
   "starcitizen-lug/knowledge-base": {
@@ -13546,10 +13556,10 @@
     "size": 955
   },
   "stm32-rs/stm32-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f223b74ef26e6e4b87f53a4f2a4e7f1967a228a804525ded4ad0bb74b4dc85f7\"",
+    "fetched": "2026-04-07T19:35:17Z",
+    "filename": "README.md",
     "size": 13939
   },
   "stoically/temporary-containers": {
@@ -13567,17 +13577,17 @@
     "size": 3236
   },
   "stream-pi/client": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0e11b2e660bdc799b9a33a36aa4c0186d540a3ef57f579b905bed6f4a0c439b4\"",
+    "fetched": "2026-04-07T19:29:59Z",
+    "filename": "README.md",
     "size": 3225
   },
   "stream-pi/server": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"2733c9f020d664ce161dd66519728660809cb10c11253d037777936cc2beb57a\"",
+    "fetched": "2026-04-07T19:35:18Z",
+    "filename": "README.md",
     "size": 3027
   },
   "stryan/materia": {
@@ -13616,10 +13626,10 @@
     "size": 2093
   },
   "sugarlabs/GSoC": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"76289ee3f76dbaf576249f2b9ebae792e55ccd5aa2c6a0ed3a91f4f933e98243\"",
+    "fetched": "2026-04-07T19:31:32Z",
+    "filename": "README.md",
     "size": 7689
   },
   "suhr/awesome-microtonal": {
@@ -13658,17 +13668,17 @@
     "size": 9595
   },
   "suitenumerique/projects": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"88ee5ef62206ecada0da914584c9088bf50fd744340984a81809f83a1fbf96c2\"",
+    "fetched": "2026-04-07T19:34:07Z",
+    "filename": "README.md",
     "size": 7276
   },
   "sunpy/ndcube": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"88154d87c7872574e95a5a8726341b36916fcce6f6240156ab4f1608986f5619\"",
+    "fetched": "2026-04-07T19:33:02Z",
+    "filename": "README.rst",
     "size": 4257
   },
   "sunpy/sunkit-image": {
@@ -13728,10 +13738,10 @@
     "size": 8846
   },
   "syphon-org/syphon": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"51f4d6f78c2647ee4b363f833b564e15bc0017382dfdf1d1741ab395e61e55ff\"",
+    "fetched": "2026-04-07T19:35:23Z",
+    "filename": "readme.md",
     "size": 11618
   },
   "sysgrok/esp-idf-matter": {
@@ -13791,10 +13801,10 @@
     "size": 2588
   },
   "taffybar/taffybar": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"30c569c4457d61d1d37739b0d623d3b3227522774231601984f27650fde6d7b8\"",
+    "fetched": "2026-04-07T19:35:35Z",
+    "filename": "README.md",
     "size": 4577
   },
   "tangtangtang0x10/pepackerx64": {
@@ -13833,10 +13843,10 @@
     "size": 12170
   },
   "tc39/proposal-async-context": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"febc70125c8b59f0e57892aef3f40162727c8726e08b9342abfae6ee76702a5e\"",
+    "fetched": "2026-04-07T19:34:08Z",
+    "filename": "README.md",
     "size": 22225
   },
   "tc39/tc39.github.io": {
@@ -13847,10 +13857,10 @@
     "size": 3067
   },
   "tchapgouv/tchap-ios": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"50c7419dc7c1a5f6b168f77dce52ed0aedbb22790192b4f73ac691e20086abf8\"",
+    "fetched": "2026-04-07T19:35:37Z",
+    "filename": "README.md",
     "size": 4627
   },
   "teal-language/tl": {
@@ -13945,10 +13955,10 @@
     "size": 292818
   },
   "the78mole/esphome_components": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f55cc09531badccae6f8eec48a47ff04ba4c79706aba1ce8b56855d03f4ee269\"",
+    "fetched": "2026-04-07T19:30:54Z",
+    "filename": "README.md",
     "size": 5253
   },
   "thefederationinfo/the-federation.info": {
@@ -13973,10 +13983,10 @@
     "size": 1295
   },
   "theyosh/TerrariumPI": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"915089d0d223a73e7e68749a52754ff584c7646c90bf8c2acaa920165d042d5e\"",
+    "fetched": "2026-04-07T19:35:39Z",
+    "filename": "README.md",
     "size": 13665
   },
   "throneproj/Throne": {
@@ -14015,10 +14025,10 @@
     "size": 3530
   },
   "tier4/awkernel": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9d0dad08900196eff7a86d66006b2530f411166b1d9fda80f2dbcecb05758363\"",
+    "fetched": "2026-04-07T19:29:14Z",
+    "filename": "README.md",
     "size": 5262
   },
   "tijder/SmsMatrix": {
@@ -14029,10 +14039,10 @@
     "size": 1714
   },
   "timokoesters/conduit": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5859f36cb81be7046ec5ca67b428d034718429e68aed8b05a8d941c8e9e143df\"",
+    "fetched": "2026-04-07T19:30:03Z",
+    "filename": "README.md",
     "size": 3621
   },
   "tinted-theming/base24": {
@@ -14050,24 +14060,24 @@
     "size": 21842
   },
   "tinted-theming/tinted-fzf": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d972eb45f67d1bddadd3d5b83c6a250053cb4a24b2ea4d14db63bd59fdf6d730\"",
+    "fetched": "2026-04-07T19:35:43Z",
+    "filename": "README.md",
     "size": 3585
   },
   "tinted-theming/tinted-shell": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6e09523cebb847721674e74a64ddb0c0a3b78bc52fcd358602f1b1d8d8188fce\"",
+    "fetched": "2026-04-07T19:35:44Z",
+    "filename": "README.md",
     "size": 4856
   },
   "tinted-theming/tinted-tmux": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"24468fe57f47f0056b4dd1e4440ffc2d5cdaf0b11a330712ae8df6e8b484b1b1\"",
+    "fetched": "2026-04-07T19:35:44Z",
+    "filename": "README.md",
     "size": 2948
   },
   "tinted-theming/tinted-vim": {
@@ -14078,17 +14088,17 @@
     "size": 6567
   },
   "tinted-theming/tinty": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"bb3fbbd446dadba4199e8b5b2b4bf8973ce425065f51db1070c5fe751d4f1509\"",
+    "fetched": "2026-04-07T19:35:45Z",
+    "filename": "README.md",
     "size": 23771
   },
   "tldr-pages/tldr": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"579ab7fbfed87eaa1cff9a2809d9f7215a149bad528e3331dfd1f7c9c7ad8c06\"",
+    "fetched": "2026-04-07T19:35:51Z",
+    "filename": "README.md",
     "size": 8469
   },
   "tldr-pages/tldr-lint": {
@@ -14099,10 +14109,10 @@
     "size": 4768
   },
   "tldr-pages/tldr-node-client": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9b398e9fb6a434b66eff98742a251fbfd3b45972c4ade2487532d6ab98c30127\"",
+    "fetched": "2026-04-07T19:35:50Z",
+    "filename": "README.md",
     "size": 9139
   },
   "tldr-pages/tlrc": {
@@ -14176,17 +14186,17 @@
     "size": 5229
   },
   "tree-sitter-grammars/tree-sitter-commonlisp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"5f06492545b37f70a7a0678333649ef78066359f5e8f30fb572fbe10672195f0\"",
+    "fetched": "2026-04-07T19:35:54Z",
+    "filename": "README.md",
     "size": 2910
   },
   "tree-sitter-grammars/tree-sitter-cuda": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"08326252f6ce9dc12fe2a8b37dc821ef308b4fe109ca7d1995ff0371aa72317a\"",
+    "fetched": "2026-04-07T19:35:56Z",
+    "filename": "README.md",
     "size": 1158
   },
   "tree-sitter-grammars/tree-sitter-glsl": {
@@ -14197,52 +14207,52 @@
     "size": 1139
   },
   "tree-sitter-grammars/tree-sitter-lua": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e06ee19312756073ccd8204303b519147b2de0ac4fbc1a68d69a3f3e8b46ea3c\"",
+    "fetched": "2026-04-07T19:36:00Z",
+    "filename": "README.md",
     "size": 1235
   },
   "tree-sitter-grammars/tree-sitter-markdown": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"337d6cd243f25ffee19f6892294ef77e1d92bd284e50da792730a5fb1fd02127\"",
+    "fetched": "2026-04-07T19:36:00Z",
+    "filename": "README.md",
     "size": 4738
   },
   "tree-sitter-grammars/tree-sitter-objc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"d3cb6c2d9485f3671956d188eb012c3c0bf84da09dc6328a768946a76a7d9735\"",
+    "fetched": "2026-04-07T19:36:01Z",
+    "filename": "README.md",
     "size": 1141
   },
   "tree-sitter-grammars/tree-sitter-odin": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"76a0128194e2d17240c250ced762999e9e377380e00683f88fd691d72ac592ec\"",
+    "fetched": "2026-04-07T19:36:02Z",
+    "filename": "README.md",
     "size": 1034
   },
   "tree-sitter-grammars/tree-sitter-query": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0bd274c1698a1c2a228f1e655e63c1776bb3aa4b5a49084c103e194f2d769cee\"",
+    "fetched": "2026-04-07T19:36:04Z",
+    "filename": "README.md",
     "size": 723
   },
   "tree-sitter-grammars/tree-sitter-xml": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e218a2c543f8d634f8ad955b5d15040a931144f6cbddea3d2f5efc21a187f532\"",
+    "fetched": "2026-04-07T19:36:09Z",
+    "filename": "README.md",
     "size": 1350
   },
   "tree-sitter-grammars/tree-sitter-zig": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"14e5ed225d4809eae40a93f7af53cfd37e592097a5faaa839d9c84d533afed5c\"",
+    "fetched": "2026-04-07T19:36:09Z",
+    "filename": "README.md",
     "size": 1156
   },
   "tree-sitter/tree-sitter": {
@@ -14253,171 +14263,171 @@
     "size": 1153
   },
   "tree-sitter/tree-sitter-agda": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"31beded72fef598f6628f966a99f00c08892b9b0e85f9afd6af43feb98af7096\"",
+    "fetched": "2026-04-07T19:35:53Z",
+    "filename": "README.md",
     "size": 1400
   },
   "tree-sitter/tree-sitter-bash": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9ee7e3c9d46d8d6de4aef80163e069e5ee18e9d94e8f60c16b06bfe2f8742b45\"",
+    "fetched": "2026-04-07T19:35:53Z",
+    "filename": "README.md",
     "size": 1485
   },
   "tree-sitter/tree-sitter-c": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9ca7e1825a6455727fe70151b98be72d75805f7dd03d5564ebd7e42c85f2d93c\"",
+    "fetched": "2026-04-07T19:35:54Z",
+    "filename": "README.md",
     "size": 1055
   },
   "tree-sitter/tree-sitter-c-sharp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"185cd3c2ce0c416437c2d758b3a5f9a4e9c540074c7b590bdc9b300f31a75673\"",
+    "fetched": "2026-04-07T19:35:54Z",
+    "filename": "README.md",
     "size": 1998
   },
   "tree-sitter/tree-sitter-cpp": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"3ce5c37bf891c9ca3113ec36691a28ad4dbf0418b4539f60323b53602a00bb45\"",
+    "fetched": "2026-04-07T19:35:55Z",
+    "filename": "README.md",
     "size": 1140
   },
   "tree-sitter/tree-sitter-css": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"0cf21a02ad8a3dc02d3a2ecfc8084e8d511de812e00bcee2b0978d0cc5fc87bf\"",
+    "fetched": "2026-04-07T19:35:55Z",
+    "filename": "README.md",
     "size": 1086
   },
   "tree-sitter/tree-sitter-embedded-template": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b20cb8f2e66dc926fa195c52baa73085dab0e022a799c40cc1076581b14bd81b\"",
+    "fetched": "2026-04-07T19:35:56Z",
+    "filename": "README.md",
     "size": 1572
   },
   "tree-sitter/tree-sitter-go": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"daf331555c60a2a9b5ae4df5f18e68ad7ed7538ce0cb7c6d8208ece47f47fbec\"",
+    "fetched": "2026-04-07T19:35:56Z",
+    "filename": "README.md",
     "size": 1012
   },
   "tree-sitter/tree-sitter-haskell": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f7ba863746a6d7bc97e083c85bf5ee5d7fba7df3c9b9b15168c0bb11aaaecb34\"",
+    "fetched": "2026-04-07T19:35:57Z",
+    "filename": "README.md",
     "size": 12556
   },
   "tree-sitter/tree-sitter-html": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"03e057ebc80e252923c99c1c8045449198f27f292f2547a518a047ceca716254\"",
+    "fetched": "2026-04-07T19:35:57Z",
+    "filename": "README.md",
     "size": 1078
   },
   "tree-sitter/tree-sitter-java": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6ceb049b7f45542782374319a8d0ec00637b7d47022af855d4f5cd27541eb4ad\"",
+    "fetched": "2026-04-07T19:35:58Z",
+    "filename": "README.md",
     "size": 1005
   },
   "tree-sitter/tree-sitter-javascript": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1eb32d5d2214c29d7bfc3cb8f1fc087a28146ca50a308e6b4f36831cf4e22f6f\"",
+    "fetched": "2026-04-07T19:35:58Z",
+    "filename": "README.md",
     "size": 1534
   },
   "tree-sitter/tree-sitter-jsdoc": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"4cd4211218c92fbec043e1b195d63bd8b88f08cae6756fd2a9557061cb6d5791\"",
+    "fetched": "2026-04-07T19:35:58Z",
+    "filename": "README.md",
     "size": 1041
   },
   "tree-sitter/tree-sitter-json": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"499000d2825eb9963ec99e9d6e784d9dc60dea2c029d1fd918269acb36200a11\"",
+    "fetched": "2026-04-07T19:35:59Z",
+    "filename": "README.md",
     "size": 1004
   },
   "tree-sitter/tree-sitter-julia": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"748fd08fd609b6d5c881a33e6fd00c5e620ab28b5eb5df521da7a0e2a93a5a41\"",
+    "fetched": "2026-04-07T19:35:59Z",
+    "filename": "README.md",
     "size": 1294
   },
   "tree-sitter/tree-sitter-ocaml": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1f4add7f912707c5f66899dfdeb1d3df63490c1b796b5590119d51fee6e9d427\"",
+    "fetched": "2026-04-07T19:36:01Z",
+    "filename": "README.md",
     "size": 1594
   },
   "tree-sitter/tree-sitter-php": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f8add7792ccaca36554bf7fb081637aab4906b3bb65041d9a75f848f66659f33\"",
+    "fetched": "2026-04-07T19:36:02Z",
+    "filename": "README.md",
     "size": 995
   },
   "tree-sitter/tree-sitter-python": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"491351cf4ce103d01bfdc0c3b490f3dc50bbee15fd71f43ebe39896d9e84be9a\"",
+    "fetched": "2026-04-07T19:36:03Z",
+    "filename": "README.md",
     "size": 1201
   },
   "tree-sitter/tree-sitter-ql": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"9cbf0b7b1567858d5e3d362a2c0e937f927731301bf48a30e794912f484b3b70\"",
+    "fetched": "2026-04-07T19:36:04Z",
+    "filename": "README.md",
     "size": 1049
   },
   "tree-sitter/tree-sitter-regex": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"e1699ed5ba49ee896ea2e21053754fdf1ecdca51fc31a5c2f5190988bbb1a5c7\"",
+    "fetched": "2026-04-07T19:36:05Z",
+    "filename": "README.md",
     "size": 1353
   },
   "tree-sitter/tree-sitter-ruby": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b951e7024118dc17c5251cc2a37ad65e10f8c1aa7a8eed9c1af6ef6acdda1577\"",
+    "fetched": "2026-04-07T19:36:05Z",
+    "filename": "README.md",
     "size": 1131
   },
   "tree-sitter/tree-sitter-rust": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"17445bab1261c0d85f95cd8bac846e6986fa8d3abf62fe44840fd8853af398ff\"",
+    "fetched": "2026-04-07T19:36:06Z",
+    "filename": "README.md",
     "size": 2062
   },
   "tree-sitter/tree-sitter-scala": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"eaaaf5b411bac91efb68d9e48619fe8c8bf0d8ef029b5768432131b2b543b056\"",
+    "fetched": "2026-04-07T19:36:07Z",
+    "filename": "README.md",
     "size": 1345
   },
   "tree-sitter/tree-sitter-typescript": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"efc29515782f2f8776408b1fc5b453196ce4873c34d2faf46704fafc51d41097\"",
+    "fetched": "2026-04-07T19:36:08Z",
+    "filename": "README.md",
     "size": 1608
   },
   "tree-sitter/tree-sitter-verilog": {
@@ -14428,17 +14438,17 @@
     "size": 1137
   },
   "tridactyl/tridactyl": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"953f1afee2d9086c5e1a6e4c611684ca88da3eeaba1f7f9da86be020f9502a3e\"",
+    "fetched": "2026-04-07T19:36:11Z",
+    "filename": "readme.md",
     "size": 26486
   },
   "trifectatechfoundation/teach-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"17639bbc27d3653a377f0b243f246b877fee373d3f76472c08e3b9362df63832\"",
+    "fetched": "2026-04-07T19:35:37Z",
+    "filename": "README.md",
     "size": 7613
   },
   "trougnouf/cfait": {
@@ -14456,10 +14466,10 @@
     "size": 14235
   },
   "trussed-dev/trussed": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"81cf761c0a612e06afb21039aec2cfa0fdd5efb987c8b5354ee1edd532755774\"",
+    "fetched": "2026-04-07T19:36:12Z",
+    "filename": "README.md",
     "size": 893
   },
   "tryvocalcat/badgefed": {
@@ -14477,10 +14487,10 @@
     "size": 4702
   },
   "tulir/whatsmeow": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"88fc2ce2b0fb91b243b7bfcec0cb40887c1caa42a8c6d77a8cfa2edaa192068a\"",
+    "fetched": "2026-04-07T19:36:29Z",
+    "filename": "README.md",
     "size": 1469
   },
   "tuna-os/tunaOS": {
@@ -14512,10 +14522,10 @@
     "size": 3405
   },
   "turt2live/matrix-bot-sdk": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"74ca7e1355ae3113e822bba3953524086c368791881b21938d7e17ab8f7317b5\"",
+    "fetched": "2026-04-07T19:32:18Z",
+    "filename": "README.md",
     "size": 1213
   },
   "turt2live/matrix-bot-sdk-bot-template": {
@@ -14603,10 +14613,10 @@
     "size": 7553
   },
   "us-irs/spacepackets-rs": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"6ad430392a60e98fc2d5c7b31618cd263a9fcca48da87d526843ca5e1ecc081b\"",
+    "fetched": "2026-04-07T19:35:10Z",
+    "filename": "README.md",
     "size": 3553
   },
   "use-ink/ink-examples": {
@@ -14624,10 +14634,10 @@
     "size": 8225
   },
   "vahempio/Tasmota-for-eWeLink": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"457c3c668a387923f74bb080d8d9850df0a1f019ba8216efc101fbc1c4697d72\"",
+    "fetched": "2026-04-07T19:35:36Z",
+    "filename": "README.md",
     "size": 4581
   },
   "vakofmaya/BreathOfStrudle": {
@@ -14652,10 +14662,10 @@
     "size": 1286
   },
   "vcflib/vcflib": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"ec7db6f16a5870fef8fa8951d25334f5c07d9ac1cb6cd3da748b2c89b69c5b74\"",
+    "fetched": "2026-04-07T19:36:17Z",
+    "filename": "README.md",
     "size": 33012
   },
   "vengefulplas/mauliasproxy": {
@@ -14708,10 +14718,10 @@
     "size": 3809
   },
   "vilemduha/blendercam": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"37baac26dfc763a012cfd3a52284807388a3dfa49434d19c6bf577b586afd1ee\"",
+    "fetched": "2026-04-07T19:29:19Z",
+    "filename": "README.md",
     "size": 8135
   },
   "voxa-org/Voxa": {
@@ -14729,10 +14739,10 @@
     "size": 37705
   },
   "vroland/epdiy": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"21ff9ade4be3e5908029f5d9008440e2ca7f3c64118baab0da8cfa4b7d94f35e\"",
+    "fetched": "2026-04-07T19:30:48Z",
+    "filename": "README.md",
     "size": 12046
   },
   "vvvv/VL.StandardLibs": {
@@ -14813,10 +14823,10 @@
     "size": 5445
   },
   "waydroid/waydroid": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"335a79f10883bb3d4107714fa4066bba8e2258f55975d662bc26e9edf6760634\"",
+    "fetched": "2026-04-07T19:36:23Z",
+    "filename": "README.md",
     "size": 1212
   },
   "waylyrics/waylyrics": {
@@ -14855,10 +14865,10 @@
     "size": 290
   },
   "wechaty/matrix-appservice": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1844e1d8f18c0819af0794658bdbc8021b15e286b30e307c715261b592875012\"",
+    "fetched": "2026-04-07T19:32:17Z",
+    "filename": "README.md",
     "size": 16469
   },
   "weslambert/velocistack": {
@@ -14904,10 +14914,10 @@
     "size": 22568
   },
   "willbasky/Awesome-list-of-Haskell-mentors": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"a8a24566c1001d8bb47e9598f0c5755293a9054ef3fc3c80a4bbd1b4a8d6dea7\"",
+    "fetched": "2026-04-07T19:29:12Z",
+    "filename": "README.md",
     "size": 4253
   },
   "willghatch/racket-rash": {
@@ -14932,17 +14942,17 @@
     "size": 27919
   },
   "windelbouwman/lognplot": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"29444a2a6e0b52d6ddd4fdbb1dcef05eb33ef310c48231002c6ccda38223a4f5\"",
+    "fetched": "2026-04-07T19:32:11Z",
+    "filename": "README.md",
     "size": 6655
   },
   "winft/como": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"b612da1784ba872b5930800bbaa4ba0460ded4b4f70036594fc5e98b27d89f6a\"",
+    "fetched": "2026-04-07T19:30:01Z",
+    "filename": "README.md",
     "size": 12094
   },
   "wiseaidev/rust-data-analysis": {
@@ -14953,17 +14963,17 @@
     "size": 10001
   },
   "wishthis/wishthis": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"c0a380de22015d644381b92af3ddc1cac1513f92e093c0cb8f4d538f76927ad1\"",
+    "fetched": "2026-04-07T19:36:31Z",
+    "filename": "README.md",
     "size": 4652
   },
   "woodpecker-ci/woodpecker": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"f9182ffd57e23d7bba54c2951c824fb63916fa661a015fafecbe2b6e6a7ef2d0\"",
+    "fetched": "2026-04-07T19:36:31Z",
+    "filename": "README.md",
     "size": 4473
   },
   "wootzapp/wootz-browser": {
@@ -15009,10 +15019,10 @@
     "size": 4295
   },
   "xmonad/xmonad": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"1e1631f5497b2acb9122233b906a5a3fd9b4b0d006d458d31bab12adf06138f8\"",
+    "fetched": "2026-04-07T19:36:33Z",
+    "filename": "README.md",
     "size": 5969
   },
   "xmonad/xmonad-contrib": {
@@ -15023,17 +15033,17 @@
     "size": 4894
   },
   "xn0px90/awesome-qubes-os": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7bebe169e241cb366a053e97c0559218153a8a5ec41226025fb4d6fc794cf1e5\"",
+    "fetched": "2026-04-07T19:29:13Z",
+    "filename": "README.md",
     "size": 60277
   },
   "xonotic/darkplaces": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7abd0d74462d4c43bebcfc412a4838b72c36e0c7ea4242b0b7bae590b31a2772\"",
+    "fetched": "2026-04-07T19:36:33Z",
+    "filename": "README.md",
     "size": 7166
   },
   "xou816/spot": {
@@ -15051,10 +15061,10 @@
     "size": 13794
   },
   "xtools-at/colibri": {
-    "branch": "",
-    "etag": "",
-    "fetched": "2026-04-07T19:11:51Z",
-    "filename": "",
+    "branch": "master",
+    "etag": "\"7dc48efba3ee1fdb09ddcfa083e035e56e180a021cae3e3ebd0b3dd9b2ca5ea0\"",
+    "fetched": "2026-04-07T19:30:00Z",
+    "filename": "README.md",
     "size": 6347
   },
   "xurenlu/sslcat": {

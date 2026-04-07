@@ -6,9 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 issues: [6908]
 updated: "2025-11-12T14:37:04Z"
+matrix_rooms: [https://matrix.to/#/#libretorrent:matrix.org]
 ---
 
 Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent

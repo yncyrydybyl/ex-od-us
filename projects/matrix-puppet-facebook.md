@@ -8,9 +8,9 @@ status: Active
 issues: [3635]
 updated: "2020-06-22T10:10:13Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org]
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 a puppetted facebook bridge

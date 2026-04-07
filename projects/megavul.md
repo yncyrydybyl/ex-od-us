@@ -8,7 +8,7 @@ status: Active
 issues: [3673]
 updated: "2025-01-12T03:01:12Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 ---
 
 MegaVul - The largest, high-quality, extensible, continuously updated, C/C++/Java vulnerability dataset

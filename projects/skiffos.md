@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-07T19:28:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aperturerobotics:matrix.org]
 issues: [4514]

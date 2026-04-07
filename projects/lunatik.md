@@ -1,20 +1,14 @@
 ---
-name: "Lunatik"
-description: "Lunatik is a framework for scripting the Linux kernel with Lua."
+name: Lunatik
+description: Lunatik is a framework for scripting the Linux kernel with Lua.
 repo: "https://github.com/luainkernel/lunatik"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lunatik:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lunatik:matrix.org"
+last_scanned: "2026-04-07T19:28:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lunatik:matrix.org]
 issues: [6983]
 updated: "2026-03-31T12:21:46Z"
 ---
