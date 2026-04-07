@@ -63,6 +63,32 @@ def ensure_label(label):
     gh('label', 'create', label, '--repo', REPO, '--color', '6e7681',
        '--description', f'Category: {label}', '--force')
 
+# Cached title → issue number map, populated on first lookup.
+_issue_index = None
+
+def find_existing_issue(title):
+    """Return the lowest-numbered open or closed issue whose title exactly
+    matches `title`, or None. Lazy-loads a full index of `[Project]:` issues
+    on first call to avoid O(N) API calls across the main loop."""
+    global _issue_index
+    if _issue_index is None:
+        _issue_index = {}
+        # Pull every `project`-labeled issue (open + closed). Paged by gh.
+        raw = gh('issue', 'list', '--repo', REPO, '--label', 'project',
+                 '--state', 'all', '--limit', '10000',
+                 '--json', 'number,title')
+        if raw:
+            try:
+                for it in json.loads(raw):
+                    t = it['title']
+                    n = int(it['number'])
+                    # Keep lowest number on collision — that's canonical.
+                    if t not in _issue_index or n < _issue_index[t]:
+                        _issue_index[t] = n
+            except (ValueError, KeyError) as e:
+                print(f"  warning: failed to index existing issues: {e}", file=sys.stderr)
+    return _issue_index.get(title)
+
 def main():
     created = 0
     synced = 0
@@ -154,6 +180,23 @@ def main():
                 synced += 1
             continue
 
+        # Idempotency guard: if an issue with this exact title already exists
+        # on GitHub (from a prior run whose commit was lost), reuse it instead
+        # of creating a duplicate. This is the only thing preventing the loop
+        # that has historically produced 2–3× duplicate issues per project.
+        title = f'[Project]: {name}'
+        existing = find_existing_issue(title)
+        if existing is not None:
+            print(f"  REUSE #{existing} for {name} (title already on GitHub)", file=sys.stderr)
+            new_content = content.replace(
+                'issues: []',
+                f'issues: [{existing}]'
+            )
+            with open(fpath, 'w') as f:
+                f.write(new_content)
+            created += 1
+            continue
+
         # Create issue for this project
         print(f"  CREATE issue for {name}...", file=sys.stderr)
 
@@ -173,7 +216,7 @@ def main():
             labels.append(cat)
 
         result = gh('issue', 'create', '--repo', REPO,
-                    '--title', f'[Project]: {name}',
+                    '--title', title,
                     '--label', ','.join(labels),
                     '--body', issue_body)
 
@@ -181,6 +224,12 @@ def main():
             # Extract issue number from URL
             issue_num = int(result.rstrip('/').split('/')[-1])
             print(f"  CREATED #{issue_num} for {name}", file=sys.stderr)
+
+            # Record in the index so a later project with the same name
+            # (shouldn't happen, but safety net) will reuse rather than
+            # create another.
+            if _issue_index is not None:
+                _issue_index[title] = issue_num
 
             # Update project file with issue number
             new_content = content.replace(
