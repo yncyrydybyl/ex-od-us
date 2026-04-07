@@ -18,6 +18,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # README bytes cache. Index (`data/readme-cache.json`) is in git and
+      # restored by checkout; this restores the actual README text files
+      # (`data/readmes/<owner>__<repo>.md`) so the next enricher run can do
+      # ETag-conditional fetches and avoid re-downloading unchanged READMEs.
+      # Cache key uses the index file's hash so the cache rotates whenever
+      # we add new repos or update ETags.
+      - name: Restore README bytes cache
+        uses: actions/cache@v4
+        with:
+          path: data/readmes
+          key: readme-bytes-${{ hashFiles('data/readme-cache.json') }}
+          restore-keys: |
+            readme-bytes-
+
       - name: Enrich projects via Sourcegraph (no GitHub API)
         run: python3 scripts/enrich-via-sourcegraph.py
 
@@ -28,7 +42,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add projects/ data/score-history.jsonl
+          git add projects/ data/score-history.jsonl data/readme-cache.json
           if git diff --staged --quiet; then
             echo "No changes."
           else

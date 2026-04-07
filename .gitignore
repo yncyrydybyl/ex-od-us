@@ -1,3 +1,11 @@
 __pycache__/
 data/projects.json
 data/projects-slim.json
+# README cache bytes — full README text per repo. Index lives in
+# data/readme-cache.json (committed). The bytes (~45MB total) are too
+# big for git; CI restores them via actions/cache.
+data/readmes/
+# Local working files
+_site/
+data/.dry-pass-readme-cache.json
+.gstack/

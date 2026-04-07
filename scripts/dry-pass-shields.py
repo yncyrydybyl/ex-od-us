@@ -12,8 +12,8 @@ Strategy:
 3. Apply OLD regex (matrix.to + element + plain) and NEW regex
    (OLD + room-ID `!` form + shields badges).
 4. Print every project where NEW finds rooms OLD did not.
-5. Persist a fetch cache at data/.dry-pass-readme-cache.json so re-runs
-   are fast.
+5. Use the shared ReadmeCache (data/readme-cache.json + data/readmes/)
+   so a single source of README bytes is used across enricher and tools.
 
 Usage:
   python3 scripts/dry-pass-shields.py
@@ -21,14 +21,14 @@ Usage:
   python3 scripts/dry-pass-shields.py --project webfs    # one project, verbose
   python3 scripts/dry-pass-shields.py --no-network       # only use cache
 """
-import os, sys, re, json, argparse, time
+import os, sys, re, argparse
 from pathlib import Path
-from urllib.request import Request, urlopen
-from urllib.error import HTTPError, URLError
 from urllib.parse import unquote
 
+sys.path.insert(0, os.path.dirname(__file__))
+from readme_cache import ReadmeCache
+
 PROJECTS_DIR = Path('projects')
-CACHE_FILE = Path('data/.dry-pass-readme-cache.json')
 
 # OLD patterns (verbatim from main branch enrich-via-sourcegraph.py)
 OLD_ROOM = re.compile(
@@ -78,33 +78,11 @@ def parse_repo(content):
     return None
 
 
-def fetch_readme_github(owner_repo, cache, no_network=False):
-    """Try a few branches + README filenames. Cache positive and negative results."""
-    if owner_repo in cache:
-        return cache[owner_repo]
+def fetch_readme_github(owner_repo, cache: ReadmeCache, no_network=False):
+    """Use the persistent cache. `no_network` returns cached bytes only."""
     if no_network:
-        return None
-
-    branches = ['master', 'main']
-    names = ['README.md', 'README.rst', 'README.txt', 'readme.md', 'README']
-    for branch in branches:
-        for name in names:
-            url = f'https://raw.githubusercontent.com/{owner_repo}/{branch}/{name}'
-            try:
-                req = Request(url, headers={'User-Agent': 'ex-od-us-dry-pass'})
-                resp = urlopen(req, timeout=15)
-                text = resp.read().decode('utf-8', errors='replace')
-                cache[owner_repo] = text
-                return text
-            except HTTPError as e:
-                if e.code == 404:
-                    continue
-                cache[owner_repo] = ''  # other error → don't retry this run
-                return ''
-            except (URLError, TimeoutError, OSError):
-                continue
-    cache[owner_repo] = ''
-    return ''
+        return cache._read_bytes(owner_repo) or ''
+    return cache.get(owner_repo) or ''
 
 
 def main():
@@ -114,13 +92,8 @@ def main():
     ap.add_argument('--no-network', action='store_true')
     args = ap.parse_args()
 
-    cache = {}
-    if CACHE_FILE.exists():
-        try:
-            cache = json.loads(CACHE_FILE.read_text())
-        except json.JSONDecodeError:
-            cache = {}
-    print(f'Loaded {len(cache)} cached READMEs from {CACHE_FILE}', file=sys.stderr)
+    cache = ReadmeCache()
+    print(f'Opened ReadmeCache: {len(cache._index)} index entries', file=sys.stderr)
 
     files = sorted(PROJECTS_DIR.glob('*.md'))
     if args.project:
@@ -135,7 +108,6 @@ def main():
     fetched = 0
     skipped_no_repo = 0
     skipped_no_readme = 0
-    last_save = time.time()
 
     for i, fpath in enumerate(files):
         slug = fpath.stem
@@ -165,22 +137,18 @@ def main():
         if diff:
             new_finds.append((slug, owner_repo, sorted(diff), sorted(old_rooms)))
 
-        # Periodic progress + cache flush
         if (i + 1) % 50 == 0:
             print(f'  ... {i+1}/{len(files)} processed, {len(new_finds)} new finds so far',
                   file=sys.stderr)
-        if time.time() - last_save > 30:
-            CACHE_FILE.write_text(json.dumps(cache))
-            last_save = time.time()
 
-    CACHE_FILE.write_text(json.dumps(cache))
+    cache.flush()
 
     print()
     print(f'Processed {len(files)} files')
     print(f'  fetched READMEs:    {fetched}')
     print(f'  no repo / non-GH:   {skipped_no_repo}')
     print(f'  README unavailable: {skipped_no_readme}')
-    print(f'  cache size:         {len(cache)}')
+    print(f'  {cache.report()}')
     print()
     print(f'Projects where NEW regex finds rooms OLD missed: {len(new_finds)}')
     print()
