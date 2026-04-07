@@ -93,6 +93,10 @@ header p { color: var(--text-muted); max-width: 600px; }
 .stat-label { font-size: 0.7rem; color: var(--text-faint); }
 .stat-bar { display: flex; gap: 1px; align-items: flex-end; height: 20px; }
 .stat-bar-seg { width: 4px; border-radius: 1px; min-height: 1px; transition: height 0.3s; }
+.stat-trend {
+  font-size: 0.7rem; font-weight: 700; margin-left: 0.25rem;
+  font-family: 'JetBrains Mono', monospace;
+}
 
 /* Grid */
 .grid {
@@ -172,7 +176,10 @@ header p { color: var(--text-muted); max-width: 600px; }
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  min-width: 0;
 }
+.card-link-row .mx-chip { max-width: calc(100% - 2rem); }
+.card-link-row .mx-chip-value { max-width: 100%; }
 .mx-chip:hover { border-color: var(--blue); text-decoration: none; }
 .mx-chip:hover .mx-chip-value { color: var(--blue); }
 
@@ -233,6 +240,16 @@ header p { color: var(--text-muted); max-width: 600px; }
 }
 .modal-desc { font-size: 0.875rem; color: var(--text); }
 .modal-channels { display: flex; flex-direction: column; gap: 0.375rem; }
+.modal-link-list { display: flex; flex-direction: column; gap: 0.375rem; }
+.modal-link-row {
+  display: flex; align-items: center; gap: 0.5rem;
+  padding: 0.375rem 0.5rem; background: var(--bg); border-radius: 6px;
+}
+.modal-link-meta {
+  font-size: 0.65rem; color: var(--text-faint);
+  font-family: 'JetBrains Mono', monospace;
+  margin-left: auto;
+}
 .modal-channel {
   display: flex; align-items: center; gap: 0.5rem;
   font-size: 0.8rem; padding: 0.375rem 0.5rem;
@@ -371,6 +388,7 @@ header p { color: var(--text-muted); max-width: 600px; }
     <select id="sort">
       <option value="score-desc">Highest score</option>
       <option value="score-asc">Lowest score</option>
+      <option value="link-quality">Best Matrix link first</option>
       <option value="created-desc">Newest first</option>
       <option value="created-asc">Oldest first</option>
       <option value="title-asc">Title A-Z</option>
@@ -744,6 +762,17 @@ function openModal(idx) {
       <div class="modal-desc">${esc([p.description, p.notes].filter(Boolean).join('\n\n')).replace(/\n/g, '<br>')}</div>
     </div>
     ${p.categories.length ? `<div class="modal-section"><div class="modal-section-title">Categories</div><div>${cats}</div></div>` : ''}
+    ${(p.matrix_links && p.matrix_links.length) ? `
+      <div class="modal-section">
+        <div class="modal-section-title">Matrix Links (${p.matrix_links.length})</div>
+        <div class="modal-link-list">
+          ${p.matrix_links.map(l => `
+            <div class="modal-link-row">
+              ${renderChip(l)}
+              <span class="modal-link-meta">${esc(l.kind)} &middot; ${esc(l.source)} &middot; q${l.quality}</span>
+            </div>`).join('')}
+        </div>
+      </div>` : ''}
     ${channelsHTML}
     ${p.website ? `<div class="modal-section"><div class="modal-section-title">Website</div><a href="${esc(p.website)}" target="_blank">${esc(p.website)}</a></div>` : ''}
     ${p.repo ? `<div class="modal-section"><div class="modal-section-title">Repository</div><a href="${esc(p.repo)}" target="_blank">${esc(p.repo)}</a></div>` : ''}
@@ -820,6 +849,11 @@ function applyFilters() {
       case 'category':     return (a.categories[0]||'').localeCompare(b.categories[0]||'');
       case 'score-desc':   return (b.exodus_score ?? -1) - (a.exodus_score ?? -1);
       case 'score-asc':    return (a.exodus_score ?? -1) - (b.exodus_score ?? -1);
+      case 'link-quality': {
+        const aq = (a.matrix_links?.[0]?.quality || 0) + (a.exodus_score || 0);
+        const bq = (b.matrix_links?.[0]?.quality || 0) + (b.exodus_score || 0);
+        return bq - aq;
+      }
       default: return 0;
     }
   });
@@ -831,10 +865,43 @@ function applyFilters() {
 }
 
 function populateFilters() {
-  const sel = document.getElementById('filter-category');
-  // Normalize categories to title case for display, lowercase for comparison
-  const cats = [...new Set(allProjects.flatMap(p => p.categories.map(c => c.trim())).filter(Boolean))].sort((a,b) => a.toLowerCase().localeCompare(b.toLowerCase()));
-  cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o); });
+  // Categories with counts
+  const catSel = document.getElementById('filter-category');
+  const catCounts = {};
+  allProjects.forEach(p => p.categories.forEach(c => {
+    const k = c.trim();
+    if (k) catCounts[k] = (catCounts[k] || 0) + 1;
+  }));
+  const cats = Object.keys(catCounts).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+  cats.forEach(c => {
+    const o = document.createElement('option');
+    o.value = c;
+    o.textContent = `${c} (${catCounts[c]})`;
+    catSel.appendChild(o);
+  });
+
+  // Via type counts
+  const viaCounts = { 'matrix.to': 0, 'element-web': 0, 'element-io': 0,
+                      'custom': 0, 'matrix-uri': 0, 'plain-text': 0, 'none': 0 };
+  allProjects.forEach(p => {
+    const links = p.matrix_links || [];
+    if (links.length === 0) { viaCounts.none++; return; }
+    const seen = new Set();
+    links.forEach(l => {
+      const v = l.via || '';
+      if (v.startsWith('client:')) seen.add('custom');
+      else if (viaCounts[v] !== undefined) seen.add(v);
+    });
+    seen.forEach(v => viaCounts[v]++);
+  });
+  const viaSel = document.getElementById('filter-via');
+  for (const opt of viaSel.options) {
+    if (opt.value && viaCounts[opt.value] !== undefined) {
+      const baseLabel = opt.dataset.label || opt.textContent;
+      opt.dataset.label = baseLabel;
+      opt.textContent = `${baseLabel} (${viaCounts[opt.value]})`;
+    }
+  }
 }
 
 function syncFromURL() {
@@ -944,9 +1011,25 @@ function renderStats() {
   if (!bar) return;
 
   const total = allProjects.length;
-  const scored = allProjects.filter(p => p.exodus_score != null).length;
-  const avg = scored > 0 ? (allProjects.reduce((s, p) => s + (p.exodus_score || 0), 0) / scored).toFixed(1) : '—';
-  const withRooms = allProjects.filter(p => (p.channels?.matrix_rooms?.length || 0) > 0).length;
+  const scanned = allProjects.filter(p => p.exodus_score != null).length;
+  const discovered = total - scanned;
+  const avg = scanned > 0 ? (allProjects.reduce((s, p) => s + (p.exodus_score || 0), 0) / scanned) : 0;
+  const avgStr = scanned > 0 ? avg.toFixed(2) : '—';
+  const withLinks = allProjects.filter(p => (p.matrix_links?.length || 0) > 0).length;
+
+  // Trend indicator vs previous snapshot
+  let trendIndicator = '';
+  if (trendData && trendData.length >= 2) {
+    const prev = trendData[trendData.length - 2].avg;
+    const delta = avg - prev;
+    if (Math.abs(delta) >= 0.005) {
+      const arrow = delta > 0 ? '▲' : '▼';
+      const color = delta > 0 ? 'var(--green)' : 'var(--score-low)';
+      trendIndicator = `<span class="stat-trend" style="color:${color}" title="vs last snapshot">${arrow}${Math.abs(delta).toFixed(2)}</span>`;
+    } else {
+      trendIndicator = `<span class="stat-trend" style="color:var(--text-faint)" title="no change">=</span>`;
+    }
+  }
 
   // Score distribution mini-bar chart
   const dist = Array(11).fill(0);
@@ -960,9 +1043,10 @@ function renderStats() {
 
   bar.innerHTML = `
     <div class="stat"><span class="stat-num">${total}</span><span class="stat-label">projects</span></div>
-    <div class="stat"><span class="stat-num">${scored}</span><span class="stat-label">scanned</span></div>
-    <div class="stat"><span class="stat-num">${avg}</span><span class="stat-label">avg score</span></div>
-    <div class="stat"><span class="stat-num">${withRooms}</span><span class="stat-label">with Matrix rooms</span></div>
+    <div class="stat"><span class="stat-num">${scanned}</span><span class="stat-label">scanned</span></div>
+    ${discovered > 0 ? `<div class="stat"><span class="stat-num">${discovered}</span><span class="stat-label">queued</span></div>` : ''}
+    <div class="stat"><span class="stat-num">${avgStr}</span><span class="stat-label">avg score</span>${trendIndicator}</div>
+    <div class="stat"><span class="stat-num">${withLinks}</span><span class="stat-label">with Matrix links</span></div>
     <div class="stat-bar" title="Score distribution 0-10">${barSegs}</div>
   `;
 }
