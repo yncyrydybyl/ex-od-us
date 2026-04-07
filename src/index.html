@@ -49,12 +49,17 @@ header p { color: var(--text-muted); max-width: 600px; }
   display: flex; flex-wrap: wrap; gap: 0.75rem;
   margin-bottom: 1.5rem; align-items: center;
 }
-.controls select, .controls input {
+.controls select, .controls input, .controls button {
   background: var(--surface); border: 1px solid var(--border); color: var(--text);
   padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.875rem;
   font-family: inherit;
 }
 .controls select:focus, .controls input:focus { outline: none; border-color: var(--blue); }
+.reset-btn {
+  cursor: pointer; transition: border-color 0.15s, color 0.15s;
+}
+.reset-btn:hover { border-color: var(--blue); color: var(--blue); }
+.reset-btn.active { border-color: var(--score-mid); color: var(--score-mid); }
 #search { min-width: 200px; }
 #count { color: var(--text-muted); font-size: 0.875rem; margin-left: auto; }
 
@@ -353,6 +358,16 @@ header p { color: var(--text-muted); max-width: 600px; }
   <div class="controls">
     <input type="text" id="search" placeholder="Search projects...">
     <select id="filter-category"><option value="">All Categories</option></select>
+    <select id="filter-via">
+      <option value="">All Link Types</option>
+      <option value="matrix.to">matrix.to</option>
+      <option value="element-web">element web</option>
+      <option value="element-io">element.io</option>
+      <option value="custom">custom homeserver</option>
+      <option value="matrix-uri">matrix: URI</option>
+      <option value="plain-text">plain text only</option>
+      <option value="none">no Matrix link</option>
+    </select>
     <select id="sort">
       <option value="score-desc">Highest score</option>
       <option value="score-asc">Lowest score</option>
@@ -362,6 +377,7 @@ header p { color: var(--text-muted); max-width: 600px; }
       <option value="title-desc">Title Z-A</option>
       <option value="category">By Category</option>
     </select>
+    <button id="reset-filters" class="reset-btn" title="Clear all filters">Reset</button>
     <span id="count"></span>
   </div>
 
@@ -767,13 +783,27 @@ function timeAgo(d) {
 }
 
 // ── Filter & Sort ───────────────────────────────────────────────
+function matchesViaFilter(p, viaFilter) {
+  if (!viaFilter) return true;
+  const links = p.matrix_links || [];
+  if (viaFilter === 'none') return links.length === 0;
+  if (viaFilter === 'custom') return links.some(l => (l.via || '').startsWith('client:'));
+  return links.some(l => l.via === viaFilter);
+}
+
 function applyFilters() {
   const search = document.getElementById('search').value.toLowerCase();
   const catFilter = document.getElementById('filter-category').value.toLowerCase();
+  const viaFilter = document.getElementById('filter-via').value;
   const sortKey = document.getElementById('sort').value;
+
+  // Mark reset button active if any filter is set
+  const hasFilter = !!(search || catFilter || viaFilter || sortKey !== 'score-desc');
+  document.getElementById('reset-filters').classList.toggle('active', hasFilter);
 
   let filtered = allProjects.filter(p => {
     if (catFilter && !p.categories.some(c => c.toLowerCase() === catFilter)) return false;
+    if (!matchesViaFilter(p, viaFilter)) return false;
     if (search) {
       const hay = `${p.name} ${p.description} ${p.categories.join(' ')} ${p.notes}`.toLowerCase();
       if (!hay.includes(search)) return false;
@@ -810,19 +840,31 @@ function populateFilters() {
 function syncFromURL() {
   const p = new URLSearchParams(location.search);
   if (p.get('category')) document.getElementById('filter-category').value = p.get('category');
+  if (p.get('via')) document.getElementById('filter-via').value = p.get('via');
   if (p.get('sort')) document.getElementById('sort').value = p.get('sort');
   if (p.get('q')) document.getElementById('search').value = p.get('q');
 }
 function syncToURL() {
   const p = new URLSearchParams();
   const c = document.getElementById('filter-category').value;
+  const v = document.getElementById('filter-via').value;
   const s = document.getElementById('sort').value;
   const q = document.getElementById('search').value;
   if (c) p.set('category', c);
+  if (v) p.set('via', v);
   if (s !== 'score-desc') p.set('sort', s);
   if (q) p.set('q', q);
   const qs = p.toString();
   history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+}
+
+function resetFilters() {
+  document.getElementById('search').value = '';
+  document.getElementById('filter-category').value = '';
+  document.getElementById('filter-via').value = '';
+  document.getElementById('sort').value = 'score-desc';
+  syncToURL();
+  applyFilters();
 }
 
 // ── Init ────────────────────────────────────────────────────────
@@ -835,9 +877,10 @@ function syncToURL() {
     applyFilters();
     startHeroAnimation();
     renderStats();
-    for (const id of ['search','filter-category','sort']) {
+    for (const id of ['search','filter-category','filter-via','sort']) {
       document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', () => { syncToURL(); applyFilters(); });
     }
+    document.getElementById('reset-filters').addEventListener('click', resetFilters);
   } catch (err) {
     document.getElementById('grid').innerHTML =
       `<div class="error">Failed to load: ${esc(err.message)}<br>
