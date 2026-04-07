@@ -10,8 +10,15 @@ permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
 jobs:
   sync:
+    # Skip when the triggering commit was made by the bot itself, to avoid
+    # a no-op self-trigger loop after this workflow pushes its own commit.
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -30,6 +37,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes."
           else
-            git commit -m "Sync issue numbers into project files"
+            git commit -m "chore: sync issue numbers into project files"
+            git pull --rebase origin main
             git push
           fi
