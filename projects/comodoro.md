@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 2
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#pimalaya:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 issues: [5676]
 updated: "2026-02-11T19:26:19Z"

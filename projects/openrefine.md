@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#OpenRefine_OpenRefine:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#OpenRefine_OpenRefine:gitter.im]
 issues: []
 updated: "2026-04-03T18:54:06Z"

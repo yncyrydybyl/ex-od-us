@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 4
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#aap_config_as_code:ansible.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#aap_config_as_code:ansible.com"
 issues: [6637]

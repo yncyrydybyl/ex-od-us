@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 6
 status: "Archived"
+matrix_links:
+  - target: "#chooj:mozilla.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#chooj:mozilla.org"
 issues: [7022]

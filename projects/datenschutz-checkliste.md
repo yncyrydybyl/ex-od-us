@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#privacy-cheat-sheet:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#privacy-cheat-sheet:matrix.org]
 issues: [5803]
 updated: "2025-11-02T12:29:19Z"

@@ -9,6 +9,12 @@ issues: [6249]
 updated: "2026-02-18T13:31:47Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#fluiddyn-users:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#fluiddyn-users:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:20:38Z"

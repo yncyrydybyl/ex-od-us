@@ -9,6 +9,12 @@ issues: [2025]
 updated: "2022-07-26T12:59:57Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#coqui-ai_TTS:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#coqui-ai_TTS:gitter.im]
 exodus_score: 4
 last_scanned: "2026-04-06T15:24:43Z"

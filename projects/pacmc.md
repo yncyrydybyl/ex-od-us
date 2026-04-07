@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2022-09-10T22:30:26Z"
+matrix_links:
+  - target: "#kotlinmc:axay.net"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#kotlinmc:axay.net]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

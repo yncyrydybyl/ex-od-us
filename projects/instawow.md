@@ -9,6 +9,12 @@ issues: [6645]
 updated: "2026-04-02T11:02:25Z"
 exodus_score: 1
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#wow-addon-management:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#wow-addon-management:matrix.org]
 ---
 

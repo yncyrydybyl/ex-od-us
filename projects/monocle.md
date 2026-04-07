@@ -9,6 +9,12 @@ issues: []
 updated: "2026-04-02T08:56:39Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#monocle:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#monocle:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:22:27Z"

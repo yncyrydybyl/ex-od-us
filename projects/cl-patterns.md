@@ -9,6 +9,12 @@ issues: [5604]
 updated: "2026-02-18T04:03:39Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#cl-patterns:struct.ws"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#cl-patterns:struct.ws]
 exodus_score: 5
 last_scanned: "2026-04-06T15:17:55Z"

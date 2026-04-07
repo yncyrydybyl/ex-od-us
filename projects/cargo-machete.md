@@ -9,6 +9,12 @@ issues: [723]
 updated: "2026-03-23T15:05:52Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#cargo-machete:delire.party"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#cargo-machete:delire.party]
 exodus_score: 6
 last_scanned: "2026-04-06T15:17:30Z"

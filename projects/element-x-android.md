@@ -9,6 +9,12 @@ issues: [6004]
 updated: "2026-04-06T12:57:06Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#element-x-android:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#element-x-android:matrix.org]
 exodus_score: 6
 last_scanned: "2026-04-07T06:34:49Z"

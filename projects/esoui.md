@@ -9,6 +9,12 @@ issues: [6072]
 updated: "2026-03-30T20:07:14Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#esoui_esoui:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#esoui_esoui:gitter.im]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

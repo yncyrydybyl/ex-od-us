@@ -9,6 +9,12 @@ issues: [6578]
 updated: "2025-11-06T10:43:56Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#hydrogen:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#hydrogen:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:21:21Z"

@@ -9,6 +9,22 @@ issues: [5512]
 updated: "2026-04-05T17:40:44Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#breezy-weather-francais:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#breezy-weather-space:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#breezy-weather:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#breezy-weather-space:matrix.org, https://matrix.to/#/#breezy-weather-francais:matrix.org, https://matrix.to/#/#breezy-weather:matrix.org]
 exodus_score: 5
 last_scanned: "2026-04-06T15:17:15Z"

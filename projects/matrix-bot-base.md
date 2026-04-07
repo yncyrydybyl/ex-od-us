@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 4
 status: "Active"
+matrix_links:
+  - target: "#trixnity:imbitbu.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#trixnity:imbitbu.de"
 issues: []

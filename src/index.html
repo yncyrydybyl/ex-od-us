@@ -104,29 +104,20 @@ header p { color: var(--text-muted); max-width: 600px; }
 }
 .card:hover { border-color: var(--blue); box-shadow: 0 2px 12px rgba(122,162,255,0.08); }
 
-/* Triangle corner badge (GitHub-style) */
-.card-corner {
-  position: absolute; top: 0; right: 0; width: 0; height: 0;
-  border-style: solid; border-width: 0 40px 40px 0;
-  border-color: transparent var(--border) transparent transparent;
-  z-index: 1;
-}
-.card-corner-icon {
-  position: absolute; top: 4px; right: -36px;
-  font-size: 0.6rem; font-weight: 700; color: var(--text);
-  z-index: 2; line-height: 1;
-}
-.card-corner.github   { border-right-color: var(--surface-hover); }
-.card-corner.gitlab   { border-right-color: rgba(252,109,38,0.2); }
-.card-corner.codeberg { border-right-color: rgba(33,133,208,0.2); }
-.card-corner-icon.gitlab  { color: #fc6d26; }
-.card-corner-icon.codeberg { color: #2185d0; }
-
 .card-body {
   padding: 1rem; display: flex; flex-direction: column;
-  min-height: 150px;
+  height: 100%; min-height: 200px;
 }
-.card-grow { flex: 1; }
+.card-content { flex: 1; display: flex; flex-direction: column; }
+.card-bottom {
+  flex-shrink: 0; padding-top: 0.625rem;
+  border-top: 1px solid var(--border-subtle); margin-top: 0.5rem;
+}
+.card-bottom-meta {
+  display: flex; justify-content: space-between;
+  font-size: 0.62rem; color: var(--text-faint);
+  margin-bottom: 0.375rem; font-family: 'JetBrains Mono', monospace;
+}
 .card-header { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.375rem; }
 .card-avatar {
   width: 28px; height: 28px; border-radius: 50%;
@@ -152,18 +143,49 @@ header p { color: var(--text-muted); max-width: 600px; }
   font-size: 0.65rem; font-weight: 500; padding: 0.1rem 0.4rem;
   border-radius: 3px; background: var(--surface-hover); color: var(--text-muted);
 }
-.card-room {
-  font-size: 0.7rem; color: var(--green); margin-bottom: 0.25rem;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-  font-family: 'JetBrains Mono', monospace;
+/* Shields-style chip for matrix links */
+.mx-chip {
+  display: inline-flex; align-items: stretch;
+  font-size: 0.62rem; font-family: 'JetBrains Mono', monospace;
+  border-radius: 3px; overflow: hidden;
+  text-decoration: none;
+  border: 1px solid var(--border);
+  line-height: 1.5; max-width: 100%;
+  margin-bottom: 0.25rem;
 }
-.card-room a { color: var(--green); }
-.card-room a:hover { color: var(--green-solid); text-decoration: none; }
-.card-footer {
-  display: flex; justify-content: space-between; align-items: center;
-  margin-top: auto; padding-top: 0.5rem;
-  font-size: 0.65rem; color: var(--text-faint);
+.mx-chip-label {
+  background: var(--surface-hover);
+  color: var(--text-muted);
+  padding: 0.15rem 0.4rem;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
+.mx-chip-value {
+  background: var(--bg);
+  color: var(--text);
+  padding: 0.15rem 0.4rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mx-chip:hover { border-color: var(--blue); text-decoration: none; }
+.mx-chip:hover .mx-chip-value { color: var(--blue); }
+
+/* Via type colors (left label background) */
+.mx-chip.via-matrix-to .mx-chip-label  { background: #1a2a1a; color: var(--green); }
+.mx-chip.via-custom    .mx-chip-label  { background: #2a2516; color: var(--score-mid); }
+.mx-chip.via-element-web .mx-chip-label { background: #1a2030; color: var(--blue); }
+.mx-chip.via-element-io .mx-chip-label  { background: #1a2030; color: var(--blue); }
+.mx-chip.via-cinny     .mx-chip-label  { background: #2a1a2a; color: #c878ff; }
+.mx-chip.via-text      .mx-chip-label  { background: var(--surface-hover); color: var(--text-faint); }
+.mx-chip.via-uri       .mx-chip-label  { background: #1a2a1a; color: var(--green); }
+
+/* Source kind underline indicator */
+.mx-chip.src-badge .mx-chip-label { font-weight: 700; }
+.mx-chip.src-text .mx-chip-label { font-style: italic; }
+
+.card-link-row { display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; }
+.card-link-more { font-size: 0.62rem; color: var(--text-faint); padding: 0 0.25rem; }
 
 /* Modal */
 .modal-overlay {
@@ -366,10 +388,36 @@ let trendData = [];
 
 // ── Map slim JSON keys to full names ────────────────────────────
 function unslim(p) {
+  // Decompress matrix_links: short keys → full keys, derive url + label
+  const matrixLinks = (p.ml || []).map(l => {
+    const target = l.t || '';
+    const via = l.v || '';
+    let url;
+    if (via === 'matrix.to' || via === 'plain-text') {
+      url = `https://matrix.to/#/${target}`;
+    } else if (via === 'element-web') {
+      url = `https://app.element.io/#/room/${target}`;
+    } else if (via === 'element-io') {
+      url = `https://element.io/#/room/${target}`;
+    } else if (via.startsWith('client:')) {
+      url = `https://${via.slice(7)}/#/room/${target}`;
+    } else if (via === 'matrix-uri') {
+      const prefix = target[0] === '#' ? 'r/' : (target[0] === '@' ? 'u/' : 'space/');
+      url = `matrix:${prefix}${target.slice(1)}`;
+    } else {
+      url = `https://matrix.to/#/${target}`;
+    }
+    return {
+      target, kind: l.k || 'room', via, source: l.src || 'anchor',
+      quality: l.q || 0, url,
+    };
+  });
+
   return {
     slug: p.s, name: p.n, description: p.d, exodus_score: p.x,
     platform: p.p, categories: p.c || [], repo: p.r, website: p.w,
     channels: { matrix_rooms: p.m || [], ...(p.ch || {}) },
+    matrix_links: matrixLinks,
     status: p.st, issues: p.i || [], updated: p.u, last_scanned: p.ls,
     notes: '', community_size: '', avatar_url: '',
   };
@@ -505,6 +553,26 @@ function enrich(p) {
   return p;
 }
 
+// ── Shield-style chip for Matrix links ──────────────────────────
+function renderChip(link) {
+  const via = link.via || 'unknown';
+  let viaClass, viaLabel;
+  if (via === 'matrix.to')        { viaClass = 'via-matrix-to';  viaLabel = 'matrix.to'; }
+  else if (via === 'element-web') { viaClass = 'via-element-web'; viaLabel = 'element web'; }
+  else if (via === 'element-io')  { viaClass = 'via-element-io';  viaLabel = 'element.io'; }
+  else if (via === 'cinny')       { viaClass = 'via-cinny';       viaLabel = 'cinny'; }
+  else if (via === 'matrix-uri')  { viaClass = 'via-uri';         viaLabel = 'matrix:'; }
+  else if (via === 'plain-text')  { viaClass = 'via-text';        viaLabel = 'text'; }
+  else if (via.startsWith('client:')) {
+    viaClass = 'via-custom';
+    viaLabel = via.slice(7);
+  } else {
+    viaClass = 'via-text'; viaLabel = via;
+  }
+  const srcClass = `src-${link.source || 'anchor'}`;
+  return `<a class="mx-chip ${viaClass} ${srcClass}" href="${esc(link.url)}" target="_blank" onclick="event.stopPropagation()" title="${esc(link.target)} via ${esc(viaLabel)} (${esc(link.source || '')})"><span class="mx-chip-label">${esc(viaLabel)}</span><span class="mx-chip-value">${esc(link.target)}</span></a>`;
+}
+
 // ── Render ──────────────────────────────────────────────────────
 function renderCards(projects) {
   const grid = document.getElementById('grid');
@@ -517,19 +585,14 @@ function renderCards(projects) {
       ? `<div class="card-avatar"><img src="${esc(p.avatar_url)}" alt="" loading="lazy" onerror="this.parentElement.textContent='${esc(p.initials)}'"></div>`
       : `<div class="card-avatar">${esc(p.initials)}</div>`;
 
-    // Corner triangle badge
-    const cornerClass = p.platform !== 'none' ? p.platform : '';
-    const cornerIcon = {github:'GH', gitlab:'GL', codeberg:'CB'}[p.platform] || '';
-
     // Tags (first 3 categories)
     const tags = p.categories.slice(0, 3).map(c => `<span class="tag">${esc(c)}</span>`).join('');
 
-    // Matrix room (first one, as monospace alias)
-    const firstRoom = p.matrixRoomsParsed[0];
-    const roomAlias = firstRoom ? firstRoom.url.replace('https://matrix.to/#/', '') : '';
-    const roomLine = roomAlias
-      ? `<div class="card-room"><a href="${esc(firstRoom.url)}" target="_blank" onclick="event.stopPropagation()" title="${esc(firstRoom.url)}">${esc(decodeURIComponent(roomAlias))}</a></div>`
-      : '';
+    // Top matrix link as shield-style chip
+    const topLink = (p.matrix_links && p.matrix_links[0]) || null;
+    const linkChip = topLink ? renderChip(topLink) : '';
+    const moreLinks = (p.matrix_links && p.matrix_links.length > 1)
+      ? `<span class="card-link-more">+${p.matrix_links.length - 1}</span>` : '';
 
     // Exodus bar
     const sc = p.exodus_score;
@@ -544,24 +607,35 @@ function renderCards(projects) {
         <div class="exodus-bar-track"><div class="exodus-bar-fill" style="--score-pct:${pct}%"></div></div>
         <span class="exodus-bar-icon matrix">M</span>
         <span class="exodus-bar-label">${sc}/10</span>
-      </div>` : '';
+      </div>` : `
+      <div class="exodus-bar">
+        <span class="exodus-bar-icon" style="opacity:0">.</span>
+        <div class="exodus-bar-track"></div>
+        <span class="exodus-bar-icon" style="opacity:0">.</span>
+        <span class="exodus-bar-label">—</span>
+      </div>`;
+
+    const scannedTime = p.last_scanned ? timeAgo(p.last_scanned) : '—';
+    const updatedTime = p.updated ? timeAgo(p.updated) : '—';
 
     return `
     <div class="card" data-idx="${i}">
-      ${cornerClass ? `<div class="card-corner ${cornerClass}"></div><span class="card-corner-icon ${cornerClass}">${cornerIcon}</span>` : ''}
       <div class="card-body">
-        <div class="card-header">
-          ${avatar}
-          <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.name)}</a></div>
+        <div class="card-content">
+          <div class="card-header">
+            ${avatar}
+            <div class="card-title"><a href="${esc(p.projectLink)}" target="_blank" onclick="event.stopPropagation()">${esc(p.name)}</a></div>
+          </div>
+          <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
+          ${tags ? `<div class="card-tags">${tags}</div>` : ''}
+          ${linkChip ? `<div class="card-link-row">${linkChip}${moreLinks}</div>` : ''}
         </div>
-        <div class="card-summary">${esc((p.description || '').split('\n')[0].slice(0, 140))}</div>
-        ${tags ? `<div class="card-tags">${tags}</div>` : ''}
-        ${roomLine}
-        <div class="card-grow"></div>
-        ${exodusBar}
-        <div class="card-footer">
-          <span>${p.last_scanned ? `Scanned ${timeAgo(p.last_scanned)}` : `Updated ${timeAgo(p.updated)}`}</span>
-          <span>${sc != null ? `${sc}/10` : ''}</span>
+        <div class="card-bottom">
+          <div class="card-bottom-meta">
+            <span>scanned ${scannedTime}</span>
+            <span>updated ${updatedTime}</span>
+          </div>
+          ${exodusBar}
         </div>
       </div>
     </div>`;

@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2024-06-07T04:06:44Z"
+matrix_links:
+  - target: "#ethereum_solidity:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
 exodus_score: 3
 last_scanned: "2026-04-06T20:35:19Z"

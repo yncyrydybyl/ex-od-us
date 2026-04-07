@@ -5,6 +5,12 @@ repo: "https://github.com/matrix-org/mjolnir"
 platform: github
 categories: [Community]
 status: Active
+matrix_links:
+  - target: "#mjolnir:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#mjolnir:matrix.org]
 issues: [4]
 updated: "2026-04-06T08:17:36Z"

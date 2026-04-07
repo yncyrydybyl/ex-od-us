@@ -7,6 +7,27 @@ categories: [Matrix]
 status: Active
 issues: []
 updated: "2026-04-01T17:12:45Z"
+matrix_links:
+  - target: "#matrix-docs:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#matrix-spec-process:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#matrix-spec:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#sct-office:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-spec:matrix.org, https://matrix.to/#/#matrix-docs:matrix.org, https://matrix.to/#/#matrix-spec-process:matrix.org, https://matrix.to/#/#sct-office:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

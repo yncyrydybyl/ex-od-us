@@ -9,6 +9,12 @@ issues: [5949]
 updated: "2024-06-09T11:58:48Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#droidian:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#droidian:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-06T15:19:00Z"

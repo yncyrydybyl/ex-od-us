@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 4
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#gnome-software:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#gnome-software:gnome.org"
 issues: [6407]

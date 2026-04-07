@@ -7,6 +7,12 @@ categories: [Messaging]
 status: "Active"
 exodus_score: 3
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#ruma:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#ruma:matrix.org"
 issues: []

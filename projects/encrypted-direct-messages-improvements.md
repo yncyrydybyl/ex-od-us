@@ -4,6 +4,12 @@ description: "Improving the DM experience in Matrix"
 platform: none
 categories: [Messaging]
 status: "Active"
+matrix_links:
+  - target: "#matrix-dev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-dev:matrix.org"
 issues: [10]

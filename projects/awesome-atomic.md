@@ -7,6 +7,22 @@ categories: [Development]
 status: Active
 issues: [5312]
 updated: "2025-09-06T01:01:06Z"
+matrix_links:
+  - target: "#microos-desktop:opensuse.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#nix:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#silverblue:fedoraproject.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#microos-desktop:opensuse.org, https://matrix.to/#/#nix:matrix.org, https://matrix.to/#/#silverblue:fedoraproject.org]
 exodus_score: 5
 last_scanned: "2026-04-06T20:35:19Z"

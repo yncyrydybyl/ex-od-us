@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 6
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#komunumo:ijug.eu"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#komunumo:ijug.eu"
 issues: [6818]

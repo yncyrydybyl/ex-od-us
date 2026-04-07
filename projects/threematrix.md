@@ -9,6 +9,12 @@ issues: [822]
 updated: "2024-03-21T13:16:56Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#threema-bridge:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#threema-bridge:matrix.org]
 exodus_score: 6
 last_scanned: "2026-04-07T06:34:49Z"

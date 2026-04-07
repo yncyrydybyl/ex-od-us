@@ -11,6 +11,12 @@ issues: [6126]
 updated: "2025-09-09T20:21:40Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#teal-language_community:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#teal-language_community:gitter.im]
 ---
 

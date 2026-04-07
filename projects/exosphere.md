@@ -9,6 +9,17 @@ issues: [6120]
 updated: "2026-03-25T15:52:05Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#exosphere-dev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#exosphere:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#exosphere:matrix.org, https://matrix.to/#/#exosphere-dev:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

@@ -9,6 +9,12 @@ exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2026-03-25T21:24:26Z"
+matrix_links:
+  - target: "#openlane:fossi-chat.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#openlane:fossi-chat.org]
 ---
 

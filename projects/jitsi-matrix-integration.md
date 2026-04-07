@@ -6,6 +6,12 @@ categories: [Integrations]
 status: "Dead"
 verified: false
 verified_note: "Project repo no longer exists. Matrix room is an alias placeholder."
+matrix_links:
+  - target: "#jitsi:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#jitsi:matrix.org"
 issues: [17]

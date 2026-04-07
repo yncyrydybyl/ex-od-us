@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5107]
 updated: "2024-02-20T21:05:41Z"
+matrix_links:
+  - target: "#immers-space:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#immers-space:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

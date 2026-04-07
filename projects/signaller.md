@@ -7,6 +7,17 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2023-02-06T23:41:47Z"
+matrix_links:
+  - target: "#signaller_dev:netwhood.online"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#signaller_dev_ru:netwhood.online"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#signaller_dev:netwhood.online, https://matrix.to/#/#signaller_dev_ru:netwhood.online]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

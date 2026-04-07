@@ -7,6 +7,17 @@ categories: [Development]
 status: Active
 issues: [44]
 updated: "2024-05-16T08:51:49Z"
+matrix_links:
+  - target: "#gtfs-lib:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#transit-data-tools:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#transit-data-tools:gitter.im, https://matrix.to/#/#gtfs-lib:gitter.im]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

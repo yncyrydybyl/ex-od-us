@@ -9,6 +9,12 @@ issues: [5945]
 updated: "2023-05-24T13:20:00Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#drogue-iot:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

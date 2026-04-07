@@ -7,6 +7,17 @@ categories: [Development]
 status: "Active"
 exodus_score: 6
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#gnome-hackers:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#rust:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rust:gnome.org"
   - "https://matrix.to/#/#gnome-hackers:gnome.org"

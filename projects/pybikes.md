@@ -9,6 +9,12 @@ issues: [1987]
 updated: "2026-04-01T11:00:25Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#citybikes:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#citybikes:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:23:24Z"

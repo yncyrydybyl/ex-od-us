@@ -4,6 +4,12 @@ description: "Ansible playbooks for easy Matrix homeserver deployment"
 platform: none
 categories: [Operations]
 status: "Active"
+matrix_links:
+  - target: "#matrix-docker-ansible-deploy:devture.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com"
 issues: [7]

@@ -4,6 +4,12 @@ description: "Tools for migrating enterprise teams to Matrix"
 platform: none
 categories: [Migration]
 status: "Planning"
+matrix_links:
+  - target: "#enterprise:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#enterprise:matrix.org"
 issues: [15]

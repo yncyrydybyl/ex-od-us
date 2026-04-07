@@ -4,6 +4,12 @@ description: "Third-party audit of Matrix E2EE implementation"
 platform: none
 categories: [Security]
 status: "Planning"
+matrix_links:
+  - target: "#e2ee:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#e2ee:matrix.org"
 issues: [8]

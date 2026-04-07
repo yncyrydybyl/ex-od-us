@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 7
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#selfhosted:selfhosted.chat"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#selfhosted:selfhosted.chat"
 issues: [6310]

@@ -6,6 +6,17 @@ platform: codeberg
 categories: [Messaging]
 exodus_score: 6
 status: "Active"
+matrix_links:
+  - target: "#continuwuity:continuwuity.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#space:continuwuity.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#continuwuity:continuwuity.org"
   - "https://matrix.to/#/#space:continuwuity.org"

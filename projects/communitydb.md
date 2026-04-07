@@ -9,6 +9,12 @@ issues: [5670]
 updated: "2026-02-16T04:03:14Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#pixeldev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#pixeldev:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:18:11Z"

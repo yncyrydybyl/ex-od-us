@@ -9,6 +9,12 @@ issues: [5133]
 updated: "2025-12-30T23:56:04Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#akiraux:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#akiraux:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

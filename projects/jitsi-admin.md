@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#jitsi-admin:h2-invent.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#jitsi-admin:h2-invent.com"
 issues: [6746]

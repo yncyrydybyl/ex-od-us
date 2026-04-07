@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 4
 status: "Active"
+matrix_links:
+  - target: "#the-federation:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#the-federation:matrix.org"
 issues: []

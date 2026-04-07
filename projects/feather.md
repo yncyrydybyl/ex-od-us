@@ -9,6 +9,12 @@ issues: [6150]
 updated: "2026-02-05T17:43:50Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#feather:monero.social"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#feather:monero.social]
 exodus_score: 6
 last_scanned: "2026-04-06T15:20:13Z"

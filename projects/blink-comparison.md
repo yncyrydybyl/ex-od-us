@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5472]
 updated: "2025-08-31T19:55:19Z"
+matrix_links:
+  - target: "#blink_comparison:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#blink_comparison:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

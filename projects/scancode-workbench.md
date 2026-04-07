@@ -9,6 +9,12 @@ issues: [813]
 updated: "2025-01-17T05:47:11Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#aboutcode-org_scancode-workbench:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#aboutcode-org_scancode-workbench:gitter.im"
 exodus_score: 4

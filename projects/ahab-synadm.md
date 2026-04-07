@@ -6,6 +6,22 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 5
 status: "Active"
+matrix_links:
+  - target: "#matrix-dev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#synadm:peek-a-boo.at"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#synapse:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#synadm:peek-a-boo.at"
   - "https://matrix.to/#/#synapse:matrix.org"

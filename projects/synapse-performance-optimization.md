@@ -5,6 +5,17 @@ repo: "https://github.com/element-hq/synapse"
 platform: github
 categories: [Infrastructure]
 status: Active
+matrix_links:
+  - target: "#synapse-dev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#synapse:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#synapse-dev:matrix.org, https://matrix.to/#/#synapse:matrix.org]
 issues: [6]
 updated: "2026-04-06T08:17:35Z"

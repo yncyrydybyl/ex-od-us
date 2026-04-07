@@ -9,6 +9,12 @@ issues: [777]
 updated: "2022-08-26T14:21:05Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#AdwCustomizer:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#AdwCustomizer:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:22:01Z"

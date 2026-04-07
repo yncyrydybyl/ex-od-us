@@ -4,6 +4,12 @@ description: "User research on Matrix Spaces navigation and discovery"
 platform: none
 categories: [Research]
 status: "Active"
+matrix_links:
+  - target: "#spaces:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#spaces:matrix.org"
 issues: [23]

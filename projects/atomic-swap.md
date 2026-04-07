@@ -9,6 +9,12 @@ issues: [5300]
 updated: "2023-12-14T04:22:58Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#ethxmrswap:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ethxmrswap:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:16:23Z"

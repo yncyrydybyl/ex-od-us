@@ -6,6 +6,32 @@ platform: codeberg
 categories: [Development]
 exodus_score: 4
 status: "Active"
+matrix_links:
+  - target: "#linux_v2.ru:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#openwrt-rus:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#ru.nixdev:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#ru.protocols:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#ufalug:tchncs.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#openwrt-rus:matrix.org"
   - "https://matrix.to/#/#linux_v2.ru:matrix.org"

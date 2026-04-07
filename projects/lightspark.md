@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#lightspark:b0nk.xyz"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#lightspark:b0nk.xyz]
 issues: [6925]
 updated: "2026-03-30T17:58:20Z"

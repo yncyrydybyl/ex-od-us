@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 4
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#coffea-hep_community:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#coffea-hep_community:gitter.im"
 issues: [5644]

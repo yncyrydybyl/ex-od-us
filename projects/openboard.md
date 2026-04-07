@@ -6,6 +6,12 @@ categories: [Development]
 status: Active
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#openboard:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#openboard:matrix.org]
 issues: []
 updated: "2024-05-16T16:55:59Z"

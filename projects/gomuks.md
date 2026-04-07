@@ -7,6 +7,12 @@ categories: [Matrix]
 status: "Active"
 exodus_score: 6
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#gomuks:gomuks.app"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#gomuks:gomuks.app"
 issues: [6441]

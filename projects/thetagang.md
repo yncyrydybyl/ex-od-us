@@ -9,6 +9,12 @@ issues: [820]
 updated: "2026-03-09T13:27:01Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#thetagang:frens.io"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#thetagang:frens.io]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

@@ -9,6 +9,12 @@ exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
 issues: [5601]
 updated: "2026-02-11T18:23:39Z"
+matrix_links:
+  - target: "#javascript:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#javascript:gnome.org]
 ---
 

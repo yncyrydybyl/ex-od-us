@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 2
 status: "Active"
+matrix_links:
+  - target: "#skyuoiourchat:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#skyuoiourchat:matrix.org"
 issues: []

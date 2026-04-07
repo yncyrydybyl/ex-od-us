@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 6
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#xmrvsbeast:monero.social"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#xmrvsbeast:monero.social]
 issues: [6495]
 updated: "2026-03-09T13:19:15Z"

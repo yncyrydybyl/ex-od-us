@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#rustler:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#rustler:matrix.org]
 issues: []
 updated: "2026-03-15T18:14:42Z"

@@ -9,6 +9,12 @@ issues: [5755]
 updated: "2024-01-25T18:16:07Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#common-voice-sentence-extractor:mozilla.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#common-voice-sentence-extractor:mozilla.org"
 exodus_score: 6

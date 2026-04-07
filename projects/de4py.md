@@ -9,6 +9,12 @@ issues: [5823]
 updated: "2026-03-30T06:30:53Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#de4py_commiunty:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#de4py_commiunty:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:18:34Z"

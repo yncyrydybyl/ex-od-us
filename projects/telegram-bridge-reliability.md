@@ -5,6 +5,12 @@ repo: "https://github.com/mautrix/telegram"
 platform: github
 categories: [Telegram]
 status: Active
+matrix_links:
+  - target: "#telegram:maunium.net"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#telegram:maunium.net]
 issues: [14]
 updated: "2026-04-06T08:17:31Z"

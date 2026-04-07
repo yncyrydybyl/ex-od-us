@@ -7,6 +7,17 @@ categories: [Development]
 status: "Active"
 exodus_score: 3
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#invizible-pro-en:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#invizible-pro-ru:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#invizible-pro-ru:matrix.org"
   - "https://matrix.to/#/#invizible-pro-en:matrix.org"

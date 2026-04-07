@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2025-10-14T15:30:51Z"
+matrix_links:
+  - target: "#wishthis:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#wishthis:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

@@ -85,6 +85,30 @@ def parse_frontmatter(text):
     return fm, body.strip()
 
 
+def parse_matrix_links(text):
+    """Special parser for the matrix_links list-of-dicts in YAML."""
+    m = re.search(r'^matrix_links:\s*\n((?:  - target:.*\n(?:    \w+:.*\n)*)+)', text, re.MULTILINE)
+    if not m:
+        return []
+    block = m.group(1)
+    links = []
+    current = None
+    for line in block.split('\n'):
+        if re.match(r'^  - target:', line):
+            if current: links.append(current)
+            current = {}
+            v = line.split('target:', 1)[1].strip().strip('"').strip("'")
+            current['target'] = v
+        elif current and re.match(r'^    \w+:', line):
+            key, _, val = line.strip().partition(':')
+            val = val.strip().strip('"').strip("'")
+            try: val = int(val)
+            except ValueError: pass
+            current[key.strip()] = val
+    if current: links.append(current)
+    return links
+
+
 projects = []
 
 for fname in sorted(os.listdir(projects_dir)):
@@ -96,6 +120,7 @@ for fname in sorted(os.listdir(projects_dir)):
         content = f.read()
 
     fm, body = parse_frontmatter(content)
+    matrix_links = parse_matrix_links(content)
 
     slug = fname[:-3]  # remove .md
 
@@ -143,6 +168,7 @@ for fname in sorted(os.listdir(projects_dir)):
         'last_scanned': fm.get('last_scanned', ''),
         'verified': fm.get('verified', None),
         'verified_note': fm.get('verified_note', ''),
+        'matrix_links': matrix_links,
     }
 
     # Auto-detect platform from repo URL if not set
@@ -194,6 +220,15 @@ for p in projects:
     rooms = p.get('channels', {}).get('matrix_rooms', [])
     ch = {k: v for k, v in p.get('channels', {}).items()
           if v and k not in ('matrix_rooms', 'other')}
+    # Compact matrix links: keep top 5 by quality
+    ml = [{
+        't': l.get('target', ''),
+        'k': l.get('kind', 'room'),
+        'v': l.get('via', ''),
+        'src': l.get('source', ''),
+        'q': l.get('quality', 0),
+    } for l in (p.get('matrix_links') or [])[:5]]
+
     slim.append({
         's': p['slug'],
         'n': p['name'],
@@ -203,7 +238,8 @@ for p in projects:
         'c': p.get('categories', []),
         'r': p.get('repo', ''),
         'w': p.get('website', ''),
-        'm': rooms[:3],  # first 3 matrix rooms
+        'm': rooms[:3],  # legacy: list of matrix room URLs
+        'ml': ml,  # structured matrix links
         'st': p.get('status', ''),
         'i': p.get('issues', []),
         'u': p.get('updated', ''),

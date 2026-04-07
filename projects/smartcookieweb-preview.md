@@ -9,6 +9,12 @@ issues: [2006]
 updated: "2025-07-03T12:26:41Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#smartcookieweb:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#smartcookieweb:matrix.org]
 exodus_score: 2
 last_scanned: "2026-04-06T15:24:02Z"

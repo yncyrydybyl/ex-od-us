@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-01-28T05:16:52Z"
+matrix_links:
+  - target: "#voicenotify:p51.me"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#voicenotify:p51.me]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

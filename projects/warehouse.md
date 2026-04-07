@@ -9,6 +9,12 @@ issues: [2033]
 updated: "2026-04-04T04:51:53Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#warehouse-development:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#warehouse-development:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-06T15:24:56Z"

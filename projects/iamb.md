@@ -7,6 +7,12 @@ categories: [Matrix]
 status: Active
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#iamb:0x.badd.cafe"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#iamb:0x.badd.cafe]
 issues: [6591]
 updated: "2026-01-20T00:46:03Z"

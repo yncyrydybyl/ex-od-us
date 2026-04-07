@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [40]
 updated: "2026-01-22T01:03:47Z"
+matrix_links:
+  - target: "#dragonfly2:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#dragonfly2:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

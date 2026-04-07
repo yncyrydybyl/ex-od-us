@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [53]
 updated: "2026-04-03T17:41:30Z"
+matrix_links:
+  - target: "#apfaudio:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#apfaudio:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:24:35Z"

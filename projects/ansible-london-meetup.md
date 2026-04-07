@@ -10,6 +10,12 @@ issues: [5190]
 updated: "2026-03-19T10:09:06Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#europe:ansible.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#europe:ansible.com]
 ---
 

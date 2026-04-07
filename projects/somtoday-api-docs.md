@@ -9,6 +9,12 @@ issues: [2009]
 updated: "2026-04-05T17:36:52Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#somtoday:elisaado.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#somtoday:elisaado.com]
 exodus_score: 6
 last_scanned: "2026-04-06T15:24:09Z"

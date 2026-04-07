@@ -9,6 +9,12 @@ issues: [6797]
 updated: "2023-12-20T11:16:20Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#kbin-space:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#kbin-space:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-06T15:21:37Z"
