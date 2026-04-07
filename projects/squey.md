@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2025-12-15T21:21:53Z"
+matrix_links:
+  - target: "#squey:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#squey:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

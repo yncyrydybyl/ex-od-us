@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2023-01-29T20:24:39Z"
+matrix_links:
+  - target: "#forgehax:nerdsin.space"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

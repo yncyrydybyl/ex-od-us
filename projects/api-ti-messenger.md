@@ -7,6 +7,12 @@ categories: [Matrix]
 status: Active
 issues: [5216]
 updated: "2026-03-12T09:55:16Z"
+matrix_links:
+  - target: "#tim-spec:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#tim-spec:matrix.org]
 exodus_score: 2
 last_scanned: "2026-04-07T06:34:49Z"

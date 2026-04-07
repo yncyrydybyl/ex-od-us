@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [45]
 updated: "2024-10-30T03:04:15Z"
+matrix_links:
+  - target: "#lowlevel:postmarketos.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#lowlevel:postmarketos.org]
 exodus_score: 5
 last_scanned: "2026-04-06T15:22:14Z"

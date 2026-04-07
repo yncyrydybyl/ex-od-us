@@ -7,6 +7,17 @@ categories: [Messaging, Matrix]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#robius-robrix:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#robius:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#robius-robrix:matrix.org"
   - "https://matrix.to/#/#robius:matrix.org"

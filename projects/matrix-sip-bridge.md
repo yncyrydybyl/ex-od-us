@@ -9,6 +9,12 @@ issues: []
 updated: "2023-02-12T13:18:37Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#matrix-sip-bridge:indeednotjames.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-sip-bridge:indeednotjames.com]
 exodus_score: 7
 last_scanned: "2026-04-06T15:22:10Z"

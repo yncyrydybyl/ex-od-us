@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-04-06T12:57:04Z"
+matrix_links:
+  - target: "#matrix-docker-ansible-deploy:devture.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com"
 exodus_score: 5

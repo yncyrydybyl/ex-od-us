@@ -9,6 +9,17 @@ issues: [801]
 updated: "2025-08-06T20:26:59Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#pokem-example:jackson.dev"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#pokem:jackson.dev"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#pokem:jackson.dev, https://matrix.to/#/#pokem-example:jackson.dev]
 exodus_score: 7
 last_scanned: "2026-04-07T06:34:49Z"

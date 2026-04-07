@@ -9,6 +9,12 @@ exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
 issues: []
 updated: "2025-11-14T22:57:56Z"
+matrix_links:
+  - target: "#vanilla-conquer:vi.fi"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#vanilla-conquer:vi.fi]
 ---
 

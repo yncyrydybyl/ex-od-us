@@ -7,6 +7,17 @@ categories: [Matrix]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#community-moderation-effort-bl:neko.dev"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#draupnir:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#community-moderation-effort-bl:neko.dev"
   - "https://matrix.to/#/#draupnir:matrix.org"

@@ -7,6 +7,12 @@ categories: [Matrix]
 status: Active
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#matrix-collaboration:kb1rd.net"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-collaboration:kb1rd.net]
 issues: []
 updated: "2023-01-07T12:02:59Z"

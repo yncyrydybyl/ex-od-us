@@ -9,6 +9,12 @@ issues: [5809]
 updated: "2025-12-26T16:01:37Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#dawndrums-r2:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#dawndrums-r2:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-06T15:18:32Z"

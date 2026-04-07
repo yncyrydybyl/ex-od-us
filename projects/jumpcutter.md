@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [6768]
 updated: "2026-01-29T16:14:14Z"
+matrix_links:
+  - target: "#jump-cutter-extension:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#jump-cutter-extension:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

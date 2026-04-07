@@ -7,6 +7,17 @@ categories: [Development]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#haveno-development:monero.social"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#haveno:monero.social"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#haveno:monero.social"
   - "https://matrix.to/#/#haveno-development:monero.social"

@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5636]
 updated: "2026-04-01T20:42:30Z"
+matrix_links:
+  - target: "#codetribute:mozilla.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#codetribute:mozilla.org]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

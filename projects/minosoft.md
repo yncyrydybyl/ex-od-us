@@ -10,6 +10,12 @@ updated: "2026-02-23T16:22:53Z"
 verified: true
 verified_note: repo alive, room not checked
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#minosoft:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#minosoft:matrix.org]
 exodus_score: 5
 ---

@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5658]
 updated: "2024-06-14T08:09:49Z"
+matrix_links:
+  - target: "#comfyui:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#comfyui:matrix.org]
 exodus_score: 2
 last_scanned: "2026-04-06T20:35:19Z"

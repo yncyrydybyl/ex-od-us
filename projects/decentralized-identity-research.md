@@ -4,6 +4,12 @@ description: "Exploring DID integration with Matrix accounts"
 platform: none
 categories: [Research]
 status: "Active"
+matrix_links:
+  - target: "#identity:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#identity:matrix.org"
 issues: [20]

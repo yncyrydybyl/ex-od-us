@@ -9,6 +9,12 @@ issues: [690]
 updated: "2021-06-01T22:26:35Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#ataraxialinux:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ataraxialinux:matrix.org]
 exodus_score: 2
 last_scanned: "2026-04-06T15:16:20Z"

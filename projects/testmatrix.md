@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 5
 status: "Active"
+matrix_links:
+  - target: "#testmatrix:sspaeth.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#testmatrix:sspaeth.de"
 issues: []

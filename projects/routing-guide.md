@@ -9,6 +9,12 @@ issues: [1997]
 updated: "2026-03-20T13:45:40Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#wg-routing-general:denog.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#wg-routing-general:denog.de]
 exodus_score: 6
 last_scanned: "2026-04-06T15:23:47Z"

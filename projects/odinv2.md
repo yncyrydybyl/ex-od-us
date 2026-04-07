@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-03-24T12:09:04Z"
+matrix_links:
+  - target: "#ODIN.Community:syncpoint.io"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ODIN.Community:syncpoint.io]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

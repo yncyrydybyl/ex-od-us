@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-03-30T05:46:03Z"
+matrix_links:
+  - target: "#RDFLib_rdflib:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 exodus_score: 6
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#fuzzing:mozilla.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#fuzzing:mozilla.org]
 issues: [6172]
 updated: "2026-04-05T17:02:19Z"

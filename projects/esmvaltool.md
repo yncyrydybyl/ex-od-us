@@ -9,6 +9,12 @@ issues: [6070]
 updated: "2026-04-02T09:05:22Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#ESMValGroup_Lobby:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ESMValGroup_Lobby:gitter.im]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

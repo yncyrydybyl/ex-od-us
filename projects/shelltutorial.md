@@ -7,6 +7,12 @@ categories: [Infrastructure]
 status: Active
 issues: [51]
 updated: "2023-08-21T05:34:41Z"
+matrix_links:
+  - target: "#ArchLinuxStudio:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ArchLinuxStudio:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

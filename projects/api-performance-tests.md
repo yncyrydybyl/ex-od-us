@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5212]
 updated: "2024-07-15T18:29:04Z"
+matrix_links:
+  - target: "#litestar:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-06T20:35:19Z"

@@ -9,6 +9,12 @@ issues: [756]
 updated: "2026-04-05T13:30:36Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#flexcyon-space:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#flexcyon-space:matrix.org]
 exodus_score: 5
 last_scanned: "2026-04-06T15:20:31Z"

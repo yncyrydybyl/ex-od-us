@@ -9,6 +9,17 @@ issues: [5203]
 updated: "2026-03-30T18:46:11Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#antsibull:ansible.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#docs:ansible.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#docs:ansible.com, https://matrix.to/#/#antsibull:ansible.com]
 exodus_score: 6
 last_scanned: "2026-04-06T15:15:53Z"

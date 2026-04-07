@@ -4,6 +4,12 @@ description: "Sustainable funding model for Matrix ecosystem projects"
 platform: none
 categories: [Funding]
 status: "Idea"
+matrix_links:
+  - target: "#funding:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#funding:matrix.org"
 issues: [19]

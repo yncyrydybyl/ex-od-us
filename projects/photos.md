@@ -9,6 +9,12 @@ issues: [800]
 updated: "2025-03-19T19:49:45Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#photOS-Photoframe_community:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#photOS-Photoframe_community:gitter.im]
 exodus_score: 4
 last_scanned: "2026-04-06T15:23:12Z"

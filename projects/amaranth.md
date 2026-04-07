@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [29]
 updated: "2026-03-16T16:43:17Z"
+matrix_links:
+  - target: "#amaranth-lang:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#amaranth-lang:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

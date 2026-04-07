@@ -9,6 +9,12 @@ issues: []
 updated: "2025-10-20T18:31:08Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#matrix-sms-bridge:imbitbu.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#matrix-sms-bridge:imbitbu.de]
 exodus_score: 7
 last_scanned: "2026-04-06T15:22:11Z"

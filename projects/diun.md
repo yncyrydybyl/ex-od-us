@@ -9,6 +9,12 @@ exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
 issues: [5892]
 updated: "2026-04-06T13:03:16Z"
+matrix_links:
+  - target: "#go:maunium.net"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#go:maunium.net]
 ---
 

@@ -7,6 +7,17 @@ categories: [Development]
 status: "Active"
 exodus_score: 4
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#navic:maize.moe"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#navic:nin0.dev"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#navic:nin0.dev"
   - "https://matrix.to/#/#navic:maize.moe"

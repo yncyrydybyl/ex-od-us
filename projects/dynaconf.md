@@ -9,6 +9,12 @@ issues: [5963]
 updated: "2026-03-17T19:39:15Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#dynaconf:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#dynaconf:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:19:04Z"

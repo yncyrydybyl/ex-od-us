@@ -9,6 +9,12 @@ issues: [5990]
 updated: "2026-04-03T22:27:25Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#ess-community:element.io"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#ess-community:element.io]
 exodus_score: 6
 last_scanned: "2026-04-06T15:19:14Z"

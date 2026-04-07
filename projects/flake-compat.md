@@ -6,6 +6,12 @@ categories: [Development]
 status: Active
 exodus_score: 6
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#nix-dev:nixos.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#nix-dev:nixos.org]
 issues: [6198]
 updated: "2026-01-02T20:13:22Z"

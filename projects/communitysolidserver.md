@@ -9,6 +9,12 @@ issues: [5672]
 updated: "2026-03-31T01:37:00Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#CommunitySolidServer_community:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#CommunitySolidServer_community:gitter.im"
 exodus_score: 3

@@ -9,6 +9,12 @@ issues: [6081]
 updated: "2026-03-29T11:45:55Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#esp-rs:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

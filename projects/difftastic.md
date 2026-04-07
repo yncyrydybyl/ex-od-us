@@ -9,6 +9,12 @@ issues: [5869]
 updated: "2026-03-25T23:50:27Z"
 exodus_score: 1
 last_scanned: "2026-04-07T06:34:49Z"
+matrix_links:
+  - target: "#tree-sitter-chat:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 ---
 

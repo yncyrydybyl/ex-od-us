@@ -7,6 +7,22 @@ categories: [Matrix]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#meshnetclub:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#mmrelay-relay-room:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#mmrelay:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#meshnetclub:matrix.org"
   - "https://matrix.to/#/#mmrelay:matrix.org"

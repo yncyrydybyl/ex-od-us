@@ -7,6 +7,17 @@ categories: [Development]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:14:33Z"
+matrix_links:
+  - target: "#developers:chat.passwordsapp.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#nextcloud-passwords:chat.passwordsapp.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nextcloud-passwords:chat.passwordsapp.org"
   - "https://matrix.to/#/#developers:chat.passwordsapp.org"

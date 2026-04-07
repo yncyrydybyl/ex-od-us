@@ -7,6 +7,12 @@ categories: [Security]
 status: Active
 issues: [6452]
 updated: "2026-03-16T16:25:17Z"
+matrix_links:
+  - target: "#inet256:inet256.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#inet256:inet256.org]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

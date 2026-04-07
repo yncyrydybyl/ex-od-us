@@ -7,6 +7,12 @@ categories: [Development]
 status: Dead
 exodus_score: 6
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#d.rymcg.tech:enigmacurry.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#d.rymcg.tech:enigmacurry.com"
 issues: [5775]

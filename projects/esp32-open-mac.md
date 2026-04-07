@@ -9,6 +9,12 @@ issues: [6089]
 updated: "2025-03-07T19:56:51Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#esp32-open-mac:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#esp32-open-mac:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T15:19:56Z"

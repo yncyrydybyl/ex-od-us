@@ -9,6 +9,17 @@ issues: [5873]
 updated: "2024-05-17T10:20:04Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#devos:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#devos:nixos.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#devos:matrix.org, https://matrix.to/#/#devos:nixos.org]
 exodus_score: 6
 last_scanned: "2026-04-06T15:18:43Z"

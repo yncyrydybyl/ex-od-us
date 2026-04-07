@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-03-30T15:20:09Z"
+matrix_links:
+  - target: "#geopython_pygeometa:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#geopython_pygeometa:gitter.im]
 exodus_score: 3
 last_scanned: "2026-04-06T20:35:19Z"

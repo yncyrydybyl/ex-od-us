@@ -9,6 +9,12 @@ issues: [2000]
 updated: "2026-04-04T19:10:32Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#scat-users:tchncs.de"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#scat-users:tchncs.de]
 exodus_score: 5
 last_scanned: "2026-04-06T15:23:53Z"

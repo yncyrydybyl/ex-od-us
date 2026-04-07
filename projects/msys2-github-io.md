@@ -7,6 +7,12 @@ categories: [Development]
 status: "Active"
 exodus_score: 5
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#msys2_msys2:gitter.im"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#msys2_msys2:gitter.im"
 issues: []

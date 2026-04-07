@@ -9,6 +9,12 @@ issues: [5494]
 updated: "2026-02-20T16:00:38Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#book-story:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#book-story:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

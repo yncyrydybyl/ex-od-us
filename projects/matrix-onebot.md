@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Development]
 exodus_score: 4
 status: "Active"
+matrix_links:
+  - target: "#onebot:matrix.meowl.cc"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#onebot:matrix.meowl.cc"
 issues: []

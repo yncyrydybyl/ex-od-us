@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-04-04T13:20:40Z"
+matrix_links:
+  - target: "#smoltcp:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#smoltcp:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

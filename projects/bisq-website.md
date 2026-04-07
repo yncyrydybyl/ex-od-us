@@ -9,6 +9,12 @@ issues: [705]
 updated: "2026-03-17T18:46:15Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#bisq.growth:bitcoin.kyoto"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#bisq.growth:bitcoin.kyoto]
 exodus_score: 5
 last_scanned: "2026-04-06T15:16:57Z"

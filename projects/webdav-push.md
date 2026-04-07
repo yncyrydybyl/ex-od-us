@@ -9,6 +9,12 @@ issues: [827]
 updated: "2025-05-06T13:57:15Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#webdav-push:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#webdav-push:matrix.org]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

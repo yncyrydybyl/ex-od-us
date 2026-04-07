@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-01-10T16:49:35Z"
+matrix_links:
+  - target: "#pushbits:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#pushbits:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"

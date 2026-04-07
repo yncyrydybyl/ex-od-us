@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [32]
 updated: "2025-10-08T16:42:10Z"
+matrix_links:
+  - target: "#bspwm:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#bspwm:matrix.org]
 exodus_score: 5
 last_scanned: "2026-04-06T15:17:22Z"

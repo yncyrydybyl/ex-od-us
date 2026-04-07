@@ -7,6 +7,22 @@ categories: [Development]
 status: "Active"
 exodus_score: 3
 last_scanned: "2026-04-06T22:13:24Z"
+matrix_links:
+  - target: "#raceintospace-games:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#raceintospace-general:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#raceintospace:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#raceintospace:matrix.org"
   - "https://matrix.to/#/#raceintospace-games:matrix.org"

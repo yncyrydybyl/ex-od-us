@@ -9,6 +9,12 @@ issues: [784]
 updated: "2026-02-17T03:03:56Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#rust-embedded-graphics:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#rust-embedded-graphics:matrix.org]
 exodus_score: 4
 last_scanned: "2026-04-07T06:34:49Z"

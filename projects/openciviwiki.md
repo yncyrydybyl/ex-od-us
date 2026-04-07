@@ -9,6 +9,12 @@ issues: [1972]
 updated: "2024-12-11T21:01:17Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#civi.wiki:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#civi.wiki:matrix.org]
 exodus_score: 5
 last_scanned: "2026-04-06T15:22:55Z"

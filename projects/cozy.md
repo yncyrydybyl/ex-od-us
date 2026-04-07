@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [5716]
 updated: "2026-01-08T11:31:27Z"
+matrix_links:
+  - target: "#cozy:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#cozy:gnome.org]
 exodus_score: 4
 last_scanned: "2026-04-06T20:35:19Z"

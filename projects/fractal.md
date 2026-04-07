@@ -6,6 +6,12 @@ platform: codeberg
 categories: [Messaging]
 exodus_score: 5
 status: "Active"
+matrix_links:
+  - target: "#fractal:gnome.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#fractal:gnome.org"
 issues: [7032]

@@ -7,6 +7,17 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-04-04T10:06:49Z"
+matrix_links:
+  - target: "#mollyim-space:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
+  - target: "#mollyim:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#mollyim-space:matrix.org, https://matrix.to/#/#mollyim:matrix.org]
 exodus_score: 2
 last_scanned: "2026-04-07T06:34:49Z"

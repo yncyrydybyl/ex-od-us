@@ -4,6 +4,12 @@ description: "Comprehensive testing infrastructure for Conduit"
 platform: none
 categories: [Infrastructure]
 status: "Active"
+matrix_links:
+  - target: "#conduit:fachschaften.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#conduit:fachschaften.org"
 issues: [22]

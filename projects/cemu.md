@@ -9,6 +9,12 @@ issues: [725]
 updated: "2026-04-04T17:14:49Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_links:
+  - target: "#cemu:cemu.info"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#cemu:cemu.info]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

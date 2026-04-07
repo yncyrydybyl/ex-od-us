@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-03-04T02:13:55Z"
+matrix_links:
+  - target: "#nxengine-evo:ninetailed.ninja"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#nxengine-evo:ninetailed.ninja]
 exodus_score: 5
 last_scanned: "2026-04-07T06:34:49Z"

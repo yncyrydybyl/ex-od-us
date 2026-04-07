@@ -7,6 +7,12 @@ categories: [Development]
 status: Active
 issues: [55]
 updated: "2026-04-04T13:11:18Z"
+matrix_links:
+  - target: "#vanilla:ubuntu.com"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#vanilla:ubuntu.com]
 exodus_score: 6
 last_scanned: "2026-04-06T15:24:51Z"

@@ -4,6 +4,12 @@ description: "Annual Matrix community conference"
 platform: none
 categories: [Events]
 status: "Planning"
+matrix_links:
+  - target: "#matrixconf:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrixconf:matrix.org"
 issues: [18]

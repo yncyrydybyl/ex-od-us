@@ -7,6 +7,12 @@ categories: [Messaging, Matrix]
 status: Active
 issues: []
 updated: "2023-11-05T13:36:57Z"
+matrix_links:
+  - target: "#mirage-client:matrix.org"
+    kind: room
+    via: matrix.to
+    source: anchor
+    quality: 7
 matrix_rooms: [https://matrix.to/#/#mirage-client:matrix.org]
 exodus_score: 3
 last_scanned: "2026-04-07T06:34:49Z"
