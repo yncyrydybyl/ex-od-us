@@ -45,6 +45,31 @@ done
 
 # Deduplicate
 sort -u -o "$OUT" "$OUT"
+
+# Strip excluded repos in-place — keeps the outfile honest so any
+# downstream tool that reads it gets a clean list. Match is on the
+# normalized `github.com/owner/repo` form (case-insensitive).
+EXCL_FILE="data/excluded-repos.txt"
+if [[ -f "$EXCL_FILE" ]]; then
+  python3 - "$OUT" "$EXCL_FILE" <<'PYEOF'
+import sys, os
+sys.path.insert(0, 'scripts')
+from exclusions import load_excluded_repos, is_excluded
+out_path, excl_path = sys.argv[1], sys.argv[2]
+excluded = load_excluded_repos(excl_path)
+if not excluded:
+    sys.exit(0)
+with open(out_path) as f:
+    lines = [l.rstrip() for l in f if l.strip()]
+kept = [l for l in lines if not is_excluded(l, excluded)]
+removed = len(lines) - len(kept)
+if removed:
+    with open(out_path, 'w') as f:
+        f.write('\n'.join(kept) + '\n')
+    print(f"Filtered {removed} excluded repos from {out_path}", file=sys.stderr)
+PYEOF
+fi
+
 COUNT=$(wc -l < "$OUT")
 echo "Found $COUNT unique repos via topics → $OUT" >&2
 

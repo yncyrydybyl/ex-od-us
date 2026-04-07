@@ -18,6 +18,9 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from urllib.parse import unquote
 
+sys.path.insert(0, os.path.dirname(__file__))
+from exclusions import load_excluded_repos, is_excluded
+
 PROJECTS_DIR = Path('projects')
 CODEBERG_API = 'https://codeberg.org/api/v1'
 ROOM_PATTERN = re.compile(r'matrix\.to/#/(#[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
@@ -77,6 +80,10 @@ def main():
 
     log(f'Already tracking {len(existing_repos)} repos')
 
+    excluded = load_excluded_repos()
+    if excluded:
+        log(f'Loaded {len(excluded)} excluded repos')
+
     # Search Codeberg for Matrix-related repos
     log('Searching Codeberg...')
     queries = ['matrix', 'element', 'matrix.to', 'mautrix', 'conduit', 'dendrite']
@@ -117,6 +124,9 @@ def main():
             continue
 
         repo_url = f'https://codeberg.org/{full_name}'
+        if is_excluded(repo_url, excluded):
+            skipped += 1
+            continue
         if repo_url.lower() in existing_repos:
             skipped += 1
             continue

@@ -25,6 +25,15 @@ python3 - "$PROJECTS_DIR" "$OUTPUT" << 'PYEOF'
 import sys, os, json, re
 from datetime import datetime, timezone
 
+# Defense in depth: even if a .md for an excluded repo sneaks back in,
+# the site never shows it. The exclusion list is the source of truth.
+sys.path.insert(0, 'scripts')
+try:
+    from exclusions import load_excluded_repos, is_excluded
+    excluded_repos = load_excluded_repos()
+except Exception:
+    excluded_repos = set()
+
 projects_dir = sys.argv[1]
 output_file = sys.argv[2]
 
@@ -121,6 +130,14 @@ for fname in sorted(os.listdir(projects_dir)):
 
     fm, body = parse_frontmatter(content)
     matrix_links = parse_matrix_links(content)
+
+    # Skip excluded repos as a backstop. Normally the .md is deleted
+    # when the repo is excluded, but this guards against a stale file
+    # being committed by accident.
+    repo_field = fm.get('repo', '')
+    if excluded_repos and repo_field and is_excluded(repo_field, excluded_repos):
+        print(f"Skipping excluded repo: {fname}", file=sys.stderr)
+        continue
 
     slug = fname[:-3]  # remove .md
 

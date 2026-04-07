@@ -14,6 +14,9 @@ This lets you import in batches without re-running the Sourcegraph search.
 import sys, os, re, json, subprocess, time
 from datetime import datetime, timezone
 
+sys.path.insert(0, os.path.dirname(__file__))
+from exclusions import load_excluded_repos, is_excluded
+
 SLUGS_FILE = 'data/discovered-slugs.txt'
 PROJECTS_DIR = 'projects'
 
@@ -72,6 +75,10 @@ def main():
 
     print(f"Already tracking {len(existing_repos)} repos", file=sys.stderr)
 
+    excluded = load_excluded_repos()
+    if excluded:
+        print(f"Loaded {len(excluded)} excluded repos", file=sys.stderr)
+
     # Apply offset
     slugs = all_slugs[args.offset:]
     created = 0
@@ -81,6 +88,10 @@ def main():
     for slug in slugs:
         if created >= args.limit:
             break
+
+        if is_excluded(slug, excluded):
+            skipped += 1
+            continue
 
         if slug.lower() in existing_repos:
             skipped += 1
