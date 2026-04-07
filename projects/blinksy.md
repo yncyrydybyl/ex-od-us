@@ -9,15 +9,10 @@ issues: [711]
 updated: "2026-01-28T10:26:00Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#blinksy:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#blinksy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Rust no-std, no-alloc LED control for spatial layouts 🟥🟩🟦

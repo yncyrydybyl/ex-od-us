@@ -1,20 +1,14 @@
 ---
-name: "Feudaltactics"
-description: "Strategy game with countless unique and challenging levels."
+name: Feudaltactics
+description: Strategy game with countless unique and challenging levels.
 repo: "https://github.com/Sesu8642/FeudalTactics"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#feudal-tactics-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#feudal-tactics-community:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#feudal-tactics-community:matrix.org]
 issues: [6170]
 updated: "2026-03-09T13:52:47Z"
 ---

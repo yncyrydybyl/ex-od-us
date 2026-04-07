@@ -1,20 +1,14 @@
 ---
-name: "Cachyos Calamares"
-description: "CachyOS Calamares"
+name: Cachyos Calamares
+description: CachyOS Calamares
 repo: "https://github.com/CachyOS/cachyos-calamares"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#calamares:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#calamares:kde.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#calamares:kde.org]
 issues: [5553]
 updated: "2026-04-04T15:37:20Z"
 ---

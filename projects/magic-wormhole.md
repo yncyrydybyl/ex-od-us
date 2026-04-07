@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6995]
 updated: "2026-03-17T22:52:48Z"
-matrix_links:
-  - target: "#magic-wormhole:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#magic-wormhole:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 get things from one computer to another, safely

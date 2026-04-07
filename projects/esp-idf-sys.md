@@ -9,15 +9,10 @@ issues: [6083]
 updated: "2026-03-29T11:51:44Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#esp-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Bindings for ESP-IDF (Espressif's IoT Development Framework)

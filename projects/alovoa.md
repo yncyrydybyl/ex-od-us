@@ -9,15 +9,10 @@ issues: [5148]
 updated: "2025-12-05T13:51:01Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#alovoa_love:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alovoa_love:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Free and open-source dating platform that respects your privacy

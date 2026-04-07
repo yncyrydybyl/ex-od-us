@@ -1,12 +1,12 @@
 ---
-name: "Playhide"
-description: "A private & anonymous VPN Client"
+name: Playhide
+description: A private & anonymous VPN Client
 repo: "https://github.com/crnlc/PlayHide"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T12:22:56Z"
 issues: []
 updated: "2021-03-27T14:59:10Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Gardengate"
-description: "GardenGate is the first public, open source private server software for Garden Warfare 1, 2 AND Battle for Neighborville!"
+name: Gardengate
+description: GardenGate is the first public, open source private server software for Garden Warfare 1, 2 AND Battle for Neighborville!
 repo: "https://github.com/nocss42/GardenGate"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#gardengate:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gardengate:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gardengate:matrix.org]
 issues: [6325]
 updated: "2026-04-03T20:01:16Z"
 ---

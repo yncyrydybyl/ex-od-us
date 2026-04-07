@@ -9,15 +9,10 @@ issues: [6098]
 updated: "2026-03-26T18:21:12Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#ethercrab:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethercrab:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A pure Rust EtherCAT MainDevice supporting std and no_std environments

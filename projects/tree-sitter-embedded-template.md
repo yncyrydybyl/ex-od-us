@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2025-08-31T18:21:06Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Tree-sitter grammar for embedded template languages like ERB, EJS

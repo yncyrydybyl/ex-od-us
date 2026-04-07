@@ -9,15 +9,10 @@ issues: [5980]
 updated: "2024-06-25T23:59:35Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#einsteinpy:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#einsteinpy:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Repository for the EinsteinPy core package :rocket:

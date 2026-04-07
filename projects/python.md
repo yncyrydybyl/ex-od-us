@@ -1,20 +1,14 @@
 ---
-name: "Python"
-description: "A Python 3 asyncio Matrix framework."
+name: Python
+description: A Python 3 asyncio Matrix framework.
 repo: "https://github.com/mautrix/python"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#maunium:maunium.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#maunium:maunium.net"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#maunium:maunium.net]
 issues: []
 updated: "2026-03-23T12:48:34Z"
 ---

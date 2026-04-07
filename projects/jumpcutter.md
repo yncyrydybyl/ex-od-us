@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6768]
 updated: "2026-01-29T16:14:14Z"
-matrix_links:
-  - target: "#jump-cutter-extension:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jump-cutter-extension:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)

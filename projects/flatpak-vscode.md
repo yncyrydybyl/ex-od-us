@@ -9,15 +9,10 @@ issues: [755]
 updated: "2026-03-29T14:10:38Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#flatpak-vscode:gnome.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flatpak-vscode:gnome.org]
 exodus_score: 6
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Integrate Flatpak with VSCode 

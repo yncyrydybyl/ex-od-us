@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6419]
 updated: "2024-07-30T23:28:42Z"
-matrix_links:
-  - target: "#go-nbd:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-nbd:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Pure Go NBD server and client library.

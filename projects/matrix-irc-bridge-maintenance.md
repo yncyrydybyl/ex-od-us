@@ -5,16 +5,11 @@ repo: "https://github.com/matrix-org/matrix-appservice-irc"
 platform: github
 categories: [Bridging]
 status: Active
-matrix_links:
-  - target: "#irc:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#irc:matrix.org]
 issues: [9]
 updated: "2026-04-06T08:17:33Z"
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 6

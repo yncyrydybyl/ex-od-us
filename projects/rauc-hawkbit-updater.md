@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2026-03-30T16:58:42Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_rooms: [https://matrix.to/#/#rauc:matrix.org]
 ---
 
 Simple daemon running on your embedded Linux target interfacing between RAUC and hawkBit

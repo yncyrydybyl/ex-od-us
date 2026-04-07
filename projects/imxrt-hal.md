@@ -1,20 +1,14 @@
 ---
-name: "Imxrt Hal"
-description: "Rust for NXP i.MX RT"
+name: Imxrt Hal
+description: Rust for NXP i.MX RT
 repo: "https://github.com/imxrt-rs/imxrt-hal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#imxrt-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#imxrt-rs:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#imxrt-rs:matrix.org]
 issues: [6629]
 updated: "2026-04-03T10:25:06Z"
 ---

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-04-02T12:09:39Z"
-matrix_links:
-  - target: "#firefoxtranslations:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#firefoxtranslations:mozilla.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 The code, training pipeline, and models that power Firefox Translations

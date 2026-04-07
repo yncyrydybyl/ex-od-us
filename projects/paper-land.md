@@ -1,18 +1,13 @@
 ---
-name: "Paper Land"
+name: Paper Land
 description: "Build and explore multimodal web interactives with pieces of paper! "
 repo: "https://github.com/phetsims/paper-land"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#interactive-paper-programming:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#interactive-paper-programming:matrix.org"
 issues: []

@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T12:22:56Z"
 issues: [5629]
 updated: "2026-03-25T12:49:47Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:17:58Z"
+matrix_rooms: [https://matrix.to/#/#cockpit:fedoraproject.org]
 ---
 
 Cockpit Continuous Integration and Delivery

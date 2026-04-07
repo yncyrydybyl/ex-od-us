@@ -1,20 +1,14 @@
 ---
-name: "Conduit"
+name: Conduit
 description: "A simple, fast and reliable Matrix server (MIRROR, see https://conduit.rs )"
 repo: "https://github.com/timokoesters/conduit"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 8
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#conduit:fachschaften.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#conduit:fachschaften.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#conduit:ahimsa.chat]
 issues: [5688]
 updated: "2026-04-05T15:54:29Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Rspirv"
-description: "Rust implementation of SPIR-V module processing functionalities"
+name: Rspirv
+description: Rust implementation of SPIR-V module processing functionalities
 repo: "https://github.com/gfx-rs/rspirv"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#gfx:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gfx:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gfx:matrix.org]
 issues: []
 updated: "2026-03-13T15:49:48Z"
 ---

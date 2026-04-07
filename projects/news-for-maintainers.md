@@ -8,15 +8,10 @@ issues: [788]
 updated: "2023-03-23T12:07:26Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#community:ansible.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#community:ansible.com]
 exodus_score: 6
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Announcements of changes impacting collection contributors and maintainers

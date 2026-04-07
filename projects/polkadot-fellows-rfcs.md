@@ -1,26 +1,14 @@
 ---
-name: "Rfcs"
-description: "Proposals for change to standards administered by the Fellowship."
+name: Rfcs
+description: Proposals for change to standards administered by the Fellowship.
 repo: "https://github.com/polkadot-fellows/RFCs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#fellowship-members:parity.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#fellowship-open-channel:parity.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fellowship-open-channel:parity.io"
-  - "https://matrix.to/#/#fellowship-members:parity.io"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fellowship-open-channel:parity.io, https://matrix.to/#/#fellowship-members:parity.io]
 issues: []
 updated: "2026-03-31T02:01:36Z"
 ---

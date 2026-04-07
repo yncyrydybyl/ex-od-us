@@ -7,16 +7,11 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-04-03T21:06:03Z"
-matrix_links:
-  - target: "#riotchatfornextcloud-general:garykim.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#riotchatfornextcloud-general:garykim.dev"
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Element for Nextcloud

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [5186]
 updated: "2026-04-05T00:23:17Z"
-matrix_links:
-  - target: "#docs:ansible.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#docs:ansible.com]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Ansible community documentation

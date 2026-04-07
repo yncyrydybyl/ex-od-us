@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6589]
 updated: "2026-03-30T10:54:02Z"
-matrix_links:
-  - target: "#hypr-virtual-desktops:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hypr-virtual-desktops:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A plugin for the Hyprland compositor, implementing virtual-desktop functionality.

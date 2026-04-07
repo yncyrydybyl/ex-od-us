@@ -7,15 +7,10 @@ categories: [Integrations, Matrix]
 status: Active
 issues: []
 updated: "2025-12-15T18:09:33Z"
-matrix_links:
-  - target: "#niobot:nexy7574.co.uk"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#niobot:nexy7574.co.uk]
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Matrix bot library based on matrix-nio, similar in design to discord.py

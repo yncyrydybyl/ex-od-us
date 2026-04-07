@@ -8,7 +8,7 @@ status: Active
 issues: []
 updated: "2026-03-30T08:59:04Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A base package for multi-dimensional contiguous and non-contiguous coordinate-aware arrays.

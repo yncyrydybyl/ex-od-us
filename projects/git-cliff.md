@@ -8,7 +8,7 @@ status: Active
 issues: [6369]
 updated: "2026-04-06T07:32:22Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 

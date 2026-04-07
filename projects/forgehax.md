@@ -9,15 +9,10 @@ issues: [6263]
 updated: "2022-12-09T01:31:32Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#forgehax:nerdsin.space"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space]
 exodus_score: 6
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A Minecraft cheat that runs as a Forge mod

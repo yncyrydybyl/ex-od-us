@@ -9,16 +9,11 @@ issues: [5672]
 updated: "2026-03-31T01:37:00Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#CommunitySolidServer_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#CommunitySolidServer_community:gitter.im"
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 An open and modular implementation of the Solid specifications

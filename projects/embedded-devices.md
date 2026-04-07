@@ -1,12 +1,12 @@
 ---
-name: "Embedded Devices"
-description: "Device driver implementations for many embedded sensors and devices"
+name: Embedded Devices
+description: Device driver implementations for many embedded sensors and devices
 repo: "https://github.com/oddlama/embedded-devices"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-07T12:22:56Z"
 issues: [6029]
 updated: "2026-03-10T20:34:42Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Ghcup Metadata"
-description: "GHCup metadata repository"
+name: Ghcup Metadata
+description: GHCup metadata repository
 repo: "https://github.com/haskell/ghcup-metadata"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#ghcup:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ghcup:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ghcup:matrix.org]
 issues: [6355]
 updated: "2026-03-31T10:09:19Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Ghc Proposals"
-description: "Proposed compiler and language changes for GHC and GHC/Haskell"
+name: Ghc Proposals
+description: Proposed compiler and language changes for GHC and GHC/Haskell
 repo: "https://github.com/ghc-proposals/ghc-proposals"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ghc:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ghc:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ghc:matrix.org]
 issues: [6350]
 updated: "2026-03-25T11:01:41Z"
 ---

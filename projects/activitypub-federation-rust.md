@@ -1,20 +1,14 @@
 ---
-name: "Activitypub Federation Rust"
-description: "High-level Rust library for the Activitypub protocol"
+name: Activitypub Federation Rust
+description: High-level Rust library for the Activitypub protocol
 repo: "https://github.com/LemmyNet/activitypub-federation-rust"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#activitystreams:matrix.asonix.dog"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#activitystreams:matrix.asonix.dog"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#activitystreams:matrix.asonix.dog]
 issues: [5108]
 updated: "2026-03-17T10:21:21Z"
 ---

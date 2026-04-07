@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-02-12T14:26:09Z"
-matrix_links:
-  - target: "#quartiq:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Rust serialize/deserialize/access reflection for trees (no_std, no alloc)

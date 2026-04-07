@@ -8,7 +8,8 @@ status: Active
 issues: [6312]
 updated: "2024-09-03T21:34:24Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_rooms: [https://matrix.to/#/#propensive.fury:matrix.org]
 ---
 
 A new build tool for JVM languages

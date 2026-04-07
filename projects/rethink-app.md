@@ -9,15 +9,10 @@ issues: [808]
 updated: "2026-03-11T14:35:36Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#rethinkdns:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rethinkdns:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.

@@ -9,15 +9,10 @@ issues: [2018]
 updated: "2026-03-23T14:11:28Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#apps:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apps:fedoraproject.org]
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A fedora messaging consumer that files bugzilla bugs for upstream releases

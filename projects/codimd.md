@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [5638]
 updated: "2025-10-02T02:51:07Z"
-matrix_links:
-  - target: "#hackmdio_hackmd:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hackmdio_hackmd:gitter.im]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 CodiMD - Realtime collaborative markdown notes on all platforms.

@@ -9,20 +9,10 @@ issues: [6887]
 updated: "2026-04-06T13:08:02Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#chewing-users:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#libchewing:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chewing-users:matrix.org, https://matrix.to/#/#libchewing:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:21:47Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Migrated to Codeberg

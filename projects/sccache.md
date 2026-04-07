@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2026-03-30T18:44:05Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_rooms: [https://matrix.to/#/#sccache:mozilla.org]
 ---
 
 Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.

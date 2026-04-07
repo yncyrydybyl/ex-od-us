@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2026-03-18T20:06:08Z"
-matrix_links:
-  - target: "#stalwart:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stalwart:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Web-based admin for Stalwart

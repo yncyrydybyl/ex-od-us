@@ -9,15 +9,10 @@ issues: [5986]
 updated: "2026-02-01T19:52:04Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#electricpy:stanleysolutionsnw.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#electricpy:stanleysolutionsnw.com]
 exodus_score: 6
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Electrical Engineering Formulas in Python

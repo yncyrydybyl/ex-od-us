@@ -9,15 +9,10 @@ issues: [5875]
 updated: "2026-03-31T18:52:06Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#direnv:numtide.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#direnv:numtide.com]
 exodus_score: 6
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 unclutter your .profile

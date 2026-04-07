@@ -1,20 +1,14 @@
 ---
-name: "Pykeepass"
-description: "Python library to interact with keepass databases (supports KDBX3 and KDBX4)"
+name: Pykeepass
+description: Python library to interact with keepass databases (supports KDBX3 and KDBX4)
 repo: "https://github.com/libkeepass/pykeepass"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#pykeepass:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pykeepass:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pykeepass:matrix.org]
 issues: []
 updated: "2026-03-30T18:38:35Z"
 ---

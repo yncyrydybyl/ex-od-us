@@ -1,12 +1,12 @@
 ---
-name: "Meta Rauc"
-description: "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework"
+name: Meta Rauc
+description: Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework
 repo: "https://github.com/rauc/meta-rauc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T12:22:56Z"
 issues: []
 updated: "2026-03-31T06:52:51Z"
 ---

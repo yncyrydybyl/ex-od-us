@@ -1,20 +1,14 @@
 ---
-name: "Live Backgroundremoval Lite"
-description: "A high-performance, crash-resistant OBS plugin for real-time background removal. Optimized for minimal CPU/GPU usage without a green screen."
+name: Live Backgroundremoval Lite
+description: A high-performance, crash-resistant OBS plugin for real-time background removal. Optimized for minimal CPU/GPU usage without a green screen.
 repo: "https://github.com/kaito-tokyo/live-backgroundremoval-lite"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#live-backgroundremoval-lite:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#live-backgroundremoval-lite:matrix.org"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#live-backgroundremoval-lite:matrix.org]
 issues: [6949]
 updated: "2026-03-26T08:18:58Z"
 ---

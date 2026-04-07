@@ -8,7 +8,8 @@ status: Active
 issues: [6188]
 updated: "2026-03-27T07:00:58Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_rooms: [https://matrix.to/#/#firenvim:matrix.org]
 ---
 
 Embed Neovim in Chrome, Firefox & others.

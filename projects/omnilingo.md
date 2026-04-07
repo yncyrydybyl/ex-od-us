@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: []
 updated: "2023-11-23T01:42:09Z"
-matrix_links:
-  - target: "#omnilingo:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#omnilingo:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Listening-based language learning

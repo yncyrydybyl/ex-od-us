@@ -1,14 +1,15 @@
 ---
-name: "Discovery"
-description: "Discover the world of microcontrollers through Rust!"
+name: Discovery
+description: Discover the world of microcontrollers through Rust!
 repo: "https://github.com/rust-embedded/discovery"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-07T12:22:56Z"
 issues: [5883]
 updated: "2026-03-21T19:05:36Z"
+matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org, https://matrix.to/#/#probe-rs:matrix.org, https://matrix.to/#/#rust-embedded:matrix.org]
 ---
 
 Discover the world of microcontrollers through Rust!

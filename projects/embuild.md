@@ -9,15 +9,10 @@ issues: [6037]
 updated: "2026-03-28T16:16:20Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#esp-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 Build support for embedded Rust: Cargo integration with other embedded build ecosystems & tools, like PlatformIO, CMake and kconfig.

@@ -9,15 +9,10 @@ issues: [780]
 updated: "2026-03-12T06:33:30Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#matrix-reminder-bot:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-reminder-bot:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
 ---
 
 A bot to remind you about stuff. Supports encrypted rooms

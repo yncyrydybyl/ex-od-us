@@ -8,7 +8,8 @@ status: Active
 issues: []
 updated: "2026-04-05T00:08:07Z"
 exodus_score: 1
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-07T12:22:56Z"
+matrix_rooms: [https://matrix.to/#/#opencloud:matrix.org]
 ---
 
 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
