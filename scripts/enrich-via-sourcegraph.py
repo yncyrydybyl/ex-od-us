@@ -22,8 +22,23 @@ from urllib.parse import unquote
 
 PROJECTS_DIR = Path('projects')
 SGRAPH = 'https://sourcegraph.com/.api/graphql'
-ROOM_PATTERN = re.compile(r'matrix\.to/#/(#[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
+
+# Multiple room link formats: matrix.to, app.element.io, /#/room/... patterns
+ROOM_PATTERN = re.compile(
+    r'(?:matrix\.to/#/|element\.io/#/room/|/#/room/)'
+    r'(#[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)'
+)
+PLAIN_ROOM_PATTERN = re.compile(
+    r'(?:^|[`"\s(\[>])(#[a-zA-Z0-9._=-]{2,}:[a-zA-Z0-9-]+\.[a-zA-Z]{2,})\b'
+)
 USER_PATTERN = re.compile(r'matrix\.to/#/(@[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
+
+def extract_rooms(text):
+    """Extract Matrix room IDs from various URL formats and plain text."""
+    text = unquote(text)
+    rooms = set(ROOM_PATTERN.findall(text))
+    rooms.update(PLAIN_ROOM_PATTERN.findall(text))
+    return [r for r in rooms if re.match(r'^#[a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', r)]
 
 def log(msg, level='INFO'):
     ts = datetime.now(timezone.utc).strftime('%H:%M:%S')
@@ -84,7 +99,7 @@ def score_from_lines(lines_text):
     text = unquote('\n'.join(lines_text))
     score = 0
     signals = []
-    rooms = list(set(ROOM_PATTERN.findall(text)))
+    rooms = extract_rooms(text)
     users = list(set(USER_PATTERN.findall(text)))
 
     if rooms:
@@ -192,7 +207,7 @@ def score_full_readme(content):
     text = unquote(content)
     score = 0
     signals = []
-    rooms = list(set(ROOM_PATTERN.findall(text)))
+    rooms = extract_rooms(text)
     users = list(set(USER_PATTERN.findall(text)))
 
     if rooms:
