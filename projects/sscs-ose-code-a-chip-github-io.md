@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#Code-a-Chip:fossi-chat.org"
-issues: []
+issues: [4561]
 updated: "2026-03-17T00:42:17Z"
 ---
 

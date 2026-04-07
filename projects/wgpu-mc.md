@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#wgpu-mc:matrix.org"
-issues: []
+issues: [4817]
 updated: "2025-05-03T12:29:27Z"
 ---
 

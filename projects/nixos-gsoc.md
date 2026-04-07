@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#gsoc:nixos.org"
-issues: []
+issues: [6005]
 updated: "2026-04-04T15:58:58Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#haskell-vulkan:matrix.org"
-issues: []
+issues: [4785]
 updated: "2026-04-03T09:41:25Z"
 ---
 

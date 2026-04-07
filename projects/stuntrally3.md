@@ -5,7 +5,7 @@ repo: "https://github.com/stuntrally/stuntrally3"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4582]
 updated: "2025-11-02T09:29:27Z"
 ---
 

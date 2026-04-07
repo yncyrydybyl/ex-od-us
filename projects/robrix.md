@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#robius-robrix:matrix.org"
   - "https://matrix.to/#/#robius:matrix.org"
-issues: []
+issues: [4398]
 updated: "2026-04-04T08:39:03Z"
 ---
 

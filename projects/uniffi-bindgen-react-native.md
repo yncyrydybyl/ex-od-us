@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#uniffi-bindgen-js:matrix.org"
-issues: []
+issues: [4750]
 updated: "2026-04-03T22:30:09Z"
 ---
 

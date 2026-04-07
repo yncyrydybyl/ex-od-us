@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-scala"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4713]
 updated: "2026-03-12T05:01:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

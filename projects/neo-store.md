@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#neo-store:matrix.org"
-issues: []
+issues: [6864]
 updated: "2026-03-27T11:53:46Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rorm:matrix.hopfenspace.org"
-issues: []
+issues: [4407]
 updated: "2026-02-17T19:07:22Z"
 ---
 

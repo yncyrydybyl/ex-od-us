@@ -5,7 +5,7 @@ repo: "https://github.com/tackler-ng/tackler"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4608]
 updated: "2026-04-05T02:19:27Z"
 matrix_rooms: [https://matrix.to/#/#tackler:matrix.org]
 exodus_score: 3

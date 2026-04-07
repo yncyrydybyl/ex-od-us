@@ -7,7 +7,7 @@ categories: [Matrix]
 status: Active
 exodus_score: 1
 last_scanned: "2026-04-07T06:34:49Z"
-issues: []
+issues: [3967]
 updated: "2026-02-16T20:22:47Z"
 ---
 

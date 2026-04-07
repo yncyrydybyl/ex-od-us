@@ -5,7 +5,7 @@ repo: "https://github.com/umap-project/umap"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4747]
 updated: "2026-04-06T17:16:07Z"
 matrix_links:
   - target: "#umap:matrix.org"

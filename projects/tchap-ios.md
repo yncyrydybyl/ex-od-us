@@ -5,7 +5,7 @@ repo: "https://github.com/tchapgouv/tchap-ios"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4619]
 updated: "2026-03-24T16:33:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-ios:matrix.org]

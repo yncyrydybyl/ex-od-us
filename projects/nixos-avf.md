@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nixos-avf:mkg20001.io"
-issues: []
+issues: [6950]
 updated: "2026-01-23T01:34:49Z"
 ---
 

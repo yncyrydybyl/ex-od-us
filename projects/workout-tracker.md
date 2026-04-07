@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#workout-tracker:matrix.org"
-issues: []
+issues: [4834]
 updated: "2026-04-03T23:40:27Z"
 ---
 

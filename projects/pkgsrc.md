@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pkgsrc:netbsd.org"
-issues: []
+issues: [4242]
 updated: "2026-04-06T16:38:54Z"
 ---
 

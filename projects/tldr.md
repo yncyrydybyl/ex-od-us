@@ -5,7 +5,7 @@ repo: "https://github.com/tldr-pages/tldr"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4667]
 updated: "2026-04-06T17:08:11Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

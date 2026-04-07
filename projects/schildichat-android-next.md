@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#android:schildi.chat"
-issues: []
+issues: [4458]
 updated: "2026-04-05T11:04:59Z"
 ---
 

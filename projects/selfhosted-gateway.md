@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#fractal:ether.ai"
-issues: []
+issues: [3944]
 updated: "2025-03-28T15:24:51Z"
 ---
 

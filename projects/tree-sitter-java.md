@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-java"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4696]
 updated: "2025-12-15T03:07:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

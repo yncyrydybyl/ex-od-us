@@ -5,7 +5,7 @@ repo: "https://github.com/tower-lsp-community/tower-lsp-server"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4674]
 updated: "2026-03-14T21:22:09Z"
 matrix_links:
   - target: "#tower-lsp:wiro.world"

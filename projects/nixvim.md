@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nixvim"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6984]
 updated: "2026-04-04T12:56:56Z"
 matrix_links:
   - target: "#nixvim:matrix.org"

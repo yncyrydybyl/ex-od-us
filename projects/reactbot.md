@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#thisweekinmatrix:matrix.org"
-issues: []
+issues: [3903]
 updated: "2024-08-05T08:48:25Z"
 ---
 

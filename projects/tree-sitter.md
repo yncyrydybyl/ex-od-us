@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4719]
 updated: "2026-04-06T16:26:13Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

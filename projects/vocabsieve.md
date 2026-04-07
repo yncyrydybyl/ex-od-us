@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#general:freelanguagetools.org"
-issues: []
+issues: [4047]
 updated: "2025-08-15T01:33:56Z"
 ---
 

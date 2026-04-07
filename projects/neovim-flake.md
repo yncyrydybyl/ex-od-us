@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#neovim-flake:matrix.org"
-issues: []
+issues: [3757]
 updated: "2024-08-01T02:00:03Z"
 ---
 

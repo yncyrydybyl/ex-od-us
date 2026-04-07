@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rust-psutil:matrix.org"
-issues: []
+issues: [4435]
 updated: "2025-07-25T14:03:49Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/rust-lang/rustc_codegen_gcc"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4439]
 updated: "2026-04-05T19:33:24Z"
 ---
 

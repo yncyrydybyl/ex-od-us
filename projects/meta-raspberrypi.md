@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#meta-raspberrypi:matrix.org"
-issues: []
+issues: [6696]
 updated: "2026-03-31T23:01:19Z"
 ---
 

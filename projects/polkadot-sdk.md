@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#substratedevs:matrix.org"
-issues: []
+issues: [4260]
 updated: "2026-04-06T17:27:58Z"
 ---
 

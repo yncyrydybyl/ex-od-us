@@ -5,7 +5,7 @@ repo: "https://github.com/LibreShift/red-moon"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3905]
 updated: "2026-02-19T07:09:53Z"
 matrix_links:
   - target: "#redmoon:matrix.org"

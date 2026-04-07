@@ -5,7 +5,7 @@ repo: "https://github.com/ONLYOFFICE/web-apps"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4803]
 updated: "2026-04-02T11:52:33Z"
 ---
 

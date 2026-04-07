@@ -5,7 +5,7 @@ repo: "https://github.com/Plume-org/Plume"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4253]
 updated: "2025-04-08T19:40:59Z"
 matrix_links:
   - target: "#plume-blog:matrix.org"

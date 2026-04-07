@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#maunium:mau.dev"
-issues: []
+issues: [6652]
 updated: "2025-05-18T07:17:48Z"
 ---
 

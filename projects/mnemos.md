@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mnemos-dev:beeper.com"
-issues: []
+issues: [6764]
 updated: "2025-01-21T03:37:30Z"
 ---
 

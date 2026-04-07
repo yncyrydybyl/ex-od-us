@@ -5,7 +5,7 @@ repo: "https://github.com/not-fl3/miniquad"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6736]
 updated: "2026-03-22T19:55:13Z"
 matrix_links:
   - target: "#quad-general:matrix.org"

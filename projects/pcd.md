@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pcd:kristof.tech"
-issues: []
+issues: [3826]
 updated: "2023-07-16T14:11:44Z"
 ---
 

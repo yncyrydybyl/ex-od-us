@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#paneru:matrix.org"
-issues: []
+issues: [4188]
 updated: "2026-04-06T16:50:05Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#UseBottles:matrix.org"
-issues: []
+issues: [4288]
 updated: "2026-04-01T03:33:46Z"
 ---
 

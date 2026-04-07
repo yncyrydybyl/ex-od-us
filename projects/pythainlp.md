@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#thainlp:matrix.org"
-issues: []
+issues: [4321]
 updated: "2026-04-04T13:41:46Z"
 ---
 

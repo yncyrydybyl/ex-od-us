@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mwmbl:matrix.org"
-issues: []
+issues: [6828]
 updated: "2026-04-05T21:46:59Z"
 ---
 

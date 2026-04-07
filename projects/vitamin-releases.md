@@ -5,7 +5,7 @@ repo: "https://github.com/realvitali/vitamin-releases"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4773]
 updated: "2026-02-06T17:48:05Z"
 matrix_links:
   - target: "#librewolf:matrix.org"

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nmstate:fedora.im"
-issues: []
+issues: [6986]
 updated: "2026-04-04T02:17:28Z"
 ---
 

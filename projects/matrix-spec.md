@@ -27,7 +27,7 @@ matrix_rooms:
   - "https://matrix.to/#/#matrix-docs:matrix.org"
   - "https://matrix.to/#/#matrix-dev:matrix.org"
   - "https://matrix.to/#/#matrix-spec:matrix.org"
-issues: []
+issues: [6630]
 updated: "2026-04-04T12:57:22Z"
 ---
 

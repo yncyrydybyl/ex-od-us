@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#firefox-gnome-theme:matrix.org"
-issues: []
+issues: [4653]
 updated: "2026-04-03T15:01:33Z"
 ---
 

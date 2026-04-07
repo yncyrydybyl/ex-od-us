@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rulewerk-support:tu-dresden.de"
-issues: []
+issues: [3925]
 updated: "2025-07-12T02:04:49Z"
 ---
 

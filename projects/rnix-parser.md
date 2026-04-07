@@ -9,7 +9,7 @@ exodus_score: 4
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rnix-lsp:matrix.org]
-issues: []
+issues: [4394]
 updated: "2026-02-16T18:52:16Z"
 ---
 

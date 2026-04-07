@@ -5,7 +5,7 @@ repo: "https://github.com/rodneylab/sveltekit-seo"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4597]
 updated: "2025-04-07T07:57:19Z"
 matrix_links:
   - target: "#rodney:matrix.org"

@@ -5,7 +5,7 @@ repo: "https://github.com/WrenSecurity/wrenidm"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4841]
 updated: "2026-03-24T11:57:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#WrenSecurity_Lobby:gitter.im]

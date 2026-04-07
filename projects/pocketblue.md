@@ -5,7 +5,7 @@ repo: "https://github.com/pocketblue/pocketblue"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4254]
 updated: "2026-04-05T21:26:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mobility:fedoraproject.org, https://matrix.to/#/#mobility-sdm845:fedoraproject.org, https://matrix.to/#/#pocketblue:federated.nexus, https://matrix.to/#/#pocketblue-dev:federated.nexus]

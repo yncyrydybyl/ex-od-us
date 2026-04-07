@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#simracing:matrix.org"
-issues: []
+issues: [6790]
 updated: "2026-04-04T14:02:20Z"
 ---
 

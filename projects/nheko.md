@@ -5,7 +5,7 @@ repo: "https://github.com/Nheko-Reborn/nheko"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [6903]
 updated: "2026-04-06T11:22:14Z"
 matrix_links:
   - target: "#nheko-reborn:matrix.org"

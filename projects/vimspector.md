@@ -5,7 +5,7 @@ repo: "https://github.com/puremourning/vimspector"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4772]
 updated: "2026-04-04T04:20:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vimspector_Lobby:gitter.im]

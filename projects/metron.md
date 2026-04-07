@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#metron-devel:matrix.org"
   - "https://matrix.to/#/#metron-general:matrix.org"
-issues: []
+issues: [3695]
 updated: "2026-04-06T16:04:00Z"
 ---
 

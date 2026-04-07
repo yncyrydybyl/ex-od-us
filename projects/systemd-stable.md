@@ -5,7 +5,7 @@ repo: "https://github.com/systemd/systemd-stable"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4605]
 updated: "2025-06-26T14:57:07Z"
 matrix_links:
   - target: "#systemd-project:matrix.org"

@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/multiplex"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6819]
 updated: "2026-02-20T06:18:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#multiplex:matrix.org]

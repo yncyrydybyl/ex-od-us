@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rockcraft:ubuntu.com"
-issues: []
+issues: [4402]
 updated: "2026-04-04T10:33:41Z"
 ---
 

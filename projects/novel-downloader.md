@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#404-novel-project:bgme.me"
-issues: []
+issues: [7003]
 updated: "2026-04-01T17:35:47Z"
 ---
 

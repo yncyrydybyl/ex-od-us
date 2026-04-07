@@ -5,7 +5,7 @@ repo: "https://github.com/TeamPiped/Piped"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4236]
 updated: "2026-04-06T17:03:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#piped:matrix.org]

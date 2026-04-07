@@ -5,7 +5,7 @@ repo: "https://github.com/redsolver/noteless"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7001]
 updated: "2021-05-31T16:27:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#noteless:matrix.org]

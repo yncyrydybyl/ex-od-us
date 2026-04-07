@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nunjucks:mozilla.org"
-issues: []
+issues: [3778]
 updated: "2026-02-07T15:11:07Z"
 ---
 

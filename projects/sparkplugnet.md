@@ -5,7 +5,7 @@ repo: "https://github.com/SeppPenner/SparkplugNet"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4551]
 updated: "2025-01-05T22:01:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#SparkplugNet_community:gitter.im]

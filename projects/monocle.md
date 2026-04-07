@@ -5,7 +5,7 @@ repo: "https://github.com/change-metrics/monocle"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1626]
 updated: "2026-04-02T08:56:39Z"
 verified: true
 verified_note: repo alive, room not checked

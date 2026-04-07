@@ -5,7 +5,7 @@ repo: "https://github.com/overte-org/overte"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4175]
 updated: "2026-04-05T23:19:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#overte:matrix.org]

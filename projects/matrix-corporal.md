@@ -5,7 +5,7 @@ repo: "https://github.com/devture/matrix-corporal"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1586]
 updated: "2025-11-20T03:30:13Z"
 verified: true
 verified_note: repo alive, room not checked

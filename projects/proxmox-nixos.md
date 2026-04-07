@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#proxmox-nixos:matrix.org"
-issues: []
+issues: [4295]
 updated: "2026-04-03T15:06:03Z"
 ---
 

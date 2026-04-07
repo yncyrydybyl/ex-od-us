@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#sponsor:ajay.app"
-issues: []
+issues: [3934]
 updated: "2025-12-17T13:07:02Z"
 ---
 

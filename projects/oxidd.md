@@ -5,7 +5,7 @@ repo: "https://github.com/OxiDD/oxidd"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4179]
 updated: "2026-03-02T08:57:08Z"
 matrix_links:
   - target: "#oxidd:matrix.org"

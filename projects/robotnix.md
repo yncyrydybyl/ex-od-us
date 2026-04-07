@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#robotnix:nixos.org"
-issues: []
+issues: [4397]
 updated: "2026-04-06T11:26:29Z"
 ---
 

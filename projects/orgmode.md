@@ -5,7 +5,7 @@ repo: "https://github.com/nvim-orgmode/orgmode"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4158]
 updated: "2026-04-01T14:44:57Z"
 matrix_links:
   - target: "#neovim-orgmode:matrix.org"

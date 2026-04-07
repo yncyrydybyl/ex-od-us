@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mgmtconfig:matrix.org"
-issues: []
+issues: [6714]
 updated: "2026-04-06T03:00:59Z"
 ---
 

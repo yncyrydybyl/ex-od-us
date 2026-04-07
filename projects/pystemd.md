@@ -5,7 +5,7 @@ repo: "https://github.com/systemd/pystemd"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4318]
 updated: "2026-01-25T06:11:11Z"
 matrix_links:
   - target: "#pystemd:matrix.org"

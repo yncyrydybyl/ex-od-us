@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#nextcloudpi:matrix.org"
   - "https://matrix.to/#/#NCP_Wiki_Team:matrix.org"
-issues: []
+issues: [6895]
 updated: "2026-04-04T16:59:07Z"
 ---
 

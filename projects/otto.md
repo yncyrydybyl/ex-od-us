@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#otto-compositor:matrix.org"
-issues: []
+issues: [4172]
 updated: "2026-04-04T23:18:12Z"
 ---
 

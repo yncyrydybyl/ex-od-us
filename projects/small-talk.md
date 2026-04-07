@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#small-talk:iswell.cool"
-issues: []
+issues: [4521]
 updated: "2026-03-30T21:31:35Z"
 ---
 

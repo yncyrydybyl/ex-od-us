@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#tui-term-main:matrix.org"
-issues: []
+issues: [4732]
 updated: "2026-04-06T14:08:04Z"
 ---
 

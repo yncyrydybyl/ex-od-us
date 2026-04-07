@@ -27,7 +27,7 @@ matrix_rooms:
   - "https://matrix.to/#/#raceintospace:matrix.org"
   - "https://matrix.to/#/#raceintospace-games:matrix.org"
   - "https://matrix.to/#/#raceintospace-general:matrix.org"
-issues: []
+issues: [4347]
 updated: "2026-04-06T17:22:24Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/mumble-voip/mumble"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3746]
 updated: "2026-04-03T18:06:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mumble:matrix.org]

@@ -5,7 +5,7 @@ repo: "https://github.com/xmonad/xmonad"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4848]
 updated: "2026-03-14T03:53:11Z"
 matrix_links:
   - target: "#xmonad:matrix.org"

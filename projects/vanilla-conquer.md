@@ -7,7 +7,7 @@ categories: [Development]
 status: Active
 exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
-issues: []
+issues: [4762]
 updated: "2025-11-14T22:57:56Z"
 matrix_links:
   - target: "#vanilla-conquer:vi.fi"

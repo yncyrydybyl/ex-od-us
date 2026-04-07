@@ -5,7 +5,7 @@ repo: "https://github.com/opencontainers/umoci"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4748]
 updated: "2026-03-27T06:22:28Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

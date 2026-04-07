@@ -5,7 +5,7 @@ repo: "https://github.com/ChimeHQ/MeterReporter"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1614]
 updated: "2024-07-05T17:18:38Z"
 verified: true
 verified_note: repo alive, room not checked

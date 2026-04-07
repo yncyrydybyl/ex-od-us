@@ -5,7 +5,7 @@ repo: "https://github.com/natsukagami/mpd-mpris"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6804]
 updated: "2026-02-18T09:56:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mpd-mpris:matrix.org]

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#chimehq:matrix.org"
-issues: []
+issues: [3985]
 updated: "2026-04-01T12:44:11Z"
 ---
 

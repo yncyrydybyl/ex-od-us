@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#package-url_Lobby:gitter.im"
-issues: []
+issues: [4303]
 updated: "2026-04-03T23:29:05Z"
 ---
 

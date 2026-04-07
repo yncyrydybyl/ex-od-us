@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#image-builder:fedoraproject.org"
-issues: []
+issues: [4165]
 updated: "2026-04-06T07:22:06Z"
 ---
 

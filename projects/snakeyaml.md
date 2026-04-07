@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#chat:yaml.io"
-issues: []
+issues: [4529]
 updated: "2026-02-28T07:40:09Z"
 ---
 

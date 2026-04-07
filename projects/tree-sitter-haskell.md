@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-haskell"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4694]
 updated: "2025-08-29T03:18:04Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

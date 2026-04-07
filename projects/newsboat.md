@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#newsboat:libera.chat"
-issues: []
+issues: [6891]
 updated: "2026-04-05T11:03:01Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#genotrance_px:matrix.org"
-issues: []
+issues: [3874]
 updated: "2026-04-03T23:30:00Z"
 ---
 

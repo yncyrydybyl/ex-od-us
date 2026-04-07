@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#wgpu-users:matrix.org"
   - "https://matrix.to/#/#wgpu:matrix.org"
-issues: []
+issues: [4819]
 updated: "2026-04-06T00:31:17Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#portable-dev:matrix.org"
-issues: []
+issues: [4266]
 updated: "2026-04-06T08:24:12Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#inkbox-os-project:matrix.org"
-issues: []
+issues: [4341]
 updated: "2026-01-03T05:00:33Z"
 ---
 

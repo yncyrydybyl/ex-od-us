@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
-issues: []
+issues: [4715]
 updated: "2024-11-11T06:40:53Z"
 ---
 

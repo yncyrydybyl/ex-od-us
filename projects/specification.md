@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#solid_specification:gitter.im"
-issues: []
+issues: [4554]
 updated: "2026-04-06T13:26:08Z"
 ---
 

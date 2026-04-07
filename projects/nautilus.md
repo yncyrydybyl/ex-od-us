@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#gnome-design:gnome.org"
-issues: []
+issues: [6847]
 updated: "2026-04-06T10:39:53Z"
 ---
 

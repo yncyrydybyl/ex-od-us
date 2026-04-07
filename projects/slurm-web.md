@@ -9,7 +9,7 @@ exodus_score: 4
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#slurm-web:talk.rackslab, https://matrix.to/#/#slurm-web:talk.rackslab.io]
-issues: []
+issues: [4520]
 updated: "2026-03-26T07:36:38Z"
 ---
 

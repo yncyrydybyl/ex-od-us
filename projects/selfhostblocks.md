@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#selfhostblocks:matrix.org"
-issues: []
+issues: [3942]
 updated: "2026-04-02T02:54:48Z"
 ---
 

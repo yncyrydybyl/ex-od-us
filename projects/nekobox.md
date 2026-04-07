@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#NyameBox:matrix.org"
-issues: []
+issues: [6859]
 updated: "2026-04-06T13:28:09Z"
 ---
 

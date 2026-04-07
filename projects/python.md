@@ -9,7 +9,7 @@ exodus_score: 6
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#maunium:maunium.net]
-issues: []
+issues: [3884]
 updated: "2026-03-23T12:48:34Z"
 ---
 

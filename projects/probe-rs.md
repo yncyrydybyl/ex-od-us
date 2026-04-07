@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#probe-rs:matrix.org"
-issues: []
+issues: [4287]
 updated: "2026-04-06T09:42:54Z"
 ---
 

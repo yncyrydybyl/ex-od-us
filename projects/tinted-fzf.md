@@ -5,7 +5,7 @@ repo: "https://github.com/tinted-theming/tinted-fzf"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4656]
 updated: "2026-03-08T02:00:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]

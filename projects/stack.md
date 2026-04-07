@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#haskell-stack:matrix.org"
-issues: []
+issues: [4565]
 updated: "2026-04-05T20:50:41Z"
 ---
 

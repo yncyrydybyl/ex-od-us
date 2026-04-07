@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#newpipe:matrix.newpipe-ev.de]
-issues: []
+issues: [6889]
 updated: "2026-04-03T15:22:28Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#slack:maunium.net"
-issues: []
+issues: [4518]
 updated: "2026-03-31T16:56:16Z"
 ---
 

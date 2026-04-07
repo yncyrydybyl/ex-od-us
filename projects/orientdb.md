@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#orientdb-community:matrix.org"
-issues: []
+issues: [4160]
 updated: "2026-04-06T11:42:33Z"
 ---
 

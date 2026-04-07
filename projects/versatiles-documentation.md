@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#versatiles:matrix.org"
-issues: []
+issues: [4766]
 updated: "2026-04-02T03:05:22Z"
 ---
 

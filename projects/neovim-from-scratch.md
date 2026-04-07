@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#neovim-atmachine:matrix.org"
-issues: []
+issues: [3759]
 updated: "2024-07-22T20:44:57Z"
 ---
 

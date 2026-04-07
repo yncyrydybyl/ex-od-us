@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#qdmr:darc.de"
-issues: []
+issues: [4327]
 updated: "2026-04-03T15:54:03Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/tldr-pages/tldr-node-client"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4666]
 updated: "2026-04-03T05:14:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]

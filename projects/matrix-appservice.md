@@ -9,7 +9,7 @@ exodus_score: 7
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-appservice-wechaty:matrix.org]
-issues: []
+issues: [6557]
 updated: "2022-09-09T08:01:55Z"
 ---
 

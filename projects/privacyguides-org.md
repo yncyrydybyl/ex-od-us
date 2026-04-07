@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pg-i18n:aragon.sh"
-issues: []
+issues: [4283]
 updated: "2026-03-30T07:07:30Z"
 ---
 

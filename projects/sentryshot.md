@@ -5,7 +5,7 @@ repo: "https://github.com/SentryShot/sentryshot"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4478]
 updated: "2026-03-15T19:52:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sentryshot:matrix.org]

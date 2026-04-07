@@ -5,7 +5,7 @@ repo: "https://github.com/devture/matrix-synapse-shared-secret-auth"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1605]
 updated: "2024-01-06T15:36:15Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -5,7 +5,7 @@ repo: "https://github.com/VHDL-LS/rust_hdl_vscode"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4431]
 updated: "2025-03-28T22:22:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]

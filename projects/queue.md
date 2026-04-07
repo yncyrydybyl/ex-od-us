@@ -5,7 +5,7 @@ repo: "https://github.com/mattmassicotte/Queue"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3897]
 updated: "2025-09-23T20:22:32Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

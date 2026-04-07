@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/panrpc"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4189]
 updated: "2025-04-17T21:04:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#panrpc:matrix.org]

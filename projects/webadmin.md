@@ -5,7 +5,7 @@ repo: "https://github.com/stalwartlabs/webadmin"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4805]
 updated: "2026-03-18T20:06:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stalwart:matrix.org]

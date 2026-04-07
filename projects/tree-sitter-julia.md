@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter/tree-sitter-julia"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4700]
 updated: "2025-11-08T05:23:41Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

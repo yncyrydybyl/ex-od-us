@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#tplink_rayhunter:chaospott.de"
-issues: []
+issues: [4004]
 updated: "2026-01-17T00:20:36Z"
 ---
 

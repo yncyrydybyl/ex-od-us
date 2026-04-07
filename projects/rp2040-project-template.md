@@ -5,7 +5,7 @@ repo: "https://github.com/rp-rs/rp2040-project-template"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4414]
 updated: "2025-11-03T04:09:34Z"
 matrix_links:
   - target: "#rp-rs:matrix.org"

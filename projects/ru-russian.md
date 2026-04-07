@@ -5,7 +5,7 @@ repo: "https://github.com/solidity-docs/ru-russian"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4423]
 updated: "2024-06-07T04:06:44Z"
 matrix_links:
   - target: "#ethereum_solidity:gitter.im"

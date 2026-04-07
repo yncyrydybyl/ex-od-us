@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#aperturerobotics:matrix.org"
-issues: []
+issues: [4566]
 updated: "2026-04-05T06:47:41Z"
 ---
 

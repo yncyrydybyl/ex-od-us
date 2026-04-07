@@ -5,7 +5,7 @@ repo: "https://github.com/signaller-matrix/signaller"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4508]
 updated: "2023-02-06T23:41:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#signaller_dev:netwhood.online, https://matrix.to/#/#signaller_dev_ru:netwhood.online]

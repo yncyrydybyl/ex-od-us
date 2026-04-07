@@ -9,7 +9,7 @@ exodus_score: 6
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#py-ipfs:ninetailed.ninja]
-issues: []
+issues: [3875]
 updated: "2025-05-01T08:39:51Z"
 ---
 

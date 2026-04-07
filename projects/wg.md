@@ -5,7 +5,7 @@ repo: "https://github.com/rust-embedded/wg"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4430]
 updated: "2026-02-24T20:20:40Z"
 matrix_links:
   - target: "#rust-embedded:matrix.org"

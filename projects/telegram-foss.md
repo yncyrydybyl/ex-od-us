@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#telegram-foss:matrix.org"
-issues: []
+issues: [4624]
 updated: "2024-08-25T10:50:37Z"
 ---
 

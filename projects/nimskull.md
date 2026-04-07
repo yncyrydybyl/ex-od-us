@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#space:nim.works"
-issues: []
+issues: [6909]
 updated: "2026-04-03T06:21:22Z"
 ---
 

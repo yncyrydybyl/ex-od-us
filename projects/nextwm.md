@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#waycrate-tools:matrix.org"
-issues: []
+issues: [6897]
 updated: "2023-10-29T19:33:23Z"
 ---
 

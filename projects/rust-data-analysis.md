@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rusty-data:gitter.im"
-issues: []
+issues: [4427]
 updated: "2024-07-27T06:28:56Z"
 ---
 

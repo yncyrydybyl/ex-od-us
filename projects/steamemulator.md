@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#goldberg:matrix.org"
-issues: []
+issues: [3968]
 updated: "2025-10-05T20:40:54Z"
 ---
 

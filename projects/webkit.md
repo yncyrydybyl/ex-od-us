@@ -5,7 +5,7 @@ repo: "https://github.com/WebKit/WebKit"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [4806]
 updated: "2026-04-06T17:10:21Z"
 ---
 

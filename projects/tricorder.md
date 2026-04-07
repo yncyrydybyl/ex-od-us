@@ -5,7 +5,7 @@ repo: "https://github.com/linkdd/tricorder"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4013]
 updated: "2026-04-04T14:56:28Z"
 matrix_links:
   - target: "#tricorder:gitter.im"

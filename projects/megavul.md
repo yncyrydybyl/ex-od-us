@@ -5,7 +5,7 @@ repo: "https://github.com/Icyrockton/MegaVul"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3673]
 updated: "2025-01-12T03:01:12Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

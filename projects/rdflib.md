@@ -5,7 +5,7 @@ repo: "https://github.com/RDFLib/rdflib"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4361]
 updated: "2026-03-30T05:46:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im]

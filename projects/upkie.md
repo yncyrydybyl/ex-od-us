@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#upkie:matrix.org"
-issues: []
+issues: [4756]
 updated: "2026-04-04T17:52:20Z"
 ---
 

@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#rosenpass:matrix.org]
-issues: []
+issues: [4410]
 updated: "2026-03-30T17:14:58Z"
 ---
 

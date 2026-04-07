@@ -27,7 +27,7 @@ matrix_rooms:
   - "https://matrix.to/#/#thunderbird-community:mozilla.org"
   - "https://matrix.to/#/#tb-android:mozilla.org"
   - "https://matrix.to/#/#tb-android-dev:mozilla.org"
-issues: []
+issues: [4651]
 updated: "2026-04-06T17:13:08Z"
 ---
 

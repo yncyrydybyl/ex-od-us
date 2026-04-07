@@ -5,7 +5,7 @@ repo: "https://github.com/tree-sitter-grammars/tree-sitter-objc"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4703]
 updated: "2025-05-24T07:30:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]

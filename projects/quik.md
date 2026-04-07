@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#quik-sms:matrix.org"
-issues: []
+issues: [4340]
 updated: "2026-04-02T23:47:45Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nuschtos:c3d2.de"
-issues: []
+issues: [6970]
 updated: "2026-04-04T19:40:29Z"
 ---
 

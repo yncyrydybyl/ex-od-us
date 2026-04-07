@@ -5,7 +5,7 @@ repo: "https://github.com/rtic-rs/rtic"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4422]
 updated: "2026-03-31T19:12:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rtic:matrix.org]

@@ -19,7 +19,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#rnote:matrix.org, https://matrix.to/#/#rnote-dev:matrix.org]
-issues: []
+issues: [4395]
 updated: "2026-03-30T16:29:20Z"
 ---
 

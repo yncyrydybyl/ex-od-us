@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#stylix:danth.me"
-issues: []
+issues: [4583]
 updated: "2026-04-05T22:44:37Z"
 ---
 

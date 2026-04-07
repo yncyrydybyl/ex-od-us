@@ -5,7 +5,7 @@ repo: "https://github.com/benkuly/trixnity"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [4726]
 updated: "2026-03-30T14:42:47Z"
 matrix_links:
   - target: "#trixnity:imbitbu.de"

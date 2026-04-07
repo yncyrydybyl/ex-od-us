@@ -5,7 +5,7 @@ repo: "https://github.com/pbek/QOwnNotes"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4330]
 updated: "2026-04-06T14:45:30Z"
 matrix_links:
   - target: "#qownnotes:matrix.org"

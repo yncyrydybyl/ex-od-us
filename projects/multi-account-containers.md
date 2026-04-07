@@ -9,7 +9,7 @@ exodus_score: 5
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#containers:mozilla.org]
-issues: []
+issues: [3741]
 updated: "2026-03-11T21:37:03Z"
 ---
 

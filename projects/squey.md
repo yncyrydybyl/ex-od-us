@@ -5,7 +5,7 @@ repo: "https://github.com/squey/squey"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4559]
 updated: "2025-12-15T21:21:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#squey:matrix.org]

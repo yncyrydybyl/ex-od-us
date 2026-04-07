@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#pyinfra:matrix.org"
-issues: []
+issues: [4312]
 updated: "2026-04-04T10:24:00Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#miyoocfw:matrix.org"
-issues: []
+issues: [6754]
 updated: "2026-04-06T09:00:35Z"
 ---
 

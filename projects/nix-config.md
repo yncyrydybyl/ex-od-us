@@ -5,7 +5,7 @@ repo: "https://github.com/JayRovacsek/nix-config"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3764]
 updated: "2026-04-05T23:52:14Z"
 matrix_links:
   - target: "#Tow-Boot:matrix.org"

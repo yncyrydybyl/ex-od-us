@@ -5,7 +5,7 @@ repo: "https://github.com/topi314/Reddit-Discord-Bot"
 platform: github
 categories: [Integrations]
 status: Active
-issues: []
+issues: [4369]
 updated: "2025-01-28T23:58:16Z"
 exodus_score: 1
 last_scanned: "2026-04-06T20:35:19Z"

@@ -5,7 +5,7 @@ repo: "https://github.com/Minecraft-Anarchy/minecraft-hack-clients"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [3700]
 updated: "2023-01-29T20:24:39Z"
 matrix_links:
   - target: "#forgehax:nerdsin.space"

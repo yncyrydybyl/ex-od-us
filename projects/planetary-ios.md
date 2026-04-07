@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#planetary:matrix.org"
-issues: []
+issues: [4243]
 updated: "2025-12-17T00:03:25Z"
 ---
 

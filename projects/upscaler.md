@@ -5,7 +5,7 @@ repo: "https://github.com/TheEvilSkeleton/Upscaler"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4757]
 updated: "2025-07-08T18:17:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#Upscaler:gnome.org]

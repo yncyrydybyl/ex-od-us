@@ -27,7 +27,7 @@ matrix_rooms:
   - "https://matrix.to/#/#vieb-general:matrix.org"
   - "https://matrix.to/#/#vieb:matrix.org"
   - "https://matrix.to/#/#vieb-announcements:matrix.org"
-issues: []
+issues: [4769]
 updated: "2026-04-02T19:25:31Z"
 ---
 

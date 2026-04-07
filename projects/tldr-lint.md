@@ -5,7 +5,7 @@ repo: "https://github.com/tldr-pages/tldr-lint"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4665]
 updated: "2026-04-06T08:53:53Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

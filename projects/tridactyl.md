@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#tridactyl:matrix.org"
-issues: []
+issues: [4723]
 updated: "2026-03-24T17:42:16Z"
 ---
 

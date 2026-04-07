@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#oci-registry:cronce.io"
-issues: []
+issues: [3792]
 updated: "2024-06-24T22:02:33Z"
 ---
 

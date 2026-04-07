@@ -4,7 +4,7 @@ repo: "https://github.com/TypeCellOS/TypeCell"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4743]
 updated: "2024-05-22T08:39:26Z"
 matrix_links:
   - target: "#typecell-space:matrix.org"

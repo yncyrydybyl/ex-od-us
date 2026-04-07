@@ -5,7 +5,7 @@ repo: "https://github.com/thunderbird/thunderbird-ios"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4654]
 updated: "2026-03-30T07:34:11Z"
 matrix_links:
   - target: "#tb-ios:mozilla.org"

@@ -5,7 +5,7 @@ repo: "https://github.com/pinnacle-comp/pinnacle"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4233]
 updated: "2026-03-28T03:18:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pinnacle:matrix.org]

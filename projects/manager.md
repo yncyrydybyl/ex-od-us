@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#manager:maunium.net]
-issues: []
+issues: [3595]
 updated: "2025-07-28T19:31:14Z"
 ---
 

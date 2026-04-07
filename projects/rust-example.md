@@ -4,7 +4,7 @@ repo: "https://github.com/getong/rust_example"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [3926]
 updated: "2026-04-06T14:41:40Z"
 ---
 

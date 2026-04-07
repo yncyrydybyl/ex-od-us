@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#ScribeiOS:matrix.org"
   - "https://matrix.to/#/#scribe_community:matrix.org"
-issues: []
+issues: [4467]
 updated: "2026-03-31T11:16:48Z"
 ---
 

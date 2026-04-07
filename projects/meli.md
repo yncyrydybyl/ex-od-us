@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#meli:matrix.org"
-issues: []
+issues: [6671]
 updated: "2026-04-03T08:51:28Z"
 ---
 

@@ -9,7 +9,7 @@ exodus_score: 3
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#librekeys:matrix.org]
-issues: []
+issues: [3832]
 updated: "2026-03-24T13:40:00Z"
 ---
 

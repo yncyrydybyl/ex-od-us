@@ -5,7 +5,7 @@ repo: "https://github.com/rogsme/yams"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4854]
 updated: "2026-03-24T02:11:08Z"
 matrix_rooms: [https://matrix.to/#/#yams-space:rogs.me]
 exodus_score: 4

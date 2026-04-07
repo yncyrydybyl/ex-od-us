@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#community:nixos.org"
-issues: []
+issues: [4258]
 updated: "2025-05-26T15:49:46Z"
 ---
 

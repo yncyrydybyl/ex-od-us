@@ -5,7 +5,7 @@ repo: "https://github.com/paperless-ngx/paperless-ngx"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4193]
 updated: "2026-04-06T12:29:44Z"
 matrix_links:
   - target: "#paperless:matrix.org"

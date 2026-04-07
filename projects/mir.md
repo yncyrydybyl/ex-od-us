@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#mir-server:matrix.org"
-issues: []
+issues: [6740]
 updated: "2026-04-06T17:11:04Z"
 ---
 

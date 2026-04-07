@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#kde-plasma-smart-video-wallpaper-reborn:matrix.org"
-issues: []
+issues: [4248]
 updated: "2026-04-02T20:00:34Z"
 ---
 

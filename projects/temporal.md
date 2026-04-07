@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#boa:matrix.org"
-issues: []
+issues: [4628]
 updated: "2026-04-02T17:21:08Z"
 ---
 

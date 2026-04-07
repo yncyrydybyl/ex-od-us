@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#wasp-os:matrix.org"
-issues: []
+issues: [4792]
 updated: "2026-01-08T22:00:42Z"
 ---
 

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#esp32_audio:matrix.org"
-issues: []
+issues: [6826]
 updated: "2023-03-02T23:25:13Z"
 ---
 

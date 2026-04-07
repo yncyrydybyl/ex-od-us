@@ -5,7 +5,7 @@ repo: "https://github.com/emavgl/oinkoin"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [1649]
 updated: "2026-04-01T05:16:23Z"
 verified: true
 verified_note: repo alive, room not checked

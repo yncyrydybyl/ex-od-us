@@ -5,7 +5,7 @@ repo: "https://github.com/maubot/maubot"
 platform: github
 categories: [Matrix]
 status: Active
-issues: []
+issues: [3669]
 updated: "2026-02-14T19:36:12Z"
 matrix_links:
   - target: "#maubot:maunium.net"

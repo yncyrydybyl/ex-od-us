@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#tola:matrix.org]
-issues: []
+issues: [4672]
 updated: "2026-03-18T17:31:15Z"
 ---
 

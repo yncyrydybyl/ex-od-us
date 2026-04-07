@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#pleroma-dev:libera.chat"
   - "https://matrix.to/#/#pleroma:libera.chat"
-issues: []
+issues: [3703]
 updated: "2025-06-03T14:06:06Z"
 ---
 

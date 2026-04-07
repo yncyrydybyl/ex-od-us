@@ -5,7 +5,7 @@ repo: "https://github.com/X11Libre/xserver"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4851]
 updated: "2026-04-03T14:13:02Z"
 matrix_links:
   - target: "#xlibre:matrix.org"

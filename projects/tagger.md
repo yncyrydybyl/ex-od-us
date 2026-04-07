@@ -5,7 +5,7 @@ repo: "https://github.com/NickvisionApps/Tagger"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [4610]
 updated: "2024-08-07T13:09:32Z"
 matrix_links:
   - target: "#nickvision:matrix.org"
