@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#opensuseway:opensuse.org"
-issues: []
+issues: [7196]
 updated: "2025-12-27T15:52:41Z"
 ---
 

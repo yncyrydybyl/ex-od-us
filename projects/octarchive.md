@@ -5,7 +5,7 @@ repo: "https://github.com/pojntfx/octarchive"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7162]
 updated: "2025-12-29T17:03:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#octarchive:matrix.org]

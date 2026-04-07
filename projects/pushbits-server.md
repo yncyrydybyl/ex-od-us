@@ -5,7 +5,7 @@ repo: "https://github.com/pushbits/server"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7210]
 updated: "2026-01-10T16:49:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pushbits:matrix.org]

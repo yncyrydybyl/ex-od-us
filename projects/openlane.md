@@ -7,7 +7,7 @@ categories: [Development]
 status: Active
 exodus_score: 0
 last_scanned: "2026-04-07T06:34:49Z"
-issues: []
+issues: [7189]
 updated: "2026-03-25T21:24:26Z"
 matrix_links:
   - target: "#openlane:fossi-chat.org"

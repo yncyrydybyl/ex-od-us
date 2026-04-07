@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nwg-shell:matrix.org"
-issues: []
+issues: [7154]
 updated: "2026-03-31T23:37:06Z"
 ---
 

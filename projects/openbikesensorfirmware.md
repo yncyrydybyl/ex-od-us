@@ -5,7 +5,7 @@ repo: "https://github.com/openbikesensor/OpenBikeSensorFirmware"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7178]
 updated: "2026-03-09T06:16:24Z"
 matrix_links:
   - target: "#openbikesensor:matrix.org"

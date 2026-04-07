@@ -21,7 +21,7 @@ matrix_links:
 matrix_rooms:
   - "https://matrix.to/#/#openrtx:matrix.org"
   - "https://matrix.to/#/#openrtx_general:matrix.org"
-issues: []
+issues: [7194]
 updated: "2026-04-06T06:50:17Z"
 ---
 

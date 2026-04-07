@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#metacall:matrix.org"
-issues: []
+issues: [6704]
 updated: "2026-04-02T20:03:16Z"
 ---
 

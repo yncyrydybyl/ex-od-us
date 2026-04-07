@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nim-science:envs.net"
-issues: []
+issues: [7148]
 updated: "2024-09-16T08:27:49Z"
 ---
 

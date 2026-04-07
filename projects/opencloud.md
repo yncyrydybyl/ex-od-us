@@ -5,7 +5,7 @@ repo: "https://github.com/opencloud-eu/opencloud"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7183]
 updated: "2026-04-05T00:08:07Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

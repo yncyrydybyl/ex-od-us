@@ -5,7 +5,7 @@ repo: "https://github.com/opsdroid/opsdroid"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7201]
 updated: "2026-03-30T20:56:31Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

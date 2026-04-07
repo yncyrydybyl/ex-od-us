@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#OpenWPM:mozilla.org"
-issues: []
+issues: [7199]
 updated: "2026-04-06T00:46:59Z"
 ---
 

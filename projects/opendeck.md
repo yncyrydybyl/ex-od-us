@@ -5,7 +5,7 @@ repo: "https://github.com/nekename/OpenDeck"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7184]
 updated: "2026-04-03T19:52:04Z"
 matrix_links:
   - target: "#opendeck:matrix.org"

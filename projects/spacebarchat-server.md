@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#spacebar:rory.gay"
-issues: []
+issues: [7210]
 updated: "2026-04-06T12:27:43Z"
 ---
 

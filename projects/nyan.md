@@ -5,7 +5,7 @@ repo: "https://github.com/SFTtech/nyan"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7157]
 updated: "2025-09-14T16:37:56Z"
 matrix_links:
   - target: "#sfttech:matrix.org"

@@ -5,7 +5,7 @@ repo: "https://github.com/omnilingo/omnilingo"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7171]
 updated: "2023-11-23T01:42:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#omnilingo:matrix.org]

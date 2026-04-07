@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/nur-combined"
 platform: github
 categories: [Development]
 status: "Active"
-issues: []
+issues: [7149]
 updated: "2026-04-06T16:34:28Z"
 ---
 

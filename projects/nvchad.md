@@ -5,7 +5,7 @@ repo: "https://github.com/NvChad/NvChad"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7152]
 updated: "2026-02-07T12:48:53Z"
 matrix_links:
   - target: "#nvchad:matrix.org"

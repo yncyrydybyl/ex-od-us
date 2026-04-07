@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#opennox:nwca.xyz"
-issues: []
+issues: [7191]
 updated: "2025-12-09T11:06:49Z"
 ---
 

@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#librehub:matrix.org"
-issues: []
+issues: [7142]
 updated: "2025-10-29T21:50:16+01:00"
 last_scanned: "2026-04-06T21:03:48Z"
 ---
