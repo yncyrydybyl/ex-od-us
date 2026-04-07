@@ -38,7 +38,7 @@ matrix_rooms:
   - "https://matrix.to/#/#ru.protocols:matrix.org"
   - "https://matrix.to/#/#ru.nixdev:matrix.org"
   - "https://matrix.to/#/#ufalug:tchncs.de"
-issues: []
+issues: [7224]
 updated: "2024-12-03T05:39:22+01:00"
 last_scanned: "2026-04-06T21:03:28Z"
 ---

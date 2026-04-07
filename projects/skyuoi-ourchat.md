@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#skyuoiourchat:matrix.org"
-issues: []
+issues: [7228]
 updated: "2026-04-06T09:00:27+02:00"
 last_scanned: "2026-04-06T21:02:39Z"
 ---

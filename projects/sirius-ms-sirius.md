@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#sirius-ms:gitter.im"
-issues: []
+issues: [7227]
 updated: "2026-04-02T15:41:35Z"
 ---
 

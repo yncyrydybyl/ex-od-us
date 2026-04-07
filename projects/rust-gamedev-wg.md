@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#rust-gamedev-wg:matrix.org"
-issues: []
+issues: [7225]
 updated: "2021-05-12T04:51:46Z"
 ---
 

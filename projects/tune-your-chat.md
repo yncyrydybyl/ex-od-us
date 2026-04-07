@@ -14,7 +14,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#matrix.org-website:matrix.org"
-issues: []
+issues: [7233]
 updated: "2026-02-19T07:18:04Z"
 last_scanned: "2026-04-07T00:00:00Z"
 ---
