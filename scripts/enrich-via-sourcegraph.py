@@ -23,22 +23,33 @@ from urllib.parse import unquote
 PROJECTS_DIR = Path('projects')
 SGRAPH = 'https://sourcegraph.com/.api/graphql'
 
-# Multiple room link formats: matrix.to, app.element.io, /#/room/... patterns
+# Room *aliases* start with `#` (human-readable, e.g. #element-web:matrix.org).
+# Room *IDs* start with `!` (opaque server-assigned, e.g. !BLOSvIyKTDLIVjRKSc:server).
+# matrix.to/#/<target> accepts both forms; we need to capture both.
 ROOM_PATTERN = re.compile(
     r'(?:matrix\.to/#/|element\.io/#/room/|/#/room/)'
-    r'(#[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)'
+    r'([#!][a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)'
 )
 PLAIN_ROOM_PATTERN = re.compile(
     r'(?:^|[`"\s(\[>])(#[a-zA-Z0-9._=-]{2,}:[a-zA-Z0-9-]+\.[a-zA-Z]{2,})\b'
 )
+# shields.io Matrix badges encode the room as a path segment:
+#   img.shields.io/matrix/<room>:<server>
+# The room is given without the leading `#`. We capture it and prepend.
+# This is one of the most common ways projects advertise their Matrix room.
+SHIELDS_PATTERN = re.compile(
+    r'img\.shields\.io/matrix/([a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})'
+)
 USER_PATTERN = re.compile(r'matrix\.to/#/(@[a-zA-Z0-9._=/-]+:[a-zA-Z0-9.-]+)')
 
 def extract_rooms(text):
-    """Extract Matrix room IDs from various URL formats and plain text."""
+    """Extract Matrix room aliases and room IDs from various URL formats,
+    plain text, and shields.io badges."""
     text = unquote(text)
     rooms = set(ROOM_PATTERN.findall(text))
     rooms.update(PLAIN_ROOM_PATTERN.findall(text))
-    return [r for r in rooms if re.match(r'^#[a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', r)]
+    rooms.update('#' + r for r in SHIELDS_PATTERN.findall(text))
+    return [r for r in rooms if re.match(r'^[#!][a-zA-Z0-9._=-]+:[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$', r)]
 
 def log(msg, level='INFO'):
     ts = datetime.now(timezone.utc).strftime('%H:%M:%S')
