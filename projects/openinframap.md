@@ -14,7 +14,7 @@ matrix_links:
     source: anchor
     quality: 7
 matrix_rooms: [https://matrix.to/#/#osm-infrastructure:matrix.org]
-issues: []
+issues: [7188]
 updated: "2026-04-05T17:19:53Z"
 ---
 

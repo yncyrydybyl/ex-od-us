@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#objfw:nil.im"
-issues: []
+issues: [7159]
 updated: "2026-04-06T16:17:40Z"
 ---
 

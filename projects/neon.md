@@ -5,7 +5,7 @@ repo: "https://github.com/exasim-project/NeoN"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [6870]
 updated: "2026-04-05T19:39:59Z"
 verified: true
 verified_note: repo alive, room not checked

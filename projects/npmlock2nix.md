@@ -5,7 +5,7 @@ repo: "https://github.com/nix-community/npmlock2nix"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7145]
 updated: "2025-09-17T09:20:11Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

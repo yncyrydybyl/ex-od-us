@@ -5,7 +5,7 @@ repo: "https://github.com/Telecominfraproject/oopt-gnpy"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7174]
 updated: "2026-04-01T15:34:34Z"
 matrix_links:
   - target: "#oopt-gnpy:matrix.org"

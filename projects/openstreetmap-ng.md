@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#openstreetmap-ng:matrix.org"
-issues: []
+issues: [7195]
 updated: "2026-04-01T02:00:30Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/gotify/server"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7210]
 updated: "2026-04-05T21:05:55Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

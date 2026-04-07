@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#sfttech:matrix.org"
-issues: []
+issues: [7176]
 updated: "2025-06-14T09:20:29Z"
 ---
 

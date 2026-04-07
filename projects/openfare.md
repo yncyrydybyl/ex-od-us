@@ -5,7 +5,7 @@ repo: "https://github.com/openfare/openfare"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7185]
 updated: "2022-04-25T22:57:09Z"
 exodus_score: 1
 last_scanned: "2026-04-07T12:22:56Z"

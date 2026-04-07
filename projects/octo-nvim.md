@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#octo.nvim:matrix.org"
-issues: []
+issues: [7163]
 updated: "2026-04-06T15:16:10Z"
 ---
 

@@ -5,7 +5,7 @@ repo: "https://github.com/syncpoint/ODINv2"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7166]
 updated: "2026-03-24T12:09:04Z"
 matrix_links:
   - target: "#ODIN.Community:syncpoint.io"

@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#niri:matrix.org"
-issues: []
+issues: [6917]
 updated: "2026-04-05T18:14:45Z"
 ---
 

@@ -6,7 +6,7 @@ platform: codeberg
 categories: [Matrix]
 exodus_score: 1
 status: "Active"
-issues: []
+issues: [7141]
 updated: "2025-09-30T17:47:30+02:00"
 last_scanned: "2026-04-06T21:01:26Z"
 ---

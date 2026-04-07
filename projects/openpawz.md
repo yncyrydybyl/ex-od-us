@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#openpawz:matrix.org"
-issues: []
+issues: [7192]
 updated: "2026-04-03T14:56:30Z"
 ---
 

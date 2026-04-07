@@ -8,7 +8,7 @@ exodus_score: 3
 last_scanned: "2026-04-07T12:22:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#openboard:matrix.org]
-issues: []
+issues: [7179]
 updated: "2024-05-16T16:55:59Z"
 ---
 

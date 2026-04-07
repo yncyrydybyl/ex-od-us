@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#nsproxy:schizo.vip"
-issues: []
+issues: [7146]
 updated: "2026-04-03T17:41:07Z"
 ---
 

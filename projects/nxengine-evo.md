@@ -5,7 +5,7 @@ repo: "https://github.com/nxengine/nxengine-evo"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7156]
 updated: "2026-03-04T02:13:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nxengine-evo:ninetailed.ninja]

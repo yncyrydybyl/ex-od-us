@@ -5,7 +5,7 @@ repo: "https://github.com/opentripplanner/OpenTripPlanner"
 platform: github
 categories: [Development]
 status: Active
-issues: []
+issues: [7197]
 updated: "2026-04-05T19:17:22Z"
 matrix_links:
   - target: "#opentripplanner_OpenTripPlanner:gitter.im"

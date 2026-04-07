@@ -15,7 +15,7 @@ matrix_links:
     quality: 7
 matrix_rooms:
   - "https://matrix.to/#/#oreboot-dev:matrix.org"
-issues: []
+issues: [7203]
 updated: "2025-11-21T11:02:14Z"
 ---
 
