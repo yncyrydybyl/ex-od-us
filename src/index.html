@@ -97,6 +97,14 @@ header p { color: var(--text-muted); max-width: 600px; }
   font-size: 0.7rem; font-weight: 700; margin-left: 0.25rem;
   font-family: 'JetBrains Mono', monospace;
 }
+.stat-spark {
+  display: inline-block; vertical-align: middle; margin-left: 0.4rem;
+  /* Match the height of the surrounding stat baseline so the line
+     visually anchors to the number, not the label. */
+  height: 18px;
+}
+.stat-spark path { fill: none; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+.stat-spark .spark-area { stroke: none; opacity: 0.18; }
 
 /* Grid */
 .grid {
@@ -1060,6 +1068,36 @@ function observeCards() {
   document.querySelectorAll('.card').forEach(c => observer.observe(c));
 }
 
+// ── Sparkline ───────────────────────────────────────────────────
+// Tiny inline-SVG sparkline. No CDN, no charting library. Renders a
+// monotone line through the given numeric series, plus a soft area fill
+// underneath, normalized to the series' own min/max so even subtle
+// changes show shape.
+function renderSparkline(values, { width = 60, height = 18, color = 'var(--blue)', title = '' } = {}) {
+  if (!values || values.length < 2) return '';
+  const nums = values.map(v => Number(v) || 0);
+  const min = Math.min(...nums);
+  const max = Math.max(...nums);
+  const range = max - min || 1;
+  // Inset by 1px so the stroke doesn't get clipped by the viewBox edge.
+  const pad = 1;
+  const w = width - pad * 2;
+  const h = height - pad * 2;
+  const step = w / (nums.length - 1);
+  const pts = nums.map((v, i) => {
+    const x = pad + i * step;
+    const y = pad + h - ((v - min) / range) * h;
+    return [x, y];
+  });
+  const linePath = 'M' + pts.map(p => `${p[0].toFixed(1)},${p[1].toFixed(1)}`).join(' L');
+  const areaPath = `${linePath} L${pts[pts.length - 1][0].toFixed(1)},${(height - pad).toFixed(1)} L${pts[0][0].toFixed(1)},${(height - pad).toFixed(1)} Z`;
+  const t = title ? ` title="${esc(title)}"` : '';
+  return `<svg class="stat-spark" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none"${t}>
+    <path class="spark-area" d="${areaPath}" fill="${color}"></path>
+    <path d="${linePath}" stroke="${color}"></path>
+  </svg>`;
+}
+
 // ── Stats bar ───────────────────────────────────────────────────
 function renderStats() {
   const bar = document.getElementById('stats-bar');
@@ -1072,8 +1110,12 @@ function renderStats() {
   const avgStr = scanned > 0 ? avg.toFixed(2) : '—';
   const withLinks = allProjects.filter(p => (p.matrix_links?.length || 0) > 0).length;
 
-  // Trend indicator vs previous snapshot
+  // Trend indicator vs previous snapshot, plus a sparkline of the full
+  // series so the user can see whether the latest delta is part of a
+  // longer trend or just noise.
   let trendIndicator = '';
+  let avgSpark = '';
+  let scannedSpark = '';
   if (trendData && trendData.length >= 2) {
     const prev = trendData[trendData.length - 2].avg;
     const delta = avg - prev;
@@ -1084,6 +1126,11 @@ function renderStats() {
     } else {
       trendIndicator = `<span class="stat-trend" style="color:var(--text-faint)" title="no change">=</span>`;
     }
+    const tsRange = `${trendData[0].ts.slice(0,10)} → ${trendData[trendData.length-1].ts.slice(0,10)}`;
+    avgSpark = renderSparkline(trendData.map(t => t.avg),
+      { color: 'var(--blue)', title: `avg score over last ${trendData.length} snapshots (${tsRange})` });
+    scannedSpark = renderSparkline(trendData.map(t => t.scanned),
+      { color: 'var(--green)', title: `scanned project count over last ${trendData.length} snapshots (${tsRange})` });
   }
 
   // Score distribution mini-bar chart
@@ -1098,9 +1145,9 @@ function renderStats() {
 
   bar.innerHTML = `
     <div class="stat"><span class="stat-num">${total}</span><span class="stat-label">projects</span></div>
-    <div class="stat"><span class="stat-num">${scanned}</span><span class="stat-label">scanned</span></div>
+    <div class="stat"><span class="stat-num">${scanned}</span><span class="stat-label">scanned</span>${scannedSpark}</div>
     ${discovered > 0 ? `<div class="stat"><span class="stat-num">${discovered}</span><span class="stat-label">queued</span></div>` : ''}
-    <div class="stat"><span class="stat-num">${avgStr}</span><span class="stat-label">avg score</span>${trendIndicator}</div>
+    <div class="stat"><span class="stat-num">${avgStr}</span><span class="stat-label">avg score</span>${trendIndicator}${avgSpark}</div>
     <div class="stat"><span class="stat-num">${withLinks}</span><span class="stat-label">with Matrix links</span></div>
     <div class="stat-bar" title="Score distribution 0-10">${barSegs}</div>
   `;
