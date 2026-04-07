@@ -653,7 +653,7 @@ function renderCards(projects) {
     const updatedTime = p.updated ? timeAgo(p.updated) : '—';
 
     return `
-    <div class="card" data-idx="${i}">
+    <div class="card" data-slug="${esc(p.slug)}">
       <div class="card-body">
         <div class="card-content">
           <div class="card-header">
@@ -676,13 +676,24 @@ function renderCards(projects) {
   }).join('');
 
   grid.querySelectorAll('.card').forEach(c =>
-    c.addEventListener('click', () => openModal(+c.dataset.idx)));
+    c.addEventListener('click', () => openModalBySlug(c.dataset.slug)));
 }
 
 // ── Modal ───────────────────────────────────────────────────────
-function openModal(idx) {
-  const p = currentFiltered[idx];
-  if (!p) return;
+function openModalBySlug(slug, { pushHistory = true } = {}) {
+  const p = allProjects.find(x => x.slug === slug);
+  if (!p) return false;
+  renderModal(p);
+  if (pushHistory) {
+    const target = `${location.pathname}${location.search}#p/${slug}`;
+    if (location.pathname + location.search + location.hash !== target) {
+      history.pushState({ slug }, '', target);
+    }
+  }
+  return true;
+}
+
+function renderModal(p) {
 
   document.getElementById('modal-accent').className = `modal-accent accent-${p.platform}`;
   const avatar = p.avatar_url
@@ -779,19 +790,56 @@ function openModal(idx) {
     <div class="modal-tracker">
       ${issueLinks ? `<a href="${REPO_URL}/issues/${p.issues[0]}" target="_blank">View in tracker</a>` : ''}
       ${p.slug ? `<a href="${REPO_URL}/blob/main/projects/${esc(p.slug)}.md" target="_blank">Edit project file</a>` : ''}
+      ${p.slug ? `<a href="#" id="modal-copy-link" data-slug="${esc(p.slug)}">Copy link</a>` : ''}
     </div>`;
+
+  // Wire copy-link button — copies the canonical permalink without
+  // any active search/filter params, so the link always resolves.
+  const copyBtn = document.getElementById('modal-copy-link');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', e => {
+      e.preventDefault();
+      const url = `${location.origin}${location.pathname}#p/${copyBtn.dataset.slug}`;
+      navigator.clipboard?.writeText(url).then(() => {
+        const orig = copyBtn.textContent;
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => { copyBtn.textContent = orig; }, 1500);
+      });
+    });
+  }
 
   document.getElementById('modal').classList.add('active');
   document.body.style.overflow = 'hidden';
 }
 
-function closeModal() {
+function closeModal({ pushHistory = true } = {}) {
   document.getElementById('modal').classList.remove('active');
   document.body.style.overflow = '';
+  if (pushHistory && parsePermalinkSlug(location.hash)) {
+    history.pushState(null, '', `${location.pathname}${location.search}`);
+  }
 }
-document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal-close').addEventListener('click', () => closeModal());
 document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ── Permalinks ──────────────────────────────────────────────────
+// Hash format: #p/<slug>. Composes with existing search-param filters
+// (e.g. ?category=Chat#p/element). Hash is the source of truth for which
+// project (if any) is currently open; the hash is updated on open/close
+// and consulted on popstate + initial load.
+function parsePermalinkSlug(hash) {
+  const m = (hash || '').match(/^#p\/([\w.\-]+)$/);
+  return m ? m[1] : null;
+}
+window.addEventListener('popstate', () => {
+  const slug = parsePermalinkSlug(location.hash);
+  if (slug) {
+    openModalBySlug(slug, { pushHistory: false });
+  } else {
+    closeModal({ pushHistory: false });
+  }
+});
 
 // ── Helpers ─────────────────────────────────────────────────────
 function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
@@ -922,7 +970,10 @@ function syncToURL() {
   if (s !== 'score-desc') p.set('sort', s);
   if (q) p.set('q', q);
   const qs = p.toString();
-  history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+  // Preserve the permalink hash if a project modal is currently open, so
+  // tweaking filters/search behind an open modal doesn't drop the deeplink.
+  const hash = location.hash || '';
+  history.replaceState(null, '', (qs ? `?${qs}` : location.pathname) + hash);
 }
 
 function resetFilters() {
@@ -944,6 +995,10 @@ function resetFilters() {
     applyFilters();
     startHeroAnimation();
     renderStats();
+    // If the URL points at a specific project, open its modal. Done after
+    // applyFilters so allProjects is fully populated and rendered behind it.
+    const initialSlug = parsePermalinkSlug(location.hash);
+    if (initialSlug) openModalBySlug(initialSlug, { pushHistory: false });
     for (const id of ['search','filter-category','filter-via','sort']) {
       document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', () => { syncToURL(); applyFilters(); });
     }
