@@ -30,14 +30,74 @@ Usage:
 
 Requires: gh CLI authenticated against the repo.
 """
-import os, re, sys, json, subprocess, argparse
+import os, re, sys, json, time, subprocess, argparse
 from pathlib import Path
 
 REPO = os.environ.get('GITHUB_REPOSITORY', 'yncyrydybyl/ex-od-us')
 PROJECTS_DIR = Path('projects')
 
+# Minimum spacing between *mutating* gh calls. GitHub's anti-abuse limit
+# on addComment fires at well under one comment per second across thousands
+# of issues; the practical safe rate is roughly one mutation every 2-3s.
+# Tweak via env if you're feeling brave.
+MIN_MUTATION_DELAY_S = float(os.environ.get('GH_MUTATION_DELAY', '2.5'))
 
-def gh(*args, check=False):
+# When the abuse-detection rate limit fires, we back off exponentially.
+# Sequence: 30, 60, 120, 240, 480 seconds, then give up.
+BACKOFF_STEPS_S = (30, 60, 120, 240, 480)
+
+_last_mutation_time = 0.0
+
+
+def _is_secondary_rate_limit(stderr_msg: str) -> bool:
+    """Detect GitHub secondary (anti-abuse) rate-limit errors. These are
+    distinct from the primary 5000/hr limit and can fire on as little as
+    a few requests/second to mutating endpoints."""
+    msg = stderr_msg.lower()
+    return any(s in msg for s in (
+        'submitted too quickly',
+        'secondary rate limit',
+        'abuse detection',
+        'you have exceeded a secondary rate limit',
+    ))
+
+
+def gh(*args, check=False, mutating=False):
+    """Run a gh command. If `mutating=True`, throttle and auto-retry on
+    secondary rate-limit errors with exponential backoff."""
+    global _last_mutation_time
+
+    if mutating:
+        # Throttle: keep mutation calls at least MIN_MUTATION_DELAY_S apart.
+        now = time.monotonic()
+        wait = MIN_MUTATION_DELAY_S - (now - _last_mutation_time)
+        if wait > 0:
+            time.sleep(wait)
+
+        for attempt, backoff in enumerate((0,) + BACKOFF_STEPS_S):
+            if backoff:
+                print(f"  rate-limited; sleeping {backoff}s before retry {attempt}",
+                      file=sys.stderr)
+                time.sleep(backoff)
+            result = subprocess.run(['gh'] + list(args), capture_output=True, text=True)
+            _last_mutation_time = time.monotonic()
+            if result.returncode == 0:
+                return result.stdout.strip()
+            stderr = result.stderr.strip()
+            if not _is_secondary_rate_limit(stderr):
+                # Not a rate-limit error — fail like the non-mutating path.
+                if check:
+                    raise RuntimeError(f"gh {' '.join(args)} failed: {stderr}")
+                print(f"  gh error: {stderr}", file=sys.stderr)
+                return None
+        # All backoffs exhausted.
+        msg = f"gh {' '.join(args)} still rate-limited after {len(BACKOFF_STEPS_S)} retries"
+        if check:
+            raise RuntimeError(msg)
+        print(f"  gh error: {msg}", file=sys.stderr)
+        return None
+
+    # Non-mutating path: simple call, no throttle.
     result = subprocess.run(['gh'] + list(args), capture_output=True, text=True)
     if result.returncode != 0:
         msg = result.stderr.strip()
@@ -108,6 +168,11 @@ def main():
                     help='Only fix project file issues fields; leave GH issues alone.')
     ap.add_argument('--only-close', action='store_true',
                     help='Only close duplicate GH issues; leave project files alone.')
+    ap.add_argument('--no-comment', action='store_true',
+                    help='Skip the cross-reference comment when closing duplicates. '
+                         'Roughly halves API call volume and avoids the addComment '
+                         'rate limit. Use this for large bulk runs; the canonical '
+                         'issue number is still set as the close-as-duplicate target.')
     args = ap.parse_args()
 
     if args.only_files and args.only_close:
@@ -163,6 +228,7 @@ def main():
     # --- Phase 2: close duplicate issues on GitHub -----------------------
     dupes_closed = 0
     dupes_skipped_already_closed = 0
+    dupes_failed = 0
     if not args.only_files:
         for title, lst in dup_titles.items():
             canonical = int(lst[0]['number'])
@@ -176,13 +242,21 @@ def main():
                            f"(see fix in sync-issues.py). All future activity "
                            f"should happen on #{canonical}.")
                 if dry:
-                    print(f"  [dry] would close #{num} (dup of #{canonical}) — {title}")
+                    suffix = ' (no comment)' if args.no_comment else ''
+                    print(f"  [dry] would close #{num} (dup of #{canonical}){suffix} — {title}")
                     dupes_closed += 1
                 else:
-                    gh('issue', 'comment', str(num), '--repo', REPO, '--body', comment)
-                    gh('issue', 'close', str(num), '--repo', REPO, '--reason', 'not planned')
-                    print(f"  CLOSED #{num} (dup of #{canonical})")
-                    dupes_closed += 1
+                    if not args.no_comment:
+                        gh('issue', 'comment', str(num), '--repo', REPO,
+                           '--body', comment, mutating=True)
+                    closed = gh('issue', 'close', str(num), '--repo', REPO,
+                                '--reason', 'not planned', mutating=True)
+                    if closed is None:
+                        dupes_failed += 1
+                        print(f"  FAILED to close #{num} (dup of #{canonical})", file=sys.stderr)
+                    else:
+                        print(f"  CLOSED #{num} (dup of #{canonical})")
+                        dupes_closed += 1
 
     print()
     print(f"{prefix}Summary:")
@@ -191,6 +265,8 @@ def main():
     print(f"  skipped (no matching file):  {files_skipped_no_match}")
     print(f"  duplicates {'closed' if not dry else 'to close'}:        {dupes_closed}")
     print(f"  already closed, left alone:  {dupes_skipped_already_closed}")
+    if dupes_failed:
+        print(f"  failed (after retries):      {dupes_failed}")
 
     if dry:
         print()
