@@ -3,14 +3,39 @@
 enrich-via-sourcegraph.py — Enrich projects using Sourcegraph + raw.githubusercontent.com
 
 No GitHub API rate limits. Two phases:
-1. Sourcegraph bulk: extract matrix.to room links from search match lines
-2. raw.githubusercontent.com: fetch full READMEs for deeper scoring
+1. Sourcegraph search: extract matrix.to room links from search match lines.
+   Bulk mode runs `matrix.to file:README` + `img.shields.io/matrix file:README`
+   across all of Sourcegraph (~6000 results). Single-project mode (--project)
+   scopes the queries to one repo with `repo:^github\\.com/owner/name$` and
+   also looks for `app.element.io` references.
+2. raw.githubusercontent.com: fetch full READMEs for deeper scoring (--full).
 
 Usage:
-  python3 scripts/enrich-via-sourcegraph.py [--dry-run] [--full] [--project SLUG]
+  python3 scripts/enrich-via-sourcegraph.py [--dry-run] [--full] [--project SLUG] [--summary]
 
-  Default: Sourcegraph-only (fast, gets rooms + basic signals)
-  --full: also fetch full READMEs via raw.githubusercontent.com for deeper scoring
+Flags:
+  --dry-run    Score and report but don't write project files.
+  --full       Also fetch full READMEs via raw.githubusercontent.com for deeper
+               scoring. Without it, only Sourcegraph match lines are scored.
+  --project SLUG
+               Only process the project at projects/<SLUG>.md. Sourcegraph
+               queries are scoped to that one repo (much faster than the bulk
+               firehose, and finds matches the bulk queries miss because the
+               global result cap drops them).
+  --summary    Print a structured before/after report to stdout for every
+               processed project: repo, match count, score, rooms, signals,
+               and a field-level diff of exodus_score / matrix_rooms /
+               last_scanned. Auto-enabled when --project is set.
+
+Examples:
+  # Recheck one project, full README, preview only:
+  python3 scripts/enrich-via-sourcegraph.py --project keepassxc --full --dry-run
+
+  # Recheck one project for real:
+  python3 scripts/enrich-via-sourcegraph.py --project keepassxc --full
+
+  # Bulk run, default behavior:
+  python3 scripts/enrich-via-sourcegraph.py
 """
 
 import os, sys, re, json, time
@@ -386,32 +411,87 @@ def write_frontmatter(fm, body):
     return '\n'.join(lines) + '\n'
 
 # ── Main ────────────────────────────────────────────────────────
+def _print_summary(reports, dry_run: bool):
+    """Print a structured before/after report for each processed project.
+    Goes to stdout (the running log goes to stderr) so it's easy to
+    capture or redirect separately."""
+    if not reports:
+        print('No projects processed.')
+        return
+
+    for r in reports:
+        fpath = r['fpath']
+        before, after = r['fm_before'], r['fm_after']
+        print()
+        print('=' * 72)
+        print(f'  {fpath.stem}  ({fpath})')
+        print('=' * 72)
+        print(f'  repo:        {after.get("repo", "?")}')
+        print(f'  sg matches:  {r["sg_lines"]} line(s)'
+              + ('  [used full README]' if r['used_full'] else ''))
+        print(f'  score:       {r["score"]}/10')
+
+        if r['rooms']:
+            print(f'  rooms ({len(r["rooms"])}):')
+            for room in r['rooms']:
+                print(f'    - {room}')
+        else:
+            print(f'  rooms:       (none)')
+
+        if r['signals']:
+            print(f'  signals:')
+            for s in r['signals']:
+                print(f'    · {s}')
+
+        # Diff the fields we actually mutate.
+        watched = ('exodus_score', 'matrix_rooms', 'last_scanned')
+        diffs = []
+        for k in watched:
+            b, a = before.get(k), after.get(k)
+            if b != a:
+                diffs.append((k, b, a))
+        if diffs:
+            print(f'  changes:')
+            for k, b, a in diffs:
+                if isinstance(b, list) or isinstance(a, list):
+                    bn = len(b) if isinstance(b, list) else 0
+                    an = len(a) if isinstance(a, list) else 0
+                    print(f'    {k}: {bn} → {an} item(s)')
+                else:
+                    print(f'    {k}: {b!r} → {a!r}')
+        else:
+            print(f'  changes:     (none)')
+
+        if dry_run:
+            print(f'  [dry-run] no file written')
+    print()
+
+
+def _github_slug_from_repo_url(url: str) -> str | None:
+    url = url.strip().rstrip('/')
+    gm = re.search(r'github\.com/([^/]+/[^/\s#?.]+)', url)
+    if not gm:
+        return None
+    return gm.group(1).removesuffix('.git')
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true')
     parser.add_argument('--full', action='store_true', help='Also fetch full READMEs via raw.githubusercontent.com')
     parser.add_argument('--project', help='Only process this slug')
+    parser.add_argument('--summary', action='store_true',
+                        help='Print a structured before/after report. Auto-enabled when --project is set.')
     args = parser.parse_args()
+
+    # Single-project mode implies you want to see what happened.
+    summary = args.summary or bool(args.project)
 
     # Open the persistent README cache for the duration of the run.
     # All fetch_raw_readme() calls below route through it.
     global _readme_cache
     _readme_cache = ReadmeCache()
-
-    # Phase 1: Sourcegraph bulk — get all matrix.to matches
-    log('Phase 1: Sourcegraph bulk search...')
-    sg_results = {}
-    for query in ['matrix.to file:README', 'img.shields.io/matrix file:README']:
-        results = sourcegraph_search(query)
-        for slug, lines in results.items():
-            if slug in sg_results:
-                sg_results[slug].extend(lines)
-            else:
-                sg_results[slug] = lines
-        time.sleep(1)
-
-    log(f'Total: {len(sg_results)} repos with Matrix signals')
 
     # Build slug→project file index
     md_files = {f.stem: f for f in sorted(PROJECTS_DIR.glob('*.md'))}
@@ -422,15 +502,57 @@ def main():
         content = fpath.read_text()
         m = re.search(r'^repo:\s*"?([^"\n]+)', content, re.MULTILINE)
         if m:
-            url = m.group(1).strip().rstrip('/')
-            gm = re.search(r'github\.com/([^/]+/[^/\s#?.]+)', url)
-            if gm:
-                slug_to_file[gm.group(1).removesuffix('.git').lower()] = fpath
+            github_slug = _github_slug_from_repo_url(m.group(1))
+            if github_slug:
+                slug_to_file[github_slug.lower()] = fpath
+
+    # Phase 1: Sourcegraph search — scoped if --project, otherwise bulk
+    if args.project:
+        target_fpath = md_files.get(args.project)
+        if not target_fpath:
+            log(f'No project file matches slug "{args.project}"', 'ERROR')
+            sys.exit(1)
+        target_repo = re.search(r'^repo:\s*"?([^"\n]+)',
+                                target_fpath.read_text(), re.MULTILINE)
+        target_github = _github_slug_from_repo_url(target_repo.group(1)) if target_repo else None
+        if not target_github:
+            log(f'{args.project}: not a github.com repo, cannot scope Sourcegraph search', 'ERROR')
+            sys.exit(1)
+
+        owner, name = target_github.split('/', 1)
+        # Two backslashes in source: json.dumps doubles them to four on the wire,
+        # the JSON parser unescapes to two in the GraphQL inner string, and the
+        # GraphQL string parser collapses `\\` to one literal backslash for the
+        # regex. Anything less and Sourcegraph returns "invalid char escape".
+        repo_filter = rf'repo:^github\\.com/{re.escape(owner)}/{re.escape(name)}$'
+        log(f'Phase 1: Sourcegraph scoped search for {target_github}...')
+        sg_results = {}
+        for query in [f'matrix.to {repo_filter}',
+                      f'img.shields.io/matrix {repo_filter}',
+                      f'app.element.io {repo_filter}']:
+            results = sourcegraph_search(query)
+            for slug, lines in results.items():
+                sg_results.setdefault(slug, []).extend(lines)
+            time.sleep(1)
+
+        log(f'Found {sum(len(v) for v in sg_results.values())} matching lines '
+            f'in {len(sg_results)} repo(s)')
+    else:
+        log('Phase 1: Sourcegraph bulk search...')
+        sg_results = {}
+        for query in ['matrix.to file:README', 'img.shields.io/matrix file:README']:
+            results = sourcegraph_search(query)
+            for slug, lines in results.items():
+                sg_results.setdefault(slug, []).extend(lines)
+            time.sleep(1)
+        log(f'Total: {len(sg_results)} repos with Matrix signals')
 
     # Phase 2: Enrich project files
     log(f'Phase 2: Enriching {len(slug_to_file)} project files...')
     stats = {'enriched': 0, 'skipped': 0, 'full_fetched': 0}
     now = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    # Per-project before/after capture for the summary report.
+    project_reports = []
 
     for slug_lower, fpath in slug_to_file.items():
         if args.project and fpath.stem != args.project:
@@ -438,6 +560,7 @@ def main():
 
         content = fpath.read_text()
         fm, body = parse_frontmatter(content)
+        fm_before = dict(fm)  # snapshot for summary diff
 
         # Find Sourcegraph data for this repo (case-insensitive match)
         sg_lines = None
@@ -445,6 +568,9 @@ def main():
             if sg_slug.lower() == slug_lower:
                 sg_lines = lines
                 break
+
+        score, signals, rooms = 0, [], []
+        used_full = False
 
         if sg_lines:
             # Score from Sourcegraph match lines
@@ -458,6 +584,7 @@ def main():
                 if readme:
                     score, signals, rooms = score_full_readme(readme)
                     stats['full_fetched'] += 1
+                    used_full = True
                 # No sleep — fetches are mostly 304s through the cache.
 
             # Update frontmatter
@@ -485,9 +612,24 @@ def main():
         else:
             stats['skipped'] += 1
 
+        if summary:
+            project_reports.append({
+                'fpath': fpath,
+                'fm_before': fm_before,
+                'fm_after': dict(fm),
+                'score': score,
+                'signals': signals,
+                'rooms': rooms,
+                'sg_lines': len(sg_lines) if sg_lines else 0,
+                'used_full': used_full,
+            })
+
     # Persist the README cache index. The bytes were written incrementally
     # by ReadmeCache.get(); only the index needs flushing here.
     _readme_cache.flush()
+
+    if summary:
+        _print_summary(project_reports, dry_run=args.dry_run)
 
     log('')
     log(f'Done. Enriched: {stats["enriched"]}, Skipped: {stats["skipped"]}, Full READMEs: {stats["full_fetched"]}')
