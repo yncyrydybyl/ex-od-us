@@ -1,20 +1,14 @@
 ---
-name: "Grobro"
-description: "GroBro is a bridge service that decodes encrypted MQTT packets from Growatt NEO/SPF inverters and NOAH/NEXA batteries and republishes them in a format compatible with Home Assistant. Works local-only and with Growatt cloud."
+name: Grobro
+description: GroBro is a bridge service that decodes encrypted MQTT packets from Growatt NEO/SPF inverters and NOAH/NEXA batteries and republishes them in a format compatible with Home Assistant. Works local-only and with Growatt cloud.
 repo: "https://github.com/robertzaage/GroBro"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#grobro:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#grobro:matrix.org"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#grobro:matrix.org]
 issues: [6478]
 updated: "2026-04-01T06:48:41Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Slack"
-description: "A Matrix-Slack puppeting bridge"
+name: Slack
+description: A Matrix-Slack puppeting bridge
 repo: "https://github.com/mautrix/slack"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#slack:maunium.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#slack:maunium.net"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#slack:maunium.net]
 issues: [4518]
 updated: "2026-03-31T16:56:16Z"
 ---

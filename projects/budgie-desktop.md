@@ -1,20 +1,14 @@
 ---
-name: "Budgie Desktop"
-description: "Budgie Desktop is a familiar, modern desktop environment."
+name: Budgie Desktop
+description: Budgie Desktop is a familiar, modern desktop environment.
 repo: "https://github.com/BuddiesOfBudgie/budgie-desktop"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#buddies-of-budgie:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#buddies-of-budgie:matrix.org"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#buddies-of-budgie:matrix.org]
 issues: [5536]
 updated: "2026-04-02T09:06:04Z"
 ---

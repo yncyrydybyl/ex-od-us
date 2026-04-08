@@ -1,20 +1,14 @@
 ---
-name: "Bootc Image Builder"
-description: "A container for deploying bootable container images."
+name: Bootc Image Builder
+description: A container for deploying bootable container images.
 repo: "https://github.com/osbuild/bootc-image-builder"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#image-builder:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#image-builder:fedoraproject.org"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#image-builder:fedoraproject.org]
 issues: [5495]
 updated: "2026-04-02T05:49:48Z"
 ---

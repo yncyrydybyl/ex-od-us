@@ -1,20 +1,14 @@
 ---
-name: "Schildichat Android Next"
-description: "Matrix client / Element X fork"
+name: Schildichat Android Next
+description: Matrix client / Element X fork
 repo: "https://github.com/SchildiChat/schildichat-android-next"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#android:schildi.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#android:schildi.chat"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#android:schildi.chat.svg, https://matrix.to/#/#android:schildi.chat]
 issues: [4458]
 updated: "2026-04-05T11:04:59Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Spack Packages"
+name: Spack Packages
 description: "Spack's community package recipes"
 repo: "https://github.com/spack/spack-packages"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#spack-space:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#spack-space:matrix.org"
+last_scanned: "2026-04-08T12:22:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#spack-space:matrix.org]
 issues: [4548]
 updated: "2026-04-06T16:47:57Z"
 ---
