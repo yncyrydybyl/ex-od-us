@@ -5,7 +5,7 @@ repo: "https://github.com/blend2d/blend2d"
 platform: github
 categories: [Development]
 status: Active
-issues: [709]
+issues: [142]
 updated: "2025-11-29T08:14:34Z"
 verified: true
 verified_note: repo alive, room not checked

@@ -4,7 +4,7 @@ description: A collection of Android AOSP and ROM development related resources
 repo: "https://github.com/Akipe/awesome-android-aosp"
 platform: github
 status: Active
-issues: [692]
+issues: [125]
 updated: "2024-02-12T17:59:30Z"
 verified: true
 verified_note: repo alive, room not checked
