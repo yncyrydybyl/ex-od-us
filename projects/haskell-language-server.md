@@ -1,20 +1,14 @@
 ---
-name: "Haskell Language Server"
-description: "Official Haskell IDE support via the language server protocol (LSP)"
+name: Haskell Language Server
+description: Official Haskell IDE support via the language server protocol (LSP)
 repo: "https://github.com/haskell/haskell-language-server"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#haskell-language-server:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#haskell-language-server:matrix.org"
+last_scanned: "2026-04-08T18:30:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#haskell-language-server:matrix.org]
 issues: [6505]
 updated: "2026-04-01T09:37:03Z"
 ---

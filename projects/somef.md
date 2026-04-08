@@ -1,14 +1,15 @@
 ---
-name: "Somef"
+name: Somef
 description: "SOftware Metadata Extraction Framework: A tool for automatically extracting relevant software information from code repositories (using README files, package metadata, etc.)"
 repo: "https://github.com/KnowledgeCaptureAndDiscovery/somef"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-08T18:30:17Z"
 issues: [3963]
 updated: "2026-04-02T09:20:09Z"
+matrix_rooms: [https://matrix.to/#/#sunpy:openastronomy.org.svg]
 ---
 
 SOftware Metadata Extraction Framework: A tool for automatically extracting relevant software information from code repositories (using README files, package metadata, etc.)

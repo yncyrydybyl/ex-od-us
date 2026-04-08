@@ -1,20 +1,14 @@
 ---
-name: "Osbuild"
-description: "Build-Pipelines for Operating System Artifacts"
+name: Osbuild
+description: Build-Pipelines for Operating System Artifacts
 repo: "https://github.com/osbuild/osbuild"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#image-builder:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#image-builder:fedoraproject.org"
+last_scanned: "2026-04-08T18:30:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#image-builder:fedoraproject.org]
 issues: [4166]
 updated: "2026-04-02T11:08:28Z"
 ---

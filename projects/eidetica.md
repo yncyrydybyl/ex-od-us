@@ -9,20 +9,10 @@ issues: [745]
 updated: "2026-04-01T05:45:01Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#eidetica-general:jackson.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#eidetica:jackson.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#eidetica-general:jackson.dev, https://matrix.to/#/#eidetica:jackson.dev]
 exodus_score: 5
-last_scanned: "2026-04-06T15:19:09Z"
+last_scanned: "2026-04-08T18:30:17Z"
 ---
 
 Decentralized DB. Remember Everything. Everywhere. All At Once.

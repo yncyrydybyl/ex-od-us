@@ -1,20 +1,14 @@
 ---
-name: "Android"
-description: "A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying."
+name: Android
+description: A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 repo: "https://github.com/wgtunnel/android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#wg-tunnel-space:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#wg-tunnel-space:matrix.org"
+last_scanned: "2026-04-08T18:30:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#wg-tunnel-space:matrix.org]
 issues: [94]
 updated: "2026-04-02T12:10:26Z"
 ---

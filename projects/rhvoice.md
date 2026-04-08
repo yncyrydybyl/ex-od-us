@@ -1,20 +1,14 @@
 ---
-name: "Rhvoice"
-description: "a free and open source speech synthesizer for Russian and other languages"
+name: Rhvoice
+description: a free and open source speech synthesizer for Russian and other languages
 repo: "https://github.com/RHVoice/RHVoice"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#rhvoice:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rhvoice:libera.chat"
+last_scanned: "2026-04-08T18:30:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rhvoice:libera.chat]
 issues: [4390]
 updated: "2026-04-01T09:22:30Z"
 ---

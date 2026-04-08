@@ -7,20 +7,10 @@ categories: [Development]
 status: Active
 issues: [6924]
 updated: "2026-04-01T10:54:34Z"
-matrix_links:
-  - target: "#macos:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#nix-darwin-dev:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nix-darwin-dev:nixos.org, https://matrix.to/#/#macos:nixos.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-08T18:30:17Z"
 ---
 
 Manage your macOS using Nix

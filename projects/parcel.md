@@ -8,7 +8,7 @@ status: Active
 issues: [3821]
 updated: "2026-02-17T22:51:05Z"
 exodus_score: 1
-last_scanned: "2026-04-08T12:22:53Z"
+last_scanned: "2026-04-08T18:30:17Z"
 matrix_rooms: [https://matrix.to/#/#parcel-community:matrix.org]
 ---
 
