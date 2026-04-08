@@ -16,6 +16,7 @@ follow this end-to-end in an afternoon," not "comprehensive reference."
 | [Get listed on matrix.org and matrixrooms.info](listing.md) | stub |
 | [Set up or use bridges](bridges.md) | stub |
 | [Improve DevX and UX with bots and widgets](bots-and-widgets.md) | stub |
+| [Dynamic Matrix rooms for GitHub projects (Hookshot)](dynamic-rooms.md) | reference (code-verified) |
 
 ## What "stub" means here
 
