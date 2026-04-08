@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#weblibre:unredacted.org]
 exodus_score: 5
-last_scanned: "2026-04-08T00:32:55Z"
+last_scanned: "2026-04-08T06:36:07Z"
 ---
 
 Browse privately, search locally. Organize tabs, block tracking, and use Tor.

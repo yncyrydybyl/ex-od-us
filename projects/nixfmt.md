@@ -1,14 +1,15 @@
 ---
-name: "Nixfmt"
-description: "The official formatter for Nix code"
+name: Nixfmt
+description: The official formatter for Nix code
 repo: "https://github.com/NixOS/nixfmt"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-08T06:36:07Z"
 issues: [6942]
 updated: "2026-03-31T19:23:32Z"
+matrix_rooms: [https://matrix.to/#/#nix-formatting:nixos.org]
 ---
 
 The official formatter for Nix code

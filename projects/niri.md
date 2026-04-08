@@ -1,14 +1,15 @@
 ---
-name: "Niri"
-description: "A scrollable tiling Wayland compositor (fork)"
+name: Niri
+description: A scrollable tiling Wayland compositor (fork)
 repo: "https://github.com/Naxdy/niri"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-08T06:36:07Z"
 issues: [6917]
 updated: "2026-03-31T14:08:27Z"
+matrix_rooms: [https://matrix.to/#/#niri:matrix.org]
 ---
 
 A scrollable tiling Wayland compositor (fork)

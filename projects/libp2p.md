@@ -7,25 +7,10 @@ categories: [Development]
 status: Active
 issues: [6894]
 updated: "2026-03-28T06:43:42Z"
-matrix_links:
-  - target: "#libp2p-community:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#libp2p-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#libp2p-implementers:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#libp2p-implementers:ipfs.io, https://matrix.to/#/#libp2p-community:ipfs.io, https://matrix.to/#/#libp2p-community:matrix.org]
 exodus_score: 6
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-08T06:36:07Z"
 ---
 
 A modular and extensible networking stack which solves many challenges of peer-to-peer applications.

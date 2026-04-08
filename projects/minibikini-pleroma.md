@@ -1,26 +1,14 @@
 ---
-name: "Pleroma"
+name: Pleroma
 description: "🌍 A federated social networking server. This repo is a mirror of https://git.pleroma.social/pleroma/pleroma ⛔️No pull requests here, please!"
 repo: "https://github.com/minibikini/pleroma"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#pleroma-dev:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#pleroma:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pleroma-dev:libera.chat"
-  - "https://matrix.to/#/#pleroma:libera.chat"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pleroma-dev:libera.chat, https://matrix.to/#/#pleroma:libera.chat]
 issues: [6730]
 updated: "2026-02-14T16:51:15Z"
 ---

@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#solid-practitioners:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#solid-practitioners:matrix.org]
 issues: [4274]
 updated: "2026-03-31T22:14:35Z"

@@ -9,15 +9,10 @@ issues: [744]
 updated: "2026-02-18T13:13:50Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#dryoc:frens.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dryoc:frens.io]
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-08T06:36:07Z"
 ---
 
 Don't Roll Your Own Crypto: pure-Rust, hard to misuse cryptography library

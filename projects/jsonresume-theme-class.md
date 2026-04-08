@@ -1,20 +1,14 @@
 ---
-name: "Jsonresume Theme Class"
-description: "A modern theme for JSON Resume which is self-contained. The content of the resume will work offline and can be hosted without depending on or making requests to third-party servers."
+name: Jsonresume Theme Class
+description: A modern theme for JSON Resume which is self-contained. The content of the resume will work offline and can be hosted without depending on or making requests to third-party servers.
 repo: "https://github.com/jsonresume/jsonresume-theme-class"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#json-resume:one.ems.host"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#json-resume:one.ems.host"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#json-resume:one.ems.host]
 issues: [6761]
 updated: "2026-03-04T21:18:01Z"
 ---

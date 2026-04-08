@@ -1,20 +1,14 @@
 ---
-name: "Awesome Webextensions"
-description: "A curated list of awesome resources for WebExtensions development."
+name: Awesome Webextensions
+description: A curated list of awesome resources for WebExtensions development.
 repo: "https://github.com/fregante/Awesome-WebExtensions"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#addons:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#addons:mozilla.org"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#addons:mozilla.org]
 issues: [5397]
 updated: "2026-03-03T14:21:43Z"
 ---

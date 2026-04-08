@@ -1,20 +1,14 @@
 ---
-name: "Nwg Shell"
+name: Nwg Shell
 description: "Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors"
 repo: "https://github.com/nwg-piotr/nwg-shell"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nwg-shell:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nwg-shell:matrix.org"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nwg-shell:matrix.org]
 issues: [7154]
 updated: "2026-03-31T23:37:06Z"
 ---

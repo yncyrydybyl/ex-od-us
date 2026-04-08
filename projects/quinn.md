@@ -1,20 +1,14 @@
 ---
-name: "Quinn"
-description: "Async-friendly QUIC implementation in Rust"
+name: Quinn
+description: Async-friendly QUIC implementation in Rust
 repo: "https://github.com/quinn-rs/quinn"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#quinn:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#quinn:matrix.org"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#quinn:matrix.org]
 issues: [4343]
 updated: "2026-04-06T15:34:01Z"
 ---

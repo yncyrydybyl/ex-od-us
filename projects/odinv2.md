@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [7166]
 updated: "2026-03-24T12:09:04Z"
-matrix_links:
-  - target: "#ODIN.Community:syncpoint.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ODIN.Community:syncpoint.io]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-08T06:36:07Z"
 ---
 
 Open Source Command and Control Information System (C2IS)

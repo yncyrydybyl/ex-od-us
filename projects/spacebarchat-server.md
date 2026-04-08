@@ -1,20 +1,14 @@
 ---
-name: "Server"
-description: "Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love"
+name: Server
+description: Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 repo: "https://github.com/spacebarchat/server"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#spacebar:rory.gay"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#spacebar:rory.gay"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#spacebar:rory.gay]
 issues: [7210]
 updated: "2026-04-06T12:27:43Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Thunder"
-description: "An open-source cross-platform Lemmy & PieFed client for iOS and Android"
+name: Thunder
+description: An open-source cross-platform Lemmy & PieFed client for iOS and Android
 repo: "https://github.com/thunder-app/thunder"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#thunderapp:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#thunderapp:matrix.org"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#thunderapp:matrix.org]
 issues: [4650]
 updated: "2026-04-03T06:13:53Z"
 ---

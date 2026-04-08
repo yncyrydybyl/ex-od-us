@@ -10,9 +10,9 @@ updated: "2026-03-31T18:52:06Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#direnv:numtide.com]
+matrix_rooms: [https://matrix.to/#/#direnv:numtide.com, https://matrix.to/#/#direnv:numtide.com.svg]
 exodus_score: 6
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-08T06:36:07Z"
 ---
 
 unclutter your .profile

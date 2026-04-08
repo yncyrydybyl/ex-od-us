@@ -1,20 +1,14 @@
 ---
-name: "Nix Software Center"
-description: "A simple gtk4/libadwaita software center to easily install and manage nix packages"
+name: Nix Software Center
+description: A simple gtk4/libadwaita software center to easily install and manage nix packages
 repo: "https://github.com/snowfallorg/nix-software-center"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#snowflakeos:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#snowflakeos:matrix.org"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#snowflakeos:matrix.org]
 issues: [6938]
 updated: "2026-04-06T00:10:57Z"
 ---

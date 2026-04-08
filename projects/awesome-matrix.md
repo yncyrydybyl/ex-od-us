@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-08T06:36:07Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#dendrite:matrix.org"

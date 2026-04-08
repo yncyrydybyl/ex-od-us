@@ -1,20 +1,14 @@
 ---
-name: "Ibm Zos Core"
-description: "Red Hat Ansible Certified Content for IBM Z"
+name: Ibm Zos Core
+description: Red Hat Ansible Certified Content for IBM Z
 repo: "https://github.com/ansible-collections/ibm_zos_core"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#users:ansible.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#users:ansible.com"
+last_scanned: "2026-04-08T06:36:07Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#users:ansible.com]
 issues: [6596]
 updated: "2026-04-06T04:38:05Z"
 ---
