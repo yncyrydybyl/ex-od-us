@@ -14,3 +14,7 @@
 # delete its `projects/<slug>.md` in the same commit.
 
 github.com/jfsiii/XCSSMatrix    # CSS matrix transform polyfill, not Matrix protocol
+codeberg.org/tybor/ml_linalg    # SIMD linear algebra library for Dart, not Matrix protocol
+github.com/gyrdym/ml_linalg     # SIMD linear algebra library for Dart, not Matrix protocol
+codeberg.org/sarah-quinones/faer    # Rust linear algebra library, not Matrix protocol
+github.com/james-bowman/sparse    # Go sparse matrix library, not Matrix protocol
