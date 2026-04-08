@@ -1,5 +1,5 @@
 ---
-name: Python
+name: Mautrix Python
 description: A Python 3 asyncio Matrix framework.
 repo: "https://github.com/mautrix/python"
 platform: github
