@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-dry-pass-shields.py — Compare OLD vs NEW room extractor across all projects.
+compare-room-extractors.py — Compare OLD vs NEW room extractor across all projects.
 
 Reports how many *new* room links the SHIELDS_PATTERN + room-ID extension
 in `enrich-via-sourcegraph.py` would surface, without writing anything.
@@ -16,10 +16,10 @@ Strategy:
    so a single source of README bytes is used across enricher and tools.
 
 Usage:
-  python3 scripts/dry-pass-shields.py
-  python3 scripts/dry-pass-shields.py --limit 50         # fetch first 50 only
-  python3 scripts/dry-pass-shields.py --project webfs    # one project, verbose
-  python3 scripts/dry-pass-shields.py --no-network       # only use cache
+  python3 scripts/compare-room-extractors.py
+  python3 scripts/compare-room-extractors.py --limit 50         # fetch first 50 only
+  python3 scripts/compare-room-extractors.py --project webfs    # one project, verbose
+  python3 scripts/compare-room-extractors.py --no-network       # only use cache
 """
 import os, sys, re, argparse
 from pathlib import Path
