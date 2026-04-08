@@ -1,12 +1,12 @@
 ---
-name: "Dcrdex"
-description: "The Decred Decentralized Exchange (DEX), powered by atomic-swaps."
+name: Dcrdex
+description: The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 repo: "https://github.com/decred/dcrdex"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-08T00:32:55Z"
 issues: [5811]
 updated: "2026-03-31T05:41:38Z"
 ---

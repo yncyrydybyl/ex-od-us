@@ -8,9 +8,9 @@ status: Active
 issues: [4757]
 updated: "2025-07-08T18:17:32Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#Upscaler:gnome.org, https://matrix.to/#/#upscaler:matrix.org]
+matrix_rooms: [https://matrix.to/#/#upscaler:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-07T19:28:47Z"
+last_scanned: "2026-04-08T00:32:55Z"
 ---
 
 Upscale and enhance images

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [7178]
 updated: "2026-03-09T06:16:24Z"
-matrix_links:
-  - target: "#openbikesensor:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#openbikesensor:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-08T00:32:55Z"
 ---
 
 Overtaking distance measurements for cyclists 

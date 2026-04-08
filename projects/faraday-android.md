@@ -10,9 +10,9 @@ updated: "2025-06-04T08:09:59Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-07T19:28:47Z"
+last_scanned: "2026-04-08T00:32:55Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#element-android:matrix.org]
+matrix_rooms: [https://matrix.to/#/#element-android:matrix.org, https://matrix.to/#/#element-android:matrix.org.svg]
 ---
 
 Мобильное приложение, которое сочетает в себе безопасность и конфиденциальность общения с эффективным управлением проектами.

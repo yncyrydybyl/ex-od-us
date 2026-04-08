@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-08T00:32:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cuprate:monero.social]
 issues: [5749]

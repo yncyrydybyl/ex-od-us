@@ -1,20 +1,14 @@
 ---
-name: "Openwpm"
-description: "A web privacy measurement framework"
+name: Openwpm
+description: A web privacy measurement framework
 repo: "https://github.com/openwpm/OpenWPM"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#OpenWPM:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#OpenWPM:mozilla.org"
+last_scanned: "2026-04-08T00:32:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#OpenWPM:mozilla.org]
 issues: [7199]
 updated: "2026-04-06T00:46:59Z"
 ---

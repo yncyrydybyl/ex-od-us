@@ -1,20 +1,14 @@
 ---
-name: "Skarabox"
-description: "Opinionated and simplified headless NixOS installer."
+name: Skarabox
+description: Opinionated and simplified headless NixOS installer.
 repo: "https://github.com/ibizaman/skarabox"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#selfhostblocks:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#selfhostblocks:matrix.org"
+last_scanned: "2026-04-08T00:32:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#selfhostblocks:matrix.org]
 issues: [4513]
 updated: "2026-03-31T19:50:38Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Go Orb"
-description: "Go-Orb is a framework for building both monoliths and distributed systems in Go."
+name: Go Orb
+description: Go-Orb is a framework for building both monoliths and distributed systems in Go.
 repo: "https://github.com/go-orb/go-orb"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#go-orb:jochum.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#go-orb:jochum.dev"
+last_scanned: "2026-04-08T00:32:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#go-orb:jochum.dev]
 issues: [6421]
 updated: "2025-05-23T17:17:23Z"
 ---

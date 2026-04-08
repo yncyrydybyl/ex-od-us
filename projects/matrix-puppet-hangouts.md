@@ -1,20 +1,14 @@
 ---
-name: "Matrix Puppet Hangouts"
-description: "Matrix bridge for Google Hangouts"
+name: Matrix Puppet Hangouts
+description: Matrix bridge for Google Hangouts
 repo: "https://github.com/matrix-hacks/matrix-puppet-hangouts"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#matrix-puppet-bridge:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-puppet-bridge:matrix.org"
+last_scanned: "2026-04-08T00:32:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 issues: [3637]
 updated: "2020-03-30T20:33:58Z"
 ---

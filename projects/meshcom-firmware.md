@@ -8,7 +8,8 @@ status: Active
 issues: [3684]
 updated: "2026-04-06T13:35:53Z"
 exodus_score: 1
-last_scanned: "2026-04-07T19:28:47Z"
+last_scanned: "2026-04-08T00:32:55Z"
+matrix_rooms: [https://matrix.to/#/#epdiy-general:matrix.vroland.de]
 ---
 
 MeshCom Client 4.0
