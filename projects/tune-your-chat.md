@@ -1,6 +1,6 @@
 ---
 name: "Tune Your Chat"
-description: "Browser-based audio mixer for Matrix rooms"
+description: "Collection of Matrix base ressources"
 repo: "https://github.com/HarHarLinks/tune-your-chat"
 platform: github
 categories: [Matrix, Integrations]
@@ -19,7 +19,7 @@ updated: "2026-02-19T07:18:04Z"
 last_scanned: "2026-04-07T00:00:00Z"
 ---
 
-Browser-based audio mixer for Matrix rooms.
+Collection of Matrix base ressources
 
 ## Stats
 
