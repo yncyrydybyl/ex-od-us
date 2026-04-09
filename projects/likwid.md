@@ -1,26 +1,14 @@
 ---
-name: "Likwid"
-description: "Performance monitoring and benchmarking suite"
+name: Likwid
+description: Performance monitoring and benchmarking suite
 repo: "https://github.com/RRZE-HPC/likwid"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#likwid-dev:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#likwid:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#likwid:matrix.org"
-  - "https://matrix.to/#/#likwid-dev:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#likwid:matrix.org, https://matrix.to/#/#likwid-dev:matrix.org]
 issues: [6927]
 updated: "2026-04-01T16:40:29Z"
 ---

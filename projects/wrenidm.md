@@ -10,7 +10,7 @@ updated: "2026-03-24T11:57:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#WrenSecurity_Lobby:gitter.im, https://matrix.to/#/#wrensecurity_lobby:gitter.im]
 exodus_score: 3
-last_scanned: "2026-04-08T18:30:17Z"
+last_scanned: "2026-04-09T00:27:31Z"
 ---
 
 Community‐developed identity management system with a flexible data model, multiple extension points and scripting support, including JavaScript and Groovy.

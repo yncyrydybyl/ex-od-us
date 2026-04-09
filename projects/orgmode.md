@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4158]
 updated: "2026-04-01T14:44:57Z"
-matrix_links:
-  - target: "#neovim-orgmode:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neovim-orgmode:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-09T00:27:31Z"
 ---
 
 Orgmode clone written in Lua for Neovim 0.11.0+.

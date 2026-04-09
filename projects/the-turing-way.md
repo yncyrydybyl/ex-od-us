@@ -1,14 +1,16 @@
 ---
-name: "The Turing Way"
+name: The Turing Way
 description: "Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science"
 repo: "https://github.com/the-turing-way/the-turing-way"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-09T00:27:31Z"
 issues: [4638]
 updated: "2026-04-06T02:00:40Z"
+matrix_rooms:
+  - "https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im"
 ---
 
 Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science

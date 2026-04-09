@@ -1,20 +1,14 @@
 ---
-name: "Scenepeek Android"
-description: "ScenePeek is a TMDB and Jellyseerr / Overseerr / Seerr client for android and iOS."
+name: Scenepeek Android
+description: ScenePeek is a TMDB and Jellyseerr / Overseerr / Seerr client for android and iOS.
 repo: "https://github.com/Divinelink/scenepeek-android"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#scenepeek:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#scenepeek:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#scenepeek:matrix.org]
 issues: [4455]
 updated: "2026-04-01T14:33:34Z"
 ---

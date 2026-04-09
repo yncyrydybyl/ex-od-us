@@ -1,20 +1,14 @@
 ---
-name: "Nixos Wsl"
+name: Nixos Wsl
 description: "NixOS on WSL [maintainer=@nzbr] "
 repo: "https://github.com/nix-community/NixOS-WSL"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#wsl:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#wsl:nixos.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#wsl:nixos.org]
 issues: [6976]
 updated: "2026-04-06T01:47:05Z"
 ---

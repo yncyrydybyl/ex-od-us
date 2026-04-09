@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#TheAlgorithms_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#TheAlgorithms_community:gitter.im]
 issues: [4808]
 updated: "2026-03-19T20:07:20Z"

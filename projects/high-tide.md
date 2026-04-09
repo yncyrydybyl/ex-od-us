@@ -1,20 +1,14 @@
 ---
-name: "High Tide"
-description: "Libadwaita TIDAL client for Linux"
+name: High Tide
+description: Libadwaita TIDAL client for Linux
 repo: "https://github.com/Nokse22/high-tide"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#high-tide:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#high-tide:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#high-tide:matrix.org]
 issues: [6538]
 updated: "2026-02-16T21:35:57Z"
 ---

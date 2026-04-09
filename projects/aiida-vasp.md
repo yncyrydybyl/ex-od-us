@@ -1,20 +1,14 @@
 ---
-name: "Aiida Vasp"
-description: "A plugin to AiiDA for running simulations with VASP"
+name: Aiida Vasp
+description: A plugin to AiiDA for running simulations with VASP
 repo: "https://github.com/aiida-vasp/aiida-vasp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#aiida-vasp:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#aiida-vasp:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#aiida-vasp:matrix.org]
 issues: [5126]
 updated: "2026-04-01T13:56:21Z"
 ---

@@ -1,26 +1,14 @@
 ---
-name: "Awesome Reticulum"
-description: "A curated list of projects related to Reticulum Network"
+name: Awesome Reticulum
+description: A curated list of projects related to Reticulum Network
 repo: "https://github.com/lorien/awesome-reticulum"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#reticulum:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#rns-space:yatrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#reticulum:matrix.org"
-  - "https://matrix.to/#/#rns-space:yatrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#reticulum:matrix.org, https://matrix.to/#/#rns-space:yatrix.org]
 issues: [5381]
 updated: "2026-03-16T10:28:33Z"
 ---

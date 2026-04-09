@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [7152]
 updated: "2026-02-07T12:48:53Z"
-matrix_links:
-  - target: "#nvchad:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nvchad:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-09T00:27:31Z"
 ---
 
 Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.

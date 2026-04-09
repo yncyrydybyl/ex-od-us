@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#wakatime-ls:wiro.world"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wakatime-ls:wiro.world]
 issues: [4051]
 updated: "2026-02-07T16:39:22Z"

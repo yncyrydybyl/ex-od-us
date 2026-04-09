@@ -1,20 +1,14 @@
 ---
-name: "Ndarray"
+name: Ndarray
 description: "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations"
 repo: "https://github.com/rust-ndarray/ndarray"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#rust-sci:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rust-sci:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rust-sci:matrix.org]
 issues: [6853]
 updated: "2026-02-16T14:20:45Z"
 ---

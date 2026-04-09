@@ -1,20 +1,14 @@
 ---
-name: "Shtools"
-description: "SHTOOLS - Spherical Harmonic Tools"
+name: Shtools
+description: SHTOOLS - Spherical Harmonic Tools
 repo: "https://github.com/SHTOOLS/SHTOOLS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#pyshtools:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pyshtools:matrix.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pyshtools:matrix.org]
 issues: [4505]
 updated: "2026-03-24T02:07:40Z"
 ---

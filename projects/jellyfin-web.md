@@ -8,7 +8,8 @@ status: Active
 issues: [6729]
 updated: "2026-04-06T15:37:06Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg]
 ---
 
 The Free Software Media System - Official Web Client

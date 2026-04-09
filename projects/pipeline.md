@@ -8,7 +8,8 @@ status: Active
 issues: [4237]
 updated: "2026-04-03T12:42:41Z"
 exodus_score: 1
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_rooms: [https://matrix.to/#/#42wim:feneas.org]
 ---
 
 A cloud-native Pipeline resource.

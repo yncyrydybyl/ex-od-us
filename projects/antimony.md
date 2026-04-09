@@ -1,20 +1,14 @@
 ---
-name: "Antimony"
-description: "The Antimony programming language"
+name: Antimony
+description: The Antimony programming language
 repo: "https://github.com/antimony-lang/antimony"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#antimony:matrix.slashdev.space"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#antimony:matrix.slashdev.space"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#antimony:matrix.slashdev.space]
 issues: [5197]
 updated: "2026-04-01T14:24:29Z"
 ---

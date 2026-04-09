@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#nphonekit:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nphonekit:matrix.org]
 issues: [7144]
 updated: "2026-02-08T00:34:00Z"

@@ -7,15 +7,10 @@ categories: [Security]
 status: Active
 issues: [5120]
 updated: "2026-02-04T00:31:49Z"
-matrix_links:
-  - target: "#agenix:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#agenix:nixos.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-09T00:27:31Z"
 ---
 
 age-encrypted secrets for NixOS and Home manager

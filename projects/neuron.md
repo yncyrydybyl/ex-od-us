@@ -8,7 +8,8 @@ status: Active
 issues: [6884]
 updated: "2026-04-03T17:21:58Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_rooms: [https://matrix.to/#/#neuron:matrix.org]
 ---
 
 Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)

@@ -1,20 +1,14 @@
 ---
-name: "Awesome Nix"
+name: Awesome Nix
 description: "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]"
 repo: "https://github.com/nix-community/awesome-nix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nix:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nix:nixos.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nix:nixos.org]
 issues: [5354]
 updated: "2026-02-26T00:32:49Z"
 ---

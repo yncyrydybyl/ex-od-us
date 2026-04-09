@@ -1,20 +1,14 @@
 ---
-name: "Gateway"
-description: "WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web"
+name: Gateway
+description: WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web
 repo: "https://github.com/WebThingsIO/gateway"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#iot:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#iot:mozilla.org"
+last_scanned: "2026-04-09T00:27:31Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#iot:mozilla.org]
 issues: [6329]
 updated: "2026-04-01T20:51:21Z"
 ---
