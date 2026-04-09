@@ -9,3 +9,7 @@ data/readmes/
 _site/
 data/.dry-pass-readme-cache.json
 .gstack/
+# coverage.py data files
+.coverage
+.coverage.*
+htmlcov/
