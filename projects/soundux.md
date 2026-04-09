@@ -1,12 +1,12 @@
 ---
-name: "Soundux"
-description: "🔊 A cross-platform soundboard"
+name: Soundux
+description: 🔊 A cross-platform soundboard
 repo: "https://github.com/Soundux/Soundux"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-09T06:36:20Z"
 issues: [4544]
 updated: "2026-01-01T14:37:45Z"
 ---

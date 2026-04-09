@@ -1,20 +1,14 @@
 ---
-name: "Streaq"
-description: "Fast, async, fully-typed distributed task queue via Redis streams"
+name: Streaq
+description: Fast, async, fully-typed distributed task queue via Redis streams
 repo: "https://github.com/tastyware/streaq"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#tastyware:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tastyware:gitter.im"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tastyware:gitter.im]
 issues: [4581]
 updated: "2026-04-01T23:59:43Z"
 ---

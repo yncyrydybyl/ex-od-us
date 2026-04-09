@@ -1,20 +1,14 @@
 ---
-name: "Ancientmetagenomedir"
-description: "Repository containing lists of all published ancient metagenomic  (and related)  samples and libraries"
+name: Ancientmetagenomedir
+description: Repository containing lists of all published ancient metagenomic  (and related)  samples and libraries
 repo: "https://github.com/SPAAM-community/AncientMetagenomeDir"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ancientmetagenomedir:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ancientmetagenomedir:matrix.org"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ancientmetagenomedir:matrix.org]
 issues: [5165]
 updated: "2026-04-01T12:49:06Z"
 ---

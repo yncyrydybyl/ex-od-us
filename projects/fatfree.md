@@ -9,15 +9,10 @@ issues: [753]
 updated: "2025-12-02T00:49:45Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#fat-free-framework:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fat-free-framework:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-09T06:36:20Z"
 ---
 
 A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!

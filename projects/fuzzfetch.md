@@ -1,20 +1,14 @@
 ---
-name: "Fuzzfetch"
-description: "Downloader for Firefox/jsshell/Thunderbird builds for fuzzing."
+name: Fuzzfetch
+description: Downloader for Firefox/jsshell/Thunderbird builds for fuzzing.
 repo: "https://github.com/MozillaSecurity/fuzzfetch"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#fuzzing:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fuzzing:mozilla.org"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fuzzing:mozilla.org]
 issues: [6316]
 updated: "2025-12-11T17:01:48Z"
 ---

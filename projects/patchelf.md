@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4202]
 updated: "2025-12-15T01:02:35Z"
-matrix_links:
-  - target: "#patchelf:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#patchelf:nixos.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-09T06:36:20Z"
 ---
 
 A small utility to modify the dynamic linker and RPATH of ELF executables

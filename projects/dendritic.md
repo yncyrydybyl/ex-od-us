@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-09T00:27:31Z"
+last_scanned: "2026-04-09T06:36:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dendritic:matrix.org]
 issues: [5847]

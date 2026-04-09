@@ -1,20 +1,14 @@
 ---
-name: "Polkadart"
-description: "Polkadart is a comprehensive Dart/Flutter SDK that provides everything you need to build decentralized applications on any Polkadot SDK compatible blockchain."
+name: Polkadart
+description: Polkadart is a comprehensive Dart/Flutter SDK that provides everything you need to build decentralized applications on any Polkadot SDK compatible blockchain.
 repo: "https://github.com/justkawal/polkadart"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#polkadart:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#polkadart:matrix.org"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#polkadart:matrix.org]
 issues: [4257]
 updated: "2026-04-03T14:14:37Z"
 ---

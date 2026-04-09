@@ -9,15 +9,10 @@ issues: [6565]
 updated: "2026-01-14T16:44:31Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#hooover:brunner.ninja"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hooover:brunner.ninja]
 exodus_score: 4
-last_scanned: "2026-04-06T15:21:18Z"
+last_scanned: "2026-04-09T06:36:20Z"
 ---
 
 With Field Oriented Control (FOC)

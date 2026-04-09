@@ -1,20 +1,14 @@
 ---
-name: "Wasp Os"
-description: "A MicroPython based development environment for smart watches (including Pine64 PineTime)"
+name: Wasp Os
+description: A MicroPython based development environment for smart watches (including Pine64 PineTime)
 repo: "https://github.com/wasp-os/wasp-os"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#wasp-os:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#wasp-os:matrix.org"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#wasp-os:matrix.org]
 issues: [4792]
 updated: "2026-01-08T22:00:42Z"
 ---

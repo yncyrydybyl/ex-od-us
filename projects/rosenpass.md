@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#rosenpass:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rosenpass:matrix.org]
 issues: [4410]
 updated: "2026-03-30T17:14:58Z"

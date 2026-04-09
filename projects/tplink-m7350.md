@@ -1,20 +1,14 @@
 ---
-name: "Tplink M7350"
-description: "Exploring the TP-Link M7350"
+name: Tplink M7350
+description: Exploring the TP-Link M7350
 repo: "https://github.com/m0veax/tplink_m7350"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#tplink_rayhunter:chaospott.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tplink_rayhunter:chaospott.de"
+last_scanned: "2026-04-09T06:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tplink_rayhunter:chaospott.de]
 issues: [4004]
 updated: "2026-01-17T00:20:36Z"
 ---

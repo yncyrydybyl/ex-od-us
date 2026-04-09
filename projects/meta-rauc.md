@@ -6,9 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-07T12:22:56Z"
+last_scanned: "2026-04-09T06:36:20Z"
 issues: [6700]
 updated: "2026-03-31T06:52:51Z"
+matrix_rooms: [https://matrix.to/#/#rauc:matrix.org]
 ---
 
 Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework
