@@ -1,12 +1,12 @@
 ---
-name: "Unvanquished"
-description: "An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)"
+name: Unvanquished
+description: An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)
 repo: "https://github.com/Unvanquished/Unvanquished"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-09T18:26:57Z"
 issues: [4754]
 updated: "2026-04-01T20:43:13Z"
 ---

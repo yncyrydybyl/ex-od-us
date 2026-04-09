@@ -1,14 +1,15 @@
 ---
-name: "Jellyfin Sdk Kotlin"
-description: "Kotlin SDK for Jellyfin, supporting Android and JVM targets"
+name: Jellyfin Sdk Kotlin
+description: Kotlin SDK for Jellyfin, supporting Android and JVM targets
 repo: "https://github.com/jellyfin/jellyfin-sdk-kotlin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-09T18:26:57Z"
 issues: [6720]
 updated: "2026-04-06T06:59:44Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin-android-dev:matrix.org.svg]
 ---
 
 Kotlin SDK for Jellyfin, supporting Android and JVM targets

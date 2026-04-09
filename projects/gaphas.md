@@ -1,20 +1,14 @@
 ---
-name: "Gaphas"
-description: "Gaphas is the diagramming widget library for Python."
+name: Gaphas
+description: Gaphas is the diagramming widget library for Python.
 repo: "https://github.com/gaphor/gaphas"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#gaphor_Lobby:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gaphor_Lobby:gitter.im"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gaphor_Lobby:gitter.im]
 issues: [6319]
 updated: "2026-04-06T11:33:25Z"
 ---

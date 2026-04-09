@@ -10,7 +10,8 @@ updated: "2026-04-03T03:50:32Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:19:05Z"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_rooms: [https://matrix.to/#/#xtext:matrix.eclipse.org]
 ---
 
 Eclipse Xtext™ is a language development framework 

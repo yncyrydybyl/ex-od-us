@@ -1,20 +1,14 @@
 ---
-name: "Meta"
-description: "A Matrix-Facebook Messenger and Instagram DM puppeting bridge."
+name: Meta
+description: A Matrix-Facebook Messenger and Instagram DM puppeting bridge.
 repo: "https://github.com/mautrix/meta"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#meta:maunium.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#meta:maunium.net"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#meta:maunium.net]
 issues: [6702]
 updated: "2026-04-02T08:39:58Z"
 ---

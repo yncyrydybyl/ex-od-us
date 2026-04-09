@@ -1,20 +1,14 @@
 ---
-name: "Meli"
+name: Meli
 description: "terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli"
 repo: "https://github.com/meli/meli"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#meli:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#meli:matrix.org"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#meli:matrix.org]
 issues: [6671]
 updated: "2026-04-03T08:51:28Z"
 ---

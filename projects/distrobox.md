@@ -10,7 +10,8 @@ updated: "2026-04-06T09:18:09Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-06T15:18:47Z"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_rooms: [https://matrix.to/#/#distrobox:matrix.org]
 ---
 
 Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox

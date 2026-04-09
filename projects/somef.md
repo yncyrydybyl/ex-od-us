@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-09T12:25:33Z"
+last_scanned: "2026-04-09T18:26:57Z"
 issues: [3963]
 updated: "2026-04-02T09:20:09Z"
-matrix_rooms: [https://matrix.to/#/#sunpy:openastronomy.org.svg]
+matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im, https://matrix.to/#/#sunpy:openastronomy.org.svg]
 ---
 
 SOftware Metadata Extraction Framework: A tool for automatically extracting relevant software information from code repositories (using README files, package metadata, etc.)

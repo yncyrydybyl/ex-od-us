@@ -1,20 +1,14 @@
 ---
-name: "Alexcalc"
-description: "Scientific calculator with LaTeX equation display, variables, units, complex numbers. Runs locally in your browser with WebAssembly."
+name: Alexcalc
+description: Scientific calculator with LaTeX equation display, variables, units, complex numbers. Runs locally in your browser with WebAssembly.
 repo: "https://github.com/alexbarry/AlexCalc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#alexcalc:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#alexcalc:matrix.org"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#alexcalc:matrix.org]
 issues: [5136]
 updated: "2026-04-02T15:22:31Z"
 ---

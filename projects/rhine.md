@@ -1,20 +1,14 @@
 ---
-name: "Rhine"
-description: "Haskell Functional Reactive Programming framework with type-level clocks"
+name: Rhine
+description: Haskell Functional Reactive Programming framework with type-level clocks
 repo: "https://github.com/turion/rhine"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#rhine:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rhine:matrix.org"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rhine:matrix.org]
 issues: [4389]
 updated: "2026-04-01T09:11:46Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Socialhome"
-description: "A federated social home"
+name: Socialhome
+description: A federated social home
 repo: "https://github.com/jaywink/socialhome"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#socialhome:federator.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#socialhome:federator.dev"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#socialhome:federator.dev]
 issues: [3962]
 updated: "2026-04-05T14:02:57Z"
 ---

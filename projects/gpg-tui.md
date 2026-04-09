@@ -1,14 +1,15 @@
 ---
-name: "Gpg Tui"
-description: "Manage your GnuPG keys with ease! 🔐"
+name: Gpg Tui
+description: Manage your GnuPG keys with ease! 🔐
 repo: "https://github.com/orhun/gpg-tui"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-09T18:26:57Z"
 issues: [6459]
 updated: "2026-04-02T11:06:28Z"
+matrix_rooms: [https://matrix.to/#/#gpg-tui:matrix.org]
 ---
 
 Manage your GnuPG keys with ease! 🔐

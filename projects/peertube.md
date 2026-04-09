@@ -1,20 +1,14 @@
 ---
-name: "Peertube"
-description: "ActivityPub-federated video streaming platform using P2P directly in your web browser"
+name: Peertube
+description: ActivityPub-federated video streaming platform using P2P directly in your web browser
 repo: "https://github.com/Chocobozzz/PeerTube"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#peertube:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#peertube:matrix.org"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#peertube:matrix.org]
 issues: [4212]
 updated: "2026-04-02T14:29:22Z"
 ---

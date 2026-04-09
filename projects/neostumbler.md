@@ -1,20 +1,14 @@
 ---
-name: "Neostumbler"
-description: "New stumbler application for contributing data to geolocation services"
+name: Neostumbler
+description: New stumbler application for contributing data to geolocation services
 repo: "https://github.com/mjaakko/NeoStumbler"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#neostumbler:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#neostumbler:matrix.org"
+last_scanned: "2026-04-09T18:26:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#neostumbler:matrix.org]
 issues: [3755]
 updated: "2026-04-02T16:45:40Z"
 ---
