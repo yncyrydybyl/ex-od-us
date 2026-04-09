@@ -136,6 +136,35 @@ bash scripts/refresh-all.sh --dry-run    # preview only
 
 This runs: enrich → build → sync issues. Auto-commits with a detailed log.
 
+### Grade and improve a README
+
+`scripts/readme-doctor.py` runs the same scoring rubric the enricher
+uses, then prints exactly what's missing and how to fix it. Useful for
+maintainers self-assessing before opening a PR, and for CI gates.
+
+```bash
+# Grade a local README file
+python3 scripts/readme-doctor.py ./README.md
+
+# Grade a repo by slug (fetched through the ReadmeCache)
+python3 scripts/readme-doctor.py element-hq/element-web
+
+# Grade an already-tracked project (resolves its upstream README)
+python3 scripts/readme-doctor.py --project element-web
+
+# Grade from stdin with copy-paste markdown snippets for each gap
+cat README.md | python3 scripts/readme-doctor.py --snippets
+
+# CI gate: fail the build if score drops below 5
+python3 scripts/readme-doctor.py ./README.md --strict --threshold 5
+
+# Machine-readable output
+python3 scripts/readme-doctor.py ./README.md --format json
+```
+
+Scoring is imported directly from `enrich-via-sourcegraph.py` so the
+doctor cannot drift from the canonical rubric.
+
 ### Run tests
 
 ```bash
