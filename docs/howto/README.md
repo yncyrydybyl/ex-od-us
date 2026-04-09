@@ -10,7 +10,7 @@ follow this end-to-end in an afternoon," not "comprehensive reference."
 
 | Guide | Status |
 |---|---|
-| [Create a project room or space](room-or-space.md) | stub |
+| [Create a project room or space](room-or-space.md) | written |
 | [Set up a project homeserver](homeserver.md) | stub |
 | [Set up moderation tools](moderation.md) | stub |
 | [Get listed on matrix.org and matrixrooms.info](listing.md) | stub |

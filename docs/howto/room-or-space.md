@@ -1,7 +1,5 @@
 # Howto: Create a project room or space
 
-> Status: **stub** — structure ready, prose TODO. PRs welcome.
-
 ## Scope
 
 By the end of this guide you have:
@@ -38,25 +36,56 @@ it. Splitting too early fragments a small community.
 
 ## Steps
 
-1. _TODO: open Element → "+" → Create new room (or Create new space)._
-2. _TODO: pick an alias. Conventions: lowercase project name, no
-   prefix, on whichever homeserver you'll list it from. e.g.
-   `#element-web:matrix.org`._
-3. _TODO: set the room avatar — usually the project logo, square,
-   at least 256×256._
-4. _TODO: set the topic to one sentence + a link to the project
-   README. The topic shows up in clients' join previews and is the
-   first thing newcomers see._
-5. _TODO: configure join rules. For an open project: "Anyone who knows
-   the link can join", history visible to members. Avoid invite-only
-   unless you have a reason._
-6. _TODO: enable end-to-end encryption? **No** for a public community
-   room — it makes search, bots, and bridges harder. **Yes** for a
-   private maintainers' room._
-7. _TODO: enable "Allow guests to join" only if you want non-Matrix
-   users to lurk. Most projects don't bother._
-8. _TODO: if you created a space, add at least one initial child room
-   (`#general` or `#chat`) so the space isn't empty on first join._
+1. **Open the create dialog.** In Element, click the `+` button next to
+   "Rooms" in the left sidebar and pick *New room*. For a space, click
+   the `+` at the top of the spaces column on the far left and pick
+   *Create a new space*. Other clients have the same affordances under
+   similar names; the room-vs-space choice is the one that matters.
+
+2. **Pick an alias.** The alias is the permanent URL for your room
+   (`#name:homeserver`). Use the lowercase project name with no
+   `project-` or `chat-` prefix, on whichever homeserver you'll list it
+   from — e.g. `#element-web:matrix.org`. If the bare name is taken,
+   prefer a short scoped form (`#element-web-dev:matrix.org`) over a
+   noisy one. Avoid dashes-vs-underscores churn later by picking one
+   convention now.
+
+3. **Set the room avatar.** Upload the project logo. Square, at least
+   256×256, PNG with a transparent background if the logo has one.
+   Element crops to a circle in most places, so anything that relies on
+   square corners will look wrong — test it before committing.
+
+4. **Write the topic.** One sentence describing the project plus a link
+   to the README or homepage. The topic is what clients show in join
+   previews and room directories, so it's the first thing a newcomer
+   reads before deciding whether to join. Example:
+   *"Element Web — a Matrix client for the web. https://element.io"*.
+
+5. **Configure join rules.** Open *Room settings → Security & Privacy*.
+   For an open-source community room, set *Who can access this room?*
+   to **Anyone who knows the link can join** (also called "public") and
+   *Who can read history?* to **Members only, since they joined**.
+   Avoid *Invite only* unless you actually have a reason — it turns
+   every newcomer into a support ticket for the mods.
+
+6. **Do not enable end-to-end encryption** on a public community room.
+   E2EE in Matrix is per-room and irreversible: once on, you cannot
+   turn it off. It breaks server-side search, most bots, bridges, and
+   history visibility for people who join later. Only enable E2EE on a
+   *separate* private maintainers' room where you actually need it.
+
+7. **Leave guest access off** unless you have a specific reason to
+   allow it. Guest access lets non-Matrix users peek at the room
+   without signing up; in practice very few projects use it, bridges
+   and bots don't care about it, and it opens a small abuse surface.
+   Skip it and move on.
+
+8. **If you created a space, give it a child room immediately.** An
+   empty space is confusing — new members join and see nothing. Create
+   at least one room inside it (conventionally `#general` or `#chat`)
+   and mark it as a *suggested* child so clients surface it on first
+   join. You can add `#dev`, `#announcements`, etc. later as traffic
+   justifies them.
 
 ## Gotchas
 
