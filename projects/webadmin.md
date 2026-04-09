@@ -10,7 +10,7 @@ updated: "2026-03-18T20:06:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stalwartmail:matrix.org, https://matrix.to/#/#stalwart:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-09T06:36:20Z"
+last_scanned: "2026-04-09T12:25:33Z"
 ---
 
 Web-based admin for Stalwart

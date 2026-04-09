@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4747]
 updated: "2026-04-06T17:16:07Z"
-matrix_links:
-  - target: "#umap:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#umap:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-09T12:25:33Z"
 ---
 
 uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.

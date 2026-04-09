@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-09T00:27:31Z"
+last_scanned: "2026-04-09T12:25:33Z"
 issues: [825]
 updated: "2026-03-24T12:50:49Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
 ---
 
 The official Waterfox 💧 source code repository

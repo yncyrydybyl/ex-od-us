@@ -1,20 +1,14 @@
 ---
-name: "Complement"
-description: "Matrix compliance test suite"
+name: Complement
+description: Matrix compliance test suite
 repo: "https://github.com/matrix-org/complement"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#complement:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#complement:matrix.org"
+last_scanned: "2026-04-09T12:25:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#complement:matrix.org.svg, https://matrix.to/#/#complement:matrix.org]
 issues: [5680]
 updated: "2026-04-02T09:39:33Z"
 ---

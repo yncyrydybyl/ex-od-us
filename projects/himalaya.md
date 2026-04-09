@@ -1,20 +1,14 @@
 ---
-name: "Himalaya"
-description: "CLI to manage emails"
+name: Himalaya
+description: CLI to manage emails
 repo: "https://github.com/pimalaya/himalaya"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#pimalaya:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pimalaya:matrix.org"
+last_scanned: "2026-04-09T12:25:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 issues: [6543]
 updated: "2026-04-02T10:09:42Z"
 ---

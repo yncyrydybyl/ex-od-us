@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quranapp:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-09T00:27:31Z"
+last_scanned: "2026-04-09T12:25:33Z"
 ---
 
 An ad-free and privacy-focused app for exploring the Holy Qur’an.

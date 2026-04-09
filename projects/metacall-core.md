@@ -1,20 +1,14 @@
 ---
-name: "Core"
+name: Core
 description: "MetaCall: The ultimate polyglot programming experience."
 repo: "https://github.com/metacall/core"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#metacall:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#metacall:matrix.org"
+last_scanned: "2026-04-09T12:25:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#metacall:matrix.org]
 issues: [6704]
 updated: "2026-04-02T20:03:16Z"
 ---
