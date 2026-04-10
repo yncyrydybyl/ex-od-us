@@ -8,7 +8,7 @@ status: Active
 issues: [7201]
 updated: "2026-03-30T20:56:31Z"
 exodus_score: 1
-last_scanned: "2026-04-10T00:32:33Z"
+last_scanned: "2026-04-10T06:40:25Z"
 matrix_rooms: [https://matrix.to/#/#opsdroid-general:matrix.org, https://matrix.to/#/#opsdroid-general:matrix.org.svg]
 ---
 

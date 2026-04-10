@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations, Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-10T00:32:33Z"
+last_scanned: "2026-04-10T06:40:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-bot-sdk:t2bot.io]
 issues: [6564]

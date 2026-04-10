@@ -10,7 +10,8 @@ updated: "2026-04-02T23:38:37Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-10T06:40:25Z"
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
 ---
 
 The multidict implementation
