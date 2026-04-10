@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-discover-codeberg.py — Find and import Matrix-related projects from Codeberg.
+discover-via-codeberg.py — Find and import Matrix-related projects from Codeberg.
 
 Searches Codeberg API for repos mentioning Matrix, fetches their READMEs
 to check for matrix.to links, creates project files.
@@ -8,7 +8,7 @@ to check for matrix.to links, creates project files.
 No auth needed. No rate limit issues (Codeberg API is generous).
 
 Usage:
-  python3 scripts/discover-codeberg.py [--dry-run] [--limit N] [--min-stars N]
+  python3 scripts/discover-via-codeberg.py [--dry-run] [--limit N] [--min-stars N]
 """
 
 import os, sys, re, json, time
