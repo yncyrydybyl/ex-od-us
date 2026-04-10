@@ -1,20 +1,14 @@
 ---
-name: "Tlrc"
-description: "Official tldr client written in Rust."
+name: Tlrc
+description: Official tldr client written in Rust.
 repo: "https://github.com/tldr-pages/tlrc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#tldr-pages:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tldr-pages:matrix.org"
+last_scanned: "2026-04-10T12:20:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]
 issues: [4669]
 updated: "2026-04-02T02:00:26Z"
 ---

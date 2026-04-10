@@ -1,20 +1,14 @@
 ---
-name: "Pdal"
-description: "PDAL is Point Data Abstraction Library. GDAL for point cloud data."
+name: Pdal
+description: PDAL is Point Data Abstraction Library. GDAL for point cloud data.
 repo: "https://github.com/PDAL/PDAL"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#pdal:osgeo.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pdal:osgeo.org"
+last_scanned: "2026-04-10T12:20:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pdal:osgeo.org]
 issues: [4209]
 updated: "2026-04-03T01:21:09Z"
 ---

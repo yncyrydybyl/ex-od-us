@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#marlin-project:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-10T06:40:25Z"
+last_scanned: "2026-04-10T12:20:00Z"
 ---
 
 🦀 No-nonsense hardware testing/simulation in Rust 🛠️ | Verilog, Spade, Veryl

@@ -1,18 +1,13 @@
 ---
-name: "Plasma Smart Video Wallpaper Reborn"
-description: "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen."
+name: Plasma Smart Video Wallpaper Reborn
+description: Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 repo: "https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#kde-plasma-smart-video-wallpaper-reborn:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-10T12:20:00Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#kde-plasma-smart-video-wallpaper-reborn:matrix.org"
 issues: [4248]

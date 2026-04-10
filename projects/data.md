@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-10T06:40:25Z"
+last_scanned: "2026-04-10T12:20:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dade-company:matrix.altpeter.me, https://matrix.to/#/#datenanfragen:matrix.altpeter.me]
 issues: [5793]

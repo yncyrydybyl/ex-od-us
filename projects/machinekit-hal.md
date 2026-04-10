@@ -10,7 +10,7 @@ updated: "2024-09-03T21:03:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#machinekit:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-10T06:40:25Z"
+last_scanned: "2026-04-10T12:20:00Z"
 ---
 
 Universal framework for machine control based on Hardware Abstraction Layer principle

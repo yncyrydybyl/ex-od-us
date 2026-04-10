@@ -1,14 +1,15 @@
 ---
-name: "Scorpion Editor Demos"
-description: "Editor for Scorpion engine (closed source), along with demo games (open source)"
+name: Scorpion Editor Demos
+description: Editor for Scorpion engine (closed source), along with demo games (open source)
 repo: "https://github.com/earok/scorpion-editor-demos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-10T12:20:00Z"
 issues: [4462]
 updated: "2026-04-03T01:44:11Z"
+matrix_rooms: [https://matrix.to/#/#emulatorjs:matrix.emulatorjs.org]
 ---
 
 Editor for Scorpion engine (closed source), along with demo games (open source)
