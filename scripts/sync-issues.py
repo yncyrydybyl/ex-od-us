@@ -58,6 +58,15 @@ def parse_frontmatter(text):
                 except ValueError: fm[current_key] = val
     return fm, body
 
+def sanitize_mentions(text):
+    """Wrap @username patterns in backticks so GitHub doesn't notify users.
+    Some upstream repo descriptions embed `[maintainer=@user]` literals
+    (e.g. nix-community/NUR), which would otherwise ping unrelated people
+    every time we (re)create or refresh a tracking issue."""
+    if not text:
+        return text
+    return re.sub(r'@([A-Za-z0-9][A-Za-z0-9-]{0,38})', r'`@\1`', text)
+
 def ensure_label(label):
     """Create label if it doesn't exist."""
     gh('label', 'create', label, '--repo', REPO, '--color', '6e7681',
@@ -119,7 +128,7 @@ def main():
             lines = [f'**Project file:** [`projects/{fname}`](https://github.com/{REPO}/blob/main/projects/{fname})']
             lines.append('')
             if desc:
-                lines.append(desc)
+                lines.append(sanitize_mentions(desc))
                 lines.append('')
             if repo:
                 lines.append(f'**Repository:** {repo}')
@@ -203,7 +212,7 @@ def main():
         # Build issue body
         issue_body = f"**Project file:** [`projects/{fname}`](https://github.com/{REPO}/blob/main/projects/{fname})\n\n"
         if desc:
-            issue_body += f"{desc}\n\n"
+            issue_body += f"{sanitize_mentions(desc)}\n\n"
         if repo:
             issue_body += f"**Repository:** {repo}\n"
         if status:
