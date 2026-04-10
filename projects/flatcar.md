@@ -5,7 +5,7 @@ repo: "https://github.com/flatcar/Flatcar"
 platform: github
 categories: [Development]
 status: Active
-issues: [6222]
+issues: [1431]
 updated: "2026-04-03T07:29:09Z"
 verified: true
 verified_note: repo alive, room not checked

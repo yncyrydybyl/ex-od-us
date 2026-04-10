@@ -5,7 +5,7 @@ repo: "https://github.com/OpenMandrivaAssociation/distribution"
 platform: github
 categories: [Development]
 status: Active
-issues: [5887]
+issues: [5458]
 updated: "2025-07-19T04:33:01Z"
 exodus_score: 1
 last_scanned: "2026-04-10T00:32:33Z"

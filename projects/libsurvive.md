@@ -5,7 +5,7 @@ repo: "https://github.com/collabora/libsurvive"
 platform: github
 categories: [Development]
 status: Active
-issues: [6916]
+issues: [1565]
 updated: "2026-03-23T20:55:11Z"
 verified: true
 verified_note: repo alive, room not checked

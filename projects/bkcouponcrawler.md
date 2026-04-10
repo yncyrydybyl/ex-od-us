@@ -4,7 +4,7 @@ repo: "https://github.com/coffeerhyder/BKCouponCrawler"
 platform: github
 categories: [Development]
 status: Active
-issues: [5457]
+issues: [1137]
 updated: "2026-02-03T22:53:41Z"
 verified: true
 verified_note: repo alive, room not checked

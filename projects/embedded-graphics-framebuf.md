@@ -5,7 +5,7 @@ repo: "https://github.com/bernii/embedded-graphics-framebuf"
 platform: github
 categories: [Development]
 status: Active
-issues: [749]
+issues: [185]
 updated: "2024-11-11T17:42:59Z"
 verified: true
 verified_note: repo alive, room not checked

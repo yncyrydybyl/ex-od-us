@@ -5,7 +5,7 @@ repo: "https://github.com/glacambre/firenvim"
 platform: github
 categories: [Development]
 status: Active
-issues: [6188]
+issues: [3234]
 updated: "2026-03-27T07:00:58Z"
 exodus_score: 1
 last_scanned: "2026-04-10T00:32:33Z"
