@@ -1,20 +1,14 @@
 ---
-name: "Mmo Dragon Game Framework"
-description: "Networking entities and load balancing with distributed server workers."
+name: Mmo Dragon Game Framework
+description: Networking entities and load balancing with distributed server workers.
 repo: "https://github.com/judah4/MMO-Dragon-Game-Framework"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#dragongf:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#dragongf:matrix.org"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#dragongf:matrix.org]
 issues: [3716]
 updated: "2024-11-28T18:48:35Z"
 ---

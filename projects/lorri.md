@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6971]
 updated: "2025-04-19T22:07:58Z"
-matrix_links:
-  - target: "#lorri:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lorri:libera.chat]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-10T18:20:15Z"
 ---
 
 Your project’s nix-env [maintainer=@Profpatsch,@nyarly]

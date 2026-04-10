@@ -1,18 +1,13 @@
 ---
-name: "Numba Dpex"
-description: "Data Parallel Extension for Numba"
+name: Numba Dpex
+description: Data Parallel Extension for Numba
 repo: "https://github.com/IntelPython/numba-dpex"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#Data-Parallel-Python_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
 issues: [3776]

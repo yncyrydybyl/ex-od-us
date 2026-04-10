@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4256]
 updated: "2026-04-06T12:48:45Z"
-matrix_links:
-  - target: "#poetry2nix:blad.is"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#poetry2nix:blad.is]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-10T18:20:15Z"
 ---
 
 Convert poetry projects to nix automagically [maintainer=] 

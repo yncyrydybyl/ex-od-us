@@ -10,7 +10,8 @@ updated: "2024-12-29T19:22:13Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:20:16Z"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_rooms: [https://matrix.to/#/#fediverse-testing:matrix.org]
 ---
 
 A testing framework for distributed, heterogeneous systems communicating with complex protocols, such as the Fediverse

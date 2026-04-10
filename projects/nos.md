@@ -1,20 +1,14 @@
 ---
-name: "Nos"
-description: "nos.social social media for all of us, using nostr"
+name: Nos
+description: nos.social social media for all of us, using nostr
 repo: "https://github.com/planetary-social/nos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#planetary:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#planetary:matrix.org"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#planetary:matrix.org]
 issues: [6996]
 updated: "2025-07-24T22:55:35Z"
 ---

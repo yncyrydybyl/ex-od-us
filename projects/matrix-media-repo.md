@@ -1,20 +1,14 @@
 ---
-name: "Matrix Media Repo"
-description: "Highly configurable multi-domain media repository for Matrix."
+name: Matrix Media Repo
+description: Highly configurable multi-domain media repository for Matrix.
 repo: "https://github.com/t2bot/matrix-media-repo"
 platform: github
 categories: [Infrastructure, Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#media-repo:t2bot.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#media-repo:t2bot.io"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#media-repo:t2bot.io]
 issues: [6585]
 updated: "2025-11-20T01:15:49Z"
 ---

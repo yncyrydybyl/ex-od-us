@@ -1,20 +1,14 @@
 ---
-name: "Meshrabiya"
-description: "Virtual mesh network for Android that operates over WiFi"
+name: Meshrabiya
+description: Virtual mesh network for Android that operates over WiFi
 repo: "https://github.com/UstadMobile/Meshrabiya"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#meshrabiya:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#meshrabiya:matrix.org"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#meshrabiya:matrix.org]
 issues: [6686]
 updated: "2024-12-17T14:38:47Z"
 ---

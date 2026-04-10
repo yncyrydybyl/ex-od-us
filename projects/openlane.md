@@ -6,15 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-10T18:20:15Z"
 issues: [7189]
 updated: "2026-03-25T21:24:26Z"
-matrix_links:
-  - target: "#openlane:fossi-chat.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#openlane:fossi-chat.org]
 ---
 

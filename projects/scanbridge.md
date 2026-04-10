@@ -1,20 +1,14 @@
 ---
-name: "Scanbridge"
-description: "FOSS Android app for using network-enabled scanners supporting the eSCL protocol (AirScan)"
+name: Scanbridge
+description: FOSS Android app for using network-enabled scanners supporting the eSCL protocol (AirScan)
 repo: "https://github.com/Chrisimx/ScanBridge"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#scanbridge:fireamp.eu"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#scanbridge:fireamp.eu"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#scanbridge:fireamp.eu]
 issues: [4452]
 updated: "2026-04-04T04:30:51Z"
 ---

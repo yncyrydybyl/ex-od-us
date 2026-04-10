@@ -9,15 +9,10 @@ issues: [5596]
 updated: "2024-08-15T06:20:53Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#zirnc-general:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#zirnc-general:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T15:17:50Z"
+last_scanned: "2026-04-10T18:20:15Z"
 ---
 
 Me

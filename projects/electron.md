@@ -1,12 +1,12 @@
 ---
-name: "Electron"
-description: "A super small and fast Electron client mod with the most capability."
+name: Electron
+description: A super small and fast Electron client mod with the most capability.
 repo: "https://github.com/kernel-mod/electron"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-10T18:20:15Z"
 issues: [5988]
 updated: "2024-08-13T00:33:50Z"
 ---

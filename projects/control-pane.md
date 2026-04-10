@@ -9,7 +9,7 @@ issues: [5701]
 updated: "2026-02-06T08:51:29Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-09T06:36:20Z"
+last_scanned: "2026-04-10T18:20:15Z"
 matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 exodus_score: 2
 ---

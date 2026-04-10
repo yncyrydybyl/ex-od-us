@@ -7,15 +7,10 @@ categories: [Security]
 status: Active
 issues: [3833]
 updated: "2025-06-15T19:53:03Z"
-matrix_links:
-  - target: "#cyb3rko-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cyb3rko-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-10T18:20:15Z"
 ---
 
 Modern and secure Android app to help you remember any PIN

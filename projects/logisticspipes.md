@@ -1,20 +1,14 @@
 ---
-name: "Logisticspipes"
-description: "The RS485 take on LogisticsPipes -- ESTḌ 2012"
+name: Logisticspipes
+description: The RS485 take on LogisticsPipes -- ESTḌ 2012
 repo: "https://github.com/RS485/LogisticsPipes"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lp:rs485.network"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lp:rs485.network"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lp:rs485.network]
 issues: [6961]
 updated: "2023-11-08T00:29:05Z"
 ---

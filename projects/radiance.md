@@ -6,15 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-10T18:20:15Z"
 issues: [4350]
 updated: "2025-11-07T01:32:38Z"
-matrix_links:
-  - target: "#gfx:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gfx:matrix.org]
 ---
 

@@ -1,14 +1,15 @@
 ---
-name: "Sealer"
-description: "Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)"
+name: Sealer
+description: Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 repo: "https://github.com/sealerio/sealer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-10T18:20:15Z"
 issues: [4469]
 updated: "2025-06-03T08:29:24Z"
+matrix_rooms: [https://matrix.to/#/#ipld:ipfs.io, https://matrix.to/#/#ipfs:matrix.org]
 ---
 
 Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)

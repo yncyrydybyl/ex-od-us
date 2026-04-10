@@ -1,20 +1,14 @@
 ---
-name: "Eio"
-description: "Effects-based direct-style IO for multicore OCaml"
+name: Eio
+description: Effects-based direct-style IO for multicore OCaml
 repo: "https://github.com/ocaml-multicore/eio"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#eio:roscidus.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#eio:roscidus.com"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#eio:roscidus.com]
 issues: [5982]
 updated: "2025-11-04T15:07:30Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Proxmox Nixos"
+name: Proxmox Nixos
 description: "The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] "
 repo: "https://github.com/SaumonNet/proxmox-nixos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#proxmox-nixos:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#proxmox-nixos:matrix.org"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#proxmox-nixos:matrix.org]
 issues: [4295]
 updated: "2026-04-03T15:06:03Z"
 ---

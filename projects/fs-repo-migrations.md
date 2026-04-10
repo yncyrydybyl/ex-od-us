@@ -1,14 +1,15 @@
 ---
-name: "Fs Repo Migrations"
-description: "Migrations for the filesystem repository of ipfs clients"
+name: Fs Repo Migrations
+description: Migrations for the filesystem repository of ipfs clients
 repo: "https://github.com/ipfs/fs-repo-migrations"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-10T18:20:15Z"
 issues: [6298]
 updated: "2025-05-10T08:33:17Z"
+matrix_rooms: [https://matrix.to/#/#ipfs:matrix.org]
 ---
 
 Migrations for the filesystem repository of ipfs clients

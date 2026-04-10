@@ -1,20 +1,14 @@
 ---
-name: "Pcd"
-description: "CLI podcast client (podcatcher) written in golang"
+name: Pcd
+description: CLI podcast client (podcatcher) written in golang
 repo: "https://github.com/kvannotten/pcd"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#pcd:kristof.tech"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pcd:kristof.tech"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pcd:kristof.tech]
 issues: [3826]
 updated: "2023-07-16T14:11:44Z"
 ---

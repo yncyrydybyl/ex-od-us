@@ -1,20 +1,14 @@
 ---
-name: "Act"
-description: "Smart contract specification language"
+name: Act
+description: Smart contract specification language
 repo: "https://github.com/argotorg/act"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#actlang:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#actlang:matrix.org"
+last_scanned: "2026-04-10T18:20:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#actlang:matrix.org]
 issues: [5101]
 updated: "2026-04-03T09:44:59Z"
 ---
