@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-08T12:22:53Z"
+last_scanned: "2026-04-10T00:32:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tc39-async-context:matrix.org]
 issues: [4293]

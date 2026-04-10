@@ -1,20 +1,14 @@
 ---
-name: "Awesome Helix"
-description: "A curated list of awesome Helix editor resources, plugins, themes, and tools."
+name: Awesome Helix
+description: A curated list of awesome Helix editor resources, plugins, themes, and tools.
 repo: "https://github.com/npupko/awesome-helix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#helix-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#helix-community:matrix.org"
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#helix-community:matrix.org]
 issues: [5000]
 updated: "2026-04-02T09:31:40Z"
 ---

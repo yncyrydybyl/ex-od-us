@@ -10,7 +10,7 @@ updated: "2025-01-05T22:01:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#SparkplugNet_community:gitter.im]
 exodus_score: 3
-last_scanned: "2026-04-09T18:26:57Z"
+last_scanned: "2026-04-10T00:32:33Z"
 ---
 
 SparkplugNet is a library to use the Sparkplug industrial IoT (IIoT) standard in .Net. It uses MQTTnet in the background.

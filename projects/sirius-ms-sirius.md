@@ -1,20 +1,14 @@
 ---
-name: "Sirius"
-description: "SIRIUS is a software for discovering a landscape of de-novo identification of metabolites using tandem mass spectrometry. This repository contains the code of the SIRIUS Software (GUI and CLI)"
+name: Sirius
+description: SIRIUS is a software for discovering a landscape of de-novo identification of metabolites using tandem mass spectrometry. This repository contains the code of the SIRIUS Software (GUI and CLI)
 repo: "https://github.com/sirius-ms/sirius"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#sirius-ms:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#sirius-ms:gitter.im"
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#sirius-ms:gitter.im]
 issues: [7227]
 updated: "2026-04-02T15:41:35Z"
 ---

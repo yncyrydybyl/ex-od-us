@@ -1,20 +1,14 @@
 ---
-name: "Libadwaita"
+name: Libadwaita
 description: "Read-only mirror of https://gitlab.gnome.org/GNOME/libadwaita"
 repo: "https://github.com/GNOME/libadwaita"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#libadwaita:gnome.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#libadwaita:gnome.org"
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#libadwaita:gnome.org]
 issues: [6885]
 updated: "2026-04-04T11:36:34Z"
 ---

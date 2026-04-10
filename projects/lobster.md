@@ -1,20 +1,14 @@
 ---
-name: "Lobster"
-description: "mmm lobster"
+name: Lobster
+description: mmm lobster
 repo: "https://github.com/justchokingaround/lobster"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lobster-and-jerry:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lobster-and-jerry:matrix.org"
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lobster-and-jerry:matrix.org]
 issues: [6957]
 updated: "2026-04-03T08:28:00Z"
 ---

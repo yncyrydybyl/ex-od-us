@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#tinted-theming:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]
 issues: [6555]
 updated: "2026-04-02T20:09:13Z"

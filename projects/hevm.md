@@ -1,20 +1,14 @@
 ---
-name: "Hevm"
-description: "Symbolic and concrete EVM execution engine"
+name: Hevm
+description: Symbolic and concrete EVM execution engine
 repo: "https://github.com/argotorg/hevm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#hevm:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#hevm:matrix.org"
+last_scanned: "2026-04-10T00:32:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hevm:matrix.org]
 issues: [6536]
 updated: "2026-04-06T11:14:00Z"
 ---
