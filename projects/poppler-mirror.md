@@ -1,14 +1,15 @@
 ---
-name: "Poppler Mirror"
+name: Poppler Mirror
 description: "mirror of https://gitlab.freedesktop.org/poppler/poppler/ + unofficial CI files"
 repo: "https://github.com/tsdgeos/poppler_mirror"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-11T18:12:32Z"
 issues: [4263]
 updated: "2026-04-04T10:58:06Z"
+matrix_rooms: [https://matrix.to/#/#poppler:kde.org]
 ---
 
 mirror of https://gitlab.freedesktop.org/poppler/poppler/ + unofficial CI files

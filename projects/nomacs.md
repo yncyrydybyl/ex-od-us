@@ -1,20 +1,14 @@
 ---
-name: "Nomacs"
-description: "nomacs is a free image viewer for windows, linux, and mac systems."
+name: Nomacs
+description: nomacs is a free image viewer for windows, linux, and mac systems.
 repo: "https://github.com/nomacs/nomacs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#nomacs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nomacs:matrix.org"
+last_scanned: "2026-04-11T18:12:32Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nomacs:matrix.org]
 issues: [6994]
 updated: "2026-04-04T12:23:46Z"
 ---

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [5168]
 updated: "2026-04-04T06:47:11Z"
-matrix_links:
-  - target: "#AndrOBD:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#AndrOBD:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-11T18:12:32Z"
 ---
 
 Android OBD diagnostics with any ELM327 adapter

@@ -1,20 +1,14 @@
 ---
-name: "Ee Utilities"
-description: "This ansible collection includes a number of roles and tools which can be useful for managing Ansible Execution Environments."
+name: Ee Utilities
+description: This ansible collection includes a number of roles and tools which can be useful for managing Ansible Execution Environments.
 repo: "https://github.com/redhat-cop/ee_utilities"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#aap_config_as_code:ansible.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#aap_config_as_code:ansible.com"
+last_scanned: "2026-04-11T18:12:32Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#aap_config_as_code:ansible.com]
 issues: [5973]
 updated: "2026-04-03T06:11:29Z"
 ---

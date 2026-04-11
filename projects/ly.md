@@ -1,20 +1,14 @@
 ---
-name: "Ly"
+name: Ly
 description: "A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly)."
 repo: "https://github.com/fairyglade/ly"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ly-dm:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ly-dm:matrix.org"
+last_scanned: "2026-04-11T18:12:32Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ly-dm:matrix.org]
 issues: [6985]
 updated: "2026-04-01T17:00:48Z"
 ---

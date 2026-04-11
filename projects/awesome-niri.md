@@ -1,20 +1,14 @@
 ---
-name: "Awesome Niri"
+name: Awesome Niri
 description: "An awesome list for niri related projects [Maintainer - @Vortriz]"
 repo: "https://github.com/niri-wm/awesome-niri"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#niri:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#niri:matrix.org"
+last_scanned: "2026-04-11T18:12:32Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#niri:matrix.org]
 issues: [5351]
 updated: "2026-04-04T13:10:16Z"
 ---
