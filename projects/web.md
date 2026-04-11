@@ -1,14 +1,15 @@
 ---
-name: "Web"
-description: "🐻 Web UI for OpenCloud built with Vue.js and TypeScript"
+name: Web
+description: 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 repo: "https://github.com/opencloud-eu/web"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-11T12:13:38Z"
 issues: [4178]
 updated: "2026-04-06T17:04:24Z"
+matrix_rooms: [https://matrix.to/#/#opencloud:matrix.org]
 ---
 
 🐻 Web UI for OpenCloud built with Vue.js and TypeScript

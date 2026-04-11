@@ -1,20 +1,14 @@
 ---
-name: "Schildi Revenge"
-description: "Matrix client for desktop written in Kotlin and using the Matrix Rust SDK"
+name: Schildi Revenge
+description: Matrix client for desktop written in Kotlin and using the Matrix Rust SDK
 repo: "https://github.com/SchildiChat/schildi-revenge"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#revenge:schildi.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#revenge:schildi.chat"
+last_scanned: "2026-04-11T12:13:38Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#revenge:schildi.chat.svg, https://matrix.to/#/#revenge:schildi.chat]
 issues: [4457]
 updated: "2026-04-06T12:21:05Z"
 ---

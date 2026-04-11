@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-11T00:30:36Z"
+last_scanned: "2026-04-11T12:13:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#live-backgroundremoval-lite:matrix.org]
 issues: [6949]

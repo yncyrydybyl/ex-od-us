@@ -1,20 +1,14 @@
 ---
-name: "Florid"
-description: "F-Droid Client"
+name: Florid
+description: F-Droid Client
 repo: "https://github.com/Nandanrmenon/florid"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#florid:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#florid:matrix.org"
+last_scanned: "2026-04-11T12:13:38Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#florid:matrix.org]
 issues: [6238]
 updated: "2026-03-27T15:47:01Z"
 ---

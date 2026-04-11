@@ -10,9 +10,9 @@ updated: "2026-04-06T11:05:06Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#authelia-support:matrix.org, https://matrix.to/#/#community:authelia.com, https://matrix.to/#/#contributing:authelia.com, https://matrix.to/#/#support:authelia.com]
+matrix_rooms: [https://matrix.to/#/#support:authelia.com, https://matrix.to/#/#authelia-support:matrix.org]
 exodus_score: 7
-last_scanned: "2026-04-11T06:25:51Z"
+last_scanned: "2026-04-11T12:13:38Z"
 ---
 
 The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™

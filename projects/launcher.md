@@ -1,12 +1,12 @@
 ---
-name: "Launcher"
-description: "A distraction-free, minimal homescreen for Android."
+name: Launcher
+description: A distraction-free, minimal homescreen for Android.
 repo: "https://github.com/jrpie/Launcher"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-11T12:13:38Z"
 issues: [6850]
 updated: "2026-04-03T21:21:24Z"
 ---

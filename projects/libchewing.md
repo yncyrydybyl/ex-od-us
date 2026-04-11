@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chewing-users:matrix.org, https://matrix.to/#/#libchewing:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-11T00:30:36Z"
+last_scanned: "2026-04-11T12:13:38Z"
 ---
 
 Migrated to Codeberg

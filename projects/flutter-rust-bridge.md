@@ -1,12 +1,12 @@
 ---
-name: "Flutter Rust Bridge"
-description: "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple."
+name: Flutter Rust Bridge
+description: Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.
 repo: "https://github.com/fzyzcjy/flutter_rust_bridge"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-11T12:13:38Z"
 issues: [6251]
 updated: "2026-04-05T13:37:04Z"
 ---

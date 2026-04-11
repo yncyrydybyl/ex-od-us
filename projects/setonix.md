@@ -1,14 +1,15 @@
 ---
-name: "Setonix"
-description: "🃏 Powerful, customizable, cross-platform, opensource table sandbox game"
+name: Setonix
+description: 🃏 Powerful, customizable, cross-platform, opensource table sandbox game
 repo: "https://github.com/LinwoodDev/Setonix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-11T12:13:38Z"
 issues: [3948]
 updated: "2026-04-05T17:37:48Z"
+matrix_rooms: [https://matrix.to/#/#linwood:matrix.org]
 ---
 
 🃏 Powerful, customizable, cross-platform, opensource table sandbox game

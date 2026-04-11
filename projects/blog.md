@@ -1,12 +1,12 @@
 ---
-name: "Blog"
+name: Blog
 description: "Jackie's Blog 这里是 Jackie 的个人博客，自动构建部署于Vercel"
 repo: "https://github.com/PyXMR2025/blog"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-11T12:13:38Z"
 issues: [5476]
 updated: "2026-04-06T04:50:20Z"
 ---

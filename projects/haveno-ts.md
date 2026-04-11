@@ -1,20 +1,14 @@
 ---
-name: "Haveno Ts"
-description: "TypeScript library for using Haveno"
+name: Haveno Ts
+description: TypeScript library for using Haveno
 repo: "https://github.com/haveno-dex/haveno-ts"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#haveno:monero.social"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#haveno:monero.social"
+last_scanned: "2026-04-11T12:13:38Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#haveno:monero.social]
 issues: [6510]
 updated: "2026-04-03T20:42:30Z"
 ---
