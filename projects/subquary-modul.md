@@ -1,13 +1,14 @@
 ---
-name: "Subquary Modul"
+name: Subquary Modul
 repo: "https://github.com/MupocllaB/SubQuary-Modul"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-11T06:25:51Z"
 issues: [3975]
 updated: "2022-01-21T14:07:00Z"
+matrix_rooms: [https://matrix.to/#/#polkadot-network-status:matrix.org]
 ---
 
 ## Stats

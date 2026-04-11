@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3682]
 updated: "2026-04-04T06:05:33Z"
-matrix_links:
-  - target: "#project-mesa:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-11T06:25:51Z"
 ---
 
 Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.

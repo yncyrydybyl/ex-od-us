@@ -1,20 +1,14 @@
 ---
-name: "Gitpad"
-description: "Self-Hosted alternative to GitHub Gists"
+name: Gitpad
+description: Self-Hosted alternative to GitHub Gists
 repo: "https://github.com/realaravinth/gitpad"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#gitpad:matrix.batsense.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gitpad:matrix.batsense.net"
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gitpad:matrix.batsense.net]
 issues: [6376]
 updated: "2022-06-13T17:04:53Z"
 ---

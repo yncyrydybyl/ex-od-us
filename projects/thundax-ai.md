@@ -1,12 +1,12 @@
 ---
-name: "Thundax Ai"
-description: "💡 A series of A.I. Algorithms coded in Delphi"
+name: Thundax Ai
+description: 💡 A series of A.I. Algorithms coded in Delphi
 repo: "https://github.com/JordiCorbilla/thundax-ai"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-11T06:25:51Z"
 issues: [4649]
 updated: "2015-09-09T22:52:32Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Speasy"
-description: "Space Physics made EASY! A simple Python package to deal with main Space Physics WebServices (CDA,SSC,AMDA,..)"
+name: Speasy
+description: Space Physics made EASY! A simple Python package to deal with main Space Physics WebServices (CDA,SSC,AMDA,..)
 repo: "https://github.com/SciQLop/speasy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#speasy:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#speasy:matrix.org"
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#speasy:matrix.org]
 issues: [4553]
 updated: "2026-04-03T06:03:12Z"
 ---

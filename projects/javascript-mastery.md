@@ -8,13 +8,8 @@ issues: [769]
 updated: "2021-10-11T14:35:33Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T20:35:19Z"
-matrix_links:
-  - target: "#jsdom:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 exodus_score: 2
 ---

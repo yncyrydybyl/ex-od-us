@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ntfy-space:matrix.org, https://matrix.to/#/#ntfy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-10T18:20:15Z"
+last_scanned: "2026-04-11T06:25:51Z"
 ---
 
 Send push notifications to your phone or desktop using PUT/POST

@@ -1,20 +1,14 @@
 ---
-name: "Jingos"
-description: "Awesome - JingOS - The World’s First Linux-based OS design for Tablets"
+name: Jingos
+description: Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 repo: "https://github.com/JingOS-team/JingOS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#jingos:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#jingos:matrix.org"
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#jingos:matrix.org]
 issues: [6739]
 updated: "2022-01-24T08:29:03Z"
 ---

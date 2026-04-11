@@ -1,20 +1,14 @@
 ---
-name: "Bundle Preloading"
-description: "Bundles of multiple resources, to improve loading JS and the Web."
+name: Bundle Preloading
+description: Bundles of multiple resources, to improve loading JS and the Web.
 repo: "https://github.com/WICG/bundle-preloading"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#bundle-preloading:igalia.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#bundle-preloading:igalia.com"
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#bundle-preloading:igalia.com]
 issues: [5544]
 updated: "2023-09-01T20:52:38Z"
 ---

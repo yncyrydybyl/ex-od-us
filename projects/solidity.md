@@ -9,15 +9,10 @@ issues: [816]
 updated: "2026-04-06T11:45:50Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#ethereum_solidity:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
 exodus_score: 4
-last_scanned: "2026-04-06T15:24:08Z"
+last_scanned: "2026-04-11T06:25:51Z"
 ---
 
 Solidity, the Smart Contract Programming Language

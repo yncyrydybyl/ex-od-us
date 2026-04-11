@@ -1,26 +1,14 @@
 ---
-name: "Dawn Ray Tracing"
-description: "Hardware Ray tracing extension for Chromium WebGPU"
+name: Dawn Ray Tracing
+description: Hardware Ray tracing extension for Chromium WebGPU
 repo: "https://github.com/maierfelix/dawn-ray-tracing"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#webgpu-dawn:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#WebGPU:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#WebGPU:matrix.org"
-  - "https://matrix.to/#/#webgpu-dawn:matrix.org"
+last_scanned: "2026-04-11T06:25:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#WebGPU:matrix.org, https://matrix.to/#/#webgpu-dawn:matrix.org]
 issues: [5806]
 updated: "2020-09-15T08:27:22Z"
 ---
