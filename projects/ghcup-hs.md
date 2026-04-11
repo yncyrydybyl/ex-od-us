@@ -9,7 +9,7 @@ updated: "2026-04-06T09:55:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ghcup:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-10T18:20:15Z"
+last_scanned: "2026-04-11T00:30:36Z"
 ---
 
 ## Stats

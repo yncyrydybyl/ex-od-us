@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-10T00:32:33Z"
+last_scanned: "2026-04-11T00:30:36Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lightspark:b0nk.xyz]
 issues: [6925]

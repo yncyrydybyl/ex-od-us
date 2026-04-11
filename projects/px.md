@@ -1,20 +1,14 @@
 ---
-name: "Px"
-description: "An HTTP proxy server to automatically authenticate through an NTLM proxy"
+name: Px
+description: An HTTP proxy server to automatically authenticate through an NTLM proxy
 repo: "https://github.com/genotrance/px"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#genotrance_px:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#genotrance_px:matrix.org"
+last_scanned: "2026-04-11T00:30:36Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#genotrance_px:matrix.org]
 issues: [3874]
 updated: "2026-04-03T23:30:00Z"
 ---

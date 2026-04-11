@@ -6,10 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-11T00:30:36Z"
 issues: [4738]
 updated: "2026-04-03T10:27:12Z"
-last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 Open source monster-fighting RPG.

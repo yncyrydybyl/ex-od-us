@@ -1,20 +1,14 @@
 ---
-name: "Openpawz"
-description: "OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memory, strong security guardrails, and extensibility through built-ins plus n8n community integrations"
+name: Openpawz
+description: OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memory, strong security guardrails, and extensibility through built-ins plus n8n community integrations
 repo: "https://github.com/OpenPawz/openpawz"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#openpawz:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#openpawz:matrix.org"
+last_scanned: "2026-04-11T00:30:36Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#openpawz:matrix.org]
 issues: [7192]
 updated: "2026-04-03T14:56:30Z"
 ---
