@@ -1,20 +1,14 @@
 ---
-name: "Lapce"
-description: "Lightning-fast and Powerful Code Editor written in Rust"
+name: Lapce
+description: Lightning-fast and Powerful Code Editor written in Rust
 repo: "https://github.com/lapce/lapce"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lapce-editor:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lapce-editor:matrix.org"
+last_scanned: "2026-04-12T18:15:23Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lapce-editor:matrix.org]
 issues: [6848]
 updated: "2026-04-06T00:52:46Z"
 ---

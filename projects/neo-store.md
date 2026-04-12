@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-10T06:40:25Z"
+last_scanned: "2026-04-12T18:15:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neo-store:matrix.org]
 issues: [6864]

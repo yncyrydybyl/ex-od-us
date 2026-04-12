@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#huami-token:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-12T00:34:51Z"
+last_scanned: "2026-04-12T18:15:23Z"
 ---
 
 Script to obtain watch or band bluetooth token from Huami servers. Mirrored from https://codeberg.org/argrento/huami-token

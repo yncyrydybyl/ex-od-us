@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-11T12:13:38Z"
+last_scanned: "2026-04-12T18:15:23Z"
 issues: [5883]
 updated: "2026-03-21T19:05:36Z"
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org, https://matrix.to/#/#probe-rs:matrix.org, https://matrix.to/#/#rust-embedded:matrix.org]

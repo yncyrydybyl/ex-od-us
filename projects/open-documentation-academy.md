@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#documentation:ubuntu.com]
 exodus_score: 5
-last_scanned: "2026-04-12T00:34:51Z"
+last_scanned: "2026-04-12T18:15:23Z"
 ---
 
 Learn open-source software documentation skills with Canonical

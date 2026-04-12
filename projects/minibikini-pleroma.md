@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-09T12:25:33Z"
+last_scanned: "2026-04-12T18:15:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pleroma-dev:libera.chat, https://matrix.to/#/#pleroma:libera.chat]
 issues: [6730]
