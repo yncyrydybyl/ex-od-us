@@ -6,17 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-12T00:34:51Z"
 issues: [6126]
 updated: "2025-09-09T20:21:40Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#teal-language_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#teal-language_community:gitter.im]
 ---
 

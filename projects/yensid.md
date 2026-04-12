@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4065]
 updated: "2025-10-28T21:27:38Z"
-matrix_links:
-  - target: "#garnix-main:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#garnix-main:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-12T00:34:51Z"
 ---
 
 A proxy for better Nix remote builds

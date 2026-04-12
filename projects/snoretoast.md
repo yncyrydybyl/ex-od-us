@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3960]
 updated: "2025-12-11T09:30:28Z"
-matrix_links:
-  - target: "#kde-windows:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kde-windows:kde.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-12T00:34:51Z"
 ---
 
 Command-line application capable of creating Windows Toast notifications

@@ -1,20 +1,14 @@
 ---
-name: "Conky"
-description: "Light-weight system monitor for X, Wayland, and other things, too"
+name: Conky
+description: Light-weight system monitor for X, Wayland, and other things, too
 repo: "https://github.com/brndnmtthws/conky"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#conky:frens.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#conky:frens.io"
+last_scanned: "2026-04-12T00:34:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#conky:frens.io]
 issues: [5692]
 updated: "2026-04-06T08:23:11Z"
 ---

@@ -9,15 +9,10 @@ issues: [1975]
 updated: "2025-06-25T11:51:56Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#foss-supremacy:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#foss-supremacy:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-12T00:34:51Z"
 ---
 
 A GTA 3 reimplementation on the Redot Engine

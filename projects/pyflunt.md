@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-12T00:34:51Z"
 issues: [1988]
 updated: "2025-12-06T23:55:00Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:23:25Z"
+matrix_rooms: [https://matrix.to/#/#pyflunt:gitter.im]
 ---
 
 Python implementation of Domain Notification Pattern

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3951]
 updated: "2026-01-08T18:59:37Z"
-matrix_links:
-  - target: "#shortwave:gnome.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shortwave:gnome.org]
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-12T00:34:51Z"
 ---
 
 Find and listen to internet radio stations

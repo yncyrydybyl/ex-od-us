@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-04-11T06:25:51Z"
+last_scanned: "2026-04-12T00:34:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#base16:libera.chat]
 issues: [5423]

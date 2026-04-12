@@ -8,8 +8,8 @@ status: Active
 issues: [7210]
 updated: "2026-04-05T21:05:55Z"
 exodus_score: 1
-last_scanned: "2026-04-11T18:12:32Z"
-matrix_rooms: [https://matrix.to/#/#gotify:matrix.org.svg, https://matrix.to/#/#gotify:matrix.org]
+last_scanned: "2026-04-12T00:34:51Z"
+matrix_rooms: [https://matrix.to/#/#gotify:matrix.org.svg]
 ---
 
 A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
