@@ -1,20 +1,14 @@
 ---
-name: "Aap Configuration Template"
-description: "Ansible Automation Platform Configuration as Code examples template"
+name: Aap Configuration Template
+description: Ansible Automation Platform Configuration as Code examples template
 repo: "https://github.com/redhat-cop/aap_configuration_template"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#aap_config_as_code:ansible.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#aap_config_as_code:ansible.com"
+last_scanned: "2026-04-12T06:36:10Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#aap_config_as_code:ansible.com]
 issues: [5091]
 updated: "2026-04-04T14:55:43Z"
 ---

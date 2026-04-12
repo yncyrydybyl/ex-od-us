@@ -1,20 +1,14 @@
 ---
-name: "Imap Codec"
-description: "Rock-solid and complete codec for IMAP"
+name: Imap Codec
+description: Rock-solid and complete codec for IMAP
 repo: "https://github.com/duesee/imap-codec"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#imap-codec:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#imap-codec:matrix.org"
+last_scanned: "2026-04-12T06:36:10Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#imap-codec:matrix.org]
 issues: [6618]
 updated: "2026-04-06T01:26:07Z"
 ---

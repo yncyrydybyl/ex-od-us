@@ -1,14 +1,15 @@
 ---
-name: "Apecs"
-description: "a fast, extensible, type driven Haskell ECS framework for games"
+name: Apecs
+description: a fast, extensible, type driven Haskell ECS framework for games
 repo: "https://github.com/jonascarpay/apecs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-12T06:36:10Z"
 issues: [5210]
 updated: "2026-04-03T22:49:57Z"
+matrix_rooms: [https://matrix.to/#/#haskell-game:matrix.org]
 ---
 
 a fast, extensible, type driven Haskell ECS framework for games
