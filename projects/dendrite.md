@@ -10,7 +10,7 @@ updated: "2026-04-02T15:00:29Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dendrite:matrix.org.svg, https://matrix.to/#/#dendrite:matrix.org, https://matrix.to/#/#dendrite-dev:matrix.org.svg, https://matrix.to/#/#dendrite-dev:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-12T06:36:10Z"
+last_scanned: "2026-04-12T12:14:49Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

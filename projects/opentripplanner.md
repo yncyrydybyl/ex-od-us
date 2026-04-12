@@ -12,7 +12,7 @@ matrix_rooms:
   - "https://matrix.to/#/#opentripplanner:matrix.org"
   - "https://matrix.to/#/#opentripplanner_OpenTripPlanner:gitter.im"
 exodus_score: 3
-last_scanned: "2026-04-12T06:36:10Z"
+last_scanned: "2026-04-12T12:14:49Z"
 ---
 
 An open source multi-modal trip planner
