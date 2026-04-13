@@ -1,14 +1,15 @@
 ---
-name: "Ansible Junos Stdlib"
-description: "Junos modules for Ansible"
+name: Ansible Junos Stdlib
+description: Junos modules for Ansible
 repo: "https://github.com/Juniper/ansible-junos-stdlib"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-13T06:48:22Z"
 issues: [5188]
 updated: "2026-04-02T06:37:41Z"
+matrix_rooms: [https://matrix.to/#/#network:ansible.com]
 ---
 
 Junos modules for Ansible
