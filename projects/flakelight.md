@@ -1,20 +1,14 @@
 ---
-name: "Flakelight"
+name: Flakelight
 description: "Framework for simplifying flake setup [maintainer=@accelbread]"
 repo: "https://github.com/nix-community/flakelight"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#flakelight:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#flakelight:nixos.org"
+last_scanned: "2026-04-13T18:30:24Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#flakelight:nixos.org]
 issues: [6209]
 updated: "2026-04-06T13:21:41Z"
 ---

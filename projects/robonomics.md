@@ -9,15 +9,10 @@ issues: [811]
 updated: "2026-04-01T10:42:51Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#robonomics:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#robonomics:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:23:45Z"
+last_scanned: "2026-04-13T18:30:24Z"
 ---
 
 Robonomics node implementation for Polkadot ecosystem; Kusama parachain slot #2048 since January 2022
