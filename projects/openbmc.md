@@ -9,7 +9,7 @@ issues: [796]
 updated: "2025-06-30T11:55:56Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-13T06:48:22Z"
+last_scanned: "2026-04-13T12:26:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meta-raspberrypi:cub.icu.svg, https://matrix.to/#/#meta-raspberrypi:cub.icu]
 exodus_score: 5

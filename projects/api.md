@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-13T06:48:22Z"
+last_scanned: "2026-04-13T12:26:49Z"
 issues: [5217]
 updated: "2026-03-24T00:30:12Z"
 matrix_rooms: [https://matrix.to/#/#polkadot-network-status:matrix.org]

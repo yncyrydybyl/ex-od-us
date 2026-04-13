@@ -1,20 +1,14 @@
 ---
-name: "Serverseekerv2"
+name: Serverseekerv2
 description: "[MIRROR] Blazingly fast Minecraft server scanner written in rust, rewrite of the original ServerSeeker with more features and way faster!"
 repo: "https://github.com/Funtimes909/ServerSeekerV2"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#projects:funtimes909.xyz"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#projects:funtimes909.xyz"
+last_scanned: "2026-04-13T12:26:49Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#projects:funtimes909.xyz]
 issues: [4491]
 updated: "2026-04-06T00:29:33Z"
 ---
