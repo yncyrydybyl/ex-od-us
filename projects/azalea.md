@@ -1,20 +1,14 @@
 ---
-name: "Azalea"
-description: "A collection of Rust crates for making Minecraft bots, clients, and tools."
+name: Azalea
+description: A collection of Rust crates for making Minecraft bots, clients, and tools.
 repo: "https://github.com/azalea-rs/azalea"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#azalea:matdoes.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#azalea:matdoes.dev"
+last_scanned: "2026-04-13T00:35:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#azalea:matdoes.dev]
 issues: [5409]
 updated: "2026-04-05T22:13:21Z"
 ---

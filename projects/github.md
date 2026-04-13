@@ -1,12 +1,12 @@
 ---
-name: "Github"
-description: "A GitHub client and webhook receiver for maubot"
+name: Github
+description: A GitHub client and webhook receiver for maubot
 repo: "https://github.com/maubot/github"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-13T00:35:51Z"
 issues: [6374]
 updated: "2026-04-05T18:12:58Z"
 ---

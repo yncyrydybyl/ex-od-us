@@ -1,20 +1,14 @@
 ---
-name: "Waylyrics"
-description: "the furry way to show desktop lyrics"
+name: Waylyrics
+description: the furry way to show desktop lyrics
 repo: "https://github.com/waylyrics/waylyrics"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#waylyrics_x:catgirl.cloud"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#waylyrics_x:catgirl.cloud"
+last_scanned: "2026-04-13T00:35:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#waylyrics_x:catgirl.cloud]
 issues: [4800]
 updated: "2026-04-05T06:20:40Z"
 ---

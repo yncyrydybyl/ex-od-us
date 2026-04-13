@@ -1,20 +1,14 @@
 ---
-name: "Pgf"
-description: "A Portable Graphic Format for TeX"
+name: Pgf
+description: A Portable Graphic Format for TeX
 repo: "https://github.com/pgf-tikz/pgf"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#pgf-tikz:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pgf-tikz:matrix.org"
+last_scanned: "2026-04-13T00:35:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pgf-tikz:matrix.org]
 issues: [4216]
 updated: "2026-04-04T22:22:26Z"
 ---

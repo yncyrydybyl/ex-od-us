@@ -1,20 +1,14 @@
 ---
-name: "Jam"
-description: "Your sats. Your privacy. Your profit."
+name: Jam
+description: Your sats. Your privacy. Your profit.
 repo: "https://github.com/joinmarket-webui/jam"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#jam:bitcoin.kyoto"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#jam:bitcoin.kyoto"
+last_scanned: "2026-04-13T00:35:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#jam:bitcoin.kyoto]
 issues: [6699]
 updated: "2026-04-05T06:03:39Z"
 ---

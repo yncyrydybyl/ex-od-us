@@ -10,7 +10,7 @@ updated: "2023-03-20T04:59:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#luminance:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-12T18:15:23Z"
+last_scanned: "2026-04-13T00:35:51Z"
 ---
 
 Type-safe, type-level and stateless Rust graphics framework
