@@ -10,7 +10,7 @@ updated: "2025-11-30T04:50:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dark-light:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-14T00:37:13Z"
+last_scanned: "2026-04-14T06:40:39Z"
 ---
 
 Rust crate to detect if dark mode or light mode is enabled

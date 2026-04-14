@@ -9,15 +9,10 @@ issues: [5221]
 updated: "2025-11-11T04:28:28Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#apklab:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apklab:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:15:55Z"
+last_scanned: "2026-04-14T06:40:39Z"
 ---
 
 Android Reverse-Engineering Workbench for VS Code

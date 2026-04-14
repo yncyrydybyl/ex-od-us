@@ -1,20 +1,14 @@
 ---
-name: "Nixos Hardware"
-description: "A collection of NixOS modules covering hardware quirks."
+name: Nixos Hardware
+description: A collection of NixOS modules covering hardware quirks.
 repo: "https://github.com/NixOS/nixos-hardware"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nixos-hardware:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nixos-hardware:nixos.org"
+last_scanned: "2026-04-14T06:40:39Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nixos-hardware:nixos.org]
 issues: [6966]
 updated: "2026-04-06T15:56:22Z"
 ---

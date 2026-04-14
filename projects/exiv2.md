@@ -1,20 +1,14 @@
 ---
-name: "Exiv2"
-description: "Image metadata library and tools"
+name: Exiv2
+description: Image metadata library and tools
 repo: "https://github.com/Exiv2/exiv2"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#exiv2-chat:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#exiv2-chat:matrix.org"
+last_scanned: "2026-04-14T06:40:39Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#exiv2-chat:matrix.org]
 issues: [6118]
 updated: "2026-04-01T14:06:52Z"
 ---

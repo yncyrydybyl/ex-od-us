@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6507]
 updated: "2026-03-29T19:51:45Z"
-matrix_links:
-  - target: "#hass-byd-vehicle:kaberg.me"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hass-byd-vehicle:kaberg.me]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-14T06:40:39Z"
 ---
 
 Custom HASS integration for BYD vehicles.

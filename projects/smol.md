@@ -10,7 +10,7 @@ updated: "2026-03-23T14:46:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#smol-rs:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-14T00:37:13Z"
+last_scanned: "2026-04-14T06:40:39Z"
 ---
 
 A small and fast async runtime for Rust

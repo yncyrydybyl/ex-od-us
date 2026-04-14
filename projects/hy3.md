@@ -1,26 +1,14 @@
 ---
-name: "Hy3"
-description: "Hyprland plugin for an i3 / sway like manual tiling layout"
+name: Hy3
+description: Hyprland plugin for an i3 / sway like manual tiling layout
 repo: "https://github.com/outfoxxed/hy3"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#hy3-support:outfoxxed.me"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#hy3:outfoxxed.me"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#hy3-support:outfoxxed.me"
-  - "https://matrix.to/#/#hy3:outfoxxed.me"
+last_scanned: "2026-04-14T06:40:39Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hy3-support:outfoxxed.me, https://matrix.to/#/#hy3:outfoxxed.me]
 issues: [6575]
 updated: "2026-04-06T00:35:03Z"
 ---

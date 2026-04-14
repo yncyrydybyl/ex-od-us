@@ -1,20 +1,14 @@
 ---
-name: "Idsp"
-description: "Rust DSP algorithms. Often integer math. no-std."
+name: Idsp
+description: Rust DSP algorithms. Often integer math. no-std.
 repo: "https://github.com/quartiq/idsp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#quartiq:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#quartiq:matrix.org"
+last_scanned: "2026-04-14T06:40:39Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
 issues: [6603]
 updated: "2026-04-01T11:03:38Z"
 ---

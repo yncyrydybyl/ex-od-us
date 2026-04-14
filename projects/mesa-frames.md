@@ -6,13 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#project-mesa:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-14T06:40:39Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org]
 issues: [3677]
 updated: "2026-03-02T22:04:17Z"
