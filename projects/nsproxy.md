@@ -1,20 +1,14 @@
 ---
-name: "Nsproxy"
-description: "Kernel-namespaces-based alternative to proxychains."
+name: Nsproxy
+description: Kernel-namespaces-based alternative to proxychains.
 repo: "https://github.com/ple1n/nsproxy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#nsproxy:schizo.vip"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nsproxy:schizo.vip"
+last_scanned: "2026-04-14T18:28:27Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nsproxy:schizo.vip]
 issues: [7146]
 updated: "2026-04-03T17:41:07Z"
 ---

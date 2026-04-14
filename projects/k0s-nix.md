@@ -1,20 +1,14 @@
 ---
-name: "K0S Nix"
-description: "Nix Flake to support k0s in NixOS"
+name: K0S Nix
+description: Nix Flake to support k0s in NixOS
 repo: "https://github.com/johbo/k0s-nix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#k0s-nix:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#k0s-nix:matrix.org"
+last_scanned: "2026-04-14T18:28:27Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#k0s-nix:matrix.org]
 issues: [6778]
 updated: "2026-04-01T13:07:34Z"
 ---

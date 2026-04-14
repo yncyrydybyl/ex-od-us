@@ -1,14 +1,15 @@
 ---
-name: "Opencatesp32 Quadruped Robot"
-description: "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development."
+name: Opencatesp32 Quadruped Robot
+description: An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 repo: "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T18:28:27Z"
 issues: [7181]
 updated: "2026-02-07T06:42:27Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.

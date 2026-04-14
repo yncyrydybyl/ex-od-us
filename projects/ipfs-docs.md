@@ -1,14 +1,15 @@
 ---
-name: "Ipfs Docs"
-description: "📚IPFS documentation website"
+name: Ipfs Docs
+description: 📚IPFS documentation website
 repo: "https://github.com/ipfs/ipfs-docs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-14T18:28:27Z"
 issues: [6664]
 updated: "2026-04-03T00:27:45Z"
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 ---
 
 📚IPFS documentation website

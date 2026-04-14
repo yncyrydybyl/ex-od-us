@@ -9,7 +9,7 @@ matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mjolnir:matrix.org]
 issues: [4]
 updated: "2026-04-06T08:17:36Z"
-last_scanned: "2026-04-14T06:40:39Z"
+last_scanned: "2026-04-14T18:28:27Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
