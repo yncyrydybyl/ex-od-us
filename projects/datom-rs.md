@@ -1,20 +1,14 @@
 ---
-name: "Datom Rs"
-description: "An open-source database inspired by Datomic"
+name: Datom Rs
+description: An open-source database inspired by Datomic
 repo: "https://github.com/LutrisEng/datom-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#datom-rs:lutris.engineering"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#datom-rs:lutris.engineering"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#datom-rs:lutris.engineering]
 issues: [5804]
 updated: "2023-12-16T00:20:27Z"
 ---

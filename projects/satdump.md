@@ -1,20 +1,14 @@
 ---
-name: "Satdump"
-description: "A generic satellite data processing software."
+name: Satdump
+description: A generic satellite data processing software.
 repo: "https://github.com/SatDump/SatDump"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#satdump:altillimity.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#satdump:altillimity.com"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#satdump:altillimity.com]
 issues: [4448]
 updated: "2026-04-06T15:17:08Z"
 ---

@@ -1,14 +1,15 @@
 ---
-name: "Icefiredb"
+name: Icefiredb
 description: "@IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability. "
 repo: "https://github.com/IceFireDB/IceFireDB"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [6597]
 updated: "2026-04-06T11:43:26Z"
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 ---
 
 @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability. 

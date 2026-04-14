@@ -1,12 +1,12 @@
 ---
-name: "Matrix Nio"
+name: Matrix Nio
 description: "A Python Matrix client library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles"
 repo: "https://github.com/matrix-nio/matrix-nio"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [3627]
 updated: "2026-02-16T11:33:25Z"
 ---

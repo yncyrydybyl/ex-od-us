@@ -1,20 +1,14 @@
 ---
-name: "Sveltekit Image Plugin"
-description: "SvelteKit demo code for using vite-imagetools to add cached, responsive, Next-Gen images to a SvelteKit site with no cumulative layout shift."
+name: Sveltekit Image Plugin
+description: SvelteKit demo code for using vite-imagetools to add cached, responsive, Next-Gen images to a SvelteKit site with no cumulative layout shift.
 repo: "https://github.com/rodneylab/sveltekit-image-plugin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#rodney:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rodney:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rodney:matrix.org]
 issues: [4596]
 updated: "2023-08-14T09:20:03Z"
 ---

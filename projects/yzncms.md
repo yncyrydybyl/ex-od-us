@@ -1,14 +1,15 @@
 ---
-name: "Yzncms"
-description: "🔥🔥🔥YznCMS(又名御宅男CMS)是基于最新thinkphp8.1框架和layui2.11.x的后台管理系统。创立于2017年初，是一款永久免费可商用的开源项目，他将是您轻松建站的首选利器。框架易于功能扩展，代码维护，方便二次开发，帮助开发者简单高效降低二次开发成本，满足专注业务深度开发的需求。"
+name: Yzncms
+description: 🔥🔥🔥YznCMS(又名御宅男CMS)是基于最新thinkphp8.1框架和layui2.11.x的后台管理系统。创立于2017年初，是一款永久免费可商用的开源项目，他将是您轻松建站的首选利器。框架易于功能扩展，代码维护，方便二次开发，帮助开发者简单高效降低二次开发成本，满足专注业务深度开发的需求。
 repo: "https://github.com/ken678/yzncms"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [4066]
 updated: "2025-11-24T05:10:02Z"
+matrix_rooms: [https://matrix.to/#/#jquery_meeting:gitter.im]
 ---
 
 🔥🔥🔥YznCMS(又名御宅男CMS)是基于最新thinkphp8.1框架和layui2.11.x的后台管理系统。创立于2017年初，是一款永久免费可商用的开源项目，他将是您轻松建站的首选利器。框架易于功能扩展，代码维护，方便二次开发，帮助开发者简单高效降低二次开发成本，满足专注业务深度开发的需求。

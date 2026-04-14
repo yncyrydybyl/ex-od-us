@@ -1,20 +1,14 @@
 ---
-name: "Fteqw"
-description: "This is the official GitHub mirror for the FTEQW project."
+name: Fteqw
+description: This is the official GitHub mirror for the FTEQW project.
 repo: "https://github.com/fte-team/fteqw"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#fte:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fte:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fte:matrix.org]
 issues: [6302]
 updated: "2026-01-27T13:32:36Z"
 ---

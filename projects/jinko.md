@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-10T18:20:15Z"
+last_scanned: "2026-04-14T12:25:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jinko-lang:matrix.org]
 issues: [6744]

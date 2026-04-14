@@ -1,20 +1,14 @@
 ---
-name: "Lindo"
-description: "Lindo No-Emu allows you to play DOFUS touch on your computer (Windows/Mac/Linux). Fork of the original DTNE by Daniel & Thomas."
+name: Lindo
+description: Lindo No-Emu allows you to play DOFUS touch on your computer (Windows/Mac/Linux). Fork of the original DTNE by Daniel & Thomas.
 repo: "https://github.com/prixe/lindo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#lindo-official:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lindo-official:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lindo-official:matrix.org]
 issues: [6933]
 updated: "2024-07-11T15:12:50Z"
 ---

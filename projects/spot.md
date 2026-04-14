@@ -1,14 +1,15 @@
 ---
-name: "Spot"
-description: "UNMAINTAINED! Please check out active forks"
+name: Spot
+description: UNMAINTAINED! Please check out active forks
 repo: "https://github.com/xou816/spot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [4557]
 updated: "2025-10-13T12:38:46Z"
+matrix_rooms: [https://matrix.to/#/#spot-devel:matrix.org]
 ---
 
 UNMAINTAINED! Please check out active forks

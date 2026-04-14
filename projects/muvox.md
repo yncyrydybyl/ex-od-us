@@ -1,20 +1,14 @@
 ---
-name: "Muvox"
-description: "Open Source Hardware Audio Amplifier"
+name: Muvox
+description: Open Source Hardware Audio Amplifier
 repo: "https://github.com/muvox-io/muVox"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#esp32_audio:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#esp32_audio:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#esp32_audio:matrix.org]
 issues: [6826]
 updated: "2023-03-02T23:25:13Z"
 ---

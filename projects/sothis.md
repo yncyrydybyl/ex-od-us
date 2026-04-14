@@ -1,20 +1,14 @@
 ---
-name: "Sothis"
-description: "Replay and track historical state"
+name: Sothis
+description: Replay and track historical state
 repo: "https://github.com/rainshowerLabs/sothis"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#rainshower:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rainshower:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rainshower:matrix.org]
 issues: [4543]
 updated: "2025-01-31T12:03:32Z"
 ---

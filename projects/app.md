@@ -1,20 +1,14 @@
 ---
-name: "App"
-description: "Cross-Platform app for Vikunja"
+name: App
+description: Cross-Platform app for Vikunja
 repo: "https://github.com/go-vikunja/app"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#vikunja:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#vikunja:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#vikunja:matrix.org]
 issues: [5222]
 updated: "2026-04-03T17:19:47Z"
 ---

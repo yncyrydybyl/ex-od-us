@@ -1,20 +1,14 @@
 ---
-name: "Ada Howto"
-description: "Collection of How-to documents for Ada"
+name: Ada Howto
+description: Collection of How-to documents for Ada
 repo: "https://github.com/reznikmm/ada-howto"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ada-lang:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ada-lang:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ada-lang:matrix.org]
 issues: [5110]
 updated: "2021-06-01T07:15:56Z"
 ---

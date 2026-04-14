@@ -9,15 +9,10 @@ issues: [5684]
 updated: "2026-03-17T15:23:34Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#composefs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#composefs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:18:13Z"
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 The reliability of disk images, the flexibility of files

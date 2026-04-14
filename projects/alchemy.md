@@ -9,15 +9,10 @@ issues: [5135]
 updated: "2022-09-03T10:57:47Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#alchemy:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alchemy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:15:23Z"
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 Archived - High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API

@@ -1,20 +1,14 @@
 ---
-name: "Ankipandas"
-description: "Analyze and manipulate your Anki flashcards using pandas dataframes!"
+name: Ankipandas
+description: Analyze and manipulate your Anki flashcards using pandas dataframes!
 repo: "https://github.com/klieret/AnkiPandas"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#AnkiPandas_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#AnkiPandas_community:gitter.im"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#AnkiPandas_community:gitter.im]
 issues: [5175]
 updated: "2026-03-02T22:58:09Z"
 ---

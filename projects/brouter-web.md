@@ -1,12 +1,12 @@
 ---
-name: "Brouter Web"
-description: "Web client for BRouter, a routing engine based on OpenStreetMap"
+name: Brouter Web
+description: Web client for BRouter, a routing engine based on OpenStreetMap
 repo: "https://github.com/nrenner/brouter-web"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [5097]
 updated: "2026-04-01T20:05:47Z"
 ---

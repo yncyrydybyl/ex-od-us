@@ -1,20 +1,14 @@
 ---
-name: "Nixos Anywhere"
+name: Nixos Anywhere
 description: "Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]"
 repo: "https://github.com/nix-community/nixos-anywhere"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nixos-anywhere:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nixos-anywhere:nixos.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nixos-anywhere:nixos.org]
 issues: [6948]
 updated: "2026-04-05T03:50:57Z"
 ---

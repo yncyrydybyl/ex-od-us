@@ -1,20 +1,14 @@
 ---
-name: "Ceph Balancer"
-description: "Efficient Ceph placement optimization, aiming for maximum storage capacity through equal OSD utilization."
+name: Ceph Balancer
+description: Efficient Ceph placement optimization, aiming for maximum storage capacity through equal OSD utilization.
 repo: "https://github.com/TheJJ/ceph-balancer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#sfttech:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#sfttech:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#sfttech:matrix.org]
 issues: [5573]
 updated: "2026-02-13T15:34:08Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Coding With Eyes Closed"
-description: "Book for rehabilitative coders 📚"
+name: Coding With Eyes Closed
+description: Book for rehabilitative coders 📚
 repo: "https://github.com/sempruijs/coding-with-eyes-closed"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#coding-with-eyes-closed:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#coding-with-eyes-closed:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#coding-with-eyes-closed:matrix.org]
 issues: [5642]
 updated: "2025-02-09T13:31:46Z"
 ---

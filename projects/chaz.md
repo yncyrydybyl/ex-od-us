@@ -9,15 +9,10 @@ issues: [5584]
 updated: "2025-08-06T20:28:01Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#chaz:jackson.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chaz:jackson.dev]
 exodus_score: 6
-last_scanned: "2026-04-06T15:17:45Z"
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 Chaz is an AI bot for Matrix

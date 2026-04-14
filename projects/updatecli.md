@@ -1,12 +1,15 @@
 ---
-name: "Updatecli"
-description: "A Declarative Update Policy Engine"
+name: Updatecli
+description: A Declarative Update Policy Engine
 repo: "https://github.com/updatecli/updatecli"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [4755]
 updated: "2026-04-05T11:52:34Z"
+matrix_rooms: [https://matrix.to/#/#Updatecli_community:gitter.im, https://matrix.to/#/#updatecli:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 A Declarative Update Policy Engine

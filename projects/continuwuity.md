@@ -7,20 +7,10 @@ categories: [Messaging, Infrastructure, Matrix, Development]
 status: Active
 issues: [36]
 updated: "2026-04-06T02:09:35Z"
-matrix_links:
-  - target: "#continuwuity:continuwuity.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#space:continuwuity.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#space:continuwuity.org, https://matrix.to/#/#continuwuity:continuwuity.org]
 exodus_score: 8
-last_scanned: "2026-04-06T15:18:17Z"
+last_scanned: "2026-04-14T12:25:26Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

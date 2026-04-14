@@ -1,12 +1,12 @@
 ---
-name: "Testnets"
-description: "Config files for connecting to testnets"
+name: Testnets
+description: Config files for connecting to testnets
 repo: "https://github.com/irisnet/testnets"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [3992]
 updated: "2026-02-09T03:24:57Z"
 ---

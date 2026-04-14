@@ -1,12 +1,15 @@
 ---
-name: "Deskflow"
-description: "Share a single keyboard and mouse between multiple computers."
+name: Deskflow
+description: Share a single keyboard and mouse between multiple computers.
 repo: "https://github.com/deskflow/deskflow"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [5859]
 updated: "2026-04-06T11:30:37Z"
+matrix_rooms: [https://matrix.to/#/#deskflow:matrix.org]
+exodus_score: 2
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 Share a single keyboard and mouse between multiple computers.

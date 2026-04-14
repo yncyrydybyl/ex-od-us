@@ -9,15 +9,10 @@ issues: [1999]
 updated: "2021-08-20T01:26:59Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#rumatui:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rumatui:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:23:50Z"
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 WIP Command line Matrix client using matrix-rust-sdk

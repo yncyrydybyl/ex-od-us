@@ -1,20 +1,14 @@
 ---
-name: "Cookbook"
-description: "🍲 A library for all your recipes"
+name: Cookbook
+description: 🍲 A library for all your recipes
 repo: "https://github.com/nextcloud/cookbook"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#nextcloud-cookbook:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nextcloud-cookbook:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nextcloud-cookbook:matrix.org]
 issues: [5706]
 updated: "2026-04-06T01:08:48Z"
 ---

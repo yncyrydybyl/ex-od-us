@@ -1,20 +1,14 @@
 ---
-name: "Vimr"
-description: "VimR — Neovim GUI for macOS in Swift"
+name: Vimr
+description: VimR — Neovim GUI for macOS in Swift
 repo: "https://github.com/qvacua/vimr"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#vimr:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#vimr:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#vimr:matrix.org]
 issues: [4771]
 updated: "2026-04-06T16:15:33Z"
 ---

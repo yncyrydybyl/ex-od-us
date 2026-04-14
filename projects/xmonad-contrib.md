@@ -1,20 +1,14 @@
 ---
-name: "Xmonad Contrib"
-description: "Contributed modules for xmonad"
+name: Xmonad Contrib
+description: Contributed modules for xmonad
 repo: "https://github.com/xmonad/xmonad-contrib"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#xmonad:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#xmonad:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#xmonad:matrix.org]
 issues: [4847]
 updated: "2026-04-05T06:50:37Z"
 ---

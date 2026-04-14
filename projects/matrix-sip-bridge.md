@@ -9,15 +9,10 @@ issues: [1597]
 updated: "2023-02-12T13:18:37Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#matrix-sip-bridge:indeednotjames.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-sip-bridge:indeednotjames.com]
 exodus_score: 7
-last_scanned: "2026-04-06T15:22:10Z"
+last_scanned: "2026-04-14T12:25:26Z"
 ---
 
 A bridge between Matrix and VoIP via SIP

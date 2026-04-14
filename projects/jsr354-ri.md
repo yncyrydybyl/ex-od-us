@@ -1,20 +1,14 @@
 ---
-name: "Jsr354 Ri"
+name: Jsr354 Ri
 description: "JSR 354 - Moneta: Reference Implementation"
 repo: "https://github.com/JavaMoney/jsr354-ri"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#JavaMoney_jsr354-ri:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#JavaMoney_jsr354-ri:gitter.im"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#JavaMoney_jsr354-ri:gitter.im]
 issues: [6765]
 updated: "2026-04-01T01:32:46Z"
 ---

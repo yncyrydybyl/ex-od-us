@@ -1,20 +1,14 @@
 ---
-name: "Archinstall"
-description: "Arch Linux installer - guided, templates etc."
+name: Archinstall
+description: Arch Linux installer - guided, templates etc.
 repo: "https://github.com/archlinux/archinstall"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#archinstall:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#archinstall:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#archinstall:matrix.org]
 issues: [5245]
 updated: "2026-04-06T12:43:06Z"
 ---

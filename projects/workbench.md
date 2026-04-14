@@ -1,12 +1,12 @@
 ---
-name: "Workbench"
-description: "Code playground for GNOME 🛠️"
+name: Workbench
+description: Code playground for GNOME 🛠️
 repo: "https://github.com/workbenchdev/Workbench"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [4832]
 updated: "2026-02-23T07:51:01Z"
 ---

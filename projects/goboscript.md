@@ -10,7 +10,8 @@ updated: "2026-04-05T18:44:39Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:21:07Z"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_rooms: [https://matrix.to/#/#goboscript:matrix.org]
 ---
 
 goboscript is the Scratch compiler

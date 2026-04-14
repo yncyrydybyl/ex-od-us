@@ -1,14 +1,15 @@
 ---
-name: "Sunpy"
-description: "SunPy - Python for Solar Physics"
+name: Sunpy
+description: SunPy - Python for Solar Physics
 repo: "https://github.com/sunpy/sunpy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-14T12:25:26Z"
 issues: [4592]
 updated: "2026-04-02T14:54:17Z"
+matrix_rooms: [https://matrix.to/#/#sunpy:openastronomy.org.svg]
 ---
 
 SunPy - Python for Solar Physics

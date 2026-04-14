@@ -1,20 +1,14 @@
 ---
-name: "Niri"
-description: "A scrollable-tiling Wayland compositor."
+name: Niri
+description: A scrollable-tiling Wayland compositor.
 repo: "https://github.com/niri-wm/niri"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#niri:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#niri:matrix.org"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#niri:matrix.org]
 issues: [6917]
 updated: "2026-04-05T18:14:45Z"
 ---

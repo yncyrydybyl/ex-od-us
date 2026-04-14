@@ -8,7 +8,8 @@ status: Active
 issues: [6357]
 updated: "2026-04-02T03:54:39Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-14T12:25:26Z"
+matrix_rooms: [https://matrix.to/#/#42wim:feneas.org]
 ---
 
 Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
