@@ -1,20 +1,14 @@
 ---
-name: "Rainbow"
-description: "A specialized IPFS HTTP gateway"
+name: Rainbow
+description: A specialized IPFS HTTP gateway
 repo: "https://github.com/ipfs/rainbow"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#ipfs-space:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ipfs-space:ipfs.io"
+last_scanned: "2026-04-14T00:37:13Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 issues: [3900]
 updated: "2026-04-06T14:43:57Z"
 ---

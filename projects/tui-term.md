@@ -1,20 +1,14 @@
 ---
-name: "Tui Term"
-description: "A pseudoterminal widget library for ratatui"
+name: Tui Term
+description: A pseudoterminal widget library for ratatui
 repo: "https://github.com/a-kenji/tui-term"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#tui-term-main:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tui-term-main:matrix.org"
+last_scanned: "2026-04-14T00:37:13Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tui-term-main:matrix.org]
 issues: [4732]
 updated: "2026-04-06T14:08:04Z"
 ---

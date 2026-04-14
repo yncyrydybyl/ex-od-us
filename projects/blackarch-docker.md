@@ -9,7 +9,7 @@ issues: [5461]
 updated: "2026-04-04T21:42:57Z"
 matrix_rooms: [https://matrix.to/#/#BlackArch:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-13T18:30:24Z"
+last_scanned: "2026-04-14T00:37:13Z"
 ---
 
 Official BlackArch Linux docker images.
