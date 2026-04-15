@@ -8,9 +8,9 @@ status: Active
 issues: [39]
 updated: "2026-04-02T15:00:29Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#dendrite-dev:matrix.org.svg, https://matrix.to/#/#dendrite:matrix.org.svg, https://matrix.to/#/#dendrite-dev:matrix.org, https://matrix.to/#/#dendrite:matrix.org, https://matrix.to/#/#dendrite-alerts:matrix.org]
+matrix_rooms: [https://matrix.to/#/#dendrite-dev:matrix.org.svg, https://matrix.to/#/#dendrite:matrix.org, https://matrix.to/#/#dendrite-dev:matrix.org, https://matrix.to/#/#dendrite:matrix.org.svg]
 exodus_score: 5
-last_scanned: "2026-04-15T06:40:48Z"
+last_scanned: "2026-04-15T12:25:20Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

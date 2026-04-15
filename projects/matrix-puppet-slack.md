@@ -10,7 +10,7 @@ updated: "2022-06-11T19:19:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-04-15T06:40:48Z"
+last_scanned: "2026-04-15T12:25:20Z"
 ---
 
 puppet style slack bridge for matrix

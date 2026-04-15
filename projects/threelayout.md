@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3999]
 updated: "2026-02-11T23:31:04Z"
-matrix_links:
-  - target: "#threelayout:ohea.xyz"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#threelayout:ohea.xyz]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-15T12:25:20Z"
 ---
 
 A better modifier based keyboard layout
