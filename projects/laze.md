@@ -1,20 +1,14 @@
 ---
-name: "Laze"
-description: "A fast, declarative meta build system for C/C++/Rust projects, based on Ninja, designed to handle large build matrices of highly modular projects."
+name: Laze
+description: A fast, declarative meta build system for C/C++/Rust projects, based on Ninja, designed to handle large build matrices of highly modular projects.
 repo: "https://github.com/kaspar030/laze"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#laze:schleiser.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#laze:schleiser.de"
+last_scanned: "2026-04-15T00:37:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#laze:schleiser.de]
 issues: [6856]
 updated: "2026-04-06T14:56:56Z"
 ---

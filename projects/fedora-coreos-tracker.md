@@ -1,20 +1,14 @@
 ---
-name: "Fedora Coreos Tracker"
-description: "Issue tracker for Fedora CoreOS"
+name: Fedora Coreos Tracker
+description: Issue tracker for Fedora CoreOS
 repo: "https://github.com/coreos/fedora-coreos-tracker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#meeting-1:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#meeting-1:fedoraproject.org"
+last_scanned: "2026-04-15T00:37:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#meeting-1:fedoraproject.org]
 issues: [6155]
 updated: "2026-03-10T17:57:40Z"
 ---

@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [5941]
 updated: "2026-04-04T08:01:38Z"
-matrix_links:
-  - target: "#linux-debuggers:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#linux-debuggers:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-15T00:37:57Z"
 ---
 
 Programmable debugger

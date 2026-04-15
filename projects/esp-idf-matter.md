@@ -1,20 +1,14 @@
 ---
-name: "Esp Idf Matter"
-description: "Run rs-matter on Espressif chips with ESP IDF"
+name: Esp Idf Matter
+description: Run rs-matter on Espressif chips with ESP IDF
 repo: "https://github.com/sysgrok/esp-idf-matter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#matter-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#matter-rs:matrix.org"
+last_scanned: "2026-04-15T00:37:57Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#matter-rs:matrix.org]
 issues: [6080]
 updated: "2026-04-06T13:56:59Z"
 ---

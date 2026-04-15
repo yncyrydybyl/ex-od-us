@@ -1,12 +1,12 @@
 ---
-name: "Clixon"
-description: "YANG-based toolchain including NETCONF and RESTCONF interfaces and an interactive CLI"
+name: Clixon
+description: YANG-based toolchain including NETCONF and RESTCONF interfaces and an interactive CLI
 repo: "https://github.com/clicon/clixon"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-15T00:37:57Z"
 issues: [5618]
 updated: "2026-03-30T14:33:55Z"
 ---
