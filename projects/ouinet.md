@@ -1,20 +1,14 @@
 ---
-name: "Ouinet"
+name: Ouinet
 description: "This is a read-only mirror of: https://gitlab.com/equalitie/ouinet/"
 repo: "https://github.com/equalitie/ouinet"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#ouinet:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ouinet:matrix.org"
+last_scanned: "2026-04-15T18:28:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ouinet:matrix.org]
 issues: [4173]
 updated: "2026-04-04T05:33:03Z"
 ---

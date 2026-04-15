@@ -1,20 +1,14 @@
 ---
-name: "Purl Spec"
+name: Purl Spec
 description: "A minimal specification for purl aka. a package \"mostly universal\" URL, join the discussion at https://gitter.im/package-url/Lobby  "
 repo: "https://github.com/package-url/purl-spec"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#package-url_Lobby:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#package-url_Lobby:gitter.im"
+last_scanned: "2026-04-15T18:28:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#package-url_Lobby:gitter.im]
 issues: [4303]
 updated: "2026-04-03T23:29:05Z"
 ---

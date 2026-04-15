@@ -1,20 +1,14 @@
 ---
-name: "Classquiz"
-description: "ClassQuiz is a quiz-application like Kahoot!, but open-source."
+name: Classquiz
+description: ClassQuiz is a quiz-application like Kahoot!, but open-source.
 repo: "https://github.com/mawoka-myblock/ClassQuiz"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#classquiz:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#classquiz:matrix.org"
+last_scanned: "2026-04-15T18:28:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#classquiz:matrix.org]
 issues: [5609]
 updated: "2026-04-01T21:41:06Z"
 ---

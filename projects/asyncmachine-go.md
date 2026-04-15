@@ -1,12 +1,12 @@
 ---
-name: "Asyncmachine Go"
-description: "state machine which runs code"
+name: Asyncmachine Go
+description: state machine which runs code
 repo: "https://github.com/pancsta/asyncmachine-go"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-15T18:28:08Z"
 issues: [5289]
 updated: "2026-04-02T10:06:32Z"
 ---
