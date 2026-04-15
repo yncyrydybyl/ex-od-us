@@ -10,7 +10,7 @@ updated: "2025-10-28T21:27:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#garnix-main:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-12T00:34:51Z"
+last_scanned: "2026-04-15T06:40:48Z"
 ---
 
 A proxy for better Nix remote builds

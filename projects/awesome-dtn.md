@@ -9,15 +9,10 @@ issues: [5318]
 updated: "2025-10-20T06:02:56Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#dtn7:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dtn7:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:16:31Z"
+last_scanned: "2026-04-15T06:40:48Z"
 ---
 
 A curated list of awesome delay- and disruption-tolerant networking

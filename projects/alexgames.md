@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alexgames:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-12T18:15:23Z"
+last_scanned: "2026-04-15T06:40:48Z"
 ---
 
 Simple Lua/Rust games available on web and more

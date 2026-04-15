@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4324]
 updated: "2025-09-25T21:29:27Z"
-matrix_links:
-  - target: "#pyyaml:yaml.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pyyaml:yaml.io]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-15T06:40:48Z"
 ---
 
 Canonical source repository for PyYAML

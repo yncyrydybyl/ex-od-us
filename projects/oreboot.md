@@ -1,20 +1,14 @@
 ---
-name: "Oreboot"
-description: "oreboot is a fork of coreboot, with C removed, written in Rust."
+name: Oreboot
+description: oreboot is a fork of coreboot, with C removed, written in Rust.
 repo: "https://github.com/oreboot/oreboot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#oreboot-dev:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#oreboot-dev:matrix.org"
+last_scanned: "2026-04-15T06:40:48Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#oreboot-dev:matrix.org]
 issues: [7203]
 updated: "2025-11-21T11:02:14Z"
 ---

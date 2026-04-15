@@ -1,20 +1,14 @@
 ---
-name: "Dream2Nix"
+name: Dream2Nix
 description: "Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]"
 repo: "https://github.com/nix-community/dream2nix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#dream2nix:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#dream2nix:nixos.org"
+last_scanned: "2026-04-15T06:40:48Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#dream2nix:nixos.org]
 issues: [5938]
 updated: "2025-12-17T06:30:15Z"
 ---
