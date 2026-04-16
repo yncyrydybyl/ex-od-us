@@ -1,20 +1,14 @@
 ---
-name: "Passwordsafe"
-description: "A password manager for GNOME"
+name: Passwordsafe
+description: A password manager for GNOME
 repo: "https://github.com/FalkAlexander/PasswordSafe"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#secrets:gnome.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#secrets:gnome.org"
+last_scanned: "2026-04-16T12:27:12Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#secrets:gnome.org]
 issues: [4201]
 updated: "2026-04-05T17:39:35Z"
 ---

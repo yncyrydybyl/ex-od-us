@@ -1,20 +1,14 @@
 ---
-name: "Gigapipe"
+name: Gigapipe
 description: "⭐️ The Open-Source Polyglot Observability Warehouse: Light, Fast, Cloud Native, Drop-in Grafana LGTMP alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, Pyroscope On-Prem Alternative :star: "
 repo: "https://github.com/metrico/gigapipe"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#qryn:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#qryn:matrix.org"
+last_scanned: "2026-04-16T12:27:12Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#qryn:matrix.org]
 issues: [6361]
 updated: "2026-04-03T04:25:48Z"
 ---

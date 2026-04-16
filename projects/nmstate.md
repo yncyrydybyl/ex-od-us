@@ -1,20 +1,14 @@
 ---
-name: "Nmstate"
-description: "Nmstate is a library with an accompanying command line tool that manages host networking settings in a declarative manner."
+name: Nmstate
+description: Nmstate is a library with an accompanying command line tool that manages host networking settings in a declarative manner.
 repo: "https://github.com/nmstate/nmstate"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nmstate:fedora.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nmstate:fedora.im"
+last_scanned: "2026-04-16T12:27:12Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nmstate:fedora.im]
 issues: [6986]
 updated: "2026-04-04T02:17:28Z"
 ---

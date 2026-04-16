@@ -1,20 +1,14 @@
 ---
-name: "Nexum"
-description: "Terminal-first Ethereum wallet for people who read the docs. No hand-holding, just raw transaction power."
+name: Nexum
+description: Terminal-first Ethereum wallet for people who read the docs. No hand-holding, just raw transaction power.
 repo: "https://github.com/nxm-rs/nexum"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nexum:nxm.rs"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nexum:nxm.rs"
+last_scanned: "2026-04-16T12:27:12Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nexum:nxm.rs]
 issues: [6899]
 updated: "2026-02-01T14:05:59Z"
 ---

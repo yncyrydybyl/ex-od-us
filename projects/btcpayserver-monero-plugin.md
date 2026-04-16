@@ -1,20 +1,14 @@
 ---
-name: "Btcpayserver Monero Plugin"
-description: "This plugin extends BTCPay Server to enable users to receive payments via Monero."
+name: Btcpayserver Monero Plugin
+description: This plugin extends BTCPay Server to enable users to receive payments via Monero.
 repo: "https://github.com/btcpay-monero/btcpayserver-monero-plugin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#btcpay-monero:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#btcpay-monero:matrix.org"
+last_scanned: "2026-04-16T12:27:12Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#btcpay-monero:matrix.org]
 issues: [5530]
 updated: "2026-04-06T16:43:27Z"
 ---
