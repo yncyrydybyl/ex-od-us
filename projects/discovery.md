@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-16T00:38:00Z"
+last_scanned: "2026-04-16T06:41:28Z"
 issues: [5883]
 updated: "2026-03-21T19:05:36Z"
-matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org, https://matrix.to/#/#probe-rs:matrix.org, https://matrix.to/#/#rust-embedded:matrix.org]
+matrix_rooms: [https://matrix.to/#/#rust-embedded:matrix.org, https://matrix.to/#/#esp-rs:matrix.org]
 ---
 
 Discover the world of microcontrollers through Rust!

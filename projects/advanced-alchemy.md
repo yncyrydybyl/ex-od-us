@@ -1,20 +1,14 @@
 ---
-name: "Advanced Alchemy"
-description: "A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy"
+name: Advanced Alchemy
+description: A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 repo: "https://github.com/litestar-org/advanced-alchemy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#litestar:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#litestar:matrix.org"
+last_scanned: "2026-04-16T06:41:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 issues: [5114]
 updated: "2026-04-03T20:38:16Z"
 ---

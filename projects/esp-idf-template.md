@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-15T12:25:20Z"
+last_scanned: "2026-04-16T06:41:28Z"
 ---
 
 A \"Hello, world!\" template of a Rust binary crate for the ESP-IDF framework.

@@ -1,20 +1,14 @@
 ---
-name: "Atelier"
-description: "Desktop interface to control 3D printers powered by AtCore"
+name: Atelier
+description: Desktop interface to control 3D printers powered by AtCore
 repo: "https://github.com/KDE/atelier"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#kde-atelier:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#kde-atelier:kde.org"
+last_scanned: "2026-04-16T06:41:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#kde-atelier:kde.org]
 issues: [5297]
 updated: "2026-04-06T01:48:49Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Dune3D"
-description: "3D CAD application"
+name: Dune3D
+description: 3D CAD application
 repo: "https://github.com/dune3d/dune3d"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#dune3d:selfnet.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#dune3d:selfnet.de"
+last_scanned: "2026-04-16T06:41:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#dune3d:selfnet.de]
 issues: [5962]
 updated: "2026-04-04T11:43:07Z"
 ---
