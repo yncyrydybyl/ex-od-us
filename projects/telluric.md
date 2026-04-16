@@ -8,7 +8,7 @@ status: Active
 issues: [4625]
 updated: "2025-02-12T01:40:37Z"
 exodus_score: 1
-last_scanned: "2026-04-15T18:28:08Z"
+last_scanned: "2026-04-16T00:38:00Z"
 matrix_rooms: [https://matrix.to/#/#telluric-dev:matrix.org.svg, https://matrix.to/#/#telluric-dev:matrix.org]
 ---
 

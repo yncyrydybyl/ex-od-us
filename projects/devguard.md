@@ -1,20 +1,14 @@
 ---
-name: "Devguard"
-description: "DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project"
+name: Devguard
+description: DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project
 repo: "https://github.com/l3montree-dev/devguard"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#devguard:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#devguard:matrix.org"
+last_scanned: "2026-04-16T00:38:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#devguard:matrix.org]
 issues: [5864]
 updated: "2026-04-03T20:25:54Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Tastytrade"
-description: "An unofficial, typed, asynchronous Python SDK for Tastytrade!"
+name: Tastytrade
+description: An unofficial, typed, asynchronous Python SDK for Tastytrade!
 repo: "https://github.com/tastyware/tastytrade"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#tastyware:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tastyware:gitter.im"
+last_scanned: "2026-04-16T00:38:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tastyware:gitter.im]
 issues: [4616]
 updated: "2026-03-31T15:52:54Z"
 ---

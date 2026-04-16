@@ -1,20 +1,14 @@
 ---
-name: "8B8Tcore"
-description: "Folia Core Plugin for 8b8t and Anarchy Servers"
+name: 8B8Tcore
+description: Folia Core Plugin for 8b8t and Anarchy Servers
 repo: "https://github.com/XeraPlugins/8b8tCore"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#xera-general:matrix.xera.ca"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#xera-general:matrix.xera.ca"
+last_scanned: "2026-04-16T00:38:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#xera-general:matrix.xera.ca]
 issues: [5087]
 updated: "2026-03-24T20:20:53Z"
 ---

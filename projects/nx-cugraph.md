@@ -1,12 +1,12 @@
 ---
-name: "Nx Cugraph"
-description: "GPU Accelerated Backend for NetworkX"
+name: Nx Cugraph
+description: GPU Accelerated Backend for NetworkX
 repo: "https://github.com/rapidsai/nx-cugraph"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-16T00:38:00Z"
 issues: [7155]
 updated: "2026-04-03T13:59:21Z"
 ---

@@ -1,14 +1,15 @@
 ---
-name: "Gbe Fork"
+name: Gbe Fork
 description: "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator"
 repo: "https://github.com/Detanup01/gbe_fork"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-16T00:38:00Z"
 issues: [6331]
 updated: "2026-04-03T15:50:32Z"
+matrix_rooms: [https://matrix.to/#/#goldberg:matrix.org]
 ---
 
 Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
