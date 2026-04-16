@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-04-16T18:28:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 issues: [6540]

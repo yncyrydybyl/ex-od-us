@@ -9,15 +9,10 @@ issues: [1635]
 updated: "2026-02-12T06:39:53Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#general:nixbitcoin.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#general:nixbitcoin.org]
 exodus_score: 6
-last_scanned: "2026-04-06T15:22:34Z"
+last_scanned: "2026-04-16T18:28:34Z"
 ---
 
 A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.

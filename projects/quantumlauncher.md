@@ -1,20 +1,14 @@
 ---
-name: "Quantumlauncher"
-description: "A simple, powerful Minecraft launcher"
+name: Quantumlauncher
+description: A simple, powerful Minecraft launcher
 repo: "https://github.com/Mrmayman/quantumlauncher"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#quantumgroup:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#quantumgroup:matrix.org"
+last_scanned: "2026-04-16T18:28:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#quantumgroup:matrix.org]
 issues: [3892]
 updated: "2026-04-04T15:17:44Z"
 ---
