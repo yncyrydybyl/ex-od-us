@@ -1,20 +1,14 @@
 ---
-name: "Ipld"
+name: Ipld
 description: "This repo holds Website and Specs at https://ipld.io"
 repo: "https://github.com/ipld/ipld"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ipld:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ipld:ipfs.io"
+last_scanned: "2026-04-17T00:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ipld:ipfs.io]
 issues: [6676]
 updated: "2026-04-02T07:51:37Z"
 ---

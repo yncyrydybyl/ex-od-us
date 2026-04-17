@@ -1,26 +1,14 @@
 ---
-name: "Scribe Ios"
-description: "iOS app with keyboards for language learners"
+name: Scribe Ios
+description: iOS app with keyboards for language learners
 repo: "https://github.com/scribe-org/Scribe-iOS"
 platform: github
 categories: [Messaging]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#scribe_community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#ScribeiOS:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ScribeiOS:matrix.org"
-  - "https://matrix.to/#/#scribe_community:matrix.org"
+last_scanned: "2026-04-17T00:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ScribeiOS:matrix.org, https://matrix.to/#/#scribe_community:matrix.org]
 issues: [4467]
 updated: "2026-03-31T11:16:48Z"
 ---

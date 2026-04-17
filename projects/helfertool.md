@@ -1,20 +1,14 @@
 ---
-name: "Helfertool"
-description: "Volunteer and staff management"
+name: Helfertool
+description: Volunteer and staff management
 repo: "https://github.com/helfertool/helfertool"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#helfertool:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#helfertool:matrix.org"
+last_scanned: "2026-04-17T00:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#helfertool:matrix.org]
 issues: [6521]
 updated: "2026-02-03T21:01:34Z"
 ---

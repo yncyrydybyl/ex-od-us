@@ -9,15 +9,10 @@ issues: [6858]
 updated: "2026-03-06T20:43:07Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#lazy-beancount:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lazy-beancount:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-17T00:36:20Z"
 ---
 
 Beancount accounting system packaged in a Docker image together with Fava, few other libraries and some additional UIs. Privacy-focused and comprehensive approach to personal finances.

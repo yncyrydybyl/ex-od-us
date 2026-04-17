@@ -1,20 +1,14 @@
 ---
-name: "Kairos"
-description: "The immutable Linux meta-distribution for edge Kubernetes."
+name: Kairos
+description: The immutable Linux meta-distribution for edge Kubernetes.
 repo: "https://github.com/kairos-io/kairos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#kairos-io:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#kairos-io:matrix.org"
+last_scanned: "2026-04-17T00:36:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#kairos-io:matrix.org]
 issues: [6782]
 updated: "2026-04-06T09:40:12Z"
 ---
