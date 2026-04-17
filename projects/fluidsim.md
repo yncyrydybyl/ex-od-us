@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fluiddyn-users:matrix.org.svg, https://matrix.to/#/#fluiddyn-users:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-17T00:36:20Z"
+last_scanned: "2026-04-17T06:41:40Z"
 ---
 
 :ocean: Framework for studying fluid dynamics with numerical simulations using Python (publish-only mirror). The main repo is hosted on https://foss.heptapod.net (Gitlab fork supporting Mercurial).

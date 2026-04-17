@@ -1,12 +1,12 @@
 ---
-name: "Drasl"
-description: "Yggdrasil-compatible API server for Minecraft"
+name: Drasl
+description: Yggdrasil-compatible API server for Minecraft
 repo: "https://github.com/unmojang/drasl"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-17T06:41:40Z"
 issues: [5934]
 updated: "2026-04-03T21:55:41Z"
 ---
