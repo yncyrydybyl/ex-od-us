@@ -1,20 +1,14 @@
 ---
-name: "Neoment"
-description: "A Neovim Matrix Client written in lua"
+name: Neoment
+description: A Neovim Matrix Client written in lua
 repo: "https://github.com/Massolari/neoment"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#neoment-nvim:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#neoment-nvim:matrix.org"
+last_scanned: "2026-04-17T18:20:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#neoment-nvim:matrix.org]
 issues: [6868]
 updated: "2026-04-03T15:25:11Z"
 ---

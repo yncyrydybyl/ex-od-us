@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#excision-mail:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-17T12:23:46Z"
+last_scanned: "2026-04-17T18:20:47Z"
 ---
 
 Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD

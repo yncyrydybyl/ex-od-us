@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-17T06:41:40Z"
+last_scanned: "2026-04-17T18:20:47Z"
 ---
 
 ## Stats

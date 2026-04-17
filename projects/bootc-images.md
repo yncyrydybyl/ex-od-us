@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-17T12:23:46Z"
+last_scanned: "2026-04-17T18:20:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sig-cloud:almalinux.im, https://matrix.to/#/#sig-atomic:almalinux.im]
 issues: [5496]
