@@ -6,14 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#hookshot:half-shot.uk"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms: [https://matrix.to/#/#hookshot:half-shot.uk]
+last_scanned: "2026-04-17T12:23:46Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hookshot:half-shot.uk, https://matrix.to/#/#hookshot:half-shot.uk.svg]
 issues: [3622]
 updated: "2026-04-01T18:06:08Z"
 ---

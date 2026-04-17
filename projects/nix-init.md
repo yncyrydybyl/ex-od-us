@@ -1,20 +1,14 @@
 ---
-name: "Nix Init"
+name: Nix Init
 description: "Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]"
 repo: "https://github.com/nix-community/nix-init"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#nix-init:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nix-init:nixos.org"
+last_scanned: "2026-04-17T12:23:46Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nix-init:nixos.org]
 issues: [6934]
 updated: "2026-04-06T08:55:01Z"
 ---

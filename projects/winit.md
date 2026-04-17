@@ -10,7 +10,7 @@ updated: "2026-04-04T14:59:36Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-windowing:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-17T06:41:40Z"
+last_scanned: "2026-04-17T12:23:46Z"
 ---
 
 Window handling library in pure Rust

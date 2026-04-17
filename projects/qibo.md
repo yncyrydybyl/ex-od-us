@@ -1,20 +1,14 @@
 ---
-name: "Qibo"
-description: "A full-stack framework for quantum computing."
+name: Qibo
+description: A full-stack framework for quantum computing.
 repo: "https://github.com/qiboteam/qibo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#qibo:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#qibo:matrix.org"
+last_scanned: "2026-04-17T12:23:46Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#qibo:matrix.org]
 issues: [4329]
 updated: "2026-04-06T12:06:02Z"
 ---
