@@ -1,20 +1,14 @@
 ---
-name: "Specification"
-description: "Solid Technical Reports"
+name: Specification
+description: Solid Technical Reports
 repo: "https://github.com/solid/specification"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#solid_specification:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#solid_specification:gitter.im"
+last_scanned: "2026-04-18T18:15:37Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#solid_specification:gitter.im]
 issues: [4554]
 updated: "2026-04-06T13:26:08Z"
 ---
