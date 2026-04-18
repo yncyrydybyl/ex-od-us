@@ -6,10 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-18T00:32:47Z"
 issues: [4020]
 updated: "2023-11-09T15:37:59Z"
-last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)

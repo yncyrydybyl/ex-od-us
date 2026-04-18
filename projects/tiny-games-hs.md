@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4002]
 updated: "2023-08-31T19:38:00Z"
-matrix_links:
-  - target: "#haskell-game:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haskell-game:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 Haskell Tiny Game Jam

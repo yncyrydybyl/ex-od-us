@@ -6,15 +6,10 @@ categories: [Development]
 status: Active
 issues: [5219]
 updated: "2026-03-23T21:03:05Z"
-matrix_links:
-  - target: "#pytest:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pytest:libera.chat]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 ## Stats

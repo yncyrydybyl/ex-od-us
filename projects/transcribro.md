@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4680]
 updated: "2025-08-29T11:14:59Z"
-matrix_links:
-  - target: "#transcribro:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#transcribro:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 Private and on-device speech recognition keyboard and service for Android.

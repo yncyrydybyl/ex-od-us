@@ -9,15 +9,10 @@ issues: [6550]
 updated: "2024-12-11T00:14:23Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#trieve-general:trieve.ai"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trieve-general:trieve.ai]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 Hacker News Search and RAG built using Rust actix-web, minijinja, SolidJS, Vite, and Redis queue's

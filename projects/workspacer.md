@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4836]
 updated: "2025-06-15T10:56:32Z"
-matrix_links:
-  - target: "#workspacer-community:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#workspacer-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 a tiling window manager for Windows

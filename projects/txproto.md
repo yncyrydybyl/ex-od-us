@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4028]
 updated: "2025-03-10T03:20:06Z"
-matrix_links:
-  - target: "#txproto:pars.ee"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#txproto:pars.ee]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.

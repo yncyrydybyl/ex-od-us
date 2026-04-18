@@ -1,20 +1,14 @@
 ---
-name: "Heisenbridge"
-description: "a bouncer-style Matrix IRC bridge"
+name: Heisenbridge
+description: a bouncer-style Matrix IRC bridge
 repo: "https://github.com/hifi/heisenbridge"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#heisenbridge:vi.fi"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#heisenbridge:vi.fi"
+last_scanned: "2026-04-18T00:32:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#heisenbridge:vi.fi]
 issues: [6519]
 updated: "2025-10-04T11:13:47Z"
 ---

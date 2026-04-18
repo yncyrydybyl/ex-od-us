@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3700]
 updated: "2023-01-29T20:24:39Z"
-matrix_links:
-  - target: "#forgehax:nerdsin.space"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 A collection of Minecraft Hack Clients.

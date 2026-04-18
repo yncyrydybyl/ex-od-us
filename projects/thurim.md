@@ -1,20 +1,14 @@
 ---
-name: "Thurim"
-description: "A Matrix homeserver implementation written in Elixir that has just begun"
+name: Thurim
+description: A Matrix homeserver implementation written in Elixir that has just begun
 repo: "https://github.com/serra-allgood/thurim"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#thurim:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#thurim:mozilla.org"
+last_scanned: "2026-04-18T00:32:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#thurim:mozilla.org]
 issues: [4655]
 updated: "2025-04-19T18:41:28Z"
 ---

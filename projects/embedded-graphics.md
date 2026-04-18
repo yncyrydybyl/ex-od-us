@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-embedded-graphics:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-17T18:20:47Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 A no_std graphics library for embedded applications

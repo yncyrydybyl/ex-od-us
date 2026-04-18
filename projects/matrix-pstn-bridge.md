@@ -7,15 +7,10 @@ categories: [Bridging, Matrix]
 status: Active
 issues: [3632]
 updated: "2021-07-02T16:33:35Z"
-matrix_links:
-  - target: "#matrix-pstn-bridge:kb1rd.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-pstn-bridge:kb1rd.net]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 ☎️ A Matrix Puppet bridge for the public telephone network that supports a number of VoIP providers (Twillo, Vonage, etc.). Sends and receives voice and SMS.

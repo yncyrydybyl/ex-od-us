@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4013]
 updated: "2026-04-04T14:56:28Z"
-matrix_links:
-  - target: "#tricorder:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tricorder:gitter.im]
 exodus_score: 2
-last_scanned: "2026-04-07T06:34:49Z"
+last_scanned: "2026-04-18T00:32:47Z"
 ---
 
 Automation the KISS way

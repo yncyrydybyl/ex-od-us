@@ -1,20 +1,14 @@
 ---
-name: "Bionix"
-description: "Functional highly reproducible bioinformatics pipelines"
+name: Bionix
+description: Functional highly reproducible bioinformatics pipelines
 repo: "https://github.com/PapenfussLab/bionix"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#bionix:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#bionix:nixos.org"
+last_scanned: "2026-04-18T00:32:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#bionix:nixos.org]
 issues: [5445]
 updated: "2025-03-13T23:27:54Z"
 ---

@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-18T00:32:47Z"
 issues: [5763]
 updated: "2024-02-08T06:30:24Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:18:27Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 WhatsApp Bot Testing Programme

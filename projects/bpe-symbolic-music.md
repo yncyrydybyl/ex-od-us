@@ -1,12 +1,12 @@
 ---
-name: "Bpe Symbolic Music"
+name: Bpe Symbolic Music
 description: "Code of the paper \"Byte Pair Encoding for Symbolic Music\" (EMNLP 2023). Better and faster music generation"
 repo: "https://github.com/Natooz/BPE-Symbolic-Music"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-18T00:32:47Z"
 issues: [5502]
 updated: "2024-03-06T15:45:50Z"
 ---

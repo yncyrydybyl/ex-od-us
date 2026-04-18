@@ -1,12 +1,12 @@
 ---
-name: "Rss Bot"
-description: "A lemmy/sublinks bot that watches rss feeds and posts new posts from them in communities"
+name: Rss Bot
+description: A lemmy/sublinks bot that watches rss feeds and posts new posts from them in communities
 repo: "https://github.com/programming-dot-dev/rss-bot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-18T00:32:47Z"
 issues: [4420]
 updated: "2024-02-21T14:54:29Z"
 ---
