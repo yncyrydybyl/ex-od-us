@@ -1,20 +1,14 @@
 ---
-name: "Hebbot"
+name: Hebbot
 description: "A Matrix bot which can generate \"This Week in X\" like blog posts"
 repo: "https://github.com/haecker-felix/hebbot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#hebbot:haecker.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#hebbot:haecker.io"
+last_scanned: "2026-04-18T06:29:16Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hebbot:haecker.io]
 issues: [6515]
 updated: "2025-12-14T10:17:13Z"
 ---

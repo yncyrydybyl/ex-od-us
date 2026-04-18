@@ -10,7 +10,7 @@ updated: "2020-08-03T16:24:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#miitrix:sorunome.de, https://matrix.to/#/#miitrix:sorunome.de.svg]
 exodus_score: 5
-last_scanned: "2026-04-18T00:32:47Z"
+last_scanned: "2026-04-18T06:29:16Z"
 ---
 
 A Nintendo 3DS matrix client

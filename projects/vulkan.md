@@ -1,20 +1,14 @@
 ---
-name: "Vulkan"
-description: "Haskell bindings for Vulkan"
+name: Vulkan
+description: Haskell bindings for Vulkan
 repo: "https://github.com/expipiplus1/vulkan"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#haskell-vulkan:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#haskell-vulkan:matrix.org"
+last_scanned: "2026-04-18T06:29:16Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#haskell-vulkan:matrix.org]
 issues: [4785]
 updated: "2026-04-03T09:41:25Z"
 ---
