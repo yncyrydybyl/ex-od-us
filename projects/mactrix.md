@@ -1,20 +1,14 @@
 ---
-name: "Mactrix"
+name: Mactrix
 description: "Native Matrix client for macOS "
 repo: "https://github.com/viktorstrate/mactrix"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#mactrix:qpqp.dk"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#mactrix:qpqp.dk"
+last_scanned: "2026-04-18T12:14:41Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#mactrix:qpqp.dk]
 issues: [6989]
 updated: "2026-04-06T08:03:34Z"
 ---
