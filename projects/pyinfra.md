@@ -1,20 +1,14 @@
 ---
-name: "Pyinfra"
-description: "🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands."
+name: Pyinfra
+description: 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 repo: "https://github.com/pyinfra-dev/pyinfra"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#pyinfra:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#pyinfra:matrix.org"
+last_scanned: "2026-04-19T06:37:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#pyinfra:matrix.org]
 issues: [4312]
 updated: "2026-04-04T10:24:00Z"
 ---
