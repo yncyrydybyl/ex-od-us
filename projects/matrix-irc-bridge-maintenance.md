@@ -9,7 +9,7 @@ matrix_links: []
 matrix_rooms: [https://matrix.to/#/#irc:matrix.org, https://matrix.to/#/#irc:matrix.org.svg]
 issues: [9]
 updated: "2026-04-06T08:17:33Z"
-last_scanned: "2026-04-20T06:49:23Z"
+last_scanned: "2026-04-20T12:28:57Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 6
