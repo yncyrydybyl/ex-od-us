@@ -8,7 +8,7 @@ status: Active
 issues: [3916]
 updated: "2025-11-03T19:42:58Z"
 exodus_score: 1
-last_scanned: "2026-04-20T00:36:19Z"
+last_scanned: "2026-04-20T06:49:23Z"
 matrix_rooms: [https://matrix.to/#/#rffmpeg:matrix.org.svg]
 ---
 

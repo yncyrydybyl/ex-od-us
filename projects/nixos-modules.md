@@ -1,20 +1,14 @@
 ---
-name: "Nixos Modules"
-description: "Opinionated, integrated and shared NixOS modules"
+name: Nixos Modules
+description: Opinionated, integrated and shared NixOS modules
 repo: "https://github.com/NuschtOS/nixos-modules"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#nuschtos:c3d2.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#nuschtos:c3d2.de"
+last_scanned: "2026-04-20T06:49:23Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#nuschtos:c3d2.de]
 issues: [6970]
 updated: "2026-04-04T19:40:29Z"
 ---

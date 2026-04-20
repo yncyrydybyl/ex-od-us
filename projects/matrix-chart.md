@@ -1,12 +1,12 @@
 ---
-name: "Matrix Chart"
-description: "Helm chart for deploying a Matrix stack, including Synapse, Postgresql, MAS, Element, coturn, and bridges."
+name: Matrix Chart
+description: Helm chart for deploying a Matrix stack, including Synapse, Postgresql, MAS, Element, coturn, and bridges.
 repo: "https://github.com/small-hack/matrix-chart"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-20T06:49:23Z"
 issues: [6568]
 updated: "2026-03-23T21:24:50Z"
 ---
