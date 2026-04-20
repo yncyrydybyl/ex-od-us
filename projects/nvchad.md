@@ -10,7 +10,7 @@ updated: "2026-02-07T12:48:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nvchad:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-20T12:28:57Z"
+last_scanned: "2026-04-20T18:23:30Z"
 ---
 
 Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.

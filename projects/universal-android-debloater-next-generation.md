@@ -1,20 +1,14 @@
 ---
-name: "Universal Android Debloater Next Generation"
-description: "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+name: Universal Android Debloater Next Generation
+description: Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 repo: "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#uad-ng:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#uad-ng:matrix.org"
+last_scanned: "2026-04-20T18:23:30Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#uad-ng:matrix.org]
 issues: [4752]
 updated: "2026-04-06T10:38:21Z"
 ---

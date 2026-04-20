@@ -10,7 +10,7 @@ updated: "2022-08-31T07:20:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lambdahack:mozilla.org.svg, https://matrix.to/#/#ema:matrix.org.svg, https://matrix.to/#/#ema:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-20T12:28:57Z"
+last_scanned: "2026-04-20T18:23:30Z"
 ---
 
 An amazing list of Haskell developers who would like to mentor beginner-contributors in open source projects.

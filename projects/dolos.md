@@ -10,9 +10,9 @@ updated: "2026-04-03T06:31:30Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#dolos:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#dolos:matrix.org, https://matrix.to/#/#dolos:matrix.org.svg]
 exodus_score: 4
-last_scanned: "2026-04-18T12:14:41Z"
+last_scanned: "2026-04-20T18:23:30Z"
 ---
 
 :detective: Source code plagiarism detection
