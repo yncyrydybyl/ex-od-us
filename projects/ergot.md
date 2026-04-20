@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-19T18:15:42Z"
+last_scanned: "2026-04-20T00:36:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mnemos-dev:beeper.com]
 issues: [6064]
