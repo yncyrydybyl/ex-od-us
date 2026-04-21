@@ -9,7 +9,7 @@ issues: [4854]
 updated: "2026-03-24T02:11:08Z"
 matrix_rooms: [https://matrix.to/#/#yams-space:rogs.me]
 exodus_score: 4
-last_scanned: "2026-04-21T00:36:48Z"
+last_scanned: "2026-04-21T06:42:08Z"
 ---
 
 yams: Yet Another Media Server. My personal media server, easy to install in a bash script. This repository is a mirror, original one in https://git.rogs.me/rogs/yams

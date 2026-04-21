@@ -8,9 +8,10 @@ status: Active
 issues: [50]
 updated: "2026-04-02T21:46:08Z"
 exodus_score: 3
-last_scanned: "2026-04-06T15:23:23Z"
+last_scanned: "2026-04-21T06:42:08Z"
 verified: true
 verified_note: repo alive, room not checked
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
 ---
 
 Fast property caching

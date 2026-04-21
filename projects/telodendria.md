@@ -6,7 +6,7 @@ platform: github
 categories: [Infrastructure, Matrix]
 status: Active
 exodus_score: 1
-last_scanned: "2026-04-15T06:40:48Z"
+last_scanned: "2026-04-21T06:42:08Z"
 issues: [4626]
 updated: "2025-09-05T16:32:57Z"
 matrix_rooms: [https://matrix.to/#/#general:synapse.telodendria.io, https://matrix.to/#/#general:synapse.telodendria]

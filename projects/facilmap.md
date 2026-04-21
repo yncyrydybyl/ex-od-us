@@ -1,20 +1,14 @@
 ---
-name: "Facilmap"
-description: "FacilMap is a privacy-friendly, open-source versatile online map that combines different services based on OpenStreetMap and makes it easy to find places, plan trips and add markers, lines and routes to custom maps with live collaboration."
+name: Facilmap
+description: FacilMap is a privacy-friendly, open-source versatile online map that combines different services based on OpenStreetMap and makes it easy to find places, plan trips and add markers, lines and routes to custom maps with live collaboration.
 repo: "https://github.com/FacilMap/facilmap"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#facilmap:rankenste.in"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#facilmap:rankenste.in"
+last_scanned: "2026-04-21T06:42:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#facilmap:rankenste.in]
 issues: [6133]
 updated: "2026-04-03T11:12:17Z"
 ---
