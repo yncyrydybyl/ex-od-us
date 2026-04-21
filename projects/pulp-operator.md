@@ -10,7 +10,7 @@ updated: "2026-03-20T07:13:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pulp:matrix.org, https://matrix.to/#/#pulp-dev:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-20T12:28:57Z"
+last_scanned: "2026-04-21T00:36:48Z"
 ---
 
 Kubernetes Operator for Pulp 3. Under active development.

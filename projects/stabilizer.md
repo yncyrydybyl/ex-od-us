@@ -10,7 +10,7 @@ updated: "2026-03-26T15:36:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-20T18:23:30Z"
+last_scanned: "2026-04-21T00:36:48Z"
 ---
 
 Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between
