@@ -1,20 +1,14 @@
 ---
-name: "Grizzly"
-description: "A cross-platform browser fuzzing framework"
+name: Grizzly
+description: A cross-platform browser fuzzing framework
 repo: "https://github.com/MozillaSecurity/grizzly"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#fuzzing:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fuzzing:mozilla.org"
+last_scanned: "2026-04-21T12:26:22Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fuzzing:mozilla.org]
 issues: [6476]
 updated: "2026-04-06T16:06:46Z"
 ---
