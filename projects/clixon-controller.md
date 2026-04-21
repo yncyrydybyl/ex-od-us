@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-21T12:26:22Z"
+last_scanned: "2026-04-21T18:25:58Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#clixonforum:matrix.org]
 issues: [5616]

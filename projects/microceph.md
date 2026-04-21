@@ -9,15 +9,10 @@ issues: [782]
 updated: "2026-04-03T17:23:31Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#ubuntu-ceph:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ubuntu-ceph:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-21T18:25:58Z"
 ---
 
 MicroCeph is snap-deployed Ceph with built-in clustering

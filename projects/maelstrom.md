@@ -1,20 +1,14 @@
 ---
-name: "Maelstrom"
-description: "High performance Matrix Home Server in rust."
+name: Maelstrom
+description: High performance Matrix Home Server in rust.
 repo: "https://github.com/maelstrom-rs/maelstrom"
 platform: github
 categories: [Messaging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#maelstrom-server:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#maelstrom-server:matrix.org"
+last_scanned: "2026-04-21T18:25:58Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#maelstrom-server:matrix.org]
 issues: [6991]
 updated: "2020-08-13T21:36:15Z"
 ---

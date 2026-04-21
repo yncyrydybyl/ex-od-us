@@ -1,14 +1,15 @@
 ---
-name: "Mini Sxp"
-description: "Mini Spin-X Library"
+name: Mini Sxp
+description: Mini Spin-X Library
 repo: "https://github.com/JarkkoPFC/mini_sxp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-21T18:25:58Z"
 issues: [6728]
 updated: "2026-04-01T22:08:54Z"
+matrix_rooms: [https://matrix.to/#/#webgpu-dawn:matrix.org, https://matrix.to/#/#WebGPU:matrix.org]
 ---
 
 Mini Spin-X Library

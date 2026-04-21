@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#awx:ansible.com, https://matrix.to/#/#docs:ansible.im]
 exodus_score: 5
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-04-21T18:25:58Z"
 ---
 
 An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
