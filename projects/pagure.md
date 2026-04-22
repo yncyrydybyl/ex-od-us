@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4185]
 updated: "2026-03-13T11:57:51Z"
-matrix_links:
-  - target: "#pagure:fedora.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pagure:fedora.im]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-22T06:41:29Z"
 ---
 
 pagure is a light-weight git-centered forge based on pygit2. (MIRROR)
