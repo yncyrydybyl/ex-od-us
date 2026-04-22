@@ -10,7 +10,7 @@ updated: "2026-04-06T08:43:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nim-lang:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-21T18:25:58Z"
+last_scanned: "2026-04-22T00:34:03Z"
 ---
 
 Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).

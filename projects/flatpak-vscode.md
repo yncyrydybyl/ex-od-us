@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flatpak-vscode:gnome.org]
 exodus_score: 6
-last_scanned: "2026-04-11T12:13:38Z"
+last_scanned: "2026-04-22T00:34:03Z"
 ---
 
 Integrate Flatpak with VSCode 
