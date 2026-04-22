@@ -9,13 +9,8 @@ issues: [6232]
 updated: "2025-03-04T08:13:53Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T20:35:19Z"
-matrix_links:
-  - target: "#osgxr:hoganfam.uk"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-22T18:26:05Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#osgxr:hoganfam.uk]
 exodus_score: 4
 ---

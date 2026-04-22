@@ -10,7 +10,7 @@ updated: "2024-11-05T22:08:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#godot-space:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-18T00:32:47Z"
+last_scanned: "2026-04-22T18:26:05Z"
 ---
 
 A curated list of awesome tutorials, resources, and help.

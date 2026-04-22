@@ -1,20 +1,14 @@
 ---
-name: "Cnretroshare"
-description: "RetroShare中文介绍、FAQ、教程"
+name: Cnretroshare
+description: RetroShare中文介绍、FAQ、教程
 repo: "https://github.com/gongzisun/cnretroshare"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#RetroShareCN:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#RetroShareCN:matrix.org"
+last_scanned: "2026-04-22T18:26:05Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#RetroShareCN:matrix.org]
 issues: [5623]
 updated: "2021-10-10T06:43:47Z"
 ---

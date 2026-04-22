@@ -1,20 +1,14 @@
 ---
-name: "Matrix Register Bot"
-description: "Bot that offers two step registrations to a matrix-synapse server"
+name: Matrix Register Bot
+description: Bot that offers two step registrations to a matrix-synapse server
 repo: "https://github.com/krombel/matrix-register-bot"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#matrix-register-bot:msg-net.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-register-bot:msg-net.de"
+last_scanned: "2026-04-22T18:26:05Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#matrix-register-bot:msg-net.de]
 issues: [3646]
 updated: "2021-06-22T15:28:28Z"
 ---

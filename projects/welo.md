@@ -1,20 +1,14 @@
 ---
-name: "Welo"
-description: "peer-to-peer, collaborative states using Merkle-CRDTs"
+name: Welo
+description: peer-to-peer, collaborative states using Merkle-CRDTs
 repo: "https://github.com/hldb/welo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#hldb:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#hldb:matrix.org"
+last_scanned: "2026-04-22T18:26:05Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hldb:matrix.org]
 issues: [4058]
 updated: "2024-05-07T18:58:19Z"
 ---

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#de4py_commiunty:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-04-22T18:26:05Z"
 ---
 
 The ultimate AI-powered toolkit for python reverse engineering

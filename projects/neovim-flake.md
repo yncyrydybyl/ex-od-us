@@ -1,20 +1,14 @@
 ---
-name: "Neovim Flake"
-description: "Nix flake for neovim with configuration"
+name: Neovim Flake
+description: Nix flake for neovim with configuration
 repo: "https://github.com/jordanisaacs/neovim-flake"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#neovim-flake:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#neovim-flake:matrix.org"
+last_scanned: "2026-04-22T18:26:05Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#neovim-flake:matrix.org]
 issues: [3757]
 updated: "2024-08-01T02:00:03Z"
 ---

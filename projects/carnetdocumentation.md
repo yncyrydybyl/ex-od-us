@@ -6,15 +6,10 @@ categories: [Development]
 status: Active
 issues: [34]
 updated: "2023-08-21T09:35:00Z"
-matrix_links:
-  - target: "#carnet:gauchiste.club"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#carnet:gauchiste.club]
 exodus_score: 6
-last_scanned: "2026-04-06T15:17:33Z"
+last_scanned: "2026-04-22T18:26:05Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
