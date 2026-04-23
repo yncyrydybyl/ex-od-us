@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [7184]
 updated: "2026-04-03T19:52:04Z"
-matrix_links:
-  - target: "#opendeck:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#opendeck:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-04-23T00:39:00Z"
 ---
 
 Linux software for the Stream Deck with support for original Elgato Stream Deck plugins

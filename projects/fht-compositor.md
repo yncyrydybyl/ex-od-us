@@ -1,12 +1,15 @@
 ---
-name: "Fht Compositor"
-description: "A dynamic tiling Wayland compositor."
+name: Fht Compositor
+description: A dynamic tiling Wayland compositor.
 repo: "https://github.com/nferhat/fht-compositor"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [6174]
 updated: "2026-03-29T18:34:21Z"
+matrix_rooms: [https://matrix.to/#/#fht-compositor:matrix.org]
+exodus_score: 3
+last_scanned: "2026-04-23T00:39:00Z"
 ---
 
 A dynamic tiling Wayland compositor.

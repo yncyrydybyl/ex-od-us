@@ -1,20 +1,14 @@
 ---
-name: "Vesti"
-description: "Web feed reader for Android"
+name: Vesti
+description: Web feed reader for Android
 repo: "https://github.com/bubelov/vesti"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#vesti:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#vesti:matrix.org"
+last_scanned: "2026-04-23T00:39:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#vesti:matrix.org]
 issues: [4768]
 updated: "2026-04-06T06:27:49Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Plasma Panel Colorizer"
-description: "Latte-Dock and WM status bar customization for the KDE Plasma panels"
+name: Plasma Panel Colorizer
+description: Latte-Dock and WM status bar customization for the KDE Plasma panels
 repo: "https://github.com/luisbocanegra/plasma-panel-colorizer"
 platform: github
 categories: [Integrations]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#kde-plasma-panel-colorizer:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#kde-plasma-panel-colorizer:matrix.org"
+last_scanned: "2026-04-23T00:39:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#kde-plasma-panel-colorizer:matrix.org]
 issues: [4246]
 updated: "2026-04-03T04:24:24Z"
 ---
