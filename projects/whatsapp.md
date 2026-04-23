@@ -1,20 +1,14 @@
 ---
-name: "Whatsapp"
-description: "A Matrix-WhatsApp puppeting bridge"
+name: Whatsapp
+description: A Matrix-WhatsApp puppeting bridge
 repo: "https://github.com/mautrix/whatsapp"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#whatsapp:maunium.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#whatsapp:maunium.net"
+last_scanned: "2026-04-23T18:27:44Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#whatsapp:maunium.net]
 issues: [4822]
 updated: "2026-03-31T16:57:20Z"
 ---

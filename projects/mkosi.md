@@ -1,20 +1,14 @@
 ---
-name: "Mkosi"
-description: "💽 Build Bespoke OS Images"
+name: Mkosi
+description: 💽 Build Bespoke OS Images
 repo: "https://github.com/systemd/mkosi"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#mkosi:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#mkosi:matrix.org"
+last_scanned: "2026-04-23T18:27:44Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#mkosi:matrix.org]
 issues: [6756]
 updated: "2026-04-03T12:50:09Z"
 ---

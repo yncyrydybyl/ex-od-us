@@ -9,7 +9,7 @@ issues: [4439]
 updated: "2026-04-05T19:33:24Z"
 matrix_rooms: [https://matrix.to/#/#rustc_codegen_gcc:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-23T06:42:14Z"
+last_scanned: "2026-04-23T18:27:44Z"
 ---
 
 libgccjit AOT codegen for rustc
