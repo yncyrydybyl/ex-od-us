@@ -1,14 +1,15 @@
 ---
-name: "Dotfiles"
-description: "Hyprland Arch config based on pywal"
+name: Dotfiles
+description: Hyprland Arch config based on pywal
 repo: "https://github.com/LierB/dotfiles"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-23T12:25:34Z"
 issues: [6918]
 updated: "2025-01-26T19:40:42Z"
+matrix_rooms: [https://matrix.to/#/#neocat-channels:matrix.org]
 ---
 
 Hyprland Arch config based on pywal

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 8
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-04-23T12:25:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#awesome-github:lunai.re, https://matrix.to/#/#awesome-matrix:lunai.re]
 issues: [2913]

@@ -9,15 +9,10 @@ issues: [5917]
 updated: "2026-03-02T00:19:55Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#DominoKit_domino:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#DominoKit_domino:gitter.im]
 exodus_score: 3
-last_scanned: "2026-04-06T15:18:53Z"
+last_scanned: "2026-04-23T12:25:34Z"
 ---
 
 domino-rest

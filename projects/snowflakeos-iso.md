@@ -1,19 +1,13 @@
 ---
-name: "Snowflakeos Iso"
+name: Snowflakeos Iso
 repo: "https://github.com/snowfallorg/snowflakeos-iso"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#snowflakeos:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#snowflakeos:matrix.org"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#snowflakeos:matrix.org]
 issues: [4533]
 updated: "2024-03-18T17:37:20Z"
 ---

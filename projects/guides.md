@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-21T06:42:08Z"
+last_scanned: "2026-04-23T12:25:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#TrueNASnode:nym.im, https://matrix.to/#/#truenasnode:nym.im]
 issues: [6491]

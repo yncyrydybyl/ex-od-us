@@ -1,20 +1,14 @@
 ---
-name: "Freelib"
-description: "freeLib - каталогизатор для библиотек LibRusEc и Flibusta"
+name: Freelib
+description: freeLib - каталогизатор для библиотек LibRusEc и Flibusta
 repo: "https://github.com/petrovvlad/freeLib"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#freeLib:matrix.p-vlad.ru"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#freeLib:matrix.p-vlad.ru"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#freeLib:matrix.p-vlad.ru]
 issues: [6281]
 updated: "2026-01-25T08:44:01Z"
 ---

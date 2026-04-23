@@ -6,12 +6,11 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-23T12:25:34Z"
 issues: [739]
 updated: "2019-04-27T10:47:23Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:18:38Z"
 ---
 
 "High Frequency" style trading algo based on the Dempster-Shafer fusion theory in C# using the Interactive Brokers API.  

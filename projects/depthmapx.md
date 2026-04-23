@@ -1,26 +1,14 @@
 ---
-name: "Depthmapx"
-description: "depthmapX is a multi-platform Spatial Network Analysis Software"
+name: Depthmapx
+description: depthmapX is a multi-platform Spatial Network Analysis Software
 repo: "https://github.com/varoudis/depthmapX"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#depthmapX-devel:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#depthmapX-users:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#depthmapX-users:matrix.org"
-  - "https://matrix.to/#/#depthmapX-devel:matrix.org"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#depthmapX-users:matrix.org, https://matrix.to/#/#depthmapX-devel:matrix.org]
 issues: [5858]
 updated: "2021-02-02T05:34:16Z"
 ---

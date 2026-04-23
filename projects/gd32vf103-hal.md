@@ -1,20 +1,14 @@
 ---
-name: "Gd32Vf103 Hal"
-description: "Hardware abstract layer (HAL) `embedded-hal` for RISC-V microcontroller GD32VF103 in Rust. Contributions welcomed!"
+name: Gd32Vf103 Hal
+description: Hardware abstract layer (HAL) `embedded-hal` for RISC-V microcontroller GD32VF103 in Rust. Contributions welcomed!
 repo: "https://github.com/gd32v-rust/gd32vf103-hal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#gd32v-rust:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gd32v-rust:matrix.org"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gd32v-rust:matrix.org]
 issues: [6332]
 updated: "2021-12-28T04:26:47Z"
 ---

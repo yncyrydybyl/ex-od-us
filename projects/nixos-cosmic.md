@@ -1,20 +1,14 @@
 ---
-name: "Nixos Cosmic"
-description: "Flake for using COSMIC on NixOS"
+name: Nixos Cosmic
+description: Flake for using COSMIC on NixOS
 repo: "https://github.com/lilyinstarlight/nixos-cosmic"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#cosmic:nixos.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#cosmic:nixos.org"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#cosmic:nixos.org]
 issues: [3767]
 updated: "2026-04-06T11:19:46Z"
 ---

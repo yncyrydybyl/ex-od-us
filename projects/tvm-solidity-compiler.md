@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-23T12:25:34Z"
 issues: [2026]
 updated: "2025-02-12T19:48:24Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:24:44Z"
+matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
 ---
 
 Solidity compiler for TVM

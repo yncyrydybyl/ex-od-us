@@ -1,12 +1,12 @@
 ---
-name: "Math For Cs Solutions"
-description: "Solutions to In-Class questions, Problem Sets and Exams of MIT Mathematics for Computer Science 2015 (same as 2019 Open Learning Library)"
+name: Math For Cs Solutions
+description: Solutions to In-Class questions, Problem Sets and Exams of MIT Mathematics for Computer Science 2015 (same as 2019 Open Learning Library)
 repo: "https://github.com/spamegg1/Math-for-CS-solutions"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-23T12:25:34Z"
 issues: [6549]
 updated: "2024-09-02T10:04:24Z"
 ---

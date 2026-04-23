@@ -1,20 +1,14 @@
 ---
-name: "Floccus"
+name: Floccus
 description: ":cloud: Sync your bookmarks privately across browsers and devices"
 repo: "https://github.com/floccusaddon/floccus"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#marcelklehr_floccus:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#marcelklehr_floccus:gitter.im"
+last_scanned: "2026-04-23T12:25:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#marcelklehr_floccus:gitter.im, https://matrix.to/#/#floccus:matrix.org]
 issues: [6233]
 updated: "2026-04-06T13:39:09Z"
 ---

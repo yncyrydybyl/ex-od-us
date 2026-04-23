@@ -9,15 +9,10 @@ issues: [757]
 updated: "2023-09-16T14:09:10Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#floco:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#floco:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:20:35Z"
+last_scanned: "2026-04-23T12:25:34Z"
 ---
 
 Using Nix to put NPM and Yarn in a coffin

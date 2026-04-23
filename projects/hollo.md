@@ -10,7 +10,7 @@ updated: "2026-03-30T00:14:17Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-22T06:41:29Z"
+last_scanned: "2026-04-23T12:25:34Z"
 matrix_rooms: [https://matrix.to/#/#hollo-users:matrix.org]
 ---
 
