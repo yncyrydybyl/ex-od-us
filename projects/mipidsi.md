@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-embedded-graphics:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-24T00:38:42Z"
+last_scanned: "2026-04-24T06:42:49Z"
 ---
 
 MIPI Display Serial Interface unified driver

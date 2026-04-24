@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-23T12:25:34Z"
+last_scanned: "2026-04-24T06:42:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sugar:matrix.org]
 issues: [6482]
