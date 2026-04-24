@@ -1,20 +1,14 @@
 ---
-name: "Bluesky"
-description: "A Matrix-Bluesky DM puppeting bridge"
+name: Bluesky
+description: A Matrix-Bluesky DM puppeting bridge
 repo: "https://github.com/mautrix/bluesky"
 platform: github
 categories: [Bridging, Matrix]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#bluesky:maunium.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#bluesky:maunium.net"
+last_scanned: "2026-04-24T00:38:42Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#bluesky:maunium.net]
 issues: [5482]
 updated: "2026-02-16T14:19:39Z"
 ---

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-23T12:25:34Z"
+last_scanned: "2026-04-24T00:38:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#authentik-nix:nixos.org]
 issues: [5303]

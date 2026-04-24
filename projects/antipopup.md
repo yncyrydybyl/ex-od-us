@@ -1,20 +1,14 @@
 ---
-name: "Antipopup"
-description: "Plugin giving back privacy that server owners deserve."
+name: Antipopup
+description: Plugin giving back privacy that server owners deserve.
 repo: "https://github.com/KaspianDev/AntiPopup"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#future-project:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#future-project:matrix.org"
+last_scanned: "2026-04-24T00:38:42Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#future-project:matrix.org]
 issues: [5198]
 updated: "2026-01-14T13:06:24Z"
 ---

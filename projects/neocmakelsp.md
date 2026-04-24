@@ -1,12 +1,12 @@
 ---
-name: "Neocmakelsp"
-description: "Another CMake LSP"
+name: Neocmakelsp
+description: Another CMake LSP
 repo: "https://github.com/neocmakelsp/neocmakelsp"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-24T00:38:42Z"
 issues: [6866]
 updated: "2026-04-02T14:39:58Z"
 ---
