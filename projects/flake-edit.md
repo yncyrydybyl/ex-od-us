@@ -1,20 +1,14 @@
 ---
-name: "Flake Edit"
-description: "Edit your flake inputs with ease."
+name: Flake Edit
+description: Edit your flake inputs with ease.
 repo: "https://github.com/a-kenji/flake-edit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#flake-edit:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#flake-edit:matrix.org"
+last_scanned: "2026-04-25T12:16:49Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#flake-edit:matrix.org]
 issues: [6200]
 updated: "2026-04-06T03:54:52Z"
 ---

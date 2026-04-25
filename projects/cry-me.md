@@ -10,7 +10,7 @@ updated: "2025-11-24T13:35:48Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-04-25T06:34:09Z"
+last_scanned: "2026-04-25T12:16:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-android:matrix.org, https://matrix.to/#/#element-android:matrix.org.svg, https://matrix.to/#/#synapse-dev:matrix.org, https://matrix.to/#/#synapse:matrix.org]
 ---

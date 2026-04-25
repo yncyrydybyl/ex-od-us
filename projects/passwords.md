@@ -1,23 +1,13 @@
 ---
-name: "Passwords"
-description: "A simple, yet feature rich password manager for Nextcloud"
+name: Passwords
+description: A simple, yet feature rich password manager for Nextcloud
 repo: "https://github.com/marius-wieschollek/passwords"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#developers:chat.passwordsapp.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#nextcloud-passwords:chat.passwordsapp.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-04-25T12:16:49Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#nextcloud-passwords:chat.passwordsapp.org"
   - "https://matrix.to/#/#developers:chat.passwordsapp.org"

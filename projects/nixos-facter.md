@@ -1,20 +1,14 @@
 ---
-name: "Nixos Facter"
+name: Nixos Facter
 description: "Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]"
 repo: "https://github.com/nix-community/nixos-facter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#clan:clan.lol"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#clan:clan.lol"
+last_scanned: "2026-04-25T12:16:49Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#clan:clan.lol]
 issues: [6962]
 updated: "2026-04-06T04:45:01Z"
 ---
