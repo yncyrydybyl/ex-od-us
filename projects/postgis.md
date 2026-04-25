@@ -1,20 +1,14 @@
 ---
-name: "Postgis"
+name: Postgis
 description: "PostGIS spatial database extension to PostgreSQL [mirror]"
 repo: "https://github.com/postgis/postgis"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#postgis:osgeo.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#postgis:osgeo.org"
+last_scanned: "2026-04-25T00:35:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#postgis:osgeo.org]
 issues: [4268]
 updated: "2026-04-02T19:28:07Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Newsboat"
-description: "An RSS/Atom feed reader for text terminals"
+name: Newsboat
+description: An RSS/Atom feed reader for text terminals
 repo: "https://github.com/newsboat/newsboat"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#newsboat:libera.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#newsboat:libera.chat"
+last_scanned: "2026-04-25T00:35:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#newsboat:libera.chat]
 issues: [6891]
 updated: "2026-04-05T11:03:01Z"
 ---
