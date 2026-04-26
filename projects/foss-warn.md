@@ -1,20 +1,14 @@
 ---
-name: "Foss Warn"
-description: "An unofficial open source application to get emergency alerts."
+name: Foss Warn
+description: An unofficial open source application to get emergency alerts.
 repo: "https://github.com/nucleus-ffm/foss_warn"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#foss_warn:tchncs.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#foss_warn:tchncs.de"
+last_scanned: "2026-04-26T12:18:04Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#foss_warn:tchncs.de]
 issues: [6268]
 updated: "2026-03-21T08:57:29Z"
 ---
