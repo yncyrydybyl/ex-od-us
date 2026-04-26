@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-reminder-bot:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-26T00:38:22Z"
+last_scanned: "2026-04-26T06:41:33Z"
 ---
 
 A bot to remind you about stuff. Supports encrypted rooms

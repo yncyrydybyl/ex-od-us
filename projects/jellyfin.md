@@ -8,7 +8,7 @@ status: Active
 issues: [6733]
 updated: "2026-04-06T13:37:59Z"
 exodus_score: 1
-last_scanned: "2026-04-26T00:38:22Z"
+last_scanned: "2026-04-26T06:41:33Z"
 matrix_rooms: [https://matrix.to/#/#jellyfinorg:matrix.org.svg]
 ---
 

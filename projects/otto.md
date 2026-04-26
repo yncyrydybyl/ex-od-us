@@ -1,20 +1,14 @@
 ---
-name: "Otto"
-description: "A stacking window manager built around animation, gesture, and spatial interaction."
+name: Otto
+description: A stacking window manager built around animation, gesture, and spatial interaction.
 repo: "https://github.com/nongio/otto"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#otto-compositor:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#otto-compositor:matrix.org"
+last_scanned: "2026-04-26T06:41:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#otto-compositor:matrix.org]
 issues: [4172]
 updated: "2026-04-04T23:18:12Z"
 ---
