@@ -8,7 +8,7 @@ status: Active
 issues: [7185]
 updated: "2022-04-25T22:57:09Z"
 exodus_score: 1
-last_scanned: "2026-04-26T12:18:04Z"
+last_scanned: "2026-04-26T18:17:26Z"
 matrix_rooms: [https://matrix.to/#/#openfare:matrix.org]
 ---
 

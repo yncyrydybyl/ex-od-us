@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#antsibull:ansible.com, https://matrix.to/#/#antsibull:ansible.com.svg]
 exodus_score: 6
-last_scanned: "2026-04-26T12:18:04Z"
+last_scanned: "2026-04-26T18:17:26Z"
 ---
 
 Changelog generator for Ansible, ansible-core, collections, and related projects.
