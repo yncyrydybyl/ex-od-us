@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-26T18:17:26Z"
+last_scanned: "2026-04-27T12:36:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#slurm-web:talk.rackslab, https://matrix.to/#/#slurm-web:talk.rackslab.io]
 issues: [4520]

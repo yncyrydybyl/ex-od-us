@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-20T00:36:19Z"
+last_scanned: "2026-04-27T12:36:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gnome-music:gnome.org]
 issues: [6399]

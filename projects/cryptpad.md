@@ -6,7 +6,7 @@ platform: github
 categories: [Security]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-26T12:18:04Z"
+last_scanned: "2026-04-27T12:36:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cryptpad:matrix.xwiki.com]
 issues: [5739]
