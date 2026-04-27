@@ -1,14 +1,15 @@
 ---
-name: "Rust"
-description: "Empowering everyone to build reliable and efficient software."
+name: Rust
+description: Empowering everyone to build reliable and efficient software.
 repo: "https://github.com/rust-lang/rust"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-04-27T18:31:08Z"
 issues: [7226]
 updated: "2026-04-06T16:29:36Z"
+matrix_rooms: [https://matrix.to/#/#rustc_codegen_gcc:matrix.org]
 ---
 
 Empowering everyone to build reliable and efficient software.

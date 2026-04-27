@@ -1,20 +1,14 @@
 ---
-name: "Blutgang"
-description: "the wd40 of ethereum load balancers"
+name: Blutgang
+description: the wd40 of ethereum load balancers
 repo: "https://github.com/rainshowerLabs/blutgang"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#rainshower:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rainshower:matrix.org"
+last_scanned: "2026-04-27T18:31:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rainshower:matrix.org]
 issues: [5484]
 updated: "2026-02-03T18:55:42Z"
 ---

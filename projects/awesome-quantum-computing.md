@@ -9,15 +9,10 @@ issues: [5374]
 updated: "2024-07-24T23:26:58Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#quantum_inferiority:chat.weho.st"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quantum_inferiority:chat.weho.st]
 exodus_score: 4
-last_scanned: "2026-04-06T15:16:40Z"
+last_scanned: "2026-04-27T18:31:08Z"
 ---
 
 A curated list of awesome quantum computing learning and developing resources.

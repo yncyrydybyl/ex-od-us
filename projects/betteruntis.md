@@ -1,20 +1,14 @@
 ---
-name: "Betteruntis"
-description: "An alternative mobile client for the Untis timetable system."
+name: Betteruntis
+description: An alternative mobile client for the Untis timetable system.
 repo: "https://github.com/SapuSeven/BetterUntis"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#github-betteruntis:sapuseven.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#github-betteruntis:sapuseven.com"
+last_scanned: "2026-04-27T18:31:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#github-betteruntis:sapuseven.com]
 issues: [5435]
 updated: "2026-04-01T21:15:48Z"
 ---

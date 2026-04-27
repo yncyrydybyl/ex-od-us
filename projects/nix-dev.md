@@ -1,14 +1,15 @@
 ---
-name: "Nix.Dev"
-description: "Official documentation for getting things done with Nix."
+name: Nix.Dev
+description: Official documentation for getting things done with Nix.
 repo: "https://github.com/NixOS/nix.dev"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-04-27T18:31:08Z"
 issues: [6928]
 updated: "2026-04-02T03:37:38Z"
+matrix_rooms: [https://matrix.to/#/#nix-dev:nixos.org, https://matrix.to/#/#users:nixos.org]
 ---
 
 Official documentation for getting things done with Nix.
