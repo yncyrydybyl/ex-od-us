@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-22T06:41:29Z"
+last_scanned: "2026-04-27T06:57:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#public-lora-wan-rs:matrix.org]
 issues: [6969]
