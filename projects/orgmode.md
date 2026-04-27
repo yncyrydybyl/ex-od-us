@@ -10,7 +10,7 @@ updated: "2026-04-01T14:44:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neovim-orgmode:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-26T18:17:26Z"
+last_scanned: "2026-04-27T00:38:39Z"
 ---
 
 Orgmode clone written in Lua for Neovim 0.11.0+.

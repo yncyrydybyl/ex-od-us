@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-04-26T18:17:26Z"
+last_scanned: "2026-04-27T00:38:39Z"
 issues: [6597]
 updated: "2026-04-06T11:43:26Z"
-matrix_rooms: [https://matrix.to/#/#ipld:ipfs.io, https://matrix.to/#/#ipfs-space:ipfs.io]
+matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 ---
 
 @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability. 
