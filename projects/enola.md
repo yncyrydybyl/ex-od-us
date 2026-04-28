@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#enola.dev:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-28T00:41:18Z"
+last_scanned: "2026-04-28T06:58:12Z"
 ---
 
 Enola 🕵🏾‍♀️ Holmes was an SRE.
