@@ -1,20 +1,14 @@
 ---
-name: "Libretime"
+name: Libretime
 description: "LibreTime: Radio Broadcast & Automation Platform"
 repo: "https://github.com/libretime/libretime"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#libretime:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#libretime:matrix.org"
+last_scanned: "2026-04-28T00:41:18Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#libretime:matrix.org]
 issues: [6906]
 updated: "2026-04-03T21:17:43Z"
 ---
