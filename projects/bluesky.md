@@ -6,7 +6,7 @@ platform: github
 categories: [Bridging, Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-04-28T06:58:12Z"
+last_scanned: "2026-04-28T12:40:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bluesky:maunium.net]
 issues: [5482]

@@ -10,7 +10,7 @@ updated: "2026-04-06T08:05:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tuwunel:grin.hu, https://matrix.to/#/#tuwunel:matrix.org.svg]
 exodus_score: 5
-last_scanned: "2026-04-27T18:31:08Z"
+last_scanned: "2026-04-28T12:40:00Z"
 ---
 
 Official successor to conduwuit

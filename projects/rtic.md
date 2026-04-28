@@ -10,7 +10,7 @@ updated: "2026-03-31T19:12:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rtic:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-27T06:57:26Z"
+last_scanned: "2026-04-28T12:40:00Z"
 ---
 
 Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
