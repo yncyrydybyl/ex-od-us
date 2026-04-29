@@ -1,20 +1,14 @@
 ---
-name: "Congresschecklist"
-description: "A list of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress."
+name: Congresschecklist
+description: A list of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
 repo: "https://github.com/MacLemon/CongressChecklist"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#39c3:events.ccc.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#39c3:events.ccc.de"
+last_scanned: "2026-04-29T00:42:45Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#39c3:events.ccc.de]
 issues: [5690]
 updated: "2026-01-08T13:54:43Z"
 ---

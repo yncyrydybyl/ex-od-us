@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-04-22T18:26:05Z"
+last_scanned: "2026-04-29T00:42:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#d2vm:linka.cloud]
 issues: [5777]

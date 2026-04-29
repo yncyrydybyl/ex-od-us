@@ -1,20 +1,14 @@
 ---
-name: "Find"
-description: "URL & local first client side actions for the browser omnibox"
+name: Find
+description: URL & local first client side actions for the browser omnibox
 repo: "https://github.com/internet4000/find"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#i4k-find:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#i4k-find:matrix.org"
+last_scanned: "2026-04-29T00:42:45Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#i4k-find:matrix.org]
 issues: [6182]
 updated: "2025-12-11T09:16:52Z"
 ---
