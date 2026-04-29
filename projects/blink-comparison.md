@@ -10,7 +10,7 @@ updated: "2025-08-31T19:55:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#blink_comparison:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-29T00:42:45Z"
+last_scanned: "2026-04-29T12:36:43Z"
 ---
 
 Simplifies comparing photos of tamper-evident seals and patterns using your eyes
