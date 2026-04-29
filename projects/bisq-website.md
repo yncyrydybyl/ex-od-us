@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bisq.growth:bitcoin.kyoto]
 exodus_score: 5
-last_scanned: "2026-04-29T00:42:45Z"
+last_scanned: "2026-04-29T06:53:43Z"
 ---
 
 @bisq-network website at https://bisq.network
