@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aegis:matrix.org]
 exodus_score: 5
-last_scanned: "2026-04-29T18:34:07Z"
+last_scanned: "2026-04-30T00:42:05Z"
 ---
 
 A free, secure and open source app for Android to manage your 2-step verification tokens.
