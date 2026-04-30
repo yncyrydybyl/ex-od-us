@@ -1,20 +1,14 @@
 ---
-name: "Fortigate Exporter"
-description: "Prometheus exporter for Fortigate firewalls"
+name: Fortigate Exporter
+description: Prometheus exporter for Fortigate firewalls
 repo: "https://github.com/prometheus-community/fortigate_exporter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#fortigate_exporter:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fortigate_exporter:matrix.org"
+last_scanned: "2026-04-30T12:35:58Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fortigate_exporter:matrix.org]
 issues: [6265]
 updated: "2026-04-04T19:41:34Z"
 ---

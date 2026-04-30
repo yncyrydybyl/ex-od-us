@@ -10,7 +10,7 @@ updated: "2026-03-14T03:53:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#xmonad:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-30T06:56:15Z"
+last_scanned: "2026-04-30T12:35:58Z"
 ---
 
 The core of xmonad, a small but functional ICCCM-compliant tiling window manager
