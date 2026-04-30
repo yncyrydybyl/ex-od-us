@@ -1,20 +1,14 @@
 ---
-name: "Components"
-description: "Repository for Bottles components"
+name: Components
+description: Repository for Bottles components
 repo: "https://github.com/bottlesdevs/components"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#UseBottles:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#UseBottles:matrix.org"
+last_scanned: "2026-04-30T18:33:06Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#UseBottles:matrix.org]
 issues: [5682]
 updated: "2026-04-06T08:44:35Z"
 ---
