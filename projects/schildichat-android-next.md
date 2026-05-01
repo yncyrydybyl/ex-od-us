@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-04-29T18:34:07Z"
+last_scanned: "2026-05-01T00:44:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#android:schildi.chat, https://matrix.to/#/#android:schildi.chat.svg]
 issues: [4458]

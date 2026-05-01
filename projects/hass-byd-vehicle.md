@@ -10,7 +10,7 @@ updated: "2026-03-29T19:51:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hass-byd-vehicle:kaberg.me]
 exodus_score: 5
-last_scanned: "2026-04-30T18:33:06Z"
+last_scanned: "2026-05-01T00:44:56Z"
 ---
 
 Custom HASS integration for BYD vehicles.

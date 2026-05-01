@@ -10,7 +10,7 @@ updated: "2026-03-28T06:43:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#libp2p-implementers:ipfs.io, https://matrix.to/#/#libp2p-community:ipfs.io, https://matrix.to/#/#libp2p-community:matrix.org]
 exodus_score: 6
-last_scanned: "2026-04-30T18:33:06Z"
+last_scanned: "2026-05-01T00:44:56Z"
 ---
 
 A modular and extensible networking stack which solves many challenges of peer-to-peer applications.

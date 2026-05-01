@@ -10,7 +10,7 @@ updated: "2026-04-06T16:20:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-04-30T18:33:06Z"
+last_scanned: "2026-05-01T00:44:56Z"
 ---
 
 The official repository of Mozilla's Firefox web browser.

@@ -10,7 +10,7 @@ updated: "2026-04-01T20:29:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cargo-generate:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-30T18:33:06Z"
+last_scanned: "2026-05-01T00:44:56Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
