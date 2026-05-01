@@ -1,26 +1,14 @@
 ---
-name: "Runtimes"
-description: "The various runtimes which make up the core subsystems of networks for which the Fellowship is represented."
+name: Runtimes
+description: The various runtimes which make up the core subsystems of networks for which the Fellowship is represented.
 repo: "https://github.com/polkadot-fellows/runtimes"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#fellowship-members:parity.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#fellowship-open-channel:parity.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fellowship-open-channel:parity.io"
-  - "https://matrix.to/#/#fellowship-members:parity.io"
+last_scanned: "2026-05-01T18:26:42Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fellowship-open-channel:parity.io, https://matrix.to/#/#fellowship-members:parity.io]
 issues: [4426]
 updated: "2026-04-06T16:51:31Z"
 ---

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#feather:monero.social]
 exodus_score: 6
-last_scanned: "2026-05-01T12:24:01Z"
+last_scanned: "2026-05-01T18:26:42Z"
 ---
 
 A free and open-source Monero desktop wallet.
