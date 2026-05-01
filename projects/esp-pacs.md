@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-29T18:34:07Z"
+last_scanned: "2026-05-01T06:58:35Z"
 ---
 
 Peripheral Access Crates for Espressif SoCs and modules

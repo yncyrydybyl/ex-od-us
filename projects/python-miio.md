@@ -10,7 +10,7 @@ updated: "2025-08-19T18:47:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#python-miio-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-01T00:44:56Z"
+last_scanned: "2026-05-01T06:58:35Z"
 ---
 
 Python library & console tool for controlling Xiaomi smart appliances

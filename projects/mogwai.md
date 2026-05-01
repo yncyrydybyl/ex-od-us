@@ -6,10 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-01T06:58:35Z"
 issues: [6777]
 updated: "2025-06-27T02:29:48Z"
-last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 The minimalist, obvious, graphical, web application interface
