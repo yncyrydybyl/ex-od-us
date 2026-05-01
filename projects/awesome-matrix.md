@@ -6,29 +6,24 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-05-01T06:58:35Z"
+last_scanned: "2026-05-01T12:24:01Z"
 matrix_links: []
 matrix_rooms:
-  - "https://matrix.to/#/#dendrite:matrix.org"
-  - "https://matrix.to/#/#dittochat:matrix.org"
-  - "https://matrix.to/#/#matrix-collaboration:kb1rd.net"
-  - "https://matrix.to/#/#maubot:maunium.net"
-  - "https://matrix.to/#/#matrix-patience:matrix.org"
-  - "https://matrix.to/#/#cactus:bordum.dk"
-  - "https://matrix.to/#/#continuwuity:continuwuity.org"
-  - "https://matrix.to/#/#opentower:matrix.org"
-  - "https://matrix.to/#/#alexgames:matrix.org"
-  - "https://matrix.to/#/#fractal:gnome.org"
   - "https://matrix.to/#/#TheBoard:matrix.org"
-  - "https://matrix.to/#/#conduit:matrix.org"
-  - "https://matrix.to/#/#pantalaimon:matrix.org"
   - "https://matrix.to/#/#ODIN.Community:syncpoint.io"
+  - "https://matrix.to/#/#continuwuity:continuwuity.org"
   - "https://matrix.to/#/#fluffychat:matrix.org"
-  - "https://matrix.to/#/#matrix-widgets:matrix.org"
-  - "https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems"
-  - "https://matrix.to/#/#matrix-highlight:matrix.danilafe.com"
   - "https://matrix.to/#/#opsdroid-general:matrix.org"
+  - "https://matrix.to/#/#fractal:gnome.org"
+  - "https://matrix.to/#/#matrix-highlight:matrix.danilafe.com"
   - "https://matrix.to/#/#synapse:matrix.org"
+  - "https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems"
+  - "https://matrix.to/#/#pantalaimon:matrix.org"
+  - "https://matrix.to/#/#maubot:maunium.net"
+  - "https://matrix.to/#/#dittochat:matrix.org"
+  - "https://matrix.to/#/#opentower:matrix.org"
+  - "https://matrix.to/#/#matrix-collaboration:kb1rd.net"
+  - "https://matrix.to/#/#cactus:bordum.dk"
 issues: [5343]
 updated: "2026-03-23T11:39:05Z"
 ---
