@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-23T12:25:34Z"
+last_scanned: "2026-05-02T06:42:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haskell-miso:matrix.org]
 issues: [6752]

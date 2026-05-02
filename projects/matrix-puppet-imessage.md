@@ -10,7 +10,7 @@ updated: "2020-08-25T20:01:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-05-02T00:40:57Z"
+last_scanned: "2026-05-02T06:42:48Z"
 ---
 
 A two-way puppeted Matrix bridge for Apple iMessage / Messages

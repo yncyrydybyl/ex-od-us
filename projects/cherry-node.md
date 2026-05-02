@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cherry-technical:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-01T18:26:42Z"
+last_scanned: "2026-05-02T06:42:48Z"
 ---
 
 Cherry Network's node implemented in Rust
