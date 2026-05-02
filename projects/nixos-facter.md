@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-02T06:42:48Z"
+last_scanned: "2026-05-02T18:20:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#clan:clan.lol]
 issues: [6962]
