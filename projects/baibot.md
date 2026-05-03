@@ -1,20 +1,14 @@
 ---
-name: "Baibot"
-description: "🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)"
+name: Baibot
+description: 🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)
 repo: "https://github.com/etkecc/baibot"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#baibot:etke.cc"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#baibot:etke.cc"
+last_scanned: "2026-05-03T00:42:40Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#baibot:etke.cc]
 issues: [5418]
 updated: "2026-04-04T12:52:33Z"
 ---
