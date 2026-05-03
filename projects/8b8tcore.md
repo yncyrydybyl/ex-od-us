@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-03T06:54:55Z"
+last_scanned: "2026-05-03T18:21:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#xera-general:matrix.xera.ca]
 issues: [5087]
