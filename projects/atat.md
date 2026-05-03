@@ -10,7 +10,7 @@ updated: "2026-03-04T07:54:15Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-05-03T06:54:55Z"
+last_scanned: "2026-05-03T12:20:43Z"
 ---
 
 no_std crate for parsing AT commands
