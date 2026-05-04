@@ -10,7 +10,7 @@ updated: "2026-03-27T07:50:28Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-05-04T12:38:05Z"
+last_scanned: "2026-05-04T18:36:08Z"
 matrix_rooms: [https://matrix.to/#/#dnglab:matrix.org]
 ---
 

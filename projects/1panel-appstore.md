@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-05-01T12:24:01Z"
+last_scanned: "2026-05-04T18:36:08Z"
 issues: [5084]
 updated: "2026-04-06T17:01:11Z"
-matrix_rooms: [https://matrix.to/#/#element-web:matrix.org, https://matrix.to/#/#ntfy:matrix.org, https://matrix.to/#/#ntfy-space:matrix.org, https://matrix.to/#/#jellyfin:matrix.org.svg, https://matrix.to/#/#synapse-dev:matrix.org, https://matrix.to/#/#synapse:matrix.org, https://matrix.to/#/#woodpecker:matrix.org, https://matrix.to/#/#jellyfinorg:matrix.org, https://matrix.to/#/#gotify:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#ntfy:matrix.org, https://matrix.to/#/#ntfy-space:matrix.org, https://matrix.to/#/#gotify:matrix.org.svg]
 ---
 
 1Panel 应用商店的非官方应用适配库 1Panel App Store Unofficial App Adaptation Repository

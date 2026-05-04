@@ -6,18 +6,8 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-07T06:34:49Z"
-matrix_links:
-  - target: "#extera:extera.xyz"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#themes:extera.xyz"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-05-04T18:36:08Z"
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#extera:extera.xyz, https://matrix.to/#/#themes:extera.xyz]
 issues: [6128]
 updated: "2025-11-16T17:10:48Z"

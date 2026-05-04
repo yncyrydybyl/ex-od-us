@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-18T00:32:47Z"
+last_scanned: "2026-05-04T18:36:08Z"
 issues: [4229]
 updated: "2024-11-20T05:15:01Z"
 matrix_rooms: [https://matrix.to/#/#pinephone_modem_sdk-issue-9:matrix.org]

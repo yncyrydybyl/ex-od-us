@@ -6,9 +6,9 @@ platform: github
 categories: [Messaging, Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-22T06:41:29Z"
+last_scanned: "2026-05-04T18:36:08Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#robius-robrix:matrix.org]
+matrix_rooms: [https://matrix.to/#/#robius:matrix.org, https://matrix.to/#/#robius-general:matrix.org, https://matrix.to/#/#robius-robrix:matrix.org]
 issues: [4398]
 updated: "2026-04-04T08:39:03Z"
 ---
