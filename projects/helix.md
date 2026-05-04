@@ -10,7 +10,7 @@ updated: "2026-04-06T05:19:54Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#helix-community:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-04T07:06:21Z"
+last_scanned: "2026-05-04T12:38:05Z"
 ---
 
 A post-modern modal text editor.
