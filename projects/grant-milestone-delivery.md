@@ -10,7 +10,7 @@ updated: "2026-03-18T22:26:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#w3f:matrix.org, https://matrix.to/#/#kusama:web3.foundation, https://matrix.to/#/#polkadot:web3.foundation]
 exodus_score: 5
-last_scanned: "2026-05-04T00:42:13Z"
+last_scanned: "2026-05-04T07:06:21Z"
 ---
 
 Repository to submit finished milestones
