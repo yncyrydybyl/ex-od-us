@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#logo-menu:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-05T06:49:58Z"
+last_scanned: "2026-05-05T12:29:18Z"
 ---
 
 Quick access menu for the GNOME panel with options that help ease the workflow for newcomers and power users alike.
