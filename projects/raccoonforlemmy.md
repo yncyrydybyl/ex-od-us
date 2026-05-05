@@ -1,20 +1,14 @@
 ---
-name: "Raccoonforlemmy"
-description: "A Kotlin Multiplatform client for Lemmy"
+name: Raccoonforlemmy
+description: A Kotlin Multiplatform client for Lemmy
 repo: "https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#raccoonforlemmyapp:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#raccoonforlemmyapp:matrix.org"
+last_scanned: "2026-05-05T00:39:44Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#raccoonforlemmyapp:matrix.org]
 issues: [4346]
 updated: "2026-04-06T16:28:39Z"
 ---

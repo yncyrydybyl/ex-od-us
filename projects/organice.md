@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#organice:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-04T12:38:05Z"
+last_scanned: "2026-05-05T00:39:44Z"
 ---
 
 An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers

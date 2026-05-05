@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#eve-pi:calli.fi]
 exodus_score: 5
-last_scanned: "2026-05-04T12:38:05Z"
+last_scanned: "2026-05-05T00:39:44Z"
 ---
 
 EVE Online PI tool
