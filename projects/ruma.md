@@ -1,20 +1,14 @@
 ---
-name: "Ruma"
-description: "A set of Rust crates for interacting with the Matrix chat network."
+name: Ruma
+description: A set of Rust crates for interacting with the Matrix chat network.
 repo: "https://github.com/ruma/ruma"
 platform: github
 categories: [Messaging]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ruma:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ruma:matrix.org"
+last_scanned: "2026-05-05T18:34:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ruma:matrix.org]
 issues: [4425]
 updated: "2026-04-06T10:39:52Z"
 ---
