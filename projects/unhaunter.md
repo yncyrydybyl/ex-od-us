@@ -9,15 +9,10 @@ issues: [2028]
 updated: "2026-04-05T21:58:52Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#unhaunter:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#unhaunter:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:24:49Z"
+last_scanned: "2026-05-06T18:37:10Z"
 ---
 
 Terror Game about ghosts

@@ -1,20 +1,14 @@
 ---
-name: "Moneropay"
-description: "Standalone Monero payment processor for incoming and outgoing transactions."
+name: Moneropay
+description: Standalone Monero payment processor for incoming and outgoing transactions.
 repo: "https://github.com/moneropay/moneropay"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#moneropay:kernal.eu"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#moneropay:kernal.eu"
+last_scanned: "2026-05-06T18:37:10Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#moneropay:kernal.eu]
 issues: [3727]
 updated: "2026-02-11T23:30:36Z"
 ---
