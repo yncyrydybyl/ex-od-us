@@ -1,12 +1,12 @@
 ---
-name: "Mijn Bureau Infra"
-description: "A secure & autonomous easy to install collaboration suite for everyone"
+name: Mijn Bureau Infra
+description: A secure & autonomous easy to install collaboration suite for everyone
 repo: "https://github.com/MinBZK/mijn-bureau-infra"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-06T12:41:15Z"
 issues: [3698]
 updated: "2026-04-06T08:28:53Z"
 ---

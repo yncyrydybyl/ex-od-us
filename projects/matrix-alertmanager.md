@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations, Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-06T06:58:32Z"
+last_scanned: "2026-05-06T12:41:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-alertmanager:federator.dev, https://matrix.to/#/#matrix-alertmanager:federator.dev.svg]
 issues: [3609]
