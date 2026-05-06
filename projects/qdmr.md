@@ -1,20 +1,14 @@
 ---
-name: "Qdmr"
-description: "A GUI application for configuring and programming cheap DMR radios under Linux and MacOS X."
+name: Qdmr
+description: A GUI application for configuring and programming cheap DMR radios under Linux and MacOS X.
 repo: "https://github.com/hmatuschek/qdmr"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#qdmr:darc.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#qdmr:darc.de"
+last_scanned: "2026-05-06T00:38:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#qdmr:darc.de]
 issues: [4327]
 updated: "2026-04-03T15:54:03Z"
 ---
