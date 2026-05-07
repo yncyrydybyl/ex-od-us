@@ -5,12 +5,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-07T12:42:00Z"
 issues: [799]
 updated: "2025-10-26T13:23:54Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:23:10Z"
+matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 ---
 
 ## Stats

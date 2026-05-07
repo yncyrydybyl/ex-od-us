@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apps:fedoraproject.org]
 exodus_score: 5
-last_scanned: "2026-05-07T00:41:29Z"
+last_scanned: "2026-05-07T12:42:00Z"
 ---
 
 A fedora messaging consumer that files bugzilla bugs for upstream releases
