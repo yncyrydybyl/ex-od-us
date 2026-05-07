@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alvr:ckie.dev]
 exodus_score: 6
-last_scanned: "2026-05-06T12:41:15Z"
+last_scanned: "2026-05-07T00:41:29Z"
 ---
 
 Stream VR games from your PC to your headset via Wi-Fi
