@@ -10,7 +10,7 @@ updated: "2026-04-02T20:36:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mailu:tedomum.net]
 exodus_score: 4
-last_scanned: "2026-05-07T12:42:00Z"
+last_scanned: "2026-05-07T18:37:46Z"
 ---
 
 Insular email distribution - mail server as Docker images
