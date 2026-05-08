@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-05-07T18:37:46Z"
+last_scanned: "2026-05-08T00:42:00Z"
 issues: [1994]
 updated: "2021-05-08T20:43:36Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_rooms: [https://matrix.to/#/#OpenWPM:mozilla.org]
+matrix_rooms: [https://matrix.to/#/#blendercam:matrix.org]
 ---
 
 The code and data for the SEKE 2021 paper
