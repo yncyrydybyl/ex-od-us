@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-04T18:36:08Z"
+last_scanned: "2026-05-08T18:33:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gitpad:matrix.batsense.net]
 issues: [6376]

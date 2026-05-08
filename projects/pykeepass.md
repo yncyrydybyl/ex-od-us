@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-04-29T00:42:45Z"
+last_scanned: "2026-05-08T18:33:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pykeepass:matrix.org]
 issues: [3880]
