@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-08T06:39:49Z"
+last_scanned: "2026-05-08T12:32:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nexum:nxm.rs]
 issues: [6899]
