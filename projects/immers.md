@@ -10,7 +10,7 @@ updated: "2024-02-12T23:32:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#immers-space:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-09T12:22:48Z"
+last_scanned: "2026-05-09T18:22:15Z"
 ---
 
 ActivityPub federated social media server for the metaverse
