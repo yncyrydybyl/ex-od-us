@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-08T12:32:47Z"
+last_scanned: "2026-05-09T00:42:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#maunium:maunium.net]
 issues: [3884]

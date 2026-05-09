@@ -1,20 +1,14 @@
 ---
-name: "Habit Maker"
-description: "A reward-based habit tracker for android."
+name: Habit Maker
+description: A reward-based habit tracker for android.
 repo: "https://github.com/dessalines/habit-maker"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#habit-maker:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#habit-maker:matrix.org"
+last_scanned: "2026-05-09T00:42:25Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#habit-maker:matrix.org]
 issues: [6497]
 updated: "2026-04-06T13:23:47Z"
 ---

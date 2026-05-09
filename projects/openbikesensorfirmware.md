@@ -10,7 +10,7 @@ updated: "2026-03-09T06:16:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#openbikesensor:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-08T18:33:00Z"
+last_scanned: "2026-05-09T00:42:25Z"
 ---
 
 Overtaking distance measurements for cyclists 

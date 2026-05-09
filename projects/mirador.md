@@ -10,7 +10,7 @@ updated: "2026-03-17T22:51:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-08T18:33:00Z"
+last_scanned: "2026-05-09T00:42:25Z"
 ---
 
 CLI to watch mailbox changes
