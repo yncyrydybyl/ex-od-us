@@ -1,20 +1,14 @@
 ---
-name: "Go Dag"
-description: "A Go-based framework has been developed to oversee the execution of workflows delineated by directed acyclic graphs (DAGs)."
+name: Go Dag
+description: A Go-based framework has been developed to oversee the execution of workflows delineated by directed acyclic graphs (DAGs).
 repo: "https://github.com/rhosocial/go-dag"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#go-dag.rhosocial:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#go-dag.rhosocial:gitter.im"
+last_scanned: "2026-05-09T12:22:48Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#go-dag.rhosocial:gitter.im]
 issues: [6413]
 updated: "2024-08-17T11:51:54Z"
 ---

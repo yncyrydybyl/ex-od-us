@@ -9,15 +9,10 @@ issues: [785]
 updated: "2026-01-18T20:37:34Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#rpgmaker:mapleshrine.eu"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rpgmaker:mapleshrine.eu]
 exodus_score: 5
-last_scanned: "2026-04-06T15:22:23Z"
+last_scanned: "2026-05-09T12:22:48Z"
 ---
 
 Free Software implementation of the Ruby Game Scripting System (RGSS)

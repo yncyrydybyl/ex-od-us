@@ -1,20 +1,14 @@
 ---
-name: "Reactbot"
-description: "A maubot plugin that responds to messages that match predefined rules."
+name: Reactbot
+description: A maubot plugin that responds to messages that match predefined rules.
 repo: "https://github.com/maubot/reactbot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#thisweekinmatrix:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#thisweekinmatrix:matrix.org"
+last_scanned: "2026-05-09T12:22:48Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#thisweekinmatrix:matrix.org]
 issues: [3903]
 updated: "2024-08-05T08:48:25Z"
 ---

@@ -10,7 +10,7 @@ updated: "2023-03-07T02:14:21Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-05-09T06:46:44Z"
+last_scanned: "2026-05-09T12:22:48Z"
 matrix_rooms: [https://matrix.to/#/#webfs:matrix.org]
 ---
 

@@ -10,7 +10,7 @@ updated: "2026-04-02T12:37:37Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-05-09T06:46:44Z"
+last_scanned: "2026-05-09T12:22:48Z"
 matrix_rooms: [https://matrix.to/#/#cobbler-community:matrix.org, https://matrix.to/#/#cobbler_community:gitter.im]
 ---
 

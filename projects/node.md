@@ -1,14 +1,15 @@
 ---
-name: "Node"
-description: "Node.js JavaScript runtime ✨🐢🚀✨"
+name: Node
+description: Node.js JavaScript runtime ✨🐢🚀✨
 repo: "https://github.com/nodejs/node"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-05-09T12:22:48Z"
 issues: [6992]
 updated: "2026-04-06T17:00:10Z"
+matrix_rooms: [https://matrix.to/#/#boa:matrix.org]
 ---
 
 Node.js JavaScript runtime ✨🐢🚀✨
