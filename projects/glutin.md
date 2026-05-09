@@ -10,7 +10,7 @@ updated: "2026-02-24T21:50:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#winit:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-09T00:42:25Z"
+last_scanned: "2026-05-09T06:46:44Z"
 ---
 
 A low-level library for OpenGL context creation

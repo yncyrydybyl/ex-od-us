@@ -9,7 +9,7 @@ issues: [5177]
 updated: "2022-08-19T08:00:27Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-05-08T18:33:00Z"
+last_scanned: "2026-05-09T06:46:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#substrate-technical:matrix.org]
 exodus_score: 3
