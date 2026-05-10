@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#commet:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-10T00:44:30Z"
+last_scanned: "2026-05-10T12:22:17Z"
 ---
 
 Your space to connect

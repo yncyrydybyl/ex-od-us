@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#keypunch:gnome.org]
 exodus_score: 6
-last_scanned: "2026-04-30T12:35:58Z"
+last_scanned: "2026-05-10T12:22:17Z"
 ---
 
 Practice your typing skills

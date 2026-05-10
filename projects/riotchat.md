@@ -11,7 +11,7 @@ matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#riotchatfornextcloud-general:garykim.dev"
 exodus_score: 5
-last_scanned: "2026-05-10T06:58:23Z"
+last_scanned: "2026-05-10T12:22:17Z"
 ---
 
 Element for Nextcloud
