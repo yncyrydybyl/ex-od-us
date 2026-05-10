@@ -10,7 +10,7 @@ updated: "2026-02-11T23:31:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#threelayout:ohea.xyz]
 exodus_score: 4
-last_scanned: "2026-05-09T06:46:44Z"
+last_scanned: "2026-05-10T00:44:30Z"
 ---
 
 A better modifier based keyboard layout

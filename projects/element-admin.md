@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ess-community:element.io]
 exodus_score: 6
-last_scanned: "2026-05-09T06:46:44Z"
+last_scanned: "2026-05-10T00:44:30Z"
 ---
 
 Manage your Element Server Suite deployment
