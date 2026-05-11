@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#omorfi:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-11T13:03:38Z"
+last_scanned: "2026-05-11T18:41:04Z"
 ---
 
 Open morphology for Finnish

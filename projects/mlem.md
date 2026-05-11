@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-11T13:03:38Z"
+last_scanned: "2026-05-11T18:41:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mlemappspace:matrix.org]
 issues: [6760]

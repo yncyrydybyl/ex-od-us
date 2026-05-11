@@ -1,14 +1,15 @@
 ---
-name: "Mock"
-description: "Mock ensures your RPM package builds are repeatable and reliable."
+name: Mock
+description: Mock ensures your RPM package builds are repeatable and reliable.
 repo: "https://github.com/rpm-software-management/mock"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-05-11T18:41:04Z"
 issues: [6773]
 updated: "2026-03-24T06:12:45Z"
+matrix_rooms: [https://matrix.to/#/#buildsys:fedoraproject.org]
 ---
 
 Mock ensures your RPM package builds are repeatable and reliable.
