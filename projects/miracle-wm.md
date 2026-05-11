@@ -1,20 +1,14 @@
 ---
-name: "Miracle Wm"
-description: "A hackable Wayland window manager 🌠"
+name: Miracle Wm
+description: A hackable Wayland window manager 🌠
 repo: "https://github.com/miracle-wm-org/miracle-wm"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#miracle-wm:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#miracle-wm:matrix.org"
+last_scanned: "2026-05-11T07:16:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#miracle-wm:matrix.org]
 issues: [6742]
 updated: "2026-04-06T11:15:36Z"
 ---
