@@ -1,20 +1,14 @@
 ---
-name: "Algiz Linux"
-description: "Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux."
+name: Algiz Linux
+description: Algiz Linux is a High-Performance, Security-Focused Meta-Distribution of Artix Linux.
 repo: "https://github.com/Michael-Sebero/Algiz-Linux"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#algiz-linux:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#algiz-linux:matrix.org"
+last_scanned: "2026-05-11T00:44:45Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#algiz-linux:matrix.org]
 issues: [5138]
 updated: "2026-04-04T21:12:28Z"
 ---
