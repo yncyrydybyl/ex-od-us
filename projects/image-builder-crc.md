@@ -1,20 +1,14 @@
 ---
-name: "Image Builder Crc"
-description: "Middleware service for console.redhat.com, between osbuild/image-builder-frontend and osbuild/osbuild-composer."
+name: Image Builder Crc
+description: Middleware service for console.redhat.com, between osbuild/image-builder-frontend and osbuild/osbuild-composer.
 repo: "https://github.com/osbuild/image-builder-crc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#image-builder:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#image-builder:fedoraproject.org"
+last_scanned: "2026-05-12T12:44:51Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#image-builder:fedoraproject.org]
 issues: [6611]
 updated: "2026-04-06T06:41:59Z"
 ---

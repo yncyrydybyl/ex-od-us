@@ -8,7 +8,7 @@ status: Active
 issues: [4602]
 updated: "2024-08-05T13:09:26Z"
 exodus_score: 1
-last_scanned: "2026-05-12T07:02:44Z"
+last_scanned: "2026-05-12T12:44:51Z"
 matrix_rooms: [https://matrix.to/#/#syphon:matrix.org]
 ---
 
