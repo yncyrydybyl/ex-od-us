@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ferrum-fix:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-11T00:44:45Z"
+last_scanned: "2026-05-12T00:41:13Z"
 ---
 
 Financial Information eXchange protocol implemented in Rust
