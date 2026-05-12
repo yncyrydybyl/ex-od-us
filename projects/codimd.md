@@ -10,7 +10,7 @@ updated: "2025-10-02T02:51:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hackmdio_hackmd:gitter.im]
 exodus_score: 3
-last_scanned: "2026-05-12T12:44:51Z"
+last_scanned: "2026-05-12T18:39:55Z"
 ---
 
 CodiMD - Realtime collaborative markdown notes on all platforms.

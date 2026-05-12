@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-05-12T18:39:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nixos-avf:mkg20001.io]
 issues: [6950]

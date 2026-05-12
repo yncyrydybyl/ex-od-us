@@ -1,20 +1,14 @@
 ---
-name: "Tunaos"
-description: "Bringing a modern cloud-native experience to the Enterprise Linux Desktop"
+name: Tunaos
+description: Bringing a modern cloud-native experience to the Enterprise Linux Desktop
 repo: "https://github.com/tuna-os/tunaOS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#tunaos:reilly.asia"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tunaos:reilly.asia"
+last_scanned: "2026-05-12T18:39:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tunaos:reilly.asia]
 issues: [4733]
 updated: "2026-04-06T15:07:23Z"
 ---

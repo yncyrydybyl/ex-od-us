@@ -10,9 +10,9 @@ updated: "2026-03-24T23:07:10Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#postmoogle:etke.cc, https://matrix.to/#/#go:maunium.net]
+matrix_rooms: [https://matrix.to/#/#postmoogle:etke.cc]
 exodus_score: 7
-last_scanned: "2026-05-12T12:44:51Z"
+last_scanned: "2026-05-12T18:39:55Z"
 ---
 
 Postmoogle is Matrix <-> Email bridge in a form of an SMTP server

@@ -1,20 +1,14 @@
 ---
-name: "Belarusian It Communities"
-description: "🔥Belarusian IT communities | Беларускія IT суполкі"
+name: Belarusian It Communities
+description: 🔥Belarusian IT communities | Беларускія IT суполкі
 repo: "https://github.com/hleb-kastseika/belarusian-it-communities"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#gnulinux-be:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#gnulinux-be:matrix.org"
+last_scanned: "2026-05-12T18:39:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#gnulinux-be:matrix.org]
 issues: [5427]
 updated: "2024-05-03T20:28:01Z"
 ---

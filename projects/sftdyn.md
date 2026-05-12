@@ -1,20 +1,14 @@
 ---
-name: "Sftdyn"
-description: "Self-hosted dyndns/dynamic DNS server and updater for BIND"
+name: Sftdyn
+description: Self-hosted dyndns/dynamic DNS server and updater for BIND
 repo: "https://github.com/SFTtech/sftdyn"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#sfttech:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#sfttech:matrix.org"
+last_scanned: "2026-05-12T18:39:55Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#sfttech:matrix.org]
 issues: [4497]
 updated: "2023-07-31T15:08:56Z"
 ---

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-12T12:44:51Z"
+last_scanned: "2026-05-12T18:39:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#arch4edu-general:libera.chat]
 issues: [5243]
