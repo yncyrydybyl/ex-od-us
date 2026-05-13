@@ -1,14 +1,15 @@
 ---
-name: "Dnfdragora"
-description: "dnfdragora is a dnf frontend based on libyui abstraction"
+name: Dnfdragora
+description: dnfdragora is a dnf frontend based on libyui abstraction
 repo: "https://github.com/manatools/dnfdragora"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-13T18:41:35Z"
 issues: [5898]
 updated: "2026-04-06T15:27:43Z"
+matrix_rooms: [https://matrix.to/#/#manatools:matrix.org]
 ---
 
 dnfdragora is a dnf frontend based on libyui abstraction
