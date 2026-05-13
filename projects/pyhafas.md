@@ -10,7 +10,7 @@ updated: "2025-01-19T20:58:42Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-05-13T00:45:24Z"
+last_scanned: "2026-05-13T07:06:45Z"
 matrix_rooms: [https://matrix.to/#/#pyhafas:matrix.org]
 ---
 
