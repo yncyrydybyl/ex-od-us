@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-12T12:44:51Z"
+last_scanned: "2026-05-13T00:45:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#invizible-pro-ru:matrix.org, https://matrix.to/#/#invizible-pro-en:matrix.org]
 issues: [6653]

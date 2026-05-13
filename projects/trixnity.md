@@ -10,7 +10,7 @@ updated: "2026-03-30T14:42:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trixnity:imbitbu.de]
 exodus_score: 4
-last_scanned: "2026-05-12T12:44:51Z"
+last_scanned: "2026-05-13T00:45:24Z"
 ---
 
 Multiplattform Kotlin SDK for Matrix - this is a mirror of https://gitlab.com/connect2x/trixnity/trixnity
