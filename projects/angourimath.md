@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#angourimath:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-12T00:41:13Z"
+last_scanned: "2026-05-13T12:48:12Z"
 ---
 
 Open-source cross-platform symbolic algebra library for C# and F#. Can be used for both production and research purposes.
