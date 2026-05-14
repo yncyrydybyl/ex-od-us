@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-06T18:37:10Z"
+last_scanned: "2026-05-14T07:04:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#json-resume:one.ems.host]
 issues: [6761]

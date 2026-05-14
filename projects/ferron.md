@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ferronweb:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-12T18:39:55Z"
+last_scanned: "2026-05-14T07:04:34Z"
 ---
 
 A fast, memory-safe web server written in Rust.

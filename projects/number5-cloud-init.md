@@ -1,20 +1,14 @@
 ---
-name: "Cloud Init"
+name: Cloud Init
 description: "unofficial mirror of Ubuntu's  cloud-init"
 repo: "https://github.com/number5/cloud-init"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#cloud-init:ubuntu.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#cloud-init:ubuntu.com"
+last_scanned: "2026-05-14T07:04:34Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#cloud-init:ubuntu.com]
 issues: [5207]
 updated: "2026-04-06T14:37:07Z"
 ---
