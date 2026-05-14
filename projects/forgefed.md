@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forgefed:libera.chat]
 exodus_score: 5
-last_scanned: "2026-05-14T07:04:34Z"
+last_scanned: "2026-05-14T18:40:16Z"
 ---
 
 ForgeFed - Federation Protocol for Forge Services

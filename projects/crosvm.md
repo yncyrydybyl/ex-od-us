@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#crosvm:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-14T12:40:47Z"
+last_scanned: "2026-05-14T18:40:16Z"
 ---
 
 ## Stats

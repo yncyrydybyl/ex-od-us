@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#docs:ansible.com.svg, https://matrix.to/#/#docs:ansible.com, https://matrix.to/#/#antsibull:ansible.com, https://matrix.to/#/#antsibull:ansible.com.svg]
 exodus_score: 6
-last_scanned: "2026-05-14T07:04:34Z"
+last_scanned: "2026-05-14T18:40:16Z"
 ---
 
 Tooling for building Ansible documentation

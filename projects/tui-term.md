@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-14T12:40:47Z"
+last_scanned: "2026-05-14T18:40:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tui-term-main:matrix.org]
 issues: [4732]
