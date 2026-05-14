@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-09T06:46:44Z"
+last_scanned: "2026-05-14T00:47:15Z"
 ---
 
 Curated list of resources for ESP32 development in the Rust programming language

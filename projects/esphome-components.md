@@ -10,7 +10,7 @@ updated: "2026-04-01T22:54:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#molesblog:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-13T18:41:35Z"
+last_scanned: "2026-05-14T00:47:15Z"
 ---
 
 ESPhome Components from the little digger
