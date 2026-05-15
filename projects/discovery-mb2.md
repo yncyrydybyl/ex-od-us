@@ -8,9 +8,9 @@ status: Active
 issues: [5881]
 updated: "2026-03-22T07:40:35Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#rust-embedded:matrix.org]
+matrix_rooms: [https://matrix.to/#/#rust-embedded:matrix.org, https://matrix.to/#/#probe-rs:matrix.org]
 exodus_score: 2
-last_scanned: "2026-05-07T18:37:46Z"
+last_scanned: "2026-05-15T12:40:44Z"
 ---
 
 Rust Discovery Book for BBC micro:bit v2

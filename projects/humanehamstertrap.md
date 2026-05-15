@@ -9,15 +9,10 @@ issues: [6571]
 updated: "2024-06-02T20:57:09Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#HumaneHamsterTrap:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#HumaneHamsterTrap:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:21:20Z"
+last_scanned: "2026-05-15T12:40:44Z"
 ---
 
 A WebGPU capture and debugging tool
