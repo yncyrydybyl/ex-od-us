@@ -1,14 +1,15 @@
 ---
-name: "Harbour Sailfishconnect"
-description: "KDE Connect for Sailfish OS"
+name: Harbour Sailfishconnect
+description: KDE Connect for Sailfish OS
 repo: "https://github.com/R1tschY/harbour-sailfishconnect"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-15T18:36:04Z"
 issues: [6502]
 updated: "2025-08-29T13:30:57Z"
+matrix_rooms: [https://matrix.to/#/#sailfishconnect:matrix.org]
 ---
 
 KDE Connect for Sailfish OS

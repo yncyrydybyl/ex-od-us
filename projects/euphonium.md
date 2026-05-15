@@ -1,20 +1,14 @@
 ---
-name: "Euphonium"
-description: "Tiny audio platform"
+name: Euphonium
+description: Tiny audio platform
 repo: "https://github.com/muvox-io/euphonium"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#esp32_audio:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#esp32_audio:matrix.org"
+last_scanned: "2026-05-15T18:36:04Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#esp32_audio:matrix.org]
 issues: [6099]
 updated: "2025-06-02T13:49:22Z"
 ---

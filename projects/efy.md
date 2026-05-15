@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#efy_ui:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-09T12:22:48Z"
+last_scanned: "2026-05-15T18:36:04Z"
 ---
 
 User Customizable CSS / JS framework. Private, modular & convergent apps

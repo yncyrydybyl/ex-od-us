@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-15T07:11:05Z"
+last_scanned: "2026-05-15T18:36:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kosmorro-cli:matrix.org]
 issues: [6820]

@@ -1,20 +1,14 @@
 ---
-name: "Mnemos"
-description: "An Operating System for Building Small Computers"
+name: Mnemos
+description: An Operating System for Building Small Computers
 repo: "https://github.com/tosc-rs/mnemos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#mnemos-dev:beeper.com"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#mnemos-dev:beeper.com"
+last_scanned: "2026-05-15T18:36:04Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#mnemos-dev:beeper.com]
 issues: [6764]
 updated: "2025-01-21T03:37:30Z"
 ---

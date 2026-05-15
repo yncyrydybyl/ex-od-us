@@ -1,20 +1,14 @@
 ---
-name: "Sveltekit Components"
+name: Sveltekit Components
 description: "Handy components for building sites in SvelteKit "
 repo: "https://github.com/rodneylab/sveltekit-components"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#rodney:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#rodney:matrix.org"
+last_scanned: "2026-05-15T18:36:04Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#rodney:matrix.org]
 issues: [4595]
 updated: "2025-03-21T08:26:03Z"
 ---

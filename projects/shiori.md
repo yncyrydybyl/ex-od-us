@@ -1,20 +1,14 @@
 ---
-name: "Shiori"
-description: "Simple bookmark manager built with Go"
+name: Shiori
+description: Simple bookmark manager built with Go
 repo: "https://github.com/go-shiori/shiori"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#shiori:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#shiori:matrix.org"
+last_scanned: "2026-05-15T18:36:04Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#shiori-general:matrix.org, https://matrix.to/#/#shiori:matrix.org]
 issues: [3950]
 updated: "2026-02-01T10:14:02Z"
 ---
