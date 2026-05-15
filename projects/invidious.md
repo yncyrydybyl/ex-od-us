@@ -10,7 +10,7 @@ updated: "2026-03-10T09:00:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#invidious:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-14T12:40:47Z"
+last_scanned: "2026-05-15T00:44:19Z"
 ---
 
 Invidious is an alternative front-end to YouTube
