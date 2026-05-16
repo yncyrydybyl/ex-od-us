@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-14T07:04:34Z"
+last_scanned: "2026-05-16T00:41:44Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#gaulix:matrix.org]
+matrix_rooms: [https://matrix.to/#/#meshtasticpl:matrix.org, https://matrix.to/#/#gaulix:matrix.org, https://matrix.to/#/#meshnorway:matrix.org, https://matrix.to/#/#berlinmesh:c-base.org]
 issues: [4499]
 updated: "2026-04-01T04:07:50Z"
 ---
