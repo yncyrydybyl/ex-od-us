@@ -1,18 +1,13 @@
 ---
-name: "Dpctl"
-description: "Python SYCL bindings and SYCL-based Python Array API library"
+name: Dpctl
+description: Python SYCL bindings and SYCL-based Python Array API library
 repo: "https://github.com/IntelPython/dpctl"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#Data-Parallel-Python_community:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-05-17T00:45:56Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
 issues: [5929]
