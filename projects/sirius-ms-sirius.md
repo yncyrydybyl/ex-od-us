@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-05T18:34:00Z"
+last_scanned: "2026-05-18T18:39:40Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sirius-ms:gitter.im]
 issues: [7227]
