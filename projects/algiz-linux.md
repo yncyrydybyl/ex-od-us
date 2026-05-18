@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-11T07:16:47Z"
+last_scanned: "2026-05-18T07:28:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#algiz-linux:matrix.org]
 issues: [5138]
