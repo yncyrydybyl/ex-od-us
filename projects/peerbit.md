@@ -6,7 +6,7 @@ platform: github
 categories: [Security]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-19T00:48:19Z"
+last_scanned: "2026-05-19T07:17:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#peerbit:matrix.org]
 issues: [4210]
