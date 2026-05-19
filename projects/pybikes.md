@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#citybikes:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-18T07:28:20Z"
+last_scanned: "2026-05-19T00:48:19Z"
 ---
 
 bike sharing + python = pybikes

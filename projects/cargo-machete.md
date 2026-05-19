@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cargo-machete:delire.party]
 exodus_score: 6
-last_scanned: "2026-05-18T18:39:40Z"
+last_scanned: "2026-05-19T00:48:19Z"
 ---
 
 Remove unused Rust dependencies with this one weird trick!
