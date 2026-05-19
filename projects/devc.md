@@ -10,7 +10,8 @@ updated: "2024-02-25T16:43:37Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-04-06T15:18:42Z"
+last_scanned: "2026-05-19T13:10:19Z"
+matrix_rooms: [https://matrix.to/#/#devc:matrix.org]
 ---
 
 Containers For Developers (container in a directory)

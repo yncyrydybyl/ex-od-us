@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-18T00:47:02Z"
+last_scanned: "2026-05-19T13:10:19Z"
 ---
 
 Bindings for ESP-IDF (Espressif's IoT Development Framework)

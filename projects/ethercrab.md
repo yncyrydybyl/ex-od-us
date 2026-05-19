@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethercrab:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-14T12:40:47Z"
+last_scanned: "2026-05-19T13:10:19Z"
 ---
 
 A pure Rust EtherCAT MainDevice supporting std and no_std environments

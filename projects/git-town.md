@@ -8,7 +8,7 @@ status: Active
 issues: [6371]
 updated: "2026-04-05T16:03:58Z"
 exodus_score: 1
-last_scanned: "2026-05-11T18:41:04Z"
+last_scanned: "2026-05-19T13:10:19Z"
 matrix_rooms: [https://matrix.to/#/#42wim:feneas.org]
 ---
 

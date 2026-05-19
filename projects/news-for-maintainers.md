@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#community:ansible.com.svg, https://matrix.to/#/#community:ansible.com]
 exodus_score: 6
-last_scanned: "2026-05-19T07:17:15Z"
+last_scanned: "2026-05-19T13:10:19Z"
 ---
 
 Announcements of changes impacting collection contributors and maintainers

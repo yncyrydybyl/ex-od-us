@@ -10,7 +10,7 @@ updated: "2024-12-19T07:56:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-19T07:17:15Z"
+last_scanned: "2026-05-19T13:10:19Z"
 ---
 
 CLI to synchronize, backup and restore emails

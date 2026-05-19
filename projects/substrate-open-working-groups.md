@@ -1,12 +1,12 @@
 ---
-name: "Substrate Open Working Groups"
-description: "The Susbstrate Open Working Groups (SOWG) are community-based mechanisms to develop standards, specifications, implementations, guidelines or general initiatives in regards to the Substrate framework. It could, but not restricted to, lead to new Polkadot Standards Proposals. SOWG is meant as a place"
+name: Substrate Open Working Groups
+description: The Susbstrate Open Working Groups (SOWG) are community-based mechanisms to develop standards, specifications, implementations, guidelines or general initiatives in regards to the Substrate framework. It could, but not restricted to, lead to new Polkadot Standards Proposals. SOWG is meant as a place
 repo: "https://github.com/paritytech/substrate-open-working-groups"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-05-19T13:10:19Z"
 issues: [4588]
 updated: "2021-12-02T14:27:34Z"
 ---

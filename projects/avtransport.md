@@ -1,20 +1,14 @@
 ---
-name: "Avtransport"
-description: "A new container/protocol for media transmission over networks"
+name: Avtransport
+description: A new container/protocol for media transmission over networks
 repo: "https://github.com/cyanreg/avtransport"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#avtransport:pars.ee"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#avtransport:pars.ee"
+last_scanned: "2026-05-19T13:10:19Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#avtransport:pars.ee]
 issues: [5307]
 updated: "2026-02-01T08:36:54Z"
 ---

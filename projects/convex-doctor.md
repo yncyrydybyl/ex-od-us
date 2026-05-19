@@ -1,12 +1,12 @@
 ---
-name: "Convex Doctor"
-description: "Diagnose your Convex backend for anti-patterns, security issues, and performance problems"
+name: Convex Doctor
+description: Diagnose your Convex backend for anti-patterns, security issues, and performance problems
 repo: "https://github.com/nooesc/convex-doctor"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-19T13:10:19Z"
 issues: [5705]
 updated: "2026-03-08T02:32:12Z"
 ---
