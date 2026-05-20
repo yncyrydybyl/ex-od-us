@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-20T12:56:29Z"
+last_scanned: "2026-05-20T18:51:05Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#project-mesa:matrix.org]
+matrix_rooms: [https://matrix.to/#/#mesa-geo:matrix.org, https://matrix.to/#/#project-mesa:matrix.org]
 issues: [3679]
 updated: "2026-03-30T14:04:37Z"
 ---

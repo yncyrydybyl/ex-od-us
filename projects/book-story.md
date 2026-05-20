@@ -9,15 +9,10 @@ issues: [5494]
 updated: "2026-02-20T16:00:38Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#book-story:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#book-story:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-05-20T18:51:05Z"
 ---
 
 Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
