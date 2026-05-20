@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-19T07:17:15Z"
+last_scanned: "2026-05-20T00:49:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ldes:chat.semantic.works]
 issues: [6937]

@@ -10,7 +10,7 @@ updated: "2026-04-03T18:21:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#leptos:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-19T18:40:17Z"
+last_scanned: "2026-05-20T00:49:55Z"
 ---
 
 Build fast web applications with Rust.
