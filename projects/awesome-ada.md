@@ -8,9 +8,9 @@ status: Active
 issues: [5309]
 updated: "2026-03-13T18:58:00Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#ada-lang_Lobby:gitter.im, https://matrix.to/#/#ada-lang:matrix.org]
+matrix_rooms: [https://matrix.to/#/#ada-lang_Lobby:gitter.im]
 exodus_score: 2
-last_scanned: "2026-05-21T07:21:21Z"
+last_scanned: "2026-05-21T13:12:03Z"
 ---
 
 A curated list of awesome resources related to the Ada and SPARK programming language
