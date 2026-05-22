@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-20T18:51:05Z"
+last_scanned: "2026-05-22T07:17:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#antimony:matrix.slashdev.space]
 issues: [5197]
