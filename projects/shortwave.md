@@ -10,7 +10,7 @@ updated: "2026-01-08T18:59:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shortwave:gnome.org]
 exodus_score: 4
-last_scanned: "2026-05-15T18:36:04Z"
+last_scanned: "2026-05-22T18:39:21Z"
 ---
 
 Find and listen to internet radio stations
