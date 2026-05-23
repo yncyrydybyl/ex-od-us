@@ -1,14 +1,15 @@
 ---
-name: "Skywire"
-description: "Skywire Node implementation"
+name: Skywire
+description: Skywire Node implementation
 repo: "https://github.com/skycoin/skywire"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-05-23T12:24:13Z"
 issues: [4517]
 updated: "2026-04-05T22:38:32Z"
+matrix_rooms: [https://matrix.to/#/#gotop:matrix.org]
 ---
 
 Skywire Node implementation

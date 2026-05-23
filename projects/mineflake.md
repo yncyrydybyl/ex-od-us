@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-18T00:32:47Z"
+last_scanned: "2026-05-23T12:24:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mineflake:matrix.org]
 issues: [6724]

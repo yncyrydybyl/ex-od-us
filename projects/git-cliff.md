@@ -8,7 +8,7 @@ status: Active
 issues: [6369]
 updated: "2026-04-06T07:32:22Z"
 exodus_score: 1
-last_scanned: "2026-05-23T06:58:21Z"
+last_scanned: "2026-05-23T12:24:13Z"
 matrix_rooms: [https://matrix.to/#/#git-cliff:matrix.org]
 ---
 
