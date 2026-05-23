@@ -10,7 +10,7 @@ updated: "2026-02-26T16:23:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pr2-database:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-10T18:20:15Z"
+last_scanned: "2026-05-23T18:23:47Z"
 ---
 
 Protist Ribosomal Reference database (PR2) - SSU rRNA gene database
