@@ -9,15 +9,10 @@ issues: [5524]
 updated: "2024-04-19T21:12:49Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#dothq:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dothq:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-05-23T00:46:26Z"
 ---
 
 Dot Browser for Windows, macOS and Linux
