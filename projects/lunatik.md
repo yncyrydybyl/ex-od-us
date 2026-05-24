@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-22T12:53:23Z"
+last_scanned: "2026-05-24T18:24:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lunatik:matrix.org]
 issues: [6983]
