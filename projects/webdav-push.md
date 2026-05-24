@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#webdav-push:matrix.org]
 exodus_score: 5
-last_scanned: "2026-05-23T18:23:47Z"
+last_scanned: "2026-05-24T12:27:06Z"
 ---
 
 WebDAV Push: Draft

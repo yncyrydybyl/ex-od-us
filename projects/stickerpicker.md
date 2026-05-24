@@ -10,7 +10,7 @@ updated: "2026-02-18T20:17:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stickerpicker:maunium.net]
 exodus_score: 4
-last_scanned: "2026-05-23T18:23:47Z"
+last_scanned: "2026-05-24T12:27:06Z"
 ---
 
 A fast and simple Matrix sticker picker widget
