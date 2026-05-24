@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shadertoy:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-23T06:58:21Z"
+last_scanned: "2026-05-24T00:48:10Z"
 ---
 
 using C, no external dependencies
