@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ashos:matrix.org]
 exodus_score: 2
-last_scanned: "2026-05-23T00:46:26Z"
+last_scanned: "2026-05-24T07:10:11Z"
 ---
 
 The immutable/mutable meta-distribution (universal bootstrapper)

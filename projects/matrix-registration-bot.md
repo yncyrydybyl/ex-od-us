@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-23T00:46:26Z"
+last_scanned: "2026-05-24T07:10:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-registration-bot:hyteck.de]
 issues: [3648]
