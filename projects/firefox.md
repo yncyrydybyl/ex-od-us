@@ -8,9 +8,9 @@ status: Active
 issues: [6186]
 updated: "2026-04-06T16:20:48Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#simd-everywhere_community:gitter.im, https://matrix.to/#/#aio-libs-space:matrix.org, https://matrix.to/#/#pyyaml:yaml.io, https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#aio-libs:matrix.org]
+matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-05-25T07:38:46Z"
+last_scanned: "2026-05-25T13:12:57Z"
 ---
 
 The official repository of Mozilla's Firefox web browser.
