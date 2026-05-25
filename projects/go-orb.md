@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-24T18:24:53Z"
+last_scanned: "2026-05-25T07:38:46Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-orb:jochum.dev]
 issues: [6421]

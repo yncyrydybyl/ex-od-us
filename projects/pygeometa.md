@@ -10,7 +10,7 @@ updated: "2026-03-30T15:20:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#geopython_pygeometa:gitter.im]
 exodus_score: 3
-last_scanned: "2026-05-24T12:27:06Z"
+last_scanned: "2026-05-25T07:38:46Z"
 ---
 
 pygeometa is a Python package to manage metadata for geospatial datasets
