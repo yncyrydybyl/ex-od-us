@@ -10,7 +10,7 @@ updated: "2026-03-06T22:59:58Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-05-25T13:12:57Z"
+last_scanned: "2026-05-25T18:36:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cherrypy-space:matrix.org, https://matrix.to/#/#cherrypy:matrix.org, https://matrix.to/#/#octomachinery:matrix.org, https://matrix.to/#/#pyba:matrix.org]
 ---
