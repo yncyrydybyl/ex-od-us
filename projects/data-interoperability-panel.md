@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-24T07:10:11Z"
+last_scanned: "2026-05-25T00:49:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#solid_specification:gitter.im]
 issues: [5791]

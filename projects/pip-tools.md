@@ -8,7 +8,7 @@ status: Active
 issues: [3840]
 updated: "2026-04-05T21:53:17Z"
 exodus_score: 1
-last_scanned: "2026-05-24T00:48:10Z"
+last_scanned: "2026-05-25T00:49:14Z"
 matrix_rooms: [https://matrix.to/#/#jazzband:matrix.org, https://matrix.to/#/#pip-tools:matrix.org]
 ---
 

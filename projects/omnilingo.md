@@ -10,7 +10,7 @@ updated: "2023-11-23T01:42:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#omnilingo:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-24T18:24:53Z"
+last_scanned: "2026-05-25T00:49:14Z"
 ---
 
 Listening-based language learning

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-24T18:24:53Z"
+last_scanned: "2026-05-25T00:49:14Z"
 issues: [6908]
 updated: "2025-11-12T14:37:04Z"
 matrix_rooms: [https://matrix.to/#/#libretorrent:matrix.org]

@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-23T00:46:26Z"
+last_scanned: "2026-05-25T00:49:14Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#space:nixos.org]
+matrix_rooms: [https://matrix.to/#/#space:nixos.org, https://matrix.to/#/#org_owners:nixos.org]
 issues: [6982]
 updated: "2026-04-06T17:26:13Z"
 ---
