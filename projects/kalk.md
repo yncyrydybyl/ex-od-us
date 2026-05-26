@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-25T00:49:14Z"
+last_scanned: "2026-05-26T07:17:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#plasmamobile:matrix.org]
 issues: [6787]

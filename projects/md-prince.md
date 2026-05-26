@@ -1,13 +1,14 @@
 ---
-name: "Md Prince"
+name: Md Prince
 repo: "https://github.com/PRINCE-SER/MD-prince"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-05-26T07:17:03Z"
 issues: [6659]
 updated: "2024-02-21T09:44:18Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 ## Stats

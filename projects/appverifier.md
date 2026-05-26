@@ -1,20 +1,14 @@
 ---
-name: "Appverifier"
-description: "Verify apps easily."
+name: Appverifier
+description: Verify apps easily.
 repo: "https://github.com/soupslurpr/AppVerifier"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#appverifier-space:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#appverifier-space:matrix.org"
+last_scanned: "2026-05-26T07:17:03Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#appverifier-space:matrix.org]
 issues: [5231]
 updated: "2025-08-29T11:13:23Z"
 ---

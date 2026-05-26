@@ -1,20 +1,14 @@
 ---
-name: "In Web Browsers"
-description: "Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing"
+name: In Web Browsers
+description: Tracking the endeavor towards getting web browsers to natively support IPFS and content-addressing
 repo: "https://github.com/ipfs/in-web-browsers"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#lobby:ipfs.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#lobby:ipfs.io"
+last_scanned: "2026-05-26T07:17:03Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#lobby:ipfs.io]
 issues: [6631]
 updated: "2025-07-22T14:00:41Z"
 ---

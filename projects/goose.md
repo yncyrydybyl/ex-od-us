@@ -1,14 +1,15 @@
 ---
-name: "Goose"
-description: "very tunnel"
+name: Goose
+description: very tunnel
 repo: "https://github.com/nickjfree/goose"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-26T07:17:03Z"
 issues: [6450]
 updated: "2026-01-08T12:28:26Z"
+matrix_rooms: [https://matrix.to/#/#ipld:ipfs.io]
 ---
 
 very tunnel

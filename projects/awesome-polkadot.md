@@ -1,20 +1,14 @@
 ---
-name: "Awesome Polkadot"
-description: "An opinionated list of awesome resources in the Polkadot ecosystem."
+name: Awesome Polkadot
+description: An opinionated list of awesome resources in the Polkadot ecosystem.
 repo: "https://github.com/shawntabrizi/awesome-polkadot"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#polkadot-watercooler:parity.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#polkadot-watercooler:parity.io"
+last_scanned: "2026-05-26T07:17:03Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#polkadot-watercooler:parity.io]
 issues: [5366]
 updated: "2025-03-30T08:01:41Z"
 ---

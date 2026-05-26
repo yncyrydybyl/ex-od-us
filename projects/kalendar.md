@@ -1,20 +1,14 @@
 ---
-name: "Kalendar"
-description: "A calendar application using Akonadi to sync with external services (Nextcloud, GMail, ...)"
+name: Kalendar
+description: A calendar application using Akonadi to sync with external services (Nextcloud, GMail, ...)
 repo: "https://github.com/KDE/kalendar"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#kalendar:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#kalendar:kde.org"
+last_scanned: "2026-05-26T07:17:03Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#kalendar:kde.org]
 issues: [6784]
 updated: "2023-07-12T04:52:28Z"
 ---

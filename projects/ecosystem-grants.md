@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-04-21T06:42:08Z"
+last_scanned: "2026-05-26T07:17:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sm-bounty-support:matrix.org]
 issues: [5971]
