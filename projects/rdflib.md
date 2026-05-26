@@ -10,7 +10,7 @@ updated: "2026-03-30T05:46:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#RDFLib_rdflib:gitter.im, https://matrix.to/#/#rdflib:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-26T07:17:03Z"
+last_scanned: "2026-05-26T13:03:32Z"
 ---
 
 RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.

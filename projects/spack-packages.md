@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-05-22T00:47:45Z"
+last_scanned: "2026-05-26T13:03:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#spack-space:matrix.org]
 issues: [4548]

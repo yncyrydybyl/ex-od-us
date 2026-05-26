@@ -1,14 +1,15 @@
 ---
-name: "Letta Mcp Server"
-description: "MCP server to manage letta server and comunicate with agents"
+name: Letta Mcp Server
+description: MCP server to manage letta server and comunicate with agents
 repo: "https://github.com/oculairmedia/Letta-MCP-server"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-26T13:03:32Z"
 issues: [6878]
 updated: "2026-04-06T15:02:08Z"
+matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#ron-rs:matrix.org]
 ---
 
 MCP server to manage letta server and comunicate with agents
