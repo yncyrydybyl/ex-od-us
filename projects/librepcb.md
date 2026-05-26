@@ -1,20 +1,14 @@
 ---
-name: "Librepcb"
-description: "A powerful, innovative and intuitive EDA suite for everyone!"
+name: Librepcb
+description: A powerful, innovative and intuitive EDA suite for everyone!
 repo: "https://github.com/LibrePCB/LibrePCB"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#librepcb:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#librepcb:matrix.org"
+last_scanned: "2026-05-26T18:51:13Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#librepcb:matrix.org]
 issues: [6902]
 updated: "2026-04-06T16:30:04Z"
 ---
