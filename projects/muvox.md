@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-15T18:36:04Z"
+last_scanned: "2026-05-27T07:30:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp32_audio:matrix.org]
 issues: [6826]

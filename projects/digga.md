@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#devos:matrix.org, https://matrix.to/#/#devos:nixos.org]
 exodus_score: 6
-last_scanned: "2026-05-26T07:17:03Z"
+last_scanned: "2026-05-27T07:30:42Z"
 ---
 
 A flake utility library to craft shell-, home-, and hosts- environments. 
