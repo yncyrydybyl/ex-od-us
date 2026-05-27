@@ -6,7 +6,7 @@ platform: github
 categories: [Bridging, Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-27T07:30:42Z"
+last_scanned: "2026-05-27T13:14:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 issues: [3633]

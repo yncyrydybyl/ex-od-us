@@ -10,7 +10,7 @@ updated: "2026-01-27T04:46:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 exodus_score: 5
-last_scanned: "2026-05-27T07:30:42Z"
+last_scanned: "2026-05-27T13:14:25Z"
 ---
 
 Browser extension that simplifies access to IPFS resources on the web

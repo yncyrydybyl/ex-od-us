@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-27T07:30:42Z"
+last_scanned: "2026-05-27T13:14:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#modalkit:0x.badd.cafe, https://matrix.to/#/#modalkit:0x.badd]
 issues: [6774]
