@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bitcoinj-users:matrix.org]
 exodus_score: 5
-last_scanned: "2026-05-26T18:51:13Z"
+last_scanned: "2026-05-27T00:48:58Z"
 ---
 
 A library for working with Bitcoin
