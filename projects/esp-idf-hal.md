@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-28T00:44:38Z"
+last_scanned: "2026-05-28T13:18:18Z"
 ---
 
 embedded-hal implementation for Rust on ESP32 and ESP-IDF

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#amberol:gnome.org]
 exodus_score: 5
-last_scanned: "2026-05-24T07:10:11Z"
+last_scanned: "2026-05-28T13:18:18Z"
 ---
 
 fork from https://gitlab.gnome.org/World/amberol
