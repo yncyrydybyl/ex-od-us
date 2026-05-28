@@ -9,15 +9,10 @@ issues: [6017]
 updated: "2026-03-31T22:04:07Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#users:elv.sh"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#users:elv.sh]
 exodus_score: 6
-last_scanned: "2026-04-06T15:19:29Z"
+last_scanned: "2026-05-28T07:24:50Z"
 ---
 
 Powerful scripting language & versatile interactive shell

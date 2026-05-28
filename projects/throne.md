@@ -1,14 +1,15 @@
 ---
-name: "Throne"
-description: "Cross-platform GUI proxy utility (Empowered by sing-box)"
+name: Throne
+description: Cross-platform GUI proxy utility (Empowered by sing-box)
 repo: "https://github.com/throneproj/Throne"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-28T07:24:50Z"
 issues: [4647]
 updated: "2026-04-05T00:04:03Z"
+matrix_rooms: [https://matrix.to/#/#simple-protobuf:gitter.im]
 ---
 
 Cross-platform GUI proxy utility (Empowered by sing-box)

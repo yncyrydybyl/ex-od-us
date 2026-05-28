@@ -9,15 +9,10 @@ issues: [2031]
 updated: "2024-04-05T15:45:48Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#vta:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vta:matrix.org]
 exodus_score: 4
-last_scanned: "2026-04-06T15:24:53Z"
+last_scanned: "2026-05-28T07:24:50Z"
 ---
 
 Vocabulary Trainer for Android - not lang specific

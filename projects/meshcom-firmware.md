@@ -8,7 +8,7 @@ status: Active
 issues: [3684]
 updated: "2026-04-06T13:35:53Z"
 exodus_score: 1
-last_scanned: "2026-05-28T00:44:38Z"
+last_scanned: "2026-05-28T07:24:50Z"
 matrix_rooms: [https://matrix.to/#/#epdiy-general:matrix.vroland.de]
 ---
 
