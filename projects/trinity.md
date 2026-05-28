@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trinity:delire.party]
 exodus_score: 6
-last_scanned: "2026-05-28T13:18:18Z"
+last_scanned: "2026-05-28T18:55:47Z"
 ---
 
 Matrix bots in Rust and WebAssembly
