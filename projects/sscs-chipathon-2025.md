@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-29T07:24:18Z"
+last_scanned: "2026-05-29T13:09:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chipathon-2025:fossi-chat.org]
 issues: [4560]
