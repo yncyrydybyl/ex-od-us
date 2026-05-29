@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#general:nixbitcoin.org]
 exodus_score: 6
-last_scanned: "2026-05-29T13:09:38Z"
+last_scanned: "2026-05-29T18:54:53Z"
 ---
 
 A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
