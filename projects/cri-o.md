@@ -10,7 +10,7 @@ updated: "2026-04-06T00:21:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-capnp:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-28T13:18:18Z"
+last_scanned: "2026-05-30T12:28:42Z"
 ---
 
 Open Container Initiative-based implementation of Kubernetes Container Runtime Interface

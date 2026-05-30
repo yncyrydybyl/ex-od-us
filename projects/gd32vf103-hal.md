@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-27T07:30:42Z"
+last_scanned: "2026-05-30T12:28:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gd32v-rust:matrix.org]
 issues: [6332]

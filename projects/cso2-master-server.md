@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-23T00:46:26Z"
+last_scanned: "2026-05-30T12:28:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cso2:matrix.leite.xyz]
 issues: [5743]
