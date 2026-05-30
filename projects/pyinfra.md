@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-29T07:24:18Z"
+last_scanned: "2026-05-30T07:04:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pyinfra:matrix.org]
 issues: [4312]
