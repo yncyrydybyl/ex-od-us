@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-19T00:48:19Z"
+last_scanned: "2026-05-30T00:47:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#qdmr:darc.de]
 issues: [4327]

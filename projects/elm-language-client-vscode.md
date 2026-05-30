@@ -10,7 +10,7 @@ updated: "2026-03-29T17:48:24Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-05-29T18:54:53Z"
+last_scanned: "2026-05-30T00:47:23Z"
 matrix_rooms: [https://matrix.to/#/#elm-language-server:matrix.org]
 ---
 
