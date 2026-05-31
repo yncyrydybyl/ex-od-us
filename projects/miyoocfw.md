@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-31T00:51:14Z"
+last_scanned: "2026-05-31T12:32:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#miyoocfw:matrix.org]
 issues: [6754]
