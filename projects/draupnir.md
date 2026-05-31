@@ -1,23 +1,13 @@
 ---
-name: "Draupnir"
-description: "A Matrix community management platform"
+name: Draupnir
+description: A Matrix community management platform
 repo: "https://github.com/the-draupnir-project/Draupnir"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#community-moderation-effort-bl:neko.dev"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#draupnir:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+last_scanned: "2026-05-31T00:51:14Z"
+matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#community-moderation-effort-bl:neko.dev"
   - "https://matrix.to/#/#draupnir:matrix.org"
