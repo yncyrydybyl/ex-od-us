@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#blendos:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-05-31T07:22:09Z"
 ---
 
 [READ-ONLY] A seamless blend of all Linux distributions.

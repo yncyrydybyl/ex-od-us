@@ -8,7 +8,7 @@ status: Active
 issues: [3234]
 updated: "2026-03-27T07:00:58Z"
 exodus_score: 1
-last_scanned: "2026-05-31T00:51:14Z"
+last_scanned: "2026-05-31T07:22:09Z"
 matrix_rooms: [https://matrix.to/#/#firenvim:matrix.org]
 ---
 

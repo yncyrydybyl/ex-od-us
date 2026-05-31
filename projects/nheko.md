@@ -8,9 +8,9 @@ status: Active
 issues: [6903]
 updated: "2026-04-06T11:22:14Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#nheko-reborn:matrix.org, https://matrix.to/#/#nheko-reborn:matrix.org.svg, https://matrix.to/#/#nheko:nheko.im]
+matrix_rooms: [https://matrix.to/#/#nheko-reborn:matrix.org.svg, https://matrix.to/#/#nheko-reborn:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-31T00:51:14Z"
+last_scanned: "2026-05-31T07:22:09Z"
 ---
 
 Desktop client for Matrix using Qt and C++20.

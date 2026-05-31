@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-05-28T13:18:18Z"
+last_scanned: "2026-05-31T07:22:09Z"
 issues: [6594]
 updated: "2025-12-11T19:58:27Z"
 matrix_rooms: [https://matrix.to/#/#meta-raspberrypi:matrix.org]

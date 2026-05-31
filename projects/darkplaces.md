@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#darkplaces:matrix.org]
 exodus_score: 5
-last_scanned: "2026-05-31T00:51:14Z"
+last_scanned: "2026-05-31T07:22:09Z"
 ---
 
 The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). 

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-31T00:51:14Z"
+last_scanned: "2026-05-31T07:22:09Z"
 issues: [6803]
 updated: "2026-03-15T10:06:23Z"
 matrix_rooms: [https://matrix.to/#/#keepassxc-dev:matrix.org, https://matrix.to/#/#keepassxc:mozilla.org, https://matrix.to/#/#keepassxc-dev:mozilla.org, https://matrix.to/#/#keepassxc:matrix.org]

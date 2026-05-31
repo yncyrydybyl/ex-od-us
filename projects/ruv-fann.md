@@ -6,10 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-31T07:22:09Z"
 issues: [4442]
 updated: "2026-02-09T17:58:18Z"
-last_scanned: "2026-04-06T20:35:19Z"
 ---
 
 A blazing-fast, memory-safe neural network library for Rust that brings the power of FANN to the modern world.
