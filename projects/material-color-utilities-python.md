@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#AdwCustomizer:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-28T13:18:18Z"
+last_scanned: "2026-05-31T18:27:25Z"
 ---
 
 Python port of material-color-utilities used for Material You colors

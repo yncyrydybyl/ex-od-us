@@ -1,14 +1,15 @@
 ---
-name: "Kargos"
-description: "KDE Plasma port of GNOME Argos and OSX BitBar"
+name: Kargos
+description: KDE Plasma port of GNOME Argos and OSX BitBar
 repo: "https://github.com/lipido/kargos"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 1
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-05-31T18:27:25Z"
 issues: [6792]
 updated: "2020-08-21T04:36:07Z"
+matrix_rooms: [https://matrix.to/#/#kargos:kde.org]
 ---
 
 KDE Plasma port of GNOME Argos and OSX BitBar

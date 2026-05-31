@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-28T13:18:18Z"
+last_scanned: "2026-05-31T18:27:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rorm:matrix.hopfenspace.org]
 issues: [4407]
