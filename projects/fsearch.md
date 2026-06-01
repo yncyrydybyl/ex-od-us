@@ -1,20 +1,14 @@
 ---
-name: "Fsearch"
-description: "A fast file search utility for Unix-like systems based on GTK3"
+name: Fsearch
+description: A fast file search utility for Unix-like systems based on GTK3
 repo: "https://github.com/cboxdoerfer/fsearch"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#fsearch:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fsearch:matrix.org"
+last_scanned: "2026-06-01T07:50:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fsearch:matrix.org]
 issues: [6300]
 updated: "2026-04-04T15:09:53Z"
 ---
