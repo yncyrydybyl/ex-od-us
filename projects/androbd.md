@@ -10,7 +10,7 @@ updated: "2026-04-04T06:47:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#AndrOBD:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-31T12:32:32Z"
+last_scanned: "2026-06-01T00:53:38Z"
 ---
 
 Android OBD diagnostics with any ELM327 adapter

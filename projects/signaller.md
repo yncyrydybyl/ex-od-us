@@ -8,9 +8,9 @@ status: Active
 issues: [4508]
 updated: "2023-02-06T23:41:47Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#signaller_dev:netwhood.online, https://matrix.to/#/#signaller_dev_ru:netwhood.online]
+matrix_rooms: [https://matrix.to/#/#signaller_dev:netwhood.online]
 exodus_score: 5
-last_scanned: "2026-05-31T18:27:25Z"
+last_scanned: "2026-06-01T00:53:38Z"
 ---
 
 The lightweight (but full-featured) Matrix server, written in Go language
