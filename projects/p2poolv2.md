@@ -1,12 +1,15 @@
 ---
-name: "P2Poolv2"
-description: "P2Poolv2 - Rebooting P2Pool for Bitcoin"
+name: P2Poolv2
+description: P2Poolv2 - Rebooting P2Pool for Bitcoin
 repo: "https://github.com/p2poolv2/p2poolv2"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 issues: [4180]
 updated: "2026-04-06T07:16:08Z"
+matrix_rooms: [https://matrix.to/#/#p2poolv2:matrix.org]
+exodus_score: 2
+last_scanned: "2026-06-01T19:40:40Z"
 ---
 
 P2Poolv2 - Rebooting P2Pool for Bitcoin

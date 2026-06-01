@@ -1,20 +1,14 @@
 ---
-name: "Github Exporter"
-description: "Prometheus exporter for GitHub"
+name: Github Exporter
+description: Prometheus exporter for GitHub
 repo: "https://github.com/promhippie/github_exporter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#webhippie:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#webhippie:matrix.org"
+last_scanned: "2026-06-01T19:40:40Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#webhippie:matrix.org]
 issues: [6373]
 updated: "2026-04-06T09:18:16Z"
 ---
