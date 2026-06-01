@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-21T18:40:55Z"
+last_scanned: "2026-06-01T14:05:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stylix:danth.me]
 issues: [4583]
