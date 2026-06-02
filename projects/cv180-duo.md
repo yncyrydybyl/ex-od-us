@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-01T14:05:17Z"
+last_scanned: "2026-06-02T13:20:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#milkv-duo:matrix.org]
 issues: [5757]

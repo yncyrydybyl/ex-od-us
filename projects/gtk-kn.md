@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [6486]
 updated: "2025-02-14T13:48:56Z"
-matrix_links:
-  - target: "#gtk-kn:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gtk-kn:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-06-02T13:20:44Z"
 ---
 
 Kotlin/Native bindings for the GTK and other GObject-based libraries (read only mirror of GitLab)

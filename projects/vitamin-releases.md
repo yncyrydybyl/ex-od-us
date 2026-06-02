@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4773]
 updated: "2026-02-06T17:48:05Z"
-matrix_links:
-  - target: "#librewolf:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#librewolf:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-06-02T13:20:44Z"
 ---
 
 Privacy-focused browser based on LibreWolf with data poisoning to fight tracker profiling
