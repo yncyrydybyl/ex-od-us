@@ -1,20 +1,14 @@
 ---
-name: "Hetzner Exporter"
-description: "Prometheus exporter for Hetzner"
+name: Hetzner Exporter
+description: Prometheus exporter for Hetzner
 repo: "https://github.com/promhippie/hetzner_exporter"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#webhippie:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#webhippie:matrix.org"
+last_scanned: "2026-06-02T19:18:08Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#webhippie:matrix.org]
 issues: [6534]
 updated: "2026-04-06T09:14:24Z"
 ---
