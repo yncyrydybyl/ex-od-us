@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-01T07:50:47Z"
+last_scanned: "2026-06-02T00:54:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#oreboot-dev:matrix.org]
 issues: [7203]
