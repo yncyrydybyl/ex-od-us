@@ -8,8 +8,8 @@ status: Active
 issues: [6727]
 updated: "2026-04-05T18:37:19Z"
 exodus_score: 1
-last_scanned: "2026-06-03T00:59:36Z"
-matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg]
+last_scanned: "2026-06-03T07:46:05Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg, https://matrix.to/#/#jellyfin-vue:matrix.org]
 ---
 
 A modern web client for Jellyfin based on Vue

@@ -1,14 +1,15 @@
 ---
-name: "Katello"
-description: "Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines."
+name: Katello
+description: Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.
 repo: "https://github.com/Katello/katello"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-06-03T07:46:05Z"
 issues: [6795]
 updated: "2026-04-03T21:06:02Z"
+matrix_rooms: [https://matrix.to/#/#theforeman:matrix.org, https://matrix.to/#/#theforeman-dev:matrix.org]
 ---
 
 Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.
