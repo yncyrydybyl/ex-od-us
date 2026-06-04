@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-04T07:41:50Z"
+last_scanned: "2026-06-04T18:49:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kde-plasma-panel-colorizer:matrix.org]
 issues: [4246]

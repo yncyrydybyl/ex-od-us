@@ -10,7 +10,7 @@ updated: "2026-03-01T20:10:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pimalaya:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-04T13:09:06Z"
+last_scanned: "2026-06-04T18:49:48Z"
 ---
 
 Core libraries of the Pimalaya project, dedicated to Personal Information Management

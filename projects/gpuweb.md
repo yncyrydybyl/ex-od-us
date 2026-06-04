@@ -10,7 +10,7 @@ updated: "2026-03-24T21:32:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#WebGPU:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-04T07:41:50Z"
+last_scanned: "2026-06-04T18:49:48Z"
 ---
 
 Where the GPU for the Web work happens!
