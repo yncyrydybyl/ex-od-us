@@ -10,7 +10,7 @@ updated: "2025-12-15T03:07:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-04T07:41:50Z"
+last_scanned: "2026-06-04T13:09:06Z"
 ---
 
 Java grammar for tree-sitter
