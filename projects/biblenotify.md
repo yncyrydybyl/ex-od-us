@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bible-notify:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-03T13:41:46Z"
+last_scanned: "2026-06-04T00:59:28Z"
 ---
 
 Offline, privacy-friendly daily Bible verse notification app for Android
