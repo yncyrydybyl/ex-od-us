@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#boa:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-03T07:46:05Z"
+last_scanned: "2026-06-05T18:42:27Z"
 ---
 
 Boa is an embeddable Javascript engine written in Rust.
