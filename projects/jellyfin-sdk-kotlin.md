@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-04T18:49:48Z"
+last_scanned: "2026-06-05T00:51:51Z"
 issues: [6720]
 updated: "2026-04-06T06:59:44Z"
 matrix_rooms: [https://matrix.to/#/#jellyfin-android-dev:matrix.org.svg]
