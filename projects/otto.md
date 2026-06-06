@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-01T14:05:17Z"
+last_scanned: "2026-06-06T18:29:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#otto-compositor:matrix.org]
 issues: [4172]

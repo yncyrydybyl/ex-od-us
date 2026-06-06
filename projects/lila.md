@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-04T13:09:06Z"
+last_scanned: "2026-06-06T18:29:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#reproducible-builds:nixos.org]
 issues: [6929]
