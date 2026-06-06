@@ -10,7 +10,7 @@ updated: "2026-04-06T05:24:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#limine:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-06T00:49:21Z"
+last_scanned: "2026-06-06T07:08:11Z"
 ---
 
 Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
