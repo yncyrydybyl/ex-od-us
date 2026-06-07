@@ -9,7 +9,7 @@ updated: "2025-12-15T05:14:36Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#subquery:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-06T18:29:59Z"
+last_scanned: "2026-06-07T12:36:27Z"
 ---
 
 ## Stats
