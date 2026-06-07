@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-01T14:05:17Z"
+last_scanned: "2026-06-07T18:30:29Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rulewerk-support:tu-dresden.de]
 issues: [3925]

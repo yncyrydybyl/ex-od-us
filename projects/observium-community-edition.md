@@ -1,14 +1,15 @@
 ---
-name: "Observium Community Edition"
-description: "Unofficial mirror of Observium Community Edition. Automatic updates through a GitHub Actions workflow."
+name: Observium Community Edition
+description: Unofficial mirror of Observium Community Edition. Automatic updates through a GitHub Actions workflow.
 repo: "https://github.com/DanielleHuisman/observium-community-edition"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-06-07T18:30:29Z"
 issues: [3790]
 updated: "2026-03-21T09:47:00Z"
+matrix_rooms: [https://matrix.to/#/#flight-php-framework:matrix.org]
 ---
 
 Unofficial mirror of Observium Community Edition. Automatic updates through a GitHub Actions workflow.
