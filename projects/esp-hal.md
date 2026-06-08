@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-07T07:27:17Z"
+last_scanned: "2026-06-08T13:31:32Z"
 ---
 
 no_std Hardware Abstraction Layers for ESP32 microcontrollers
