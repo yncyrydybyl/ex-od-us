@@ -10,7 +10,7 @@ updated: "2026-04-03T09:32:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#linux-surface-development:matrix.org, https://matrix.to/#/#linux-surface:matrix.org, https://matrix.to/#/#linux-surface-support:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-08T13:31:32Z"
+last_scanned: "2026-06-08T18:53:05Z"
 ---
 
 Linux Kernel for Surface Devices

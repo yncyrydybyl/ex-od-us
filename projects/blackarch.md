@@ -9,15 +9,10 @@ issues: [708]
 updated: "2026-04-06T09:22:18Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_links:
-  - target: "#BlackArch:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#BlackArch:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T15:17:03Z"
+last_scanned: "2026-06-08T18:53:05Z"
 ---
 
 An ArchLinux based distribution for penetration testers and security researchers.
