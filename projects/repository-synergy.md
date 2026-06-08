@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-06-07T18:30:29Z"
+last_scanned: "2026-06-08T07:47:21Z"
 issues: [1994]
 updated: "2021-05-08T20:43:36Z"
 verified: true

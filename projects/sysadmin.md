@@ -1,14 +1,15 @@
 ---
-name: "Sysadmin"
-description: "the flow of time is always cruel"
+name: Sysadmin
+description: the flow of time is always cruel
 repo: "https://github.com/babywyrm/sysadmin"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-06-08T07:47:21Z"
 issues: [4603]
 updated: "2026-04-05T01:47:43Z"
+matrix_rooms: [https://matrix.to/#/#apparmor.d:matrix.org]
 ---
 
 the flow of time is always cruel

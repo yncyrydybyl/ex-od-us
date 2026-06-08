@@ -1,12 +1,12 @@
 ---
-name: "Coding For Mba"
-description: "Teach coding to friends."
+name: Coding For Mba
+description: Teach coding to friends.
 repo: "https://github.com/saint2706/Coding-For-MBA"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-06-08T07:47:21Z"
 issues: [5640]
 updated: "2026-04-05T19:49:06Z"
 ---
