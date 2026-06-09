@@ -10,7 +10,7 @@ updated: "2026-03-01T16:17:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 exodus_score: 5
-last_scanned: "2026-06-09T00:47:43Z"
+last_scanned: "2026-06-09T07:18:13Z"
 ---
 
 Install Kubo (go-ipfs) from NPM
