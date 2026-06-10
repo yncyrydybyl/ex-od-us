@@ -8,7 +8,7 @@ status: Active
 issues: [6855]
 updated: "2026-03-30T08:59:04Z"
 exodus_score: 1
-last_scanned: "2026-06-09T18:47:15Z"
+last_scanned: "2026-06-10T00:53:40Z"
 matrix_rooms: [https://matrix.to/#/#ndcube:openastronomy.org.svg]
 ---
 
