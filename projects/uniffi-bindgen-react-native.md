@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-09T00:47:43Z"
+last_scanned: "2026-06-10T18:56:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#uniffi-bindgen-js:matrix.org]
 issues: [4750]
