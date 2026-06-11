@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-05-19T00:48:19Z"
+last_scanned: "2026-06-11T19:02:21Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dev:matrix.scion, https://matrix.to/#/#dev:matrix.scion.org]
 issues: [4461]

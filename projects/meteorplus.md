@@ -10,7 +10,7 @@ updated: "2026-03-21T13:43:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meteor:tchncs.de]
 exodus_score: 5
-last_scanned: "2026-06-11T13:22:17Z"
+last_scanned: "2026-06-11T19:02:21Z"
 ---
 
 An addon for Meteor client that adds many blatant features.

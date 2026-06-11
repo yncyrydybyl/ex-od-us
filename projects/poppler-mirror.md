@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-06-09T00:47:43Z"
+last_scanned: "2026-06-11T19:02:21Z"
 issues: [4263]
 updated: "2026-04-04T10:58:06Z"
 matrix_rooms: [https://matrix.to/#/#poppler:kde.org]
