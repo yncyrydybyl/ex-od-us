@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#thetagang:frens.io]
 exodus_score: 5
-last_scanned: "2026-05-11T13:03:38Z"
+last_scanned: "2026-06-11T13:22:17Z"
 ---
 
 ThetaGang is an IBKR bot for collecting money
