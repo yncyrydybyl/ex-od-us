@@ -1,26 +1,14 @@
 ---
-name: "Cabal"
-description: "Official upstream development repository for Cabal and cabal-install"
+name: Cabal
+description: Official upstream development repository for Cabal and cabal-install
 repo: "https://github.com/haskell/cabal"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#hackage:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-  - target: "#haskell:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#haskell:matrix.org"
-  - "https://matrix.to/#/#hackage:matrix.org"
+last_scanned: "2026-06-11T00:53:13Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#haskell:matrix.org, https://matrix.to/#/#hackage:matrix.org]
 issues: [5551]
 updated: "2026-04-05T06:56:42Z"
 ---

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#paisa:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-10T13:14:06Z"
+last_scanned: "2026-06-11T00:53:13Z"
 ---
 
 Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi

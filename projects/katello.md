@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-06-10T07:33:03Z"
+last_scanned: "2026-06-11T00:53:13Z"
 issues: [6795]
 updated: "2026-04-03T21:06:02Z"
 matrix_rooms: [https://matrix.to/#/#theforeman:matrix.org, https://matrix.to/#/#theforeman-dev:matrix.org]

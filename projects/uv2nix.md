@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-06-11T00:53:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pyproject.nix:blad.is]
 issues: [4759]

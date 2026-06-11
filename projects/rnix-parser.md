@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-10T13:14:06Z"
+last_scanned: "2026-06-11T00:53:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rnix-lsp:matrix.org]
 issues: [4394]
