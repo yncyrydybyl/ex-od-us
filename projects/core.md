@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flight-php-framework:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-11T19:02:21Z"
+last_scanned: "2026-06-12T00:56:21Z"
 ---
 
 An extensible micro-framework for PHP

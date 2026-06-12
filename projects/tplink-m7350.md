@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-06T18:29:59Z"
+last_scanned: "2026-06-12T00:56:21Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tplink_rayhunter:chaospott.de]
 issues: [4004]
