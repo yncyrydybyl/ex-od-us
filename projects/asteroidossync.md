@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#asteroid:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-11T19:02:21Z"
+last_scanned: "2026-06-13T00:55:22Z"
 ---
 
 Android application to synchronize a phone with a watch running asteroid-btsyncd.
