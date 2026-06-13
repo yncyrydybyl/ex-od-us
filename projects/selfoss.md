@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#selfoss:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-12T18:42:34Z"
+last_scanned: "2026-06-13T07:22:00Z"
 ---
 
 multipurpose rss reader, live stream, mashup, aggregation web application
