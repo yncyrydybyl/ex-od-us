@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nutils-users:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-13T18:32:23Z"
+last_scanned: "2026-06-15T14:10:33Z"
 ---
 
 The nutils project

@@ -8,8 +8,8 @@ status: Active
 issues: [6733]
 updated: "2026-04-06T13:37:59Z"
 exodus_score: 1
-last_scanned: "2026-06-15T08:04:43Z"
-matrix_rooms: [https://matrix.to/#/#jellyfinorg:matrix.org.svg]
+last_scanned: "2026-06-15T14:10:33Z"
+matrix_rooms: [https://matrix.to/#/#jellyfinorg:matrix.org.svg, https://matrix.to/#/#jellyfinorg:matrix.org]
 ---
 
 The Free Software Media System - Server Backend & API
