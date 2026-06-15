@@ -10,7 +10,7 @@ updated: "2024-11-19T12:16:14Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-06-14T12:42:40Z"
+last_scanned: "2026-06-15T00:57:01Z"
 matrix_rooms: [https://matrix.to/#/#chimehq:matrix.org]
 ---
 

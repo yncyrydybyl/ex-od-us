@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#managarr:matrix.org, https://matrix.to/#/#managarr-room:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-14T18:33:02Z"
+last_scanned: "2026-06-15T00:57:01Z"
 ---
 
 A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
