@@ -10,7 +10,7 @@ updated: "2025-11-24T03:18:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-15T14:10:33Z"
+last_scanned: "2026-06-15T19:25:51Z"
 ---
 
 C grammar for tree-sitter
