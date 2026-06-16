@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-16T01:01:50Z"
+last_scanned: "2026-06-16T13:51:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dokieli:matrix.org]
 issues: [5913]
