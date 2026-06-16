@@ -10,7 +10,7 @@ updated: "2024-10-02T23:23:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shoebot:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-16T13:51:39Z"
+last_scanned: "2026-06-16T19:16:09Z"
 ---
 
 Easy vector graphics with Python
