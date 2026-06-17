@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#akiraux:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-16T19:16:09Z"
+last_scanned: "2026-06-17T00:56:18Z"
 ---
 
 Native Linux App for UI and UX Design built in Vala and GTK

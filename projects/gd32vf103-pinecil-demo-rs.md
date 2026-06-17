@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gd32v-rust:matrix.org]
 exodus_score: 3
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-06-17T00:56:18Z"
 ---
 
 Trying embedded Rust on the Pinecil GD32VF103 RISC-V device.
