@@ -10,7 +10,7 @@ updated: "2026-04-01T05:16:23Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-06-14T18:33:02Z"
+last_scanned: "2026-06-17T07:55:03Z"
 matrix_rooms: [https://matrix.to/#/#oinkoin:matrix.org]
 ---
 

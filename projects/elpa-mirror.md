@@ -9,7 +9,7 @@ issues: [6015]
 updated: "2026-04-06T12:28:52Z"
 matrix_rooms: [https://matrix.to/#/#ement.el:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-06-17T00:56:18Z"
+last_scanned: "2026-06-17T07:55:03Z"
 ---
 
 Mirror for some Emacs package archives
