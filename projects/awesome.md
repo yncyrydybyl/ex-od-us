@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#AlpineJS:matrix.org, https://matrix.to/#/#AlpineJS-fa:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-18T13:13:45Z"
+last_scanned: "2026-06-18T18:51:02Z"
 ---
 
 🚀A curated list of awesome resources related to Alpine.

@@ -10,7 +10,7 @@ updated: "2025-08-29T02:40:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-18T13:13:45Z"
+last_scanned: "2026-06-18T18:51:02Z"
 ---
 
 tree-sitter grammar for the CodeQL language
