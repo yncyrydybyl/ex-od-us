@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#syng:matrix.org]
 exodus_score: 5
-last_scanned: "2026-06-17T18:52:46Z"
+last_scanned: "2026-06-18T00:56:02Z"
 ---
 
 All in one karaoke software
