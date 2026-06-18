@@ -9,7 +9,7 @@ updated: "2024-10-13T14:35:21Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#homeworld-sdl:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-17T13:20:09Z"
+last_scanned: "2026-06-18T13:13:45Z"
 ---
 
 ## Stats

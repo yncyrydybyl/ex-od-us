@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#floco:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-17T18:52:46Z"
+last_scanned: "2026-06-18T13:13:45Z"
 ---
 
 Using Nix to put NPM and Yarn in a coffin

@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#airsonic:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-17T18:52:46Z"
+last_scanned: "2026-06-18T13:13:45Z"
 ---
 
 ## Stats
