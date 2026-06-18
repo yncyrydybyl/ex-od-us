@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-10T07:33:03Z"
+last_scanned: "2026-06-18T07:44:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#404-novel-project:bgme.me]
 issues: [7003]

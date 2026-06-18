@@ -10,7 +10,7 @@ updated: "2026-04-05T20:43:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vaultwarden:matrix.org.svg, https://matrix.to/#/#vaultwarden:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-18T00:56:02Z"
+last_scanned: "2026-06-18T07:44:59Z"
 ---
 
 Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
