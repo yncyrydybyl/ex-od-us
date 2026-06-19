@@ -1,12 +1,12 @@
 ---
-name: "Chef"
-description: "Chef configuration management repo for configuring & maintaining the OpenStreetMap servers."
+name: Chef
+description: Chef configuration management repo for configuring & maintaining the OpenStreetMap servers.
 repo: "https://github.com/openstreetmap/chef"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-06-19T18:39:42Z"
 issues: [5586]
 updated: "2026-04-04T15:42:23Z"
 ---
