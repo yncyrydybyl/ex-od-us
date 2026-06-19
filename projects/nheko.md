@@ -10,7 +10,7 @@ updated: "2026-04-06T11:22:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nheko-reborn:matrix.org, https://matrix.to/#/#nheko-reborn:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-06-18T13:13:45Z"
+last_scanned: "2026-06-19T01:00:39Z"
 ---
 
 Desktop client for Matrix using Qt and C++20.

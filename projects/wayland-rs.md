@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-18T18:51:02Z"
+last_scanned: "2026-06-19T01:00:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wayland-rs:matrix.org]
 issues: [4799]

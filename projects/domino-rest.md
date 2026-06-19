@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#DominoKit_domino:gitter.im]
 exodus_score: 3
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-06-19T01:00:39Z"
 ---
 
 domino-rest
