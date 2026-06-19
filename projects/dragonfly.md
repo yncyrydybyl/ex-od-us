@@ -10,7 +10,7 @@ updated: "2026-01-22T01:03:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dragonfly2:matrix.org.svg]
 exodus_score: 4
-last_scanned: "2026-06-19T07:55:54Z"
+last_scanned: "2026-06-19T13:14:40Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
