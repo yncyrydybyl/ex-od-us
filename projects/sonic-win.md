@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-18T13:13:45Z"
+last_scanned: "2026-06-19T07:55:54Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sonicdesktop:matrix.org]
 issues: [4541]
