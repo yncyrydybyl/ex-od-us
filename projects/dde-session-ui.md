@@ -10,7 +10,7 @@ updated: "2026-03-26T11:43:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-20T12:40:28Z"
+last_scanned: "2026-06-20T18:33:07Z"
 ---
 
 dde-session-ui module
