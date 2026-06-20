@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-18T07:44:59Z"
+last_scanned: "2026-06-20T00:51:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#coffea-hep_community:gitter.im]
 issues: [5644]

@@ -9,7 +9,7 @@ issues: [5859]
 updated: "2026-04-06T11:30:37Z"
 matrix_rooms: [https://matrix.to/#/#deskflow:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-19T18:39:42Z"
+last_scanned: "2026-06-20T00:51:03Z"
 ---
 
 Share a single keyboard and mouse between multiple computers.
