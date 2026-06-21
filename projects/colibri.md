@@ -10,7 +10,7 @@ updated: "2026-03-28T12:54:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#colibriwallet:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-21T00:56:28Z"
+last_scanned: "2026-06-21T07:41:54Z"
 ---
 
 DIY crypto hardware wallet, based on cheap ESP32 board - build yours easily with Arduino IDE, starting at $4 in parts! ~~~~~~~~~ Mirror of https://codeberg.org/xtools-at/colibri
