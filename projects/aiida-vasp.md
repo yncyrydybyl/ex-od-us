@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-18T00:56:02Z"
+last_scanned: "2026-06-21T18:34:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aiida-vasp:matrix.org]
 issues: [5126]
