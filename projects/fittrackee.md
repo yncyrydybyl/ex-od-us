@@ -10,7 +10,7 @@ updated: "2026-04-06T14:06:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fittrackee:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-22T00:56:19Z"
+last_scanned: "2026-06-22T13:55:50Z"
 ---
 
 Self-hosted outdoor activity tracker :bicyclist:

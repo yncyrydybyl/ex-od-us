@@ -9,7 +9,7 @@ issues: [2016]
 updated: "2026-03-20T12:48:52Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-06-22T00:56:19Z"
+last_scanned: "2026-06-22T13:55:50Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tabby-general:matrix.org]
 exodus_score: 3

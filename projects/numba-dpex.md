@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-18T13:13:45Z"
+last_scanned: "2026-06-22T13:55:50Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#Data-Parallel-Python_community:gitter.im"
