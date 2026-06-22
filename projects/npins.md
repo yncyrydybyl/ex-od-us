@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#npins:kack.it]
 exodus_score: 6
-last_scanned: "2026-06-21T18:34:22Z"
+last_scanned: "2026-06-22T00:56:19Z"
 ---
 
 Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.

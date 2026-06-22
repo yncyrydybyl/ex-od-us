@@ -10,7 +10,7 @@ updated: "2026-04-04T13:11:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vanilla:ubuntu.com]
 exodus_score: 6
-last_scanned: "2026-06-21T07:41:54Z"
+last_scanned: "2026-06-22T00:56:19Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
