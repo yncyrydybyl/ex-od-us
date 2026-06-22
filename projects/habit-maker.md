@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-10T12:22:17Z"
+last_scanned: "2026-06-22T08:06:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#habit-maker:matrix.org]
 issues: [6497]

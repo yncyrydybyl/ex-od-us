@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-21T12:43:27Z"
+last_scanned: "2026-06-22T08:06:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#imap-codec:matrix.org]
 issues: [6618]
