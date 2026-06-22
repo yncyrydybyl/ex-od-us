@@ -10,7 +10,7 @@ updated: "2026-03-23T21:44:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vaultwarden:matrix.org.svg, https://matrix.to/#/#vaultwarden:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-22T13:55:50Z"
+last_scanned: "2026-06-22T19:08:50Z"
 ---
 
 Web vault builds for vaultwarden
