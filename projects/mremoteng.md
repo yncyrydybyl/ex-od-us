@@ -8,7 +8,7 @@ status: Active
 issues: [3737]
 updated: "2026-04-04T18:55:09Z"
 exodus_score: 1
-last_scanned: "2026-06-22T00:56:19Z"
+last_scanned: "2026-06-23T07:18:46Z"
 matrix_rooms: [https://matrix.to/#/#mremoteng:matrix.org]
 ---
 

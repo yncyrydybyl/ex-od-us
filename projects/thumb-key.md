@@ -1,20 +1,14 @@
 ---
-name: "Thumb Key"
-description: "A privacy-conscious Android keyboard made for your thumbs"
+name: Thumb Key
+description: A privacy-conscious Android keyboard made for your thumbs
 repo: "https://github.com/dessalines/thumb-key"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#thumbkey-dev:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#thumbkey-dev:matrix.org"
+last_scanned: "2026-06-23T07:18:46Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#thumbkey-dev:matrix.org]
 issues: [4648]
 updated: "2026-04-06T14:01:07Z"
 ---
