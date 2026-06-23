@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-15T19:25:51Z"
+last_scanned: "2026-06-23T00:48:54Z"
 ---
 
 Rust async HTTP client for embedded/no_std

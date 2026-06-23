@@ -10,7 +10,7 @@ updated: "2025-09-21T16:09:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pixeldroid:gnugen.ch]
 exodus_score: 4
-last_scanned: "2026-06-22T08:06:53Z"
+last_scanned: "2026-06-23T00:48:54Z"
 ---
 
 Mirror for PixelDroid, the free (as in freedom) Android client for Pixelfed, the federated image sharing platform.

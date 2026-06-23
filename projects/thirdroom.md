@@ -10,7 +10,7 @@ updated: "2023-08-30T04:47:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#thirdroom-dev:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-22T19:08:50Z"
+last_scanned: "2026-06-23T00:48:54Z"
 ---
 
 Open, decentralised, immersive worlds built on Matrix
