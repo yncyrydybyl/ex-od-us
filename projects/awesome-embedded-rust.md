@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-06-23T00:48:54Z"
+last_scanned: "2026-06-23T13:01:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#probe-rs:matrix.org, https://matrix.to/#/#rust-embedded:matrix.org, https://matrix.to/#/#esp-rs:matrix.org, https://matrix.to/#/#rp-rs:matrix.org, https://matrix.to/#/#nrf-rs:matrix.org, https://matrix.to/#/#atsamd-rs_community:gitter.im, https://matrix.to/#/#avr-rust:gitter.im, https://matrix.to/#/#mspm0-rs:matrix.org, https://matrix.to/#/#rust-embedded-graphics:matrix.org, https://matrix.to/#/#rust-embedded-space:matrix.org, https://matrix.to/#/#embassy-rs:matrix.org, https://matrix.to/#/#atsamd-rs:gitter.im, https://matrix.to/#/#rtic-rs:matrix.org, https://matrix.to/#/#avr-rust_Lobby:gitter.im, https://matrix.to/#/#stm32-rs:matrix.org, https://matrix.to/#/#ethercrab:matrix.org]
 issues: [5324]

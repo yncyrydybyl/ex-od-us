@@ -1,20 +1,14 @@
 ---
-name: "Portable"
-description: "Fast, private, modern sandbox designed for desktop Linux"
+name: Portable
+description: Fast, private, modern sandbox designed for desktop Linux
 repo: "https://github.com/Kraftland/portable"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#portable-dev:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#portable-dev:matrix.org"
+last_scanned: "2026-06-23T13:01:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#portable-dev:matrix.org]
 issues: [4266]
 updated: "2026-04-06T08:24:12Z"
 ---

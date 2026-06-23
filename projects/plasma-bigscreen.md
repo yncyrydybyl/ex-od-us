@@ -1,20 +1,14 @@
 ---
-name: "Plasma Bigscreen"
-description: "Plasma shell for TVs"
+name: Plasma Bigscreen
+description: Plasma shell for TVs
 repo: "https://github.com/KDE/plasma-bigscreen"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#plasma-bigscreen:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#plasma-bigscreen:kde.org"
+last_scanned: "2026-06-23T13:01:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#plasma-bigscreen:kde.org]
 issues: [4244]
 updated: "2026-04-06T03:45:33Z"
 ---

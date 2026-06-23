@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#scat-users:tchncs.de]
 exodus_score: 5
-last_scanned: "2026-06-22T19:08:50Z"
+last_scanned: "2026-06-23T13:01:28Z"
 ---
 
 SCAT: Signaling Collection and Analysis Tool

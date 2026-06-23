@@ -10,7 +10,7 @@ updated: "2026-04-06T12:29:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#paperless:matrix.org, https://matrix.to/#/#paperlessngx:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-23T07:18:46Z"
+last_scanned: "2026-06-23T13:01:28Z"
 ---
 
 A community-supported supercharged document management system: scan, index and archive all your documents
