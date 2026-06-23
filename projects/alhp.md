@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alhp:ofsg.eu]
 exodus_score: 6
-last_scanned: "2026-06-22T08:06:53Z"
+last_scanned: "2026-06-23T18:45:26Z"
 ---
 
 Mirror of https://somegit.dev/ALHP/ALHP.GO
