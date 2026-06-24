@@ -1,20 +1,14 @@
 ---
-name: "Sourcify"
-description: "Source code verification service for Ethereum smart contracts"
+name: Sourcify
+description: Source code verification service for Ethereum smart contracts
 repo: "https://github.com/argotorg/sourcify"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#ethereum_source-verify:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ethereum_source-verify:gitter.im"
+last_scanned: "2026-06-24T00:45:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ethereum_source-verify:gitter.im]
 issues: [4545]
 updated: "2026-04-06T14:29:26Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Niri Flake"
-description: "Nix-native configuration for niri"
+name: Niri Flake
+description: Nix-native configuration for niri
 repo: "https://github.com/sodiboo/niri-flake"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#niri:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#niri:matrix.org"
+last_scanned: "2026-06-24T00:45:17Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#niri:matrix.org]
 issues: [6915]
 updated: "2026-04-06T06:41:49Z"
 ---

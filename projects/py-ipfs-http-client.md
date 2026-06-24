@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-06-23T13:01:28Z"
+last_scanned: "2026-06-24T00:45:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#py-ipfs:ninetailed.ninja]
 issues: [3875]
