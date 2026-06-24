@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-08T07:47:21Z"
+last_scanned: "2026-06-24T07:15:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#krondor:matrix.org]
 issues: [6009]

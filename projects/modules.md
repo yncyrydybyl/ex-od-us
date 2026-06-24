@@ -10,7 +10,7 @@ updated: "2026-03-20T11:25:29Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#modules:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-24T00:45:17Z"
+last_scanned: "2026-06-24T07:15:16Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
