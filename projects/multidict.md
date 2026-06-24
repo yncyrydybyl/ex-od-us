@@ -10,7 +10,7 @@ updated: "2026-04-02T23:38:37Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-06-22T13:55:50Z"
+last_scanned: "2026-06-24T18:38:33Z"
 matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
 ---
 

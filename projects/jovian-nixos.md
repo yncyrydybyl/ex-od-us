@@ -1,20 +1,14 @@
 ---
-name: "Jovian Nixos"
+name: Jovian Nixos
 description: "Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org"
 repo: "https://github.com/Jovian-Experiments/Jovian-NixOS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#Jovian-Experiments:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#Jovian-Experiments:matrix.org"
+last_scanned: "2026-06-24T18:38:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#Jovian-Experiments:matrix.org]
 issues: [6753]
 updated: "2026-04-04T07:25:10Z"
 ---

@@ -1,20 +1,14 @@
 ---
-name: "Uniffi Rs"
-description: "a multi-language bindings generator for rust"
+name: Uniffi Rs
+description: a multi-language bindings generator for rust
 repo: "https://github.com/mozilla/uniffi-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#uniffi:mozilla.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#uniffi:mozilla.org"
+last_scanned: "2026-06-24T18:38:33Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#uniffi:mozilla.org]
 issues: [4751]
 updated: "2026-04-06T13:29:20Z"
 ---

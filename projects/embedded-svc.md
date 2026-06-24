@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-24T12:48:02Z"
+last_scanned: "2026-06-24T18:38:33Z"
 ---
 
 Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.)

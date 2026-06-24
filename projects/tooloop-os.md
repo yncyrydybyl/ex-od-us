@@ -8,7 +8,7 @@ status: Active
 issues: [4673]
 updated: "2024-08-01T14:00:19Z"
 exodus_score: 1
-last_scanned: "2026-06-24T12:48:02Z"
+last_scanned: "2026-06-24T18:38:33Z"
 matrix_rooms: [https://matrix.to/#/#tooloop-os:matrix.org]
 ---
 
