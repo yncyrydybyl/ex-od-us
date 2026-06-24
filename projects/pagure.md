@@ -10,7 +10,7 @@ updated: "2026-03-13T11:57:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pagure:fedora.im]
 exodus_score: 4
-last_scanned: "2026-06-24T07:15:16Z"
+last_scanned: "2026-06-24T12:48:02Z"
 ---
 
 pagure is a light-weight git-centered forge based on pygit2. (MIRROR)
