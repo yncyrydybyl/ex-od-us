@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ubuntu-ceph:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-25T00:49:53Z"
+last_scanned: "2026-06-25T07:15:47Z"
 ---
 
 MicroCeph is snap-deployed Ceph with built-in clustering
