@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-24T18:38:33Z"
+last_scanned: "2026-06-25T00:49:53Z"
 ---
 
 An Rust TLS 1.3 implementation for embedded devices.

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-24T07:15:16Z"
+last_scanned: "2026-06-25T00:49:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#epics:epics-controls.org]
 issues: [6060]

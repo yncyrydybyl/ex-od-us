@@ -1,20 +1,14 @@
 ---
-name: "Esmvalcore"
+name: Esmvalcore
 description: "ESMValCore: A community tool for pre-processing data from Earth system models in CMIP and running analysis scripts."
 repo: "https://github.com/ESMValGroup/ESMValCore"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#ESMValGroup_Lobby:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#ESMValGroup_Lobby:gitter.im"
+last_scanned: "2026-06-25T00:49:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#ESMValGroup_Lobby:gitter.im]
 issues: [6068]
 updated: "2026-04-02T07:39:40Z"
 ---

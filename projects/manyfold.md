@@ -1,20 +1,14 @@
 ---
-name: "Manyfold"
-description: "A self-hosted digital asset manager for 3d print files."
+name: Manyfold
+description: A self-hosted digital asset manager for 3d print files.
 repo: "https://github.com/manyfold3d/manyfold"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#manyfold:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#manyfold:matrix.org"
+last_scanned: "2026-06-25T00:49:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#manyfold:matrix.org]
 issues: [6537]
 updated: "2026-04-06T11:07:54Z"
 ---

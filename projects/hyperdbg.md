@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-23T13:01:28Z"
+last_scanned: "2026-06-25T00:49:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hyperdbg-discussion:matrix.org]
 issues: [6582]

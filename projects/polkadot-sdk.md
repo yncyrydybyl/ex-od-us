@@ -1,20 +1,14 @@
 ---
-name: "Polkadot Sdk"
-description: "The Parity Polkadot Blockchain SDK"
+name: Polkadot Sdk
+description: The Parity Polkadot Blockchain SDK
 repo: "https://github.com/paritytech/polkadot-sdk"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#substratedevs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#substratedevs:matrix.org"
+last_scanned: "2026-06-25T00:49:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#substratedevs:matrix.org]
 issues: [4260]
 updated: "2026-04-06T17:27:58Z"
 ---

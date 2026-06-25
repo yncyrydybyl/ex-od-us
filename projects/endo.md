@@ -1,20 +1,14 @@
 ---
-name: "Endo"
-description: "Endo is a distributed secure JavaScript sandbox, based on SES"
+name: Endo
+description: Endo is a distributed secure JavaScript sandbox, based on SES
 repo: "https://github.com/endojs/endo"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 3
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#endojs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#endojs:matrix.org"
+last_scanned: "2026-06-25T00:49:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#endojs:matrix.org]
 issues: [6050]
 updated: "2026-04-06T05:36:22Z"
 ---
