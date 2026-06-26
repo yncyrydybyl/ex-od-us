@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#somtoday:elisaado.com]
 exodus_score: 6
-last_scanned: "2026-06-26T12:47:25Z"
+last_scanned: "2026-06-26T18:39:50Z"
 ---
 
 Documentation for the SOMtoday API

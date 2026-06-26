@@ -8,7 +8,7 @@ status: Active
 issues: [7145]
 updated: "2025-09-17T09:20:11Z"
 exodus_score: 1
-last_scanned: "2026-06-26T12:47:25Z"
+last_scanned: "2026-06-26T18:39:50Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg]
 ---
