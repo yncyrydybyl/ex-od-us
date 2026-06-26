@@ -10,7 +10,7 @@ updated: "2022-09-10T22:30:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kotlinmc:axay.net]
 exodus_score: 4
-last_scanned: "2026-05-25T07:38:46Z"
+last_scanned: "2026-06-26T07:21:48Z"
 ---
 
 An easy-to-use package manager (and soon to be launcher) for Minecraft mods.

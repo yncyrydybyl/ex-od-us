@@ -10,7 +10,7 @@ updated: "2026-03-22T07:40:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#probe-rs:matrix.org, https://matrix.to/#/#rust-embedded:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-25T12:50:59Z"
+last_scanned: "2026-06-26T07:21:48Z"
 ---
 
 Rust Discovery Book for BBC micro:bit v2

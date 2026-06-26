@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dawndrums-r2:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-25T12:50:59Z"
+last_scanned: "2026-06-26T07:21:48Z"
 ---
 
 Main repository
