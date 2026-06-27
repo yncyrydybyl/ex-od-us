@@ -10,7 +10,7 @@ updated: "2023-05-02T04:19:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#construct:zemos.net.svg, https://matrix.to/#/#construct:zemos.net]
 exodus_score: 5
-last_scanned: "2026-06-27T07:08:47Z"
+last_scanned: "2026-06-27T18:27:53Z"
 ---
 
 More Matrix Than Matrix

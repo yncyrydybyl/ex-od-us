@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-06-27T07:08:47Z"
+last_scanned: "2026-06-27T18:27:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#socialhome:federator.dev]
 issues: [3962]

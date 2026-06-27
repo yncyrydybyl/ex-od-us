@@ -1,20 +1,14 @@
 ---
-name: "Fluffychat"
+name: Fluffychat
 description: "The cutest instant messenger in the [matrix]"
 repo: "https://github.com/krille-chan/fluffychat"
 platform: github
 categories: [Matrix]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#fluffy-space:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#fluffy-space:matrix.org"
+last_scanned: "2026-06-27T18:27:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#fluffy-space:matrix.org]
 issues: [6247]
 updated: "2026-04-06T05:42:41Z"
 ---

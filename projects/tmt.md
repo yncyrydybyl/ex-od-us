@@ -1,20 +1,14 @@
 ---
-name: "Tmt"
-description: "Test Management Tool"
+name: Tmt
+description: Test Management Tool
 repo: "https://github.com/teemtee/tmt"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#tmt:fedoraproject.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#tmt:fedoraproject.org"
+last_scanned: "2026-06-27T18:27:53Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#tmt:fedoraproject.org]
 issues: [4670]
 updated: "2026-04-06T16:59:40Z"
 ---
