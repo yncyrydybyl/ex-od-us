@@ -1,20 +1,14 @@
 ---
-name: "Android Sms Gateway Server"
-description: "Android App, which allows you to send and receive sms via REST-API"
+name: Android Sms Gateway Server
+description: Android App, which allows you to send and receive sms via REST-API
 repo: "https://github.com/RebekkaMa/android-sms-gateway-server"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#android-sms-gateway-server:imbitbu.de"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#android-sms-gateway-server:imbitbu.de"
+last_scanned: "2026-06-27T07:08:47Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#android-sms-gateway-server:imbitbu.de]
 issues: [5169]
 updated: "2021-05-20T09:30:39Z"
 ---
