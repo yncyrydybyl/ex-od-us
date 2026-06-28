@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-26T18:39:50Z"
+last_scanned: "2026-06-28T07:24:51Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#darktable-dev:matrix.org, https://matrix.to/#/#darktable-user:matrix.org]
+matrix_rooms: [https://matrix.to/#/#darktable-user:matrix.org]
 issues: [5787]
 updated: "2026-04-06T12:44:45Z"
 ---
