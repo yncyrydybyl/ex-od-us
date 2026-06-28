@@ -1,20 +1,14 @@
 ---
-name: "Happydomain"
-description: "Manage all your domain names in one place (mirror of framagit.org/happyDomain/happydomain)"
+name: Happydomain
+description: Manage all your domain names in one place (mirror of framagit.org/happyDomain/happydomain)
 repo: "https://github.com/happyDomain/happydomain"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#happyDNS:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#happyDNS:matrix.org"
+last_scanned: "2026-06-28T18:27:45Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#happyDNS:matrix.org]
 issues: [6500]
 updated: "2026-04-06T05:07:20Z"
 ---
