@@ -10,7 +10,7 @@ updated: "2023-04-24T10:25:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#purple:matrix.org.svg, https://matrix.to/#/#purple:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-28T00:50:58Z"
+last_scanned: "2026-06-28T12:31:52Z"
 ---
 
 Libpurple protocol plugin for matrix 

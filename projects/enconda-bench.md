@@ -8,9 +8,9 @@ status: Active
 issues: [6045]
 updated: "2025-10-30T03:09:30Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#cherrypy-space:matrix.org, https://matrix.to/#/#cherrypy:matrix.org, https://matrix.to/#/#octomachinery:matrix.org, https://matrix.to/#/#jazzband:matrix.org, https://matrix.to/#/#qibo:matrix.org, https://matrix.to/#/#pip-tools:matrix.org, https://matrix.to/#/#pyba:matrix.org]
+matrix_rooms: [https://matrix.to/#/#pyba:matrix.org, https://matrix.to/#/#cherrypy:matrix.org, https://matrix.to/#/#cherrypy-space:matrix.org, https://matrix.to/#/#qibo:matrix.org, https://matrix.to/#/#octomachinery:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-28T07:24:51Z"
+last_scanned: "2026-06-28T12:31:52Z"
 ---
 
 Code for paper \"Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents\"

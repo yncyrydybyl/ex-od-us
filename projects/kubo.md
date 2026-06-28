@@ -8,7 +8,7 @@ status: Active
 issues: [6827]
 updated: "2026-04-04T03:27:49Z"
 exodus_score: 1
-last_scanned: "2026-06-28T07:24:51Z"
+last_scanned: "2026-06-28T12:31:52Z"
 matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 ---
 
