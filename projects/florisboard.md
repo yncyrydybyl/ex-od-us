@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#florisboard:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-27T18:27:53Z"
+last_scanned: "2026-06-28T00:50:58Z"
 ---
 
 An open-source keyboard for Android which respects your privacy. Currently in beta.

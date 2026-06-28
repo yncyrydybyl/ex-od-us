@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nuclide:matrix.org]
 exodus_score: 5
-last_scanned: "2026-06-27T07:08:47Z"
+last_scanned: "2026-06-28T00:50:58Z"
 ---
 
 Clean-room Counter-Strike 1.5 in QuakeC, using Nuclide SDK. Previously known as OpenCS! (2016)
