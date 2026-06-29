@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-06-29T00:52:17Z"
+last_scanned: "2026-06-29T07:48:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#revenge:schildi.chat.svg, https://matrix.to/#/#revenge:schildi.chat]
 issues: [4457]

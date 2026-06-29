@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-sip-bridge:indeednotjames.com]
 exodus_score: 7
-last_scanned: "2026-06-28T18:27:45Z"
+last_scanned: "2026-06-29T07:48:04Z"
 ---
 
 A bridge between Matrix and VoIP via SIP

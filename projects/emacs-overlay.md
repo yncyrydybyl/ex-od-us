@@ -9,7 +9,7 @@ issues: [6019]
 updated: "2026-04-06T09:10:27Z"
 matrix_rooms: [https://matrix.to/#/#emacs:nixos.org]
 exodus_score: 4
-last_scanned: "2026-06-29T00:52:17Z"
+last_scanned: "2026-06-29T07:48:04Z"
 ---
 
 Bleeding edge emacs overlay [maintainer=@adisbladis] 
