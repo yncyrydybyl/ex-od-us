@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#asciinema:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-29T13:32:35Z"
+last_scanned: "2026-06-29T18:43:48Z"
 ---
 
 Terminal session recorder, streamer and player 📹

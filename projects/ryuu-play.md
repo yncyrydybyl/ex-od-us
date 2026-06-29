@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-27T18:27:53Z"
+last_scanned: "2026-06-29T18:43:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ryuu-play:matrix.org]
 issues: [3930]
