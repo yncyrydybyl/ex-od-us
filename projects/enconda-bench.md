@@ -10,7 +10,7 @@ updated: "2025-10-30T03:09:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#octomachinery:matrix.org, https://matrix.to/#/#cherrypy:matrix.org, https://matrix.to/#/#cherrypy-space:matrix.org, https://matrix.to/#/#jazzband:matrix.org, https://matrix.to/#/#qibo:matrix.org, https://matrix.to/#/#pyba:matrix.org, https://matrix.to/#/#pip-tools:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-28T18:27:45Z"
+last_scanned: "2026-06-29T00:52:17Z"
 ---
 
 Code for paper \"Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents\"
