@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-06-29T18:43:48Z"
+last_scanned: "2026-06-30T07:22:02Z"
 issues: [5124]
 updated: "2025-10-13T08:47:11Z"
 matrix_rooms: [https://matrix.to/#/#termux_termux:gitter.im, https://matrix.to/#/#termux_dev:gitter.im]

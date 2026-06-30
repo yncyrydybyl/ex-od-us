@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-30T00:49:54Z"
+last_scanned: "2026-06-30T07:22:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#simracing:matrix.org]
 issues: [6790]
