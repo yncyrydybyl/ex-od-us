@@ -10,7 +10,7 @@ updated: "2021-05-31T16:27:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#noteless:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-29T18:43:48Z"
+last_scanned: "2026-06-30T00:49:54Z"
 ---
 
 A Markdown-based note-taking app for mobile devices.
