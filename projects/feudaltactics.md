@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-15T19:25:51Z"
+last_scanned: "2026-06-30T12:44:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#feudal-tactics-community:matrix.org]
 issues: [6170]

@@ -5,7 +5,7 @@ repo: "https://github.com/ansible-community/ansible-london-meetup"
 platform: github
 status: Active
 exodus_score: 0
-last_scanned: "2026-06-30T07:22:02Z"
+last_scanned: "2026-06-30T12:44:34Z"
 issues: [5190]
 updated: "2026-03-19T10:09:06Z"
 verified: true

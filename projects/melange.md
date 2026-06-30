@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-30T00:49:54Z"
+last_scanned: "2026-06-30T12:44:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#melange:matrix.org]
 issues: [6669]
