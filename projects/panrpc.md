@@ -10,7 +10,7 @@ updated: "2025-04-17T21:04:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#panrpc:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-01T07:33:53Z"
+last_scanned: "2026-07-01T13:00:20Z"
 ---
 
 Language-, transport- and serialization-agnostic RPC framework with remote closure support that allows exposing and calling functions on both clients and servers.

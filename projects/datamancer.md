@@ -10,7 +10,7 @@ updated: "2025-04-16T18:07:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nim-science:envs.net]
 exodus_score: 4
-last_scanned: "2026-07-01T07:33:53Z"
+last_scanned: "2026-07-01T13:00:20Z"
 ---
 
 A dataframe library with a dplyr like API

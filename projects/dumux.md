@@ -10,7 +10,7 @@ updated: "2026-03-30T10:14:22Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-07-01T07:33:53Z"
+last_scanned: "2026-07-01T13:00:20Z"
 matrix_rooms: [https://matrix.to/#/#dumux-support:matrix.org.svg]
 ---
 

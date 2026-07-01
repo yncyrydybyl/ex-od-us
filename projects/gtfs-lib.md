@@ -10,7 +10,7 @@ updated: "2024-05-16T08:51:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#transit-data-tools:gitter.im, https://matrix.to/#/#gtfs-lib:gitter.im]
 exodus_score: 4
-last_scanned: "2026-06-27T18:27:53Z"
+last_scanned: "2026-07-01T13:00:20Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

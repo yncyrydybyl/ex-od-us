@@ -1,20 +1,14 @@
 ---
-name: "Ort Server"
-description: "A scalable server implementation of the OSS Review Toolkit."
+name: Ort Server
+description: A scalable server implementation of the OSS Review Toolkit.
 repo: "https://github.com/eclipse-apoapsis/ort-server"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#apoapsis:matrix.eclipse.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#apoapsis:matrix.eclipse.org"
+last_scanned: "2026-07-01T13:00:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#apoapsis:matrix.eclipse.org]
 issues: [4163]
 updated: "2026-04-06T07:53:21Z"
 ---

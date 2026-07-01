@@ -10,7 +10,7 @@ updated: "2025-05-24T06:57:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-01T07:33:53Z"
+last_scanned: "2026-07-01T13:00:20Z"
 ---
 
 Odin grammar for tree-sitter
