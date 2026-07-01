@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-29T18:43:48Z"
+last_scanned: "2026-07-01T00:52:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ancientmetagenomedir:matrix.org]
 issues: [5165]
