@@ -10,7 +10,7 @@ updated: "2026-03-15T19:52:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sentryshot:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-01T13:00:20Z"
+last_scanned: "2026-07-01T18:42:09Z"
 ---
 
 Video Management System. Mirror of Codeberg.
