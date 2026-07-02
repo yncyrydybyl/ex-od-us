@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ntfy:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-25T18:47:49Z"
+last_scanned: "2026-07-02T12:41:55Z"
 ---
 
 iOS App for ntfy

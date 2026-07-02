@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-06-30T00:49:54Z"
+last_scanned: "2026-07-02T12:41:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wg-tunnel-space:matrix.org]
 issues: [94]

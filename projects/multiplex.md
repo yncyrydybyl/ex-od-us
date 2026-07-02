@@ -10,7 +10,7 @@ updated: "2026-02-20T06:18:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#multiplex:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-02T07:12:29Z"
+last_scanned: "2026-07-02T12:41:55Z"
 ---
 
 Watch torrents with your friends.

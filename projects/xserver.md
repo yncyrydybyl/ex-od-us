@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [4851]
 updated: "2026-04-03T14:13:02Z"
-matrix_links:
-  - target: "#xlibre:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms: [https://matrix.to/#/#xlibre:matrix.org]
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#xlibredev:matrix.org]
 exodus_score: 2
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-07-02T12:41:55Z"
 ---
 
 XLibre Xserver

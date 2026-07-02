@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-25T07:15:47Z"
+last_scanned: "2026-07-02T12:41:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lemmy-space:matrix.org]
 issues: [6872]
