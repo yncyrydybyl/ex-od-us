@@ -8,7 +8,7 @@ status: Active
 issues: [5470]
 updated: "2026-01-01T00:44:47Z"
 exodus_score: 1
-last_scanned: "2026-07-01T18:42:09Z"
+last_scanned: "2026-07-02T00:48:53Z"
 matrix_rooms: [https://matrix.to/#/#blendercam:matrix.org]
 ---
 

@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#selfhosted:selfhosted.chat]
 exodus_score: 6
-last_scanned: "2026-07-01T00:52:15Z"
+last_scanned: "2026-07-02T00:48:53Z"
 ---
 
 A list of Free Software network services and web applications which can be hosted on your own servers
