@@ -1,20 +1,14 @@
 ---
-name: "Probe Rs"
-description: "A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host"
+name: Probe Rs
+description: A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 repo: "https://github.com/probe-rs/probe-rs"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#probe-rs:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#probe-rs:matrix.org"
+last_scanned: "2026-07-03T18:30:00Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#probe-rs:matrix.org]
 issues: [4287]
 updated: "2026-04-06T09:42:54Z"
 ---
