@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-06-08T07:47:21Z"
+last_scanned: "2026-07-03T12:41:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#metron-devel:matrix.org, https://matrix.to/#/#metron-general:matrix.org]
 issues: [3695]

@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-02T18:33:04Z"
+last_scanned: "2026-07-03T12:41:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neoment-nvim:matrix.org]
 issues: [6868]
