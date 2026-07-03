@@ -8,7 +8,7 @@ status: Active
 issues: [6884]
 updated: "2026-04-03T17:21:58Z"
 exodus_score: 1
-last_scanned: "2026-07-02T18:33:04Z"
+last_scanned: "2026-07-03T00:40:41Z"
 matrix_rooms: [https://matrix.to/#/#neuron:matrix.org]
 ---
 
