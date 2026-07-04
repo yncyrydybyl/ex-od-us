@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#brackets-cont:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-03T12:41:00Z"
+last_scanned: "2026-07-04T12:27:35Z"
 ---
 
 An open source code editor for the web, written in JavaScript, HTML and CSS.

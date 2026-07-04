@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-04T00:39:08Z"
+last_scanned: "2026-07-04T12:27:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wasp-os:matrix.org]
 issues: [4792]

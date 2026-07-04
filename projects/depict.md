@@ -10,7 +10,7 @@ updated: "2023-05-24T17:57:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-url:mozilla.org]
 exodus_score: 5
-last_scanned: "2026-07-03T00:40:41Z"
+last_scanned: "2026-07-04T12:27:35Z"
 ---
 
 depict – share mental models better
