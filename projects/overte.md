@@ -10,7 +10,7 @@ updated: "2026-04-05T23:19:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#overte:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-03T12:41:00Z"
+last_scanned: "2026-07-04T18:24:14Z"
 ---
 
 Overte open source virtual worlds platform.
