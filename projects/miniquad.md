@@ -10,7 +10,7 @@ updated: "2026-03-22T19:55:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quad-general:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-04T18:24:14Z"
+last_scanned: "2026-07-05T00:42:31Z"
 ---
 
 Cross platform rendering in Rust
