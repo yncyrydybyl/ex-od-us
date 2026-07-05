@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dtn7:matrix.org]
 exodus_score: 4
-last_scanned: "2026-06-06T18:29:59Z"
+last_scanned: "2026-07-05T07:08:53Z"
 ---
 
 A curated list of awesome delay- and disruption-tolerant networking
