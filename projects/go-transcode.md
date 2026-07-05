@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-07-04T07:03:02Z"
+last_scanned: "2026-07-05T12:31:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-transcode:proxychat.net, https://matrix.to/#/#go-transcode-general:proxychat.net]
 issues: [6427]

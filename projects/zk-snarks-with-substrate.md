@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#substrate-technical:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-04T12:27:35Z"
+last_scanned: "2026-07-05T12:31:26Z"
 ---
 
 ## Stats

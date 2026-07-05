@@ -8,7 +8,7 @@ status: Active
 issues: [4830]
 updated: "2026-04-06T08:38:12Z"
 exodus_score: 1
-last_scanned: "2026-07-05T07:08:53Z"
+last_scanned: "2026-07-05T12:31:26Z"
 matrix_rooms: [https://matrix.to/#/#woodpecker:matrix.org]
 ---
 
