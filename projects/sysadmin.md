@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-07-05T12:31:26Z"
+last_scanned: "2026-07-05T18:24:53Z"
 issues: [4603]
 updated: "2026-04-05T01:47:43Z"
 matrix_rooms: [https://matrix.to/#/#apparmor.d:matrix.org]

@@ -10,7 +10,7 @@ updated: "2026-04-06T17:03:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#piped:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-05T07:08:53Z"
+last_scanned: "2026-07-05T18:24:53Z"
 ---
 
 An alternative privacy-friendly YouTube frontend which is efficient by design.

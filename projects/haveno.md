@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-29T00:52:17Z"
+last_scanned: "2026-07-05T18:24:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haveno:monero.social, https://matrix.to/#/#haveno-development:monero.social]
 issues: [6511]
