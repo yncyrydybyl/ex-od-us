@@ -8,7 +8,7 @@ status: Active
 issues: [4369]
 updated: "2025-01-28T23:58:16Z"
 exodus_score: 1
-last_scanned: "2026-06-12T07:41:23Z"
+last_scanned: "2026-07-06T07:38:26Z"
 ---
 
 A Discord Bot to deliver Reddit posts into your server

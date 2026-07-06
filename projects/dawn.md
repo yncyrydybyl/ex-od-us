@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-28T07:24:50Z"
+last_scanned: "2026-07-06T07:38:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#webgpu-dawn:matrix.org, https://matrix.to/#/#WebGPU:matrix.org]
 issues: [5808]
