@@ -10,7 +10,7 @@ updated: "2023-01-09T23:15:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mx-puppet-bridge:sorunome.de, https://matrix.to/#/#mx-puppet-bridge:sorunome.de.svg]
 exodus_score: 5
-last_scanned: "2026-07-05T18:24:53Z"
+last_scanned: "2026-07-06T00:42:02Z"
 ---
 
 An instagram matrix puppeting bridge
