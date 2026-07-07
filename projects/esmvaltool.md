@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ESMValGroup_Lobby:gitter.im]
 exodus_score: 4
-last_scanned: "2026-07-06T18:40:28Z"
+last_scanned: "2026-07-07T07:14:17Z"
 ---
 
 ESMValTool: A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP 
