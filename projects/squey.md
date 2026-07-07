@@ -10,7 +10,7 @@ updated: "2025-12-15T21:21:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#squey:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-06T13:17:56Z"
+last_scanned: "2026-07-07T00:42:27Z"
 ---
 
 Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)

@@ -10,7 +10,7 @@ updated: "2026-03-30T20:22:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-06T18:40:28Z"
+last_scanned: "2026-07-07T00:42:27Z"
 ---
 
 Ultra-fast query string and url-encoded form-data parsers

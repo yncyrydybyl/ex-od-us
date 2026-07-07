@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-07-06T18:40:28Z"
+last_scanned: "2026-07-07T00:42:27Z"
 issues: [6841]
 updated: "2026-04-03T07:26:52Z"
 matrix_rooms: [https://matrix.to/#/#geos:osgeo.org]
