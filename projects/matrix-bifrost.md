@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-07T07:14:17Z"
+last_scanned: "2026-07-07T12:51:31Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bifrost:half-shot.uk]
 issues: [3614]

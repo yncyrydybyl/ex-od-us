@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#buddies-of-budgie:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-06T13:17:56Z"
+last_scanned: "2026-07-07T12:51:31Z"
 ---
 
 Budgie Desktop View is the official Budgie desktop icons application / implementation.
