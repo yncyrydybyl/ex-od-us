@@ -7,7 +7,7 @@ status: Active
 issues: [7180]
 updated: "2023-05-09T18:52:09Z"
 exodus_score: 1
-last_scanned: "2026-07-06T18:40:28Z"
+last_scanned: "2026-07-07T18:42:58Z"
 ---
 
 ## Stats

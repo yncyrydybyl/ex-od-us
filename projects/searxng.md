@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-06T00:42:02Z"
+last_scanned: "2026-07-07T18:42:58Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#searxng:matrix.org]
 issues: [4471]
