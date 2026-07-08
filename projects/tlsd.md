@@ -10,7 +10,7 @@ updated: "2023-02-05T15:16:42Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-07-07T12:51:31Z"
+last_scanned: "2026-07-08T06:52:47Z"
 ---
 
 Generate (message) sequence diagrams from TLA+ state traces
