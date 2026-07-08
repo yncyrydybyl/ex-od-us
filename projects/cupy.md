@@ -8,7 +8,7 @@ status: Active
 issues: [5751]
 updated: "2026-03-29T14:56:57Z"
 exodus_score: 1
-last_scanned: "2026-07-07T18:42:58Z"
+last_scanned: "2026-07-08T12:36:21Z"
 matrix_rooms: [https://matrix.to/#/#cupy_community:gitter.im]
 ---
 

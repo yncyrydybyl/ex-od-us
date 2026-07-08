@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trieve-general:trieve.ai]
 exodus_score: 5
-last_scanned: "2026-07-06T07:38:26Z"
+last_scanned: "2026-07-08T12:36:21Z"
 ---
 
 All-in-one platform for search, recommendations, RAG, and analytics offered via API

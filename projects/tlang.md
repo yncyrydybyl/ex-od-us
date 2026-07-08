@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-07T18:42:58Z"
+last_scanned: "2026-07-08T12:36:21Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tproject:matrix.org]
 issues: [4664]
