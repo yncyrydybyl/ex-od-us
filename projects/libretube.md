@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-05-31T18:27:25Z"
+last_scanned: "2026-07-09T18:37:54Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#LibreTube:matrix.org]
 issues: [6912]

@@ -8,8 +8,8 @@ status: Active
 issues: [4537]
 updated: "2026-03-29T18:07:50Z"
 exodus_score: 1
-last_scanned: "2026-07-09T12:59:03Z"
-matrix_rooms: [https://matrix.to/#/#solid_solidos:gitter.im, https://matrix.to/#/#solid_solidos:gitter.im.svg]
+last_scanned: "2026-07-09T18:37:54Z"
+matrix_rooms: [https://matrix.to/#/#solid_solidos:gitter.im, https://matrix.to/#/#solid_project:matrix.org, https://matrix.to/#/#solid_solidos:gitter.im.svg]
 ---
 
 The operating system for Solid

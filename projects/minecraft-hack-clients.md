@@ -10,7 +10,7 @@ updated: "2023-01-29T20:24:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space]
 exodus_score: 4
-last_scanned: "2026-07-08T06:52:47Z"
+last_scanned: "2026-07-09T18:37:54Z"
 ---
 
 A collection of Minecraft Hack Clients.

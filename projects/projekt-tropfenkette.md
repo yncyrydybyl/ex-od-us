@@ -9,7 +9,7 @@ updated: "2025-01-06T20:07:00Z"
 matrix_rooms:
   - "https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms"
 exodus_score: 4
-last_scanned: "2026-07-09T07:19:45Z"
+last_scanned: "2026-07-09T18:37:54Z"
 ---
 
 ## Stats
