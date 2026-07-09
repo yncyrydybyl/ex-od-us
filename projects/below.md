@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#below:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-08T00:35:26Z"
+last_scanned: "2026-07-09T07:19:45Z"
 ---
 
 A time traveling resource monitor for modern Linux systems
