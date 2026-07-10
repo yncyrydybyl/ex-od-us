@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-06-25T18:47:49Z"
+last_scanned: "2026-07-10T12:47:31Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#immortalwrt:matrix.org]
 issues: [6626]
