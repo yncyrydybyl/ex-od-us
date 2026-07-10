@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#andbible:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-09T18:37:54Z"
+last_scanned: "2026-07-10T07:13:29Z"
 ---
 
 AndBible: Bible Study

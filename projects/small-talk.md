@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-09T12:59:03Z"
+last_scanned: "2026-07-10T07:13:29Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#small-talk:iswell.cool]
 issues: [4521]

@@ -10,7 +10,7 @@ updated: "2026-04-06T07:38:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#peergos-chat:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-09T18:37:54Z"
+last_scanned: "2026-07-10T07:13:29Z"
 ---
 
 A p2p, secure file storage, social network and application protocol
