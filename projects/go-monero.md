@@ -10,7 +10,7 @@ updated: "2023-04-10T01:07:11Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-07-09T07:19:45Z"
+last_scanned: "2026-07-10T00:40:24Z"
 ---
 
 Monero's p2p and RPC in go

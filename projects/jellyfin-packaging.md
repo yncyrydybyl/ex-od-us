@@ -8,8 +8,8 @@ status: Active
 issues: [6715]
 updated: "2026-04-05T19:08:21Z"
 exodus_score: 1
-last_scanned: "2026-07-09T18:37:54Z"
-matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg]
+last_scanned: "2026-07-10T00:40:24Z"
+matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org.svg, https://matrix.to/#/#jellyfinorg:matrix.org]
 ---
 
 Jellyfin Server/Web packaging and release workflows

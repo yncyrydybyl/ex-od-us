@@ -10,9 +10,9 @@ updated: "2026-03-06T22:59:58Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-07-09T18:37:54Z"
+last_scanned: "2026-07-10T00:40:24Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#cherrypy:matrix.org, https://matrix.to/#/#octomachinery:matrix.org, https://matrix.to/#/#pyba:matrix.org, https://matrix.to/#/#cherrypy-space:matrix.org]
+matrix_rooms: [https://matrix.to/#/#cherrypy-space:matrix.org, https://matrix.to/#/#cherrypy:matrix.org]
 ---
 
 Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs -->
