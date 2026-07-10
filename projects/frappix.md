@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#frappix:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-10T12:47:31Z"
+last_scanned: "2026-07-10T18:32:01Z"
 ---
 
 Frappe on Nix

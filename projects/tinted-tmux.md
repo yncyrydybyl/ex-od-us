@@ -10,7 +10,7 @@ updated: "2026-03-08T01:40:10Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-10T12:47:31Z"
+last_scanned: "2026-07-10T18:32:01Z"
 ---
 
 Base16 theme for tmux
