@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#CFEngine:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-25T07:15:47Z"
+last_scanned: "2026-07-11T18:19:40Z"
 ---
 
 Policy masterfiles that are shipped with CFEngine packages

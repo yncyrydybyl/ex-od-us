@@ -8,9 +8,9 @@ status: Active
 issues: [41]
 updated: "2026-04-06T01:31:11Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#webrtc:matrix.org, https://matrix.to/#/#translators:element.io]
+matrix_rooms: [https://matrix.to/#/#webrtc:matrix.org]
 exodus_score: 8
-last_scanned: "2026-07-11T12:20:42Z"
+last_scanned: "2026-07-11T18:19:40Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

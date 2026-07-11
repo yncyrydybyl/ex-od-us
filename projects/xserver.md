@@ -10,7 +10,7 @@ updated: "2026-04-03T14:13:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#xlibredev:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-11T12:20:42Z"
+last_scanned: "2026-07-11T18:19:40Z"
 ---
 
 XLibre Xserver
