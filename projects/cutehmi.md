@@ -8,7 +8,7 @@ status: Active
 issues: [5753]
 updated: "2024-09-06T06:45:14Z"
 exodus_score: 1
-last_scanned: "2026-07-10T00:40:24Z"
+last_scanned: "2026-07-11T00:33:32Z"
 matrix_rooms: [https://matrix.to/#/#cutehmi:kde.org]
 ---
 

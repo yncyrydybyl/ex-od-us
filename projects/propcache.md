@@ -8,7 +8,7 @@ status: Active
 issues: [50]
 updated: "2026-04-02T21:46:08Z"
 exodus_score: 3
-last_scanned: "2026-07-10T18:32:01Z"
+last_scanned: "2026-07-11T00:33:32Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
