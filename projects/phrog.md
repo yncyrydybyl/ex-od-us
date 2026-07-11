@@ -10,7 +10,7 @@ updated: "2026-03-17T04:08:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#phosh:talk.puri.sm]
 exodus_score: 4
-last_scanned: "2026-07-10T12:47:31Z"
+last_scanned: "2026-07-11T06:47:59Z"
 ---
 
 🐸 Mobile device greeter

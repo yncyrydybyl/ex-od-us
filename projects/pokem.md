@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pokem:jackson.dev, https://matrix.to/#/#pokem-example:jackson.dev]
 exodus_score: 7
-last_scanned: "2026-07-10T18:32:01Z"
+last_scanned: "2026-07-11T06:47:59Z"
 ---
 
 A notification bot for Matrix. Listens on HTTP and forwards to Matrix. Similar to https://ntfy.sh
