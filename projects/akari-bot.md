@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations, Matrix]
 status: Active
 exodus_score: 0
-last_scanned: "2026-07-11T18:19:40Z"
+last_scanned: "2026-07-12T00:36:18Z"
 issues: [5131]
 updated: "2026-04-05T19:25:50Z"
 ---
