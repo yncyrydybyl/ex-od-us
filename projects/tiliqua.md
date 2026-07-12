@@ -10,7 +10,7 @@ updated: "2026-04-03T17:41:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apfaudio:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-10T12:47:31Z"
+last_scanned: "2026-07-12T06:55:50Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
