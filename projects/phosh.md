@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-12T06:55:50Z"
+last_scanned: "2026-07-12T18:20:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#phosh:phosh.mobi]
 issues: [4218]
