@@ -10,7 +10,7 @@ updated: "2020-06-22T10:10:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-07-13T12:51:25Z"
+last_scanned: "2026-07-13T18:35:05Z"
 ---
 
 a puppetted facebook bridge

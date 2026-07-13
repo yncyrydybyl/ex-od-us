@@ -8,8 +8,8 @@ status: Active
 issues: [6283]
 updated: "2026-04-05T22:07:07Z"
 exodus_score: 1
-last_scanned: "2026-07-13T12:51:25Z"
-matrix_rooms: [https://matrix.to/#/#freenet-locutus:matrix.org, https://matrix.to/#/#freenet:matrix.org]
+last_scanned: "2026-07-13T18:35:05Z"
+matrix_rooms: [https://matrix.to/#/#freenet:matrix.org]
 ---
 
 Declare your digital independence

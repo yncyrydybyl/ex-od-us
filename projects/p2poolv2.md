@@ -9,7 +9,7 @@ issues: [4180]
 updated: "2026-04-06T07:16:08Z"
 matrix_rooms: [https://matrix.to/#/#p2poolv2:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-13T12:51:25Z"
+last_scanned: "2026-07-13T18:35:05Z"
 ---
 
 P2Poolv2 - Rebooting P2Pool for Bitcoin
