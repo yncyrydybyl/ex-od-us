@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-12T18:20:24Z"
+last_scanned: "2026-07-13T07:10:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nuschtos:c3d2.de]
 issues: [6970]

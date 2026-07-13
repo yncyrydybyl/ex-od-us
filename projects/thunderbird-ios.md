@@ -10,7 +10,7 @@ updated: "2026-03-30T07:34:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#thunderbird-community:mozilla.org, https://matrix.to/#/#tb-mobile:mozilla.org, https://matrix.to/#/#tb-mobile-dev:mozilla.org, https://matrix.to/#/#tb-ios:mozilla.org]
 exodus_score: 5
-last_scanned: "2026-07-12T06:55:50Z"
+last_scanned: "2026-07-13T07:10:30Z"
 ---
 
 Thunderbird for iOS – Open Source Email App for iOS
