@@ -8,7 +8,7 @@ status: Active
 issues: [5458]
 updated: "2025-07-19T04:33:01Z"
 exodus_score: 1
-last_scanned: "2026-07-13T07:10:30Z"
+last_scanned: "2026-07-13T12:51:25Z"
 matrix_rooms: [https://matrix.to/#/#openmandriva:matrix.org, https://matrix.to/#/#openmandriva-cooker:matrix.org, https://matrix.to/#/#openmandriva-cooker:matrix.org.svg]
 ---
 
