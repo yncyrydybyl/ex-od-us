@@ -1,14 +1,15 @@
 ---
-name: "Termuxhub"
-description: "Android app that indexes Termux tools from metadata."
+name: Termuxhub
+description: Android app that indexes Termux tools from metadata.
 repo: "https://github.com/maazm7d/TermuxHub"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-07-14T06:46:40Z"
 issues: [4632]
 updated: "2026-04-06T06:46:00Z"
+matrix_rooms: [https://matrix.to/#/#lf:matrix.org, https://matrix.to/#/#newsboat:libera.chat]
 ---
 
 Android app that indexes Termux tools from metadata.
