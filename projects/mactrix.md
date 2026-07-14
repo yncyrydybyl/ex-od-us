@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-06-26T00:51:31Z"
+last_scanned: "2026-07-14T18:25:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mactrix:qpqp.dk]
 issues: [6989]

@@ -10,7 +10,7 @@ updated: "2026-02-19T15:47:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#PersianBlocker:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-14T12:29:41Z"
+last_scanned: "2026-07-14T18:25:52Z"
 ---
 
 سرانجام، یک لیست بهینه و گسترده برای مسدودسازی تبلیغ ها و ردیاب ها در سایت های پارسی زبان!
