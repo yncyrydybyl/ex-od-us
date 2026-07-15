@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-07-09T00:39:22Z"
+last_scanned: "2026-07-15T18:26:27Z"
 issues: [1982]
 updated: "2025-12-26T19:49:29Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_rooms: [https://matrix.to/#/#nextcloudpi:matrix.org]
+matrix_rooms: [https://matrix.to/#/#nextcloudpi:matrix.org, https://matrix.to/#/#NCP_Wiki_Team:matrix.org]
 ---
 
 Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
