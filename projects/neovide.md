@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-14T18:25:52Z"
+last_scanned: "2026-07-15T06:47:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neovide:matrix.org]
 issues: [6875]
