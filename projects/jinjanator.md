@@ -10,7 +10,7 @@ updated: "2026-03-28T10:23:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jinjanator:km6g.us]
 exodus_score: 4
-last_scanned: "2026-07-14T18:25:52Z"
+last_scanned: "2026-07-16T00:33:11Z"
 ---
 
 Jinja2 Command-Line Tool, reworked, again
