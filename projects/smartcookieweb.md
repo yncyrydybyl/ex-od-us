@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#smartcookieweb:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-16T06:51:40Z"
+last_scanned: "2026-07-16T12:35:25Z"
 ---
 
 A secure, open source web browser for Android.
