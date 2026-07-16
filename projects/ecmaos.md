@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ecmaos:matrix.org.svg, https://matrix.to/#/#ecmaos:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-16T00:33:11Z"
+last_scanned: "2026-07-16T06:51:40Z"
 ---
 
 ecmaOS: Micro-kernel and framework for web technologies
