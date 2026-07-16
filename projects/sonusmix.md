@@ -8,7 +8,7 @@ status: Active
 issues: [4542]
 updated: "2025-11-07T02:21:06Z"
 exodus_score: 1
-last_scanned: "2026-07-16T00:33:11Z"
+last_scanned: "2026-07-16T18:26:39Z"
 matrix_rooms: [https://matrix.to/#/#sonusmix:matrix.org]
 ---
 
