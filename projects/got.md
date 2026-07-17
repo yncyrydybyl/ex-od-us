@@ -10,7 +10,7 @@ updated: "2026-03-16T16:25:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#inet256:inet256.org]
 exodus_score: 5
-last_scanned: "2026-07-17T00:35:02Z"
+last_scanned: "2026-07-17T12:28:47Z"
 ---
 
 Git, but for files and directories of any size.  E2E Encrypted
