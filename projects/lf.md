@@ -10,7 +10,7 @@ updated: "2026-04-05T12:38:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lf:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-08T18:32:08Z"
+last_scanned: "2026-07-17T06:51:44Z"
 ---
 
 Terminal file manager

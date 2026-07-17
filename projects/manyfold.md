@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-07-16T18:26:39Z"
+last_scanned: "2026-07-17T06:51:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#manyfold:matrix.org]
 issues: [6537]

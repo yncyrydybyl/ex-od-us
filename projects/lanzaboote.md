@@ -10,7 +10,7 @@ updated: "2026-04-06T17:02:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nixos-secure-boot:ukvly.org]
 exodus_score: 5
-last_scanned: "2026-07-16T06:51:40Z"
+last_scanned: "2026-07-17T06:51:44Z"
 ---
 
 Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]

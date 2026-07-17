@@ -10,7 +10,7 @@ updated: "2026-03-07T16:52:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mstickereditor:lukas1818.de]
 exodus_score: 5
-last_scanned: "2026-04-22T18:26:05Z"
+last_scanned: "2026-07-17T06:51:44Z"
 ---
 
 import sticker packs from telegram, to be used at the Maunium sticker picker for Matrix
