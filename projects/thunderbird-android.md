@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-06-09T00:47:43Z"
+last_scanned: "2026-07-17T18:23:56Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#thunderbird-community:mozilla.org, https://matrix.to/#/#tb-android:mozilla.org, https://matrix.to/#/#tb-android-dev:mozilla.org]
+matrix_rooms: [https://matrix.to/#/#tb-android-dev:mozilla.org, https://matrix.to/#/#tb-mobile-dev:mozilla.org, https://matrix.to/#/#tb-android:mozilla.org, https://matrix.to/#/#thunderbird-community:mozilla.org]
 issues: [4651]
 updated: "2026-04-06T17:13:08Z"
 ---

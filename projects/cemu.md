@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cemu:cemu.info]
 exodus_score: 5
-last_scanned: "2026-07-16T12:35:25Z"
+last_scanned: "2026-07-17T18:23:56Z"
 ---
 
 Cemu - Wii U emulator

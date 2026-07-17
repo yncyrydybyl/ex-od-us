@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-07-10T00:40:24Z"
+last_scanned: "2026-07-17T18:23:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meshrabiya:matrix.org]
 issues: [6686]

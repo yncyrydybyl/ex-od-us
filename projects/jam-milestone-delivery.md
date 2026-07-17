@@ -9,7 +9,7 @@ updated: "2026-02-10T17:06:29Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jam:polkadot.io]
 exodus_score: 4
-last_scanned: "2026-07-15T18:26:27Z"
+last_scanned: "2026-07-17T18:23:56Z"
 ---
 
 ## Stats

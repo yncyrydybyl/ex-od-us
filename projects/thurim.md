@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-17T06:51:44Z"
+last_scanned: "2026-07-17T18:23:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#thurim:mozilla.org]
 issues: [4655]
