@@ -9,7 +9,7 @@ issues: [6174]
 updated: "2026-03-29T18:34:21Z"
 matrix_rooms: [https://matrix.to/#/#fht-compositor:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-16T12:35:25Z"
+last_scanned: "2026-07-18T18:20:11Z"
 ---
 
 A dynamic tiling Wayland compositor.

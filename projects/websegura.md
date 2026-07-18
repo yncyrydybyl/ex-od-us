@@ -6,7 +6,7 @@ platform: github
 categories: [Security]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-10T18:32:01Z"
+last_scanned: "2026-07-18T18:20:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#PucelaBits_websegura:gitter.im]
 issues: [4807]
