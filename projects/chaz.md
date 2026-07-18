@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chaz:jackson.dev]
 exodus_score: 6
-last_scanned: "2026-07-16T12:35:25Z"
+last_scanned: "2026-07-18T12:20:07Z"
 ---
 
 Chaz is an AI bot for Matrix
