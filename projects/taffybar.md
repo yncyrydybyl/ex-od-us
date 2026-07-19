@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-19T06:53:32Z"
+last_scanned: "2026-07-19T12:20:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#taffybar:matrix.org]
 issues: [4609]
