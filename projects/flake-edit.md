@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-07-18T18:20:11Z"
+last_scanned: "2026-07-19T06:53:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flake-edit:matrix.org]
 issues: [6200]
