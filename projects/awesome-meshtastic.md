@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-18T12:20:07Z"
+last_scanned: "2026-07-19T18:19:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meshtastic-lv:matrix.org, https://matrix.to/#/#meshtasticpl:matrix.org]
 issues: [5345]

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-07-19T12:20:07Z"
+last_scanned: "2026-07-19T18:19:56Z"
 issues: [7202]
 updated: "2026-03-31T09:22:20Z"
 matrix_rooms: [https://matrix.to/#/#orbit-db:matrix.org]
