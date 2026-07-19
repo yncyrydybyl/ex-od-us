@@ -10,7 +10,7 @@ updated: "2023-08-21T05:34:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ArchLinuxStudio:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-18T06:41:20Z"
+last_scanned: "2026-07-19T00:35:23Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
