@@ -10,7 +10,7 @@ updated: "2026-03-23T11:08:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#devshell:numtide.com.svg, https://matrix.to/#/#devshell:numtide.com]
 exodus_score: 5
-last_scanned: "2026-07-20T12:45:15Z"
+last_scanned: "2026-07-20T18:39:55Z"
 ---
 
 Per project developer environments
