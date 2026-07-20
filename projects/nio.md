@@ -10,7 +10,7 @@ updated: "2026-02-16T12:08:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#niochat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-20T07:08:03Z"
+last_scanned: "2026-07-20T12:45:15Z"
 ---
 
 💬 Nio is an upcoming matrix client for iOS.
