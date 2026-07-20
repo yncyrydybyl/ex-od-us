@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-19T12:20:07Z"
+last_scanned: "2026-07-20T00:36:42Z"
 ---
 
 Tool for installing and maintaining Espressif Rust ecosystem.

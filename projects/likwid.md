@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-19T12:20:07Z"
+last_scanned: "2026-07-20T00:36:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#likwid-dev:matrix.org, https://matrix.to/#/#likwid:matrix.org]
 issues: [6927]
