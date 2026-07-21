@@ -6,7 +6,7 @@ platform: github
 categories: [Bridging, Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-07-18T06:41:20Z"
+last_scanned: "2026-07-21T18:30:46Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#heisenbridge:vi.fi]
 issues: [6519]
