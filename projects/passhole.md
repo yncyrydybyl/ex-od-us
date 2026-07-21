@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pykeepass:matrix.org.svg]
 exodus_score: 4
-last_scanned: "2026-07-21T06:53:59Z"
+last_scanned: "2026-07-21T12:34:22Z"
 ---
 
 A secure hole for your passwords (KeePass CLI)

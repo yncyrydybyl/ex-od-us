@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#eidetica-general:jackson.dev, https://matrix.to/#/#eidetica:jackson.dev]
 exodus_score: 5
-last_scanned: "2026-07-20T18:39:55Z"
+last_scanned: "2026-07-21T12:34:22Z"
 ---
 
 Decentralized DB. Remember Everything. Everywhere. All At Once.

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lazy-beancount:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-20T18:39:55Z"
+last_scanned: "2026-07-21T12:34:22Z"
 ---
 
 Beancount accounting system packaged in a Docker image together with Fava, few other libraries and some additional UIs. Privacy-focused and comprehensive approach to personal finances.
