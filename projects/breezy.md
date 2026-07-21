@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#breezy:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-14T07:39:39Z"
+last_scanned: "2026-07-21T06:53:59Z"
 ---
 
 A Distributed Version Control System with a Friendly UI

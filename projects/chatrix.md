@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chatrix:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-19T06:53:32Z"
+last_scanned: "2026-07-21T06:53:59Z"
 ---
 
 Matrix client for WordPress
