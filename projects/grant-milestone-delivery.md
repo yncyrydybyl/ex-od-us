@@ -8,9 +8,9 @@ status: Active
 issues: [6466]
 updated: "2026-03-18T22:26:57Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#w3f:matrix.org]
+matrix_rooms: [https://matrix.to/#/#polkadot:web3.foundation, https://matrix.to/#/#w3f:matrix.org, https://matrix.to/#/#kusama:web3.foundation]
 exodus_score: 5
-last_scanned: "2026-07-20T07:08:03Z"
+last_scanned: "2026-07-21T00:35:05Z"
 ---
 
 Repository to submit finished milestones
