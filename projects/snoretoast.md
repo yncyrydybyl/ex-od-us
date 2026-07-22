@@ -10,7 +10,7 @@ updated: "2025-12-11T09:30:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kde-windows:kde.org]
 exodus_score: 4
-last_scanned: "2026-07-21T18:30:46Z"
+last_scanned: "2026-07-22T00:33:45Z"
 ---
 
 Command-line application capable of creating Windows Toast notifications

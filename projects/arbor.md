@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#arbor-sim_community:gitter.im]
 exodus_score: 4
-last_scanned: "2026-07-20T07:08:03Z"
+last_scanned: "2026-07-22T00:33:45Z"
 ---
 
 The Arbor multi-compartment neural network simulation library.
