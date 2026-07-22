@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cachix:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-22T12:35:08Z"
+last_scanned: "2026-07-22T18:27:51Z"
 ---
 
 Command line client for Nix binary cache hosting:
