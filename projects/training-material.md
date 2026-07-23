@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-05T18:24:53Z"
+last_scanned: "2026-07-23T00:35:25Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#Galaxy-Training-Network_Lobby:gitter.im"

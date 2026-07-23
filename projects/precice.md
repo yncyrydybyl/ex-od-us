@@ -9,7 +9,7 @@ issues: [4276]
 updated: "2026-04-02T12:27:50Z"
 matrix_rooms: [https://matrix.to/#/#precice_lobby:gitter.im]
 exodus_score: 3
-last_scanned: "2026-07-22T18:27:51Z"
+last_scanned: "2026-07-23T00:35:25Z"
 ---
 
 A coupling library and ecosystem for partitioned multi-physics and multi-scale simulations, including surface and volume coupling.
