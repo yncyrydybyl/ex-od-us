@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#threema-bridge:matrix.org, https://matrix.to/#/#threematrix:matrix.org]
 exodus_score: 6
-last_scanned: "2026-07-23T12:34:52Z"
+last_scanned: "2026-07-23T18:29:01Z"
 ---
 
 Work in Progress: A messenger bridge between Threema and Matrix.

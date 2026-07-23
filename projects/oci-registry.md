@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-23T12:34:52Z"
+last_scanned: "2026-07-23T18:29:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#oci-registry:cronce.io]
 issues: [3792]

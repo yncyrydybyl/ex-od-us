@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-07-23T06:53:07Z"
+last_scanned: "2026-07-23T18:29:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gluon:hackint.org]
 issues: [6384]
