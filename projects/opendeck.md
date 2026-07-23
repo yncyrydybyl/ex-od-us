@@ -10,7 +10,7 @@ updated: "2026-04-03T19:52:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#opendeck:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-22T18:27:51Z"
+last_scanned: "2026-07-23T06:53:07Z"
 ---
 
 Linux software for the Stream Deck with support for original Elgato Stream Deck plugins

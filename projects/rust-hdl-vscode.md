@@ -10,7 +10,7 @@ updated: "2025-03-28T22:22:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-23T00:35:25Z"
+last_scanned: "2026-07-23T06:53:07Z"
 ---
 
 VHDL Language Support for VSCode

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-07-23T00:35:25Z"
+last_scanned: "2026-07-23T06:53:07Z"
 issues: [4721]
 updated: "2026-03-19T18:03:13Z"
 matrix_rooms: [https://matrix.to/#/#treefmt:numtide.com]

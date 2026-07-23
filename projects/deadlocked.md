@@ -10,7 +10,7 @@ updated: "2026-04-02T11:01:48Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-07-23T00:35:25Z"
+last_scanned: "2026-07-23T06:53:07Z"
 matrix_rooms: [https://matrix.to/#/#open-source-cs2-hacking:matrix.org]
 ---
 
