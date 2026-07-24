@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-23T18:29:01Z"
+last_scanned: "2026-07-24T12:32:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#avtransport:pars.ee]
 issues: [5307]
