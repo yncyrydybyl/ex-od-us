@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-23T12:34:52Z"
+last_scanned: "2026-07-24T00:32:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gardengate:matrix.org]
 issues: [6325]
