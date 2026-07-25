@@ -1,14 +1,15 @@
 ---
-name: "Cocoa Way"
-description: "Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz."
+name: Cocoa Way
+description: Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 repo: "https://github.com/J-x-Z/cocoa-way"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-07-25T12:21:44Z"
 issues: [5631]
 updated: "2026-03-31T13:53:57Z"
+matrix_rooms: [https://matrix.to/#/#smithay:matrix.org]
 ---
 
 Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
