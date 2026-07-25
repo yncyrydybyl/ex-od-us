@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-25T06:49:12Z"
+last_scanned: "2026-07-25T18:19:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#xournalpp_xournalpp:gitter.im]
 issues: [4850]

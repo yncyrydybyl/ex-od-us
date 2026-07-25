@@ -10,7 +10,7 @@ updated: "2026-03-18T14:37:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#objc2:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-25T12:21:44Z"
+last_scanned: "2026-07-25T18:19:59Z"
 ---
 
 Bindings to Apple frameworks in Rust
