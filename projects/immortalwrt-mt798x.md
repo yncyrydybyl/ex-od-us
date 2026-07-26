@@ -10,7 +10,7 @@ updated: "2025-12-24T10:14:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#immortalwrt:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-26T12:25:50Z"
+last_scanned: "2026-07-26T18:22:44Z"
 ---
 
 An Immortalwrt variant for mediatek mt798x routers.
