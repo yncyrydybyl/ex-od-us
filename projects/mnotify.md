@@ -6,7 +6,7 @@ platform: github
 categories: [Security, Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-08T00:35:26Z"
+last_scanned: "2026-07-26T00:38:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mnotify:hackbrettl.de]
 issues: [6767]
