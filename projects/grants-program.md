@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-07-26T12:25:50Z"
+last_scanned: "2026-07-27T13:05:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kusama:web3.foundation, https://matrix.to/#/#w3f:matrix.org, https://matrix.to/#/#polkadot:web3.foundation]
 issues: [6467]
