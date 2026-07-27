@@ -10,7 +10,7 @@ updated: "2026-04-05T15:01:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wtsexporter:matrix.org, https://matrix.to/#/#wtsexporter:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-07-27T13:05:44Z"
+last_scanned: "2026-07-27T18:33:59Z"
 ---
 
 A customizable, cross-platform tool for parsing WhatsApp chat databases from Android and iOS/iPadOS backups. Supports Android .crypt12, .crypt14, .crypt15, and the latest database formats. Outputs chat history in readable HTML or structured JSON.
