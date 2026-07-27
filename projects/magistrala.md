@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#supermq:matrix.org]
 exodus_score: 5
-last_scanned: "2026-07-26T06:56:58Z"
+last_scanned: "2026-07-27T00:37:58Z"
 ---
 
 Industrial IoT Messaging and Device Management Platform

@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-26T18:22:44Z"
+last_scanned: "2026-07-27T00:37:58Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gomuks:gomuks.app]
 issues: [6441]
