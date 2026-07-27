@@ -10,7 +10,7 @@ updated: "2026-03-31T21:40:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#OpenVoiceOS:matrix.org, https://matrix.to/#/#openvoiceos:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-27T00:37:58Z"
+last_scanned: "2026-07-27T07:11:37Z"
 ---
 
 Open Voice OS container images and docker-compose.yml files for x86_64 and aarch64 CPU architectures.

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-27T00:37:58Z"
+last_scanned: "2026-07-27T07:11:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#patternfly-yew:matrix.org]
 issues: [4204]
