@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-27T18:33:59Z"
+last_scanned: "2026-07-28T06:55:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#workout-tracker:matrix.org]
 issues: [4834]
