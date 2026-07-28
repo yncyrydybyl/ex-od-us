@@ -6,9 +6,9 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-28T12:38:45Z"
+last_scanned: "2026-07-28T18:31:10Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#octomachinery:matrix.org]
+matrix_rooms: [https://matrix.to/#/#octomachinery:matrix.org, https://matrix.to/#/#pyba:matrix.org]
 issues: [7165]
 updated: "2026-01-05T21:47:49Z"
 ---
