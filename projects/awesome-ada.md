@@ -10,7 +10,7 @@ updated: "2026-03-13T18:58:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ada-lang_Lobby:gitter.im, https://matrix.to/#/#ada-lang:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-27T13:05:44Z"
+last_scanned: "2026-07-28T00:34:12Z"
 ---
 
 A curated list of awesome resources related to the Ada and SPARK programming language
