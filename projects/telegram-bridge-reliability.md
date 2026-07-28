@@ -9,7 +9,7 @@ matrix_links: []
 matrix_rooms: [https://matrix.to/#/#telegram:maunium.net]
 issues: [14]
 updated: "2026-04-06T08:17:31Z"
-last_scanned: "2026-07-28T06:55:17Z"
+last_scanned: "2026-07-28T12:38:45Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 6
