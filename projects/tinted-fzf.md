@@ -10,7 +10,7 @@ updated: "2026-03-08T02:00:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-29T12:43:19Z"
+last_scanned: "2026-07-29T18:22:27Z"
 ---
 
 base16 colorschemes for fzf

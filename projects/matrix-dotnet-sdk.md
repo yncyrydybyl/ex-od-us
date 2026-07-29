@@ -10,7 +10,7 @@ updated: "2022-12-08T04:01:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dotnet:half-shot.uk.svg, https://matrix.to/#/#dotnet:half-shot.uk]
 exodus_score: 5
-last_scanned: "2026-07-29T12:43:19Z"
+last_scanned: "2026-07-29T18:22:27Z"
 ---
 
 A matrix client library in .NET (C#)
