@@ -10,7 +10,7 @@ updated: "2025-07-08T18:17:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#upscaler:matrix.org]
 exodus_score: 5
-last_scanned: "2026-07-28T12:38:45Z"
+last_scanned: "2026-07-29T00:32:30Z"
 ---
 
 Upscale and enhance images

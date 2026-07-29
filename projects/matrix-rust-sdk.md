@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3650]
 updated: "2026-04-06T14:37:00Z"
-matrix_links:
-  - target: "#matrix-rust-sdk:matrix.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-rust-sdk:matrix.org]
 exodus_score: 3
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-07-29T00:32:30Z"
 ---
 
 Matrix Client-Server SDK for Rust
