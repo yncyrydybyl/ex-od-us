@@ -10,7 +10,7 @@ updated: "2026-03-14T08:27:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#clapper-player:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-30T00:32:20Z"
+last_scanned: "2026-07-30T18:32:04Z"
 ---
 
 Level up your video experience with a modern and user-friendly media player.
