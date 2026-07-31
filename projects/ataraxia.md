@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ataraxialinux:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-27T13:05:44Z"
+last_scanned: "2026-07-31T07:01:31Z"
 ---
 
 Simple and lightweight source-based multi-platform Linux distribution with musl libc.
