@@ -10,7 +10,7 @@ updated: "2026-01-15T20:44:33Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-07-30T18:32:04Z"
+last_scanned: "2026-07-31T00:36:33Z"
 matrix_rooms: [https://matrix.to/#/#farmOS:matrix.org, https://matrix.to/#/#farmOS:matrix.org.svg]
 ---
 

@@ -10,7 +10,7 @@ updated: "2026-01-10T16:49:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pushbits:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-30T18:32:04Z"
+last_scanned: "2026-07-31T00:36:33Z"
 ---
 
 A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
