@@ -8,9 +8,9 @@ status: Active
 issues: [4175]
 updated: "2026-04-05T23:19:45Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#overte:overte.org, https://matrix.to/#/#overte_general:matrix.org]
+matrix_rooms: [https://matrix.to/#/#overte:overte.org, https://matrix.to/#/#overte:matrix.org, https://matrix.to/#/#overte_general:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-25T06:49:12Z"
+last_scanned: "2026-07-31T12:40:45Z"
 ---
 
 Overte open source virtual worlds platform.

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-30T00:32:20Z"
+last_scanned: "2026-07-31T12:40:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neo-launcher:matrix.org]
 issues: [6861]
