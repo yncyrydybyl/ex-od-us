@@ -10,7 +10,7 @@ updated: "2026-03-09T05:11:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io]
 exodus_score: 5
-last_scanned: "2026-08-01T06:52:29Z"
+last_scanned: "2026-08-01T12:23:35Z"
 ---
 
 A Delegated Routing V1 server and client for all your HTTP/IPFS routing needs.

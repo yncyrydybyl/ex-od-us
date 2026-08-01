@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-01T06:52:29Z"
+last_scanned: "2026-08-01T12:23:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#librepcb:matrix.org]
 issues: [6902]
