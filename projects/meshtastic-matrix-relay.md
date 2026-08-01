@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-21T12:34:22Z"
+last_scanned: "2026-08-01T18:21:31Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meshnetclub:matrix.org, https://matrix.to/#/#mmrelay:matrix.org, https://matrix.to/#/#mmrelay-relay-room:matrix.org]
 issues: [6688]

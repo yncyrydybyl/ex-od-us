@@ -10,7 +10,7 @@ updated: "2026-03-09T09:18:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sat-rs:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-01T12:23:35Z"
+last_scanned: "2026-08-01T18:21:31Z"
 ---
 
 CCSDS and ECSS packet standards implementations
