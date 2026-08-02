@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-01T00:35:49Z"
+last_scanned: "2026-08-02T00:36:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#calamares:kde.org]
 issues: [5553]

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-08-01T18:21:31Z"
+last_scanned: "2026-08-02T00:36:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quinn:matrix.org]
 issues: [4343]
