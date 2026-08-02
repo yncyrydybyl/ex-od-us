@@ -10,7 +10,7 @@ updated: "2026-02-12T14:26:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-02T06:55:20Z"
+last_scanned: "2026-08-02T12:24:36Z"
 ---
 
 Rust serialize/deserialize/access reflection for trees (no_std, no alloc)

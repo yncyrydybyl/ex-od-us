@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-30T12:36:20Z"
+last_scanned: "2026-08-02T12:24:36Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#foss_warn:tchncs.de]
 issues: [6268]
