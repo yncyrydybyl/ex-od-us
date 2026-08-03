@@ -10,7 +10,7 @@ updated: "2026-02-14T19:36:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#maubot:maunium.net]
 exodus_score: 4
-last_scanned: "2026-08-03T07:11:15Z"
+last_scanned: "2026-08-03T13:04:56Z"
 ---
 
 A plugin-based Matrix bot system.

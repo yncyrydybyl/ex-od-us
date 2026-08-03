@@ -8,7 +8,8 @@ status: Active
 issues: [4399]
 updated: "2025-06-16T04:34:07Z"
 exodus_score: 1
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-08-03T13:04:56Z"
+matrix_rooms: [https://matrix.to/#/#roc-streaming:matrix.org]
 ---
 
 Roc for Android!

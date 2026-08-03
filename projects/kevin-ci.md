@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-07-31T07:01:31Z"
+last_scanned: "2026-08-03T13:04:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sfttech:matrix.org]
 issues: [6807]

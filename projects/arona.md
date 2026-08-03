@@ -10,7 +10,7 @@ updated: "2025-12-29T16:16:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#line:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-02T12:24:36Z"
+last_scanned: "2026-08-03T13:04:56Z"
 ---
 
 A simple bridge for every messenger. (formerly matrix-line-bridge)
