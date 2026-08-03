@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-05-27T13:14:25Z"
+last_scanned: "2026-08-03T18:36:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gotham-rs:matrix.org]
 issues: [6454]
