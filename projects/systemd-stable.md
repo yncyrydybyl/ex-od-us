@@ -10,7 +10,7 @@ updated: "2025-06-26T14:57:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#systemd-project:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-31T07:01:31Z"
+last_scanned: "2026-08-03T07:11:15Z"
 ---
 
 Backports of patches from systemd git for stable versions < 256

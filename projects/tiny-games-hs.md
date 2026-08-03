@@ -10,7 +10,7 @@ updated: "2023-08-31T19:38:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haskell-game:matrix.org]
 exodus_score: 2
-last_scanned: "2026-07-26T18:22:44Z"
+last_scanned: "2026-08-03T07:11:15Z"
 ---
 
 Haskell Tiny Game Jam
