@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-02T18:21:37Z"
+last_scanned: "2026-08-04T00:35:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#monero-site:monero.social]
 issues: [3726]
