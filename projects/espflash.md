@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-04T18:33:38Z"
+last_scanned: "2026-08-05T08:32:14Z"
 ---
 
 Serial flasher utility for Espressif SoCs and modules based on esptool.py

@@ -9,7 +9,7 @@ issues: [46]
 updated: "2026-02-23T16:22:53Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-08-04T12:40:12Z"
+last_scanned: "2026-08-05T08:32:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#minosoft:matrix.org]
 exodus_score: 5
