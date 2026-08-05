@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-01T00:35:49Z"
+last_scanned: "2026-08-05T14:04:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jitsi-admin:h2-invent.com]
 issues: [6746]

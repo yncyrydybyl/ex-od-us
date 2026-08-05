@@ -10,7 +10,7 @@ updated: "2022-12-08T09:46:32Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-05T02:21:56Z"
+last_scanned: "2026-08-05T14:04:13Z"
 matrix_rooms: [https://matrix.to/#/#moaparty:matrix.org]
 ---
 

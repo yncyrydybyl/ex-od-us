@@ -10,7 +10,7 @@ updated: "2026-04-06T03:20:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#disko:nixos.org]
 exodus_score: 4
-last_scanned: "2026-08-05T08:32:14Z"
+last_scanned: "2026-08-05T14:04:13Z"
 ---
 
 Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]

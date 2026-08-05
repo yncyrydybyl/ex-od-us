@@ -1,13 +1,14 @@
 ---
-name: "4 Module"
+name: 4 Module
 repo: "https://github.com/GlowMany/4-module"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-08-05T14:04:13Z"
 issues: [5086]
 updated: "2022-01-11T10:11:39Z"
+matrix_rooms: [https://matrix.to/#/#polkadot-network-status:matrix.org]
 ---
 
 ## Stats
