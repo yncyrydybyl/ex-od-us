@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-03T13:04:56Z"
+last_scanned: "2026-08-05T02:21:56Z"
 issues: [4037]
 updated: "2023-06-19T15:11:38Z"
 matrix_rooms: [https://matrix.to/#/#rust-windowing:matrix.org]

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rumatui:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-22T12:35:08Z"
+last_scanned: "2026-08-05T02:21:56Z"
 ---
 
 WIP Command line Matrix client using matrix-rust-sdk
