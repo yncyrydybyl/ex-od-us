@@ -1,20 +1,14 @@
 ---
-name: "Matrix Bot Sdk Bot Template"
-description: "A template for creating bots with matrix-bot-sdk"
+name: Matrix Bot Sdk Bot Template
+description: A template for creating bots with matrix-bot-sdk
 repo: "https://github.com/turt2live/matrix-bot-sdk-bot-template"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#matrix-bot-sdk:t2bot.io"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#matrix-bot-sdk:t2bot.io"
+last_scanned: "2026-08-05T19:26:28Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#matrix-bot-sdk:t2bot.io]
 issues: [6562]
 updated: "2023-01-06T02:17:03Z"
 ---

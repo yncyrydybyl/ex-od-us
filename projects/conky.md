@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-04T00:35:35Z"
+last_scanned: "2026-08-05T19:26:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#conky:frens.io]
 issues: [5692]

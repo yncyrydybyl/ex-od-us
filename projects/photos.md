@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#photOS-Photoframe_community:gitter.im]
 exodus_score: 4
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-08-05T19:26:28Z"
 ---
 
 Operating System for digital photo frames
