@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#direnv:numtide.com, https://matrix.to/#/#direnv:numtide.com.svg]
 exodus_score: 6
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T08:32:22Z"
 ---
 
 unclutter your .profile

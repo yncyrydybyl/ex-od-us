@@ -8,7 +8,7 @@ status: Active
 issues: [4356]
 updated: "2026-04-06T15:43:38Z"
 exodus_score: 1
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T08:32:22Z"
 matrix_rooms: [https://matrix.to/#/#ratatui:matrix.org, https://matrix.to/#/#ratatui-general:matrix.org]
 ---
 

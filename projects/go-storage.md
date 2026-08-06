@@ -10,7 +10,7 @@ updated: "2025-01-07T16:33:54Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T08:32:22Z"
 ---
 
 A vendor-neutral storage library for Golang: Write once, run on every storage service.

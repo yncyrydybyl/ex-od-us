@@ -10,7 +10,7 @@ updated: "2026-04-06T17:16:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#umap:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T08:32:22Z"
 ---
 
 uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.

@@ -10,7 +10,7 @@ updated: "2025-09-25T21:29:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pyyaml:yaml.io]
 exodus_score: 4
-last_scanned: "2026-08-05T14:04:13Z"
+last_scanned: "2026-08-06T08:32:22Z"
 ---
 
 Canonical source repository for PyYAML
