@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-04T18:33:38Z"
+last_scanned: "2026-08-06T23:55:50Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rockcraft:ubuntu.com]
 issues: [4402]
