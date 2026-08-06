@@ -10,7 +10,7 @@ updated: "2026-04-04T13:20:40Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#smoltcp:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-05T08:32:14Z"
+last_scanned: "2026-08-06T02:24:43Z"
 ---
 
 a smol tcp/ip stack

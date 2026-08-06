@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-x-ios:matrix.org, https://matrix.to/#/#element-x-ios:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-08-05T19:26:28Z"
+last_scanned: "2026-08-06T02:24:43Z"
 ---
 
 Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
