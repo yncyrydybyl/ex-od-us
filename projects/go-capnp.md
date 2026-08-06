@@ -10,7 +10,7 @@ updated: "2025-10-25T23:54:54Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-capnp:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T14:03:08Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

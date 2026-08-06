@@ -10,7 +10,7 @@ updated: "2026-01-28T05:16:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#voicenotify:p51.me]
 exodus_score: 5
-last_scanned: "2026-08-06T02:24:43Z"
+last_scanned: "2026-08-06T14:03:08Z"
 ---
 
 Android app that speaks notifications
