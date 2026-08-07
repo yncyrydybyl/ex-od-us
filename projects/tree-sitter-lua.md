@@ -10,7 +10,7 @@ updated: "2026-02-26T17:58:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-06T14:03:08Z"
+last_scanned: "2026-08-07T02:38:17Z"
 ---
 
 Lua grammar for tree-sitter
