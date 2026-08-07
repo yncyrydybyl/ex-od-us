@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ekv:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-07T02:38:17Z"
+last_scanned: "2026-08-07T12:58:04Z"
 ---
 
 Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
