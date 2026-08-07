@@ -8,7 +8,7 @@ status: Active
 issues: [4006]
 updated: "2026-04-05T17:43:10Z"
 exodus_score: 2
-last_scanned: "2026-08-06T08:32:22Z"
+last_scanned: "2026-08-07T07:11:38Z"
 ---
 
 distributed structured concurrency
