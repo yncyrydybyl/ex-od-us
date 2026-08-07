@@ -8,7 +8,7 @@ issues: [3926]
 updated: "2026-04-06T14:41:40Z"
 matrix_rooms: [https://matrix.to/#/#substrate-technical:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-07T12:58:04Z"
+last_scanned: "2026-08-07T18:53:07Z"
 ---
 
 ## Stats

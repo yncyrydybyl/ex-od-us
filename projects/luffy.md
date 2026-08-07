@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#swarn-discord:chat.demonkingswarn.live]
 exodus_score: 4
-last_scanned: "2026-08-07T12:58:04Z"
+last_scanned: "2026-08-07T18:53:07Z"
 ---
 
 Spiritual successor of flix-cli and mov-cli

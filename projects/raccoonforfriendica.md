@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-07T07:11:38Z"
+last_scanned: "2026-08-07T18:53:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#raccoonforfriendicaapp:matrix.org]
 issues: [4345]
