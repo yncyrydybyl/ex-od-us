@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#authelia-support:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-08T06:49:30Z"
+last_scanned: "2026-08-08T12:42:22Z"
 ---
 
 Authelia Helm Charts

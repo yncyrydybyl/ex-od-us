@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-07T07:11:38Z"
+last_scanned: "2026-08-08T12:42:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#komunumo:ijug.eu]
 issues: [6818]

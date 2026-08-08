@@ -6,7 +6,7 @@ platform: github
 categories: [Messaging]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-07T18:53:07Z"
+last_scanned: "2026-08-08T12:42:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ScribeiOS:matrix.org, https://matrix.to/#/#scribe_community:matrix.org]
 issues: [4467]

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forgehax:nerdsin.space.svg, https://matrix.to/#/#forgehax:nerdsin.space]
 exodus_score: 6
-last_scanned: "2026-08-05T19:26:28Z"
+last_scanned: "2026-08-08T12:42:22Z"
 ---
 
 A Minecraft cheat that runs as a Forge mod
