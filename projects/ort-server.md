@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-07T18:53:07Z"
+last_scanned: "2026-08-08T06:49:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apoapsis:matrix.eclipse.org]
 issues: [4163]

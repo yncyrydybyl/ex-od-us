@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-07T18:53:07Z"
+last_scanned: "2026-08-08T06:49:30Z"
 issues: [6502]
 updated: "2025-08-29T13:30:57Z"
 matrix_rooms: [https://matrix.to/#/#sailfishconnect:matrix.org]
