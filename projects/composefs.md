@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#composefs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-07-27T00:37:58Z"
+last_scanned: "2026-08-09T18:37:05Z"
 ---
 
 The reliability of disk images, the flexibility of files
