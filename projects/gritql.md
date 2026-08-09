@@ -9,7 +9,7 @@ issues: [765]
 updated: "2026-03-30T04:48:12Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-08-09T01:35:27Z"
+last_scanned: "2026-08-09T06:52:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 exodus_score: 3
