@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-07-26T06:56:58Z"
+last_scanned: "2026-08-09T01:35:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#naja:fossi-chat.org]
 issues: [6840]
