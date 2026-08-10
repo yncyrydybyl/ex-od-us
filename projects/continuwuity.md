@@ -10,7 +10,7 @@ updated: "2026-04-06T02:09:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#space:continuwuity.org, https://matrix.to/#/#continuwuity:continuwuity.org]
 exodus_score: 8
-last_scanned: "2026-08-09T01:35:27Z"
+last_scanned: "2026-08-10T13:02:24Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
