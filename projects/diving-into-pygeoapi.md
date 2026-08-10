@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-07-29T12:43:19Z"
+last_scanned: "2026-08-10T07:28:14Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#geopython_diving-into-pygeoapi:gitter.im"

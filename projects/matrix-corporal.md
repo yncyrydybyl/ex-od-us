@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-corporal:devture.com, https://matrix.to/#/#matrix-corporal:devture.com.svg]
 exodus_score: 7
-last_scanned: "2026-08-09T18:37:05Z"
+last_scanned: "2026-08-10T07:28:14Z"
 ---
 
 Matrix Corporal: reconciliator and gateway for a managed Matrix server
