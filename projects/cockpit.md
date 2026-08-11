@@ -10,7 +10,7 @@ updated: "2026-04-06T03:13:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cockpit:fedoraproject.org]
 exodus_score: 4
-last_scanned: "2026-08-10T18:54:12Z"
+last_scanned: "2026-08-11T07:02:59Z"
 ---
 
 Cockpit is a web-based graphical interface for servers.

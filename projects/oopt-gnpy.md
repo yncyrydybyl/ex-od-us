@@ -10,7 +10,7 @@ updated: "2026-04-01T15:34:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#oopt-gnpy:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-11T01:28:27Z"
+last_scanned: "2026-08-11T07:02:59Z"
 ---
 
 Optical Route Planning Library, Based on a Gaussian Noise Model
