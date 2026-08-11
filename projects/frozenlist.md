@@ -10,8 +10,8 @@ updated: "2026-02-09T11:08:00Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-08-11T07:02:59Z"
-matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org]
+last_scanned: "2026-08-11T12:58:52Z"
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
 ---
 
 FrozenList is a list-like structure that implements collections.abc.MutableSequence and can be made immutable.
