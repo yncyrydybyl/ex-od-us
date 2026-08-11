@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jelu:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-23T06:53:07Z"
+last_scanned: "2026-08-11T01:28:27Z"
 ---
 
 Self hosted read and to-read list book tracker

@@ -9,7 +9,7 @@ issues: [4608]
 updated: "2026-04-05T02:19:27Z"
 matrix_rooms: [https://matrix.to/#/#tackler:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-10T18:54:12Z"
+last_scanned: "2026-08-11T01:28:27Z"
 ---
 
 Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting

@@ -10,7 +10,7 @@ updated: "2026-04-05T23:52:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#Tow-Boot:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-10T13:02:24Z"
+last_scanned: "2026-08-11T01:28:27Z"
 ---
 
 My nix configs
