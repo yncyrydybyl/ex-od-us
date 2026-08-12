@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-08-09T01:35:27Z"
+last_scanned: "2026-08-12T01:46:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#postgis:osgeo.org]
 issues: [4268]

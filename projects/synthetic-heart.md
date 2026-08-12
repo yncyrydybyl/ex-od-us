@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-08-11T18:59:07Z"
+last_scanned: "2026-08-12T01:46:12Z"
 issues: [4601]
 updated: "2026-04-06T14:35:30Z"
 matrix_rooms: [https://matrix.to/#/#synthetic-heart:matrix.org]
