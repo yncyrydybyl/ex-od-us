@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#smartcookieweb:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-11T12:58:52Z"
+last_scanned: "2026-08-12T07:20:54Z"
 ---
 
 SmartCookieWeb, redesigned using GeckoView

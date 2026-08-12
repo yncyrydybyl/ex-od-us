@@ -10,7 +10,7 @@ updated: "2025-05-29T10:58:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#deepin-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-11T01:28:27Z"
+last_scanned: "2026-08-12T07:20:54Z"
 ---
 
 Additional wallpapers for the base dde-wallpapers package

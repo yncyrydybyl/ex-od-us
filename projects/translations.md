@@ -10,7 +10,7 @@ updated: "2026-04-02T12:09:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#firefoxtranslations:mozilla.org]
 exodus_score: 4
-last_scanned: "2026-08-12T01:46:12Z"
+last_scanned: "2026-08-12T07:20:54Z"
 ---
 
 The code, training pipeline, and models that power Firefox Translations
