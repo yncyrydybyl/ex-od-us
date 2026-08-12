@@ -1,14 +1,15 @@
 ---
-name: "Voxelibre"
+name: Voxelibre
 description: "Mirror of https://git.minetest.land/MineClone2/MineClone2"
 repo: "https://github.com/VoxeLibre/VoxeLibre"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 2
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-08-12T18:58:51Z"
 issues: [4783]
 updated: "2026-04-04T01:12:03Z"
+matrix_rooms: [https://matrix.to/#/#voxelibre:matrix.org]
 ---
 
 Mirror of https://git.minetest.land/MineClone2/MineClone2
