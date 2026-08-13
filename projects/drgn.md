@@ -10,7 +10,7 @@ updated: "2026-04-04T08:01:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#linux-debuggers:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-07T02:38:17Z"
+last_scanned: "2026-08-13T18:59:45Z"
 ---
 
 Programmable debugger

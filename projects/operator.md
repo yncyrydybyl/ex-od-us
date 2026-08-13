@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-12T07:20:54Z"
+last_scanned: "2026-08-13T18:59:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#charmhub-charmdev:ubuntu.com, https://matrix.to/#/#charmhub-ops:ubuntu.com]
 issues: [7200]
