@@ -8,8 +8,8 @@ status: Active
 issues: [4356]
 updated: "2026-04-06T15:43:38Z"
 exodus_score: 1
-last_scanned: "2026-08-13T01:48:49Z"
-matrix_rooms: [https://matrix.to/#/#ratatui-general:matrix.org]
+last_scanned: "2026-08-13T07:23:03Z"
+matrix_rooms: [https://matrix.to/#/#ratatui:matrix.org, https://matrix.to/#/#ratatui-general:matrix.org]
 ---
 
 A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs

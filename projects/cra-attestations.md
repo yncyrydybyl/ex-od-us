@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-05T08:32:14Z"
+last_scanned: "2026-08-13T07:23:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#oss-attestations:fosdem.org]
 issues: [5719]
