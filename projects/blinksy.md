@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#blinksy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-12T18:58:51Z"
+last_scanned: "2026-08-13T01:48:49Z"
 ---
 
 Rust no-std, no-alloc LED control for spatial layouts 🟥🟩🟦
