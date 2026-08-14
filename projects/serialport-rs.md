@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-13T07:23:03Z"
+last_scanned: "2026-08-14T18:50:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#serialport-rs:matrix.org]
 issues: [4482]
