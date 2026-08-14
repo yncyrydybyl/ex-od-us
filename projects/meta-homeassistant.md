@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-13T07:23:03Z"
+last_scanned: "2026-08-14T01:46:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#meta-homeassistant:matrix.org]
 issues: [3687]
