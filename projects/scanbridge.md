@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-13T13:04:54Z"
+last_scanned: "2026-08-14T07:20:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#scanbridge:fireamp.eu]
 issues: [4452]
