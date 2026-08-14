@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-12T01:46:12Z"
+last_scanned: "2026-08-14T13:01:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#architecture:gnuradio.org]
 issues: [6408]

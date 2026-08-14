@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-14T07:20:45Z"
+last_scanned: "2026-08-14T13:01:24Z"
 issues: [5760]
 updated: "2026-03-31T12:34:43Z"
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
