@@ -10,7 +10,7 @@ updated: "2025-06-18T11:11:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cartes:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-14T01:46:20Z"
+last_scanned: "2026-08-15T12:33:03Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

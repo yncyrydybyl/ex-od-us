@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pixeldev:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-15T06:33:41Z"
+last_scanned: "2026-08-15T12:33:03Z"
 ---
 
 Human curated fediverse data
