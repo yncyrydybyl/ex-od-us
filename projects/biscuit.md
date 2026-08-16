@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#biscuit-auth:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-13T01:48:49Z"
+last_scanned: "2026-08-16T01:10:10Z"
 ---
 
 delegated, decentralized, capabilities based authorization token

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ruby-matrix-sdk:kittenface.studio]
 exodus_score: 6
-last_scanned: "2026-08-05T19:26:28Z"
+last_scanned: "2026-08-16T01:10:10Z"
 ---
 
 Ruby SDK for the Matrix communication protocol

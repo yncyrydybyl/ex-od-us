@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-11T12:58:52Z"
+last_scanned: "2026-08-16T01:10:10Z"
 issues: [6561]
 updated: "2025-09-28T21:31:27Z"
 matrix_rooms: [https://matrix.to/#/#homeworld-sdl:matrix.org]
