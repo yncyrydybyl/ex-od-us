@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-05T19:26:28Z"
+last_scanned: "2026-08-16T06:35:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bundle-preloading:igalia.com]
 issues: [5544]

@@ -10,7 +10,7 @@ updated: "2026-02-18T09:56:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mpd-mpris:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-16T01:10:10Z"
+last_scanned: "2026-08-16T06:35:35Z"
 ---
 
 An implementation of the MPRIS protocol for MPD.

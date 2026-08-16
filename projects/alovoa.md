@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alovoa_love:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-16T01:10:10Z"
+last_scanned: "2026-08-16T06:35:35Z"
 ---
 
 Free and open-source dating platform that respects your privacy

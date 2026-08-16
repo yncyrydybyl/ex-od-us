@@ -8,7 +8,7 @@ status: Active
 issues: [4399]
 updated: "2025-06-16T04:34:07Z"
 exodus_score: 1
-last_scanned: "2026-08-15T12:33:03Z"
+last_scanned: "2026-08-16T06:35:35Z"
 matrix_rooms: [https://matrix.to/#/#roc-streaming:matrix.org]
 ---
 
