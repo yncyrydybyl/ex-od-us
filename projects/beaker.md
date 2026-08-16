@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#beaker:fedora.im]
 exodus_score: 6
-last_scanned: "2026-08-14T18:50:33Z"
+last_scanned: "2026-08-16T18:24:48Z"
 ---
 
 Hardware integration testing system and lab automation for Fedora and RHEL
