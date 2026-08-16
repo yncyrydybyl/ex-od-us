@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#NeoN:gitter.im, https://matrix.to/#/#NeoFOAM:gitter.im]
 exodus_score: 4
-last_scanned: "2026-08-15T01:06:18Z"
+last_scanned: "2026-08-16T12:34:32Z"
 ---
 
 WIP Prototype of a modern CFD core

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-15T06:33:41Z"
+last_scanned: "2026-08-16T12:34:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fcitx5-android:mozilla.org]
 issues: [6148]

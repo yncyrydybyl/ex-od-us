@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#consensusj:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-16T06:35:35Z"
+last_scanned: "2026-08-16T12:34:32Z"
 ---
 
 Bitcoin components for JVM & Android (JSON client & server support, services, DSL, CLI)
