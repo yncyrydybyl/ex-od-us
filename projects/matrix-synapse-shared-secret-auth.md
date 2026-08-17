@@ -13,7 +13,7 @@ matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#matrix-synapse-shared-secret-auth:devture.com"
 exodus_score: 6
-last_scanned: "2026-08-16T06:35:35Z"
+last_scanned: "2026-08-17T18:36:05Z"
 ---
 
 Shared Secret Authenticator password provider module for Matrix Synapse
