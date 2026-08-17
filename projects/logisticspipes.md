@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-15T12:33:03Z"
+last_scanned: "2026-08-17T01:07:50Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lp:rs485.network]
 issues: [6961]
