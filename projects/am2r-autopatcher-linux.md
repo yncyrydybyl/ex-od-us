@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#am2r:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-10T00:40:24Z"
+last_scanned: "2026-08-17T06:52:19Z"
 ---
 
 Host repository for the AM2R Linux update data.

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trieve-general:trieve.ai]
 exodus_score: 5
-last_scanned: "2026-07-17T06:51:44Z"
+last_scanned: "2026-08-17T06:52:19Z"
 ---
 
 Hacker News Search and RAG built using Rust actix-web, minijinja, SolidJS, Vite, and Redis queue's
