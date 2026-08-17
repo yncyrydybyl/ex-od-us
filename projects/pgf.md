@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-16T18:24:48Z"
+last_scanned: "2026-08-17T12:38:58Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pgf-tikz:matrix.org]
 issues: [4216]

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#upgradeall:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-16T01:10:10Z"
+last_scanned: "2026-08-17T12:38:58Z"
 ---
 
 Check updates for Android apps, Magisk modules and more!

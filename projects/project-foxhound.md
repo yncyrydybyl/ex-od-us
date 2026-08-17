@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-07-05T07:08:53Z"
+last_scanned: "2026-08-17T12:38:58Z"
 issues: [4289]
 updated: "2026-03-30T10:35:52Z"
-matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#aio-libs-space:matrix.org, https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#aio-libs:matrix.org]
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#ron-rs:matrix.org]
 ---
 
 A web browser with dynamic data-flow tracking enabled in the Javascript engine and DOM, based on Mozilla Firefox (https://github.com/mozilla-firefox/firefox). It can be used to identify insecure data flows or data privacy leaks in client-side web applications.
