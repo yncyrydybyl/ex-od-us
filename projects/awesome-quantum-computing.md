@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quantum_inferiority:chat.weho.st]
 exodus_score: 4
-last_scanned: "2026-08-17T18:36:05Z"
+last_scanned: "2026-08-18T06:38:45Z"
 ---
 
 A curated list of awesome quantum computing learning and developing resources.

@@ -10,7 +10,7 @@ updated: "2025-08-05T15:32:57Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-08-11T07:02:59Z"
+last_scanned: "2026-08-18T06:38:45Z"
 ---
 
 A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch
