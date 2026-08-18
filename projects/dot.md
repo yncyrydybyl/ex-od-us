@@ -8,7 +8,7 @@ issues: [5923]
 updated: "2023-12-09T01:42:26Z"
 matrix_rooms: [https://matrix.to/#/#nvchad:matrix.org]
 exodus_score: 3
-last_scanned: "2026-06-08T07:47:21Z"
+last_scanned: "2026-08-18T12:40:23Z"
 ---
 
 ## Stats
