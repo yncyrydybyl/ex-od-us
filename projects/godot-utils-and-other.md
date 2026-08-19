@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-07-30T06:55:53Z"
+last_scanned: "2026-08-19T18:31:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#shadertoy:matrix.org]
 issues: [6439]

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-19T12:41:19Z"
+last_scanned: "2026-08-19T18:31:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#NyameBox:matrix.org, https://matrix.to/#/#nyamebox:matrix.org]
 issues: [6859]

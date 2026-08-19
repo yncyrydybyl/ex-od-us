@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rpgmaker:mapleshrine.eu]
 exodus_score: 5
-last_scanned: "2026-07-31T07:01:31Z"
+last_scanned: "2026-08-19T18:31:48Z"
 ---
 
 Free Software implementation of the Ruby Game Scripting System (RGSS)
