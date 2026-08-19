@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vta:matrix.org]
 exodus_score: 4
-last_scanned: "2026-05-28T07:24:50Z"
+last_scanned: "2026-08-19T01:06:44Z"
 ---
 
 Vocabulary Trainer for Android - not lang specific
