@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-18T06:38:45Z"
+last_scanned: "2026-08-19T12:41:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#depthmapX-users:matrix.org, https://matrix.to/#/#depthmapX-devel:matrix.org]
 issues: [5858]

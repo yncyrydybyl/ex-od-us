@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-16T18:24:48Z"
+last_scanned: "2026-08-19T12:41:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#potatomesh:dod.ngo]
 issues: [4270]
