@@ -8,9 +8,9 @@ status: Active
 issues: [3611]
 updated: "2024-07-23T22:00:33Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#discord:half-shot.uk.svg, https://matrix.to/#/#discord:half-shot.uk]
+matrix_rooms: [https://matrix.to/#/#discord:half-shot.uk.svg, https://matrix.to/#/#discord-bridge:matrix.org, https://matrix.to/#/#discord:half-shot.uk]
 exodus_score: 5
-last_scanned: "2026-08-20T06:41:08Z"
+last_scanned: "2026-08-20T12:43:30Z"
 ---
 
 A bridge between Matrix and Discord.
