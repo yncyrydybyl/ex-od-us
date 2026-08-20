@@ -10,7 +10,7 @@ updated: "2026-03-30T10:54:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hypr-virtual-desktops:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-20T12:43:30Z"
+last_scanned: "2026-08-20T18:35:40Z"
 ---
 
 A plugin for the Hyprland compositor, implementing virtual-desktop functionality.
