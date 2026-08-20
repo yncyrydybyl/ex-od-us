@@ -10,7 +10,7 @@ updated: "2026-03-27T02:21:01Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-08-19T12:41:19Z"
+last_scanned: "2026-08-20T01:06:08Z"
 ---
 
 The largest open-source medical AI skills library for OpenClaw🦞.
