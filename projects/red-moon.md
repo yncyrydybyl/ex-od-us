@@ -10,7 +10,7 @@ updated: "2026-02-19T07:09:53Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#redmoon:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-18T01:05:49Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 Android screen filter app for night time phone use.

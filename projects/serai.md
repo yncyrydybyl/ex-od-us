@@ -9,7 +9,7 @@ updated: "2026-04-02T05:25:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#serai:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-16T06:35:35Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 ## Stats

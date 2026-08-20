@@ -10,7 +10,7 @@ updated: "2025-07-01T15:55:29Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-16T06:35:35Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 A simple, elegant & full featured Jekyll theme.

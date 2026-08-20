@@ -8,7 +8,7 @@ status: Active
 issues: [6499]
 updated: "2026-01-09T17:00:05Z"
 exodus_score: 2
-last_scanned: "2026-08-17T06:52:19Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 JavaScript client for HAFAS public transport APIs.

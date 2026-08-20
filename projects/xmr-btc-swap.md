@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#comit-monero:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-19T01:06:44Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 Bitcoin–Monero Cross-chain Atomic Swap

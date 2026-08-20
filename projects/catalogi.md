@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#catalogi:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-18T06:38:45Z"
+last_scanned: "2026-08-20T06:41:08Z"
 ---
 
 A Software Catalog application
