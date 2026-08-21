@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-20T18:35:40Z"
+last_scanned: "2026-08-21T01:09:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#libadwaita:gnome.org]
 issues: [6885]
