@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-20T18:35:40Z"
+last_scanned: "2026-08-21T18:32:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jashkenas_backbone:gitter.im]
 issues: [5410]

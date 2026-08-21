@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dtn7:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-21T01:09:35Z"
+last_scanned: "2026-08-21T18:32:57Z"
 ---
 
 Rust implementation of a DTN based on RFC 9171

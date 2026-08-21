@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 8
-last_scanned: "2026-08-21T06:41:26Z"
+last_scanned: "2026-08-21T18:32:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ketesa:etke.cc]
 issues: [6805]
