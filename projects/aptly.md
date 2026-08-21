@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aptly:gitter.im]
 exodus_score: 3
-last_scanned: "2026-08-20T18:35:40Z"
+last_scanned: "2026-08-21T06:41:26Z"
 ---
 
 aptly - Debian repository management tool
