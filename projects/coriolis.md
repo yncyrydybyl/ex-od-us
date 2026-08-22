@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-15T01:06:18Z"
+last_scanned: "2026-08-22T01:05:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#coriolis:matrix.org]
 issues: [5710]
