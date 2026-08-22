@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-22T01:05:51Z"
+last_scanned: "2026-08-22T12:34:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#polyglot:nheko.im]
 issues: [3856]
