@@ -13,7 +13,7 @@ matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#CommunitySolidServer_community:gitter.im"
 exodus_score: 3
-last_scanned: "2026-08-21T18:32:57Z"
+last_scanned: "2026-08-22T06:35:38Z"
 ---
 
 An open and modular implementation of the Solid specifications
