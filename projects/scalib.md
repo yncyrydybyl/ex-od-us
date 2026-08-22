@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-20T06:41:08Z"
+last_scanned: "2026-08-22T18:26:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#scalib:matrix.org]
 issues: [4451]
