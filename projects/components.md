@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-08-09T01:35:27Z"
+last_scanned: "2026-08-23T12:35:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#UseBottles:matrix.org]
 issues: [5682]

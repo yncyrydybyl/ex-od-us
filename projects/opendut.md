@@ -10,7 +10,7 @@ updated: "2026-04-02T11:08:25Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-23T01:11:19Z"
+last_scanned: "2026-08-23T12:35:06Z"
 matrix_rooms: [https://matrix.to/#/#automotive.opendut:matrix.eclipse.org]
 ---
 
