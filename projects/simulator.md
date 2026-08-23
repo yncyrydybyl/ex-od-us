@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-embedded-graphics:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-23T12:35:06Z"
+last_scanned: "2026-08-23T18:25:39Z"
 ---
 
 Desktop simulator for embedded-graphics

@@ -10,8 +10,8 @@ updated: "2026-03-30T00:14:17Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-23T12:35:06Z"
-matrix_rooms: [https://matrix.to/#/#fedify:matrix.org, https://matrix.to/#/#hollo-users:matrix.org]
+last_scanned: "2026-08-23T18:25:39Z"
+matrix_rooms: [https://matrix.to/#/#fedify:matrix.org]
 ---
 
 Federated single-user microblogging software
