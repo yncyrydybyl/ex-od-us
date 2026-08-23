@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#droidian:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-22T18:26:32Z"
+last_scanned: "2026-08-23T06:36:47Z"
 ---
 
 Droidian's wiki
