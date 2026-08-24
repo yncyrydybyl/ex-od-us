@@ -7,15 +7,10 @@ categories: [Development]
 status: Active
 issues: [3914]
 updated: "2024-04-03T15:02:18Z"
-matrix_links:
-  - target: "#json-resume:one.ems.host"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
+matrix_links: []
 matrix_rooms: [https://matrix.to/#/#json-resume:one.ems.host]
 exodus_score: 5
-last_scanned: "2026-04-06T20:35:19Z"
+last_scanned: "2026-08-24T01:09:12Z"
 ---
 
 CLI tool to easily setup a new resume 📑
