@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations]
 status: Active
 exodus_score: 2
-last_scanned: "2026-08-24T01:09:12Z"
+last_scanned: "2026-08-24T06:53:41Z"
 issues: [4775]
 updated: "2022-05-21T19:19:02Z"
 ---

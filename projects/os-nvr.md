@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-08-21T12:41:41Z"
+last_scanned: "2026-08-24T06:53:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#os_nvr:matrix.org]
 issues: [4164]
