@@ -10,7 +10,7 @@ updated: "2026-03-30T22:09:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#openreads:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-24T06:53:41Z"
+last_scanned: "2026-08-24T18:36:50Z"
 ---
 
 A mobile books tracker written in Flutter that respects your privacy.

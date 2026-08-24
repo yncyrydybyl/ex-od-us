@@ -10,7 +10,7 @@ updated: "2024-02-20T21:05:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#immers-space:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-24T12:43:55Z"
+last_scanned: "2026-08-24T18:36:50Z"
 ---
 
 Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps
