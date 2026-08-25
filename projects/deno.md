@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-24T18:36:50Z"
+last_scanned: "2026-08-25T06:42:08Z"
 issues: [5849]
 updated: "2026-04-06T16:43:48Z"
 matrix_rooms: [https://matrix.to/#/#wgpu-users:matrix.org]

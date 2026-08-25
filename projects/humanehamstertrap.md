@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#HumaneHamsterTrap:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-25T01:09:10Z"
+last_scanned: "2026-08-25T06:42:08Z"
 ---
 
 A WebGPU capture and debugging tool
