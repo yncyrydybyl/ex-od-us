@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethxmrswap:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-25T06:42:08Z"
+last_scanned: "2026-08-25T12:42:54Z"
 ---
 
 💫 ETH-XMR atomic swap implementation
