@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-24T06:53:41Z"
+last_scanned: "2026-08-26T06:45:10Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#IRCAD-IHU_sight-support:gitter.im]
 issues: [3953]

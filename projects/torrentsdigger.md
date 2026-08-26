@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#forthecommunity_space:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-26T01:11:37Z"
+last_scanned: "2026-08-26T06:45:10Z"
 ---
 
 [ Note : This is just a Mirror/Read Only Repository ]   Development Repo --> https://gitlab.com/ForTheCommunity/torrentsdigger
