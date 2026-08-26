@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#coqui-ai_TTS:gitter.im]
 exodus_score: 4
-last_scanned: "2026-08-19T06:39:25Z"
+last_scanned: "2026-08-26T01:11:37Z"
 ---
 
 🐸TTS recipes for different datasets
