@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-15T01:06:18Z"
+last_scanned: "2026-08-26T12:47:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#Jovian-Experiments:matrix.org]
 issues: [6753]

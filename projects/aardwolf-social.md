@@ -10,7 +10,7 @@ updated: "2026-02-03T19:21:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aardwolf-discussion:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-17T06:51:44Z"
+last_scanned: "2026-08-26T12:47:19Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

@@ -9,7 +9,7 @@ updated: "2023-08-21T09:35:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#carnet:gauchiste.club]
 exodus_score: 6
-last_scanned: "2026-08-25T18:35:58Z"
+last_scanned: "2026-08-26T12:47:19Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

@@ -10,7 +10,7 @@ updated: "2025-06-15T10:56:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#workspacer-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-25T12:42:54Z"
+last_scanned: "2026-08-26T12:47:19Z"
 ---
 
 a tiling window manager for Windows
