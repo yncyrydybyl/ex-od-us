@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-sms-bridge:imbitbu.de]
 exodus_score: 7
-last_scanned: "2026-08-27T07:20:46Z"
+last_scanned: "2026-08-27T21:46:21Z"
 ---
 
 Matrix bridge, that allows you to bridge matrix rooms to SMS with one telephone number only.

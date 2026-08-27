@@ -10,7 +10,7 @@ updated: "2026-04-06T01:31:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#translators:element.io, https://matrix.to/#/#webrtc:matrix.org]
 exodus_score: 8
-last_scanned: "2026-08-27T07:20:46Z"
+last_scanned: "2026-08-27T21:46:21Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
