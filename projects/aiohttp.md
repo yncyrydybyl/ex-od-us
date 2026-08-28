@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aio-libs-space:matrix.org, https://matrix.to/#/#aio-libs:matrix.org]
 exodus_score: 5
-last_scanned: "2026-08-28T09:34:59Z"
+last_scanned: "2026-08-28T21:43:46Z"
 ---
 
 Asynchronous HTTP client/server framework for asyncio and Python

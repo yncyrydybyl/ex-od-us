@@ -10,7 +10,7 @@ updated: "2023-02-06T23:41:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#signaller_dev_ru:netwhood.online, https://matrix.to/#/#signaller_dev:netwhood.online]
 exodus_score: 5
-last_scanned: "2026-08-28T09:34:59Z"
+last_scanned: "2026-08-28T21:43:46Z"
 ---
 
 The lightweight (but full-featured) Matrix server, written in Go language
