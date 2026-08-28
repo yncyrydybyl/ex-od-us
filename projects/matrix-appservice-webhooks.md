@@ -6,7 +6,7 @@ platform: github
 categories: [Bridging, Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-23T18:25:39Z"
+last_scanned: "2026-08-28T09:34:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#webhooks:t2bot.io]
 issues: [6556]

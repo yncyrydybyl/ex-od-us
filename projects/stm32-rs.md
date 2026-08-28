@@ -10,7 +10,7 @@ updated: "2026-02-21T08:57:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stm32-rs:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-27T21:46:21Z"
+last_scanned: "2026-08-28T09:34:59Z"
 ---
 
 Embedded Rust device crates for STM32 microcontrollers
