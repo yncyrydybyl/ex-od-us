@@ -10,7 +10,7 @@ updated: "2021-09-05T21:01:01Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-08-26T19:44:10Z"
+last_scanned: "2026-08-29T05:42:00Z"
 ---
 
 🐍 Coqui's machine learning job scheduler
