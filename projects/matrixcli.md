@@ -9,7 +9,7 @@ issues: [6647]
 updated: "2024-04-21T10:37:14Z"
 matrix_rooms: [https://matrix.to/#/#matrix-python-sdk:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-26T01:11:37Z"
+last_scanned: "2026-08-30T11:17:59Z"
 ---
 
 Sophisticated yet simple command line chat client for linux that implements the matrix communication protocol, supporting multiple accounts configuration and systemd units

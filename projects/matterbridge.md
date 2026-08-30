@@ -10,7 +10,7 @@ updated: "2024-12-12T00:20:34Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-05-30T12:28:42Z"
+last_scanned: "2026-08-30T11:17:59Z"
 matrix_rooms: [https://matrix.to/#/#whatsmeow:maunium.net]
 ---
 
