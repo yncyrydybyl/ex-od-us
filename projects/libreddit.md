@@ -1,20 +1,14 @@
 ---
-name: "Libreddit"
-description: "Private front-end for Reddit"
+name: Libreddit
+description: Private front-end for Reddit
 repo: "https://github.com/libreddit/libreddit"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 4
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#libreddit:kde.org"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#libreddit:kde.org"
+last_scanned: "2026-08-30T03:42:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#libreddit:kde.org]
 issues: [6898]
 updated: "2025-02-15T19:11:02Z"
 ---

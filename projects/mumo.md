@@ -10,7 +10,7 @@ updated: "2024-07-28T09:26:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mumble-dev:matrix.org]
 exodus_score: 2
-last_scanned: "2026-08-26T19:44:10Z"
+last_scanned: "2026-08-30T03:42:20Z"
 ---
 
 Mumble Moderator framework simplifying development of plugins that connect to Mumble servers via Ice. (handles basic ICE connectivity, contains basic module loading and message multiplexing)

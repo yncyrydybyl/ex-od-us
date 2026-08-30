@@ -1,14 +1,15 @@
 ---
-name: "Ghc"
+name: Ghc
 description: "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing)."
 repo: "https://github.com/ghc/ghc"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-08-30T03:42:20Z"
 issues: [6351]
 updated: "2026-04-06T17:18:34Z"
+matrix_rooms: [https://matrix.to/#/#haskell.wasm:matrix.org]
 ---
 
 Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).

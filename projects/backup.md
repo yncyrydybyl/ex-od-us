@@ -1,20 +1,14 @@
 ---
-name: "Backup"
-description: "TwinDB Backup"
+name: Backup
+description: TwinDB Backup
 repo: "https://github.com/twindb/backup"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#twindb_backup:gitter.im"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#twindb_backup:gitter.im"
+last_scanned: "2026-08-30T03:42:20Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#twindb_backup:gitter.im]
 issues: [5414]
 updated: "2025-10-23T14:38:04Z"
 ---

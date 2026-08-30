@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-08-30T03:42:20Z"
 issues: [2035]
 updated: "2024-01-27T21:24:56Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-04-06T15:25:05Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 Simple WhatsApp MD BOT By, Alien-Alfa

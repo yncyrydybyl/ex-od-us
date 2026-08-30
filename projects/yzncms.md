@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-14T12:25:26Z"
+last_scanned: "2026-08-30T03:42:20Z"
 issues: [4066]
 updated: "2025-11-24T05:10:02Z"
 matrix_rooms: [https://matrix.to/#/#jquery_meeting:gitter.im]

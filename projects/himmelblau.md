@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-06T23:55:50Z"
+last_scanned: "2026-08-30T03:42:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#himmelblau:matrix.org, https://matrix.to/#/#samba-technical:matrix.org]
 issues: [6544]

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-23T18:25:39Z"
+last_scanned: "2026-08-30T03:42:20Z"
 issues: [4294]
 updated: "2026-01-26T14:04:56Z"
 matrix_rooms: [https://matrix.to/#/#serenity-js:gitter.im]

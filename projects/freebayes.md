@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vcflib:matrix.org]
 exodus_score: 4
-last_scanned: "2026-08-15T01:06:18Z"
+last_scanned: "2026-08-30T03:42:20Z"
 ---
 
 Bayesian haplotype-based genetic polymorphism discovery and genotyping.
