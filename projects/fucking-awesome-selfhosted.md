@@ -1,20 +1,14 @@
 ---
-name: "Fucking Awesome Selfhosted"
-description: "A list of Free Software network services and web applications which can be hosted on your own servers. With repository stars⭐ and forks🍴"
+name: Fucking Awesome Selfhosted
+description: A list of Free Software network services and web applications which can be hosted on your own servers. With repository stars⭐ and forks🍴
 repo: "https://github.com/Correia-jpv/fucking-awesome-selfhosted"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 7
-last_scanned: "2026-04-06T22:14:33Z"
-matrix_links:
-  - target: "#selfhosted:selfhosted.chat"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#selfhosted:selfhosted.chat"
+last_scanned: "2026-08-31T12:43:44Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#selfhosted:selfhosted.chat]
 issues: [6310]
 updated: "2026-04-06T06:42:11Z"
 ---

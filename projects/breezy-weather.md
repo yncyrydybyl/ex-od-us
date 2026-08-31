@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#breezy-weather-space:matrix.org, https://matrix.to/#/#breezy-weather-francais:matrix.org, https://matrix.to/#/#breezy-weather:matrix.org]
 exodus_score: 5
-last_scanned: "2026-08-30T11:17:59Z"
+last_scanned: "2026-08-31T12:43:44Z"
 ---
 
 A feature-rich weather app with good visualizations and more than 50 sources.

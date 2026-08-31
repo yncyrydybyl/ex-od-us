@@ -1,20 +1,14 @@
 ---
-name: "Home Manager"
+name: Home Manager
 description: "Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] "
 repo: "https://github.com/nix-community/home-manager"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 6
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#hm:rycee.net"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#hm:rycee.net"
+last_scanned: "2026-08-31T12:43:44Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#hm:rycee.net]
 issues: [6553]
 updated: "2026-04-06T06:39:46Z"
 ---
