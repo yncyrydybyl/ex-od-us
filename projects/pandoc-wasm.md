@@ -5,7 +5,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-28T09:34:59Z"
+last_scanned: "2026-08-31T22:27:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haskell.wasm:matrix.org]
 issues: [3816]
