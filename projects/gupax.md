@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-08-31T22:27:26Z"
+last_scanned: "2026-09-01T11:06:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#xmrvsbeast:monero.social]
 issues: [6493]

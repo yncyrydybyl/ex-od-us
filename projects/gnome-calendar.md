@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-16T18:24:48Z"
+last_scanned: "2026-09-01T11:06:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gnome-calendar:gnome.org]
 issues: [6395]

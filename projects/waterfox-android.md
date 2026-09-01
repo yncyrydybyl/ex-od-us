@@ -6,12 +6,12 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-31T12:43:44Z"
+last_scanned: "2026-09-01T11:06:35Z"
 issues: [824]
 updated: "2026-03-23T20:21:09Z"
 verified: true
 verified_note: repo alive, room not checked
-matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org, https://matrix.to/#/#ron-rs:matrix.org]
+matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
 ---
 
 Waterfox for Android

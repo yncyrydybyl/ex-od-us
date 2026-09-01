@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-08-31T22:27:26Z"
+last_scanned: "2026-09-01T11:06:35Z"
 issues: [4238]
 updated: "2026-04-06T07:19:11Z"
 matrix_rooms: [https://matrix.to/#/#42wim:feneas.org, https://matrix.to/#/#go-fed:feneas.org]
