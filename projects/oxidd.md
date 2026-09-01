@@ -10,7 +10,7 @@ updated: "2026-03-02T08:57:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#oxidd:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-14T07:20:45Z"
+last_scanned: "2026-09-01T16:03:49Z"
 ---
 
 Concurrent decision diagram framework written in Rust

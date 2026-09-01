@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-15T06:33:41Z"
+last_scanned: "2026-09-01T16:03:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nomacs:matrix.org]
 issues: [6994]

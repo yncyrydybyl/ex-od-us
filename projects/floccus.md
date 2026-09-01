@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-01T03:36:42Z"
+last_scanned: "2026-09-01T16:03:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#marcelklehr_floccus:gitter.im, https://matrix.to/#/#floccus:matrix.org]
 issues: [6233]
