@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#am2r-space:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-01T16:03:49Z"
+last_scanned: "2026-09-01T20:33:37Z"
 ---
 
 Host respository for the AM2RLauncher.

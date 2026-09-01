@@ -8,9 +8,9 @@ status: Active
 issues: [4022]
 updated: "2026-04-06T08:05:42Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#tuwunel:grin.hu, https://matrix.to/#/#tuwunel:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#tuwunel:matrix.org.svg, https://matrix.to/#/#tuwunel:grin.hu, https://matrix.to/#/#tuwunel:matrix.org]
 exodus_score: 5
-last_scanned: "2026-09-01T16:03:49Z"
+last_scanned: "2026-09-01T20:33:37Z"
 ---
 
 Official successor to conduwuit

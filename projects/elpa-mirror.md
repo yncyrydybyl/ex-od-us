@@ -7,9 +7,9 @@ categories: [Development]
 status: Active
 issues: [6015]
 updated: "2026-04-06T12:28:52Z"
-matrix_rooms: [https://matrix.to/#/#ement.el:matrix.org, https://matrix.to/#/#ement.el:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#ement.el:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-09-01T16:03:49Z"
+last_scanned: "2026-09-01T20:33:37Z"
 ---
 
 Mirror for some Emacs package archives
