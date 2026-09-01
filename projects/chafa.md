@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-27T07:20:46Z"
+last_scanned: "2026-09-01T03:36:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chafa:matrix.org]
 issues: [5576]

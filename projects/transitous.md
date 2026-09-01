@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-30T11:17:59Z"
+last_scanned: "2026-09-01T03:36:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#transitous:matrix.spline.de, https://matrix.to/#/#transitous:matrix.spline]
 issues: [4681]

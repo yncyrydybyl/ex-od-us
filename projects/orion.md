@@ -10,7 +10,7 @@ updated: "2026-04-06T10:22:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#orion-rs:matrix.org, https://matrix.to/#/#orion-rs:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-08-29T20:25:57Z"
+last_scanned: "2026-09-01T03:36:42Z"
 ---
 
 Usable, easy and safe pure-Rust crypto

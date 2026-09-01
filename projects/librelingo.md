@@ -8,7 +8,7 @@ status: Active
 issues: [3548]
 updated: "2025-01-16T10:20:48Z"
 exodus_score: 1
-last_scanned: "2026-08-31T12:43:44Z"
+last_scanned: "2026-09-01T03:36:42Z"
 matrix_rooms: [https://matrix.to/#/#space-librelingo:matrix.org]
 ---
 
