@@ -10,7 +10,7 @@ updated: "2026-04-04T14:51:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#litestar:matrix.org]
 exodus_score: 3
-last_scanned: "2026-07-17T06:51:44Z"
+last_scanned: "2026-09-02T15:58:28Z"
 ---
 
 Light, flexible and extensible ASGI framework | Built to scale
