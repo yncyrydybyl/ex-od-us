@@ -10,7 +10,7 @@ updated: "2020-10-16T08:16:13Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-09-02T02:55:09Z"
+last_scanned: "2026-09-02T20:30:32Z"
 matrix_rooms: [https://matrix.to/#/#soundtrack:fabric.pub.svg]
 ---
 
