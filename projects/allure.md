@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lambdahack:mozilla.org, https://matrix.to/#/#lambdahack:mozilla.org.svg]
 exodus_score: 5
-last_scanned: "2026-09-03T10:40:32Z"
+last_scanned: "2026-09-03T15:47:14Z"
 ---
 
 Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad combat game written in Haskell; please offer feedback, e.g., after trying out the web frontend version at
