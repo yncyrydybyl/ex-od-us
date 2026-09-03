@@ -10,7 +10,7 @@ updated: "2026-03-12T09:55:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tim-spec:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-03T15:47:14Z"
+last_scanned: "2026-09-03T20:30:20Z"
 ---
 
 API specification for gematik's TI-Messenger - a messaging standard, which will enable healthcare personnel in the German healthcare sector to communicate interoperable via DSGVO-conform messaging-services. The TI-Messenger builds on matrix, the open standard for interoperable, decentralised, real-t
