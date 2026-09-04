@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#warehouse-development:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-30T03:42:20Z"
+last_scanned: "2026-09-04T15:45:56Z"
 ---
 
 A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks

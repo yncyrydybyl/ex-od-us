@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-08-31T22:27:26Z"
+last_scanned: "2026-09-04T15:45:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fellowship-open-channel:parity.io, https://matrix.to/#/#fellowship-members:parity.io]
 issues: [7206]

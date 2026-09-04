@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dryoc:frens.io]
 exodus_score: 5
-last_scanned: "2026-09-02T15:58:28Z"
+last_scanned: "2026-09-04T15:45:56Z"
 ---
 
 Don't Roll Your Own Crypto: pure-Rust, hard to misuse cryptography library
