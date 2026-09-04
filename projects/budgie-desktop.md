@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-09-04T15:45:56Z"
+last_scanned: "2026-09-04T20:16:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#buddies-of-budgie:matrix.org]
 issues: [5536]
