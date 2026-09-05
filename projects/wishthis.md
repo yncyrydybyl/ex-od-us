@@ -10,7 +10,7 @@ updated: "2025-10-14T15:30:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wishthis:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-05T02:59:16Z"
+last_scanned: "2026-09-05T09:57:36Z"
 ---
 
 wishthis is a simple, intuitive and modern wishlist platform to create, manage and view your wishes for any kind of occasion. 
