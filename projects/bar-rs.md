@@ -10,7 +10,7 @@ updated: "2026-03-11T14:36:01Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-05T09:57:36Z"
+last_scanned: "2026-09-05T14:35:57Z"
 ---
 
 A simple status bar for hyprland, niri and wayfire, written in rust using iced-rs
