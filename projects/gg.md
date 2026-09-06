@@ -8,7 +8,7 @@ status: Active
 issues: [6346]
 updated: "2023-06-23T15:19:32Z"
 exodus_score: 1
-last_scanned: "2026-09-05T19:56:25Z"
+last_scanned: "2026-09-06T02:58:24Z"
 ---
 
 General Golang Code Generator
