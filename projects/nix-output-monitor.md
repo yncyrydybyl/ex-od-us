@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-07T02:56:08Z"
+last_scanned: "2026-09-07T17:15:20Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nix-output-monitor:maralorn.de]
 issues: [6936]
