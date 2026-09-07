@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-08-17T12:38:58Z"
+last_scanned: "2026-09-07T02:56:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#chat:yaml.io]
 issues: [4529]
