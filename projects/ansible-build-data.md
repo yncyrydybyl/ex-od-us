@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#community:ansible.com.svg, https://matrix.to/#/#community:ansible.com]
 exodus_score: 6
-last_scanned: "2026-09-07T11:35:49Z"
+last_scanned: "2026-09-08T03:05:57Z"
 ---
 
 Holds generated but persistent results from building the Ansible community package
