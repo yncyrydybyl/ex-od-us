@@ -10,7 +10,7 @@ updated: "2024-10-30T03:04:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lowlevel:postmarketos.org]
 exodus_score: 5
-last_scanned: "2026-08-30T03:42:20Z"
+last_scanned: "2026-09-08T10:35:19Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
