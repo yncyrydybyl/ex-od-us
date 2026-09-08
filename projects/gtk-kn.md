@@ -10,7 +10,7 @@ updated: "2025-02-14T13:48:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gtk-kn:matrix.org]
 exodus_score: 2
-last_scanned: "2026-06-02T13:20:44Z"
+last_scanned: "2026-09-08T20:43:49Z"
 ---
 
 Kotlin/Native bindings for the GTK and other GObject-based libraries (read only mirror of GitLab)
