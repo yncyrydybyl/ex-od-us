@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#embassy-rs:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-08T03:05:57Z"
+last_scanned: "2026-09-08T15:59:36Z"
 ---
 
 Modern embedded framework, using Rust and async.

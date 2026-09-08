@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#foss-supremacy:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-08T03:05:57Z"
+last_scanned: "2026-09-08T15:59:36Z"
 ---
 
 A GTA 3 reimplementation on the Redot Engine
