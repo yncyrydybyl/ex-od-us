@@ -8,7 +8,7 @@ status: Active
 issues: [7183]
 updated: "2026-04-05T00:08:07Z"
 exodus_score: 1
-last_scanned: "2026-09-08T20:43:49Z"
+last_scanned: "2026-09-09T03:07:28Z"
 matrix_rooms: [https://matrix.to/#/#opencloud:matrix.org]
 ---
 

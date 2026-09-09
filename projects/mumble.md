@@ -10,7 +10,7 @@ updated: "2026-04-03T18:06:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mumble:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-08T20:43:49Z"
+last_scanned: "2026-09-09T03:07:28Z"
 ---
 
 Mumble is an open-source, low-latency, high quality voice chat software.
