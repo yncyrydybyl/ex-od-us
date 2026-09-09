@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fat-free-framework:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-09T03:07:28Z"
+last_scanned: "2026-09-09T10:46:23Z"
 ---
 
 A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!

@@ -10,9 +10,9 @@ updated: "2026-03-06T13:13:52Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#drogue-iot:matrix.org]
+matrix_rooms: [https://matrix.to/#/#embassy-rs:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-08T10:35:19Z"
+last_scanned: "2026-09-09T10:46:23Z"
 ---
 
 An Rust TLS 1.3 implementation for embedded devices.
