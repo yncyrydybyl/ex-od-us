@@ -10,7 +10,7 @@ updated: "2026-04-06T06:15:15Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-09T10:46:23Z"
+last_scanned: "2026-09-09T20:25:14Z"
 ---
 
 💎 Amber the programming language compiled to Bash
