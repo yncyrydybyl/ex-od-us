@@ -10,7 +10,7 @@ updated: "2026-04-03T08:08:46Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#smoltcp:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-09T10:46:23Z"
+last_scanned: "2026-09-09T15:55:40Z"
 ---
 
 Awkernel: realtime operating system written in Rust
