@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-x-android:matrix.org, https://matrix.to/#/#element-x-android:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-09-10T03:07:54Z"
+last_scanned: "2026-09-10T10:37:43Z"
 ---
 
 Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose

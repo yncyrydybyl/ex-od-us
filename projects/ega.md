@@ -10,7 +10,7 @@ updated: "2025-10-15T23:04:26Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ega:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-08T10:35:19Z"
+last_scanned: "2026-09-10T10:37:43Z"
 ---
 
 amateur translation project of Grothendieck's EGA.
