@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-09-10T20:25:34Z"
+last_scanned: "2026-09-11T10:37:01Z"
 issues: [4825]
 updated: "2026-04-01T10:05:28Z"
-matrix_rooms: [https://matrix.to/#/#luasnip:matrix.org]
+matrix_rooms: [https://matrix.to/#/#tinted-theming:matrix.org, https://matrix.to/#/#luasnip:matrix.org]
 ---
 
 💾 Dot-files
