@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-09-11T10:37:01Z"
+last_scanned: "2026-09-11T15:52:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pipewire-screenaudio:matrix.org]
 issues: [3842]
