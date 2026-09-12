@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#postmoogle:etke.cc]
 exodus_score: 7
-last_scanned: "2026-09-08T03:05:57Z"
+last_scanned: "2026-09-12T10:06:26Z"
 ---
 
 Postmoogle is Matrix <-> Email bridge in a form of an SMTP server
