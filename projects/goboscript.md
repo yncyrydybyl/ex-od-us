@@ -10,7 +10,7 @@ updated: "2026-04-05T18:44:39Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-13T11:06:16Z"
+last_scanned: "2026-09-14T03:25:23Z"
 matrix_rooms: [https://matrix.to/#/#goboscript:matrix.org]
 ---
 

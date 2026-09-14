@@ -10,7 +10,7 @@ updated: "2025-04-19T22:07:58Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lorri:libera.chat]
 exodus_score: 4
-last_scanned: "2026-09-13T03:12:31Z"
+last_scanned: "2026-09-14T03:25:23Z"
 ---
 
 Your project’s nix-env [maintainer=@Profpatsch,@nyarly]

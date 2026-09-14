@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#silverblue:fedoraproject.org]
 exodus_score: 5
-last_scanned: "2026-09-10T10:37:43Z"
+last_scanned: "2026-09-14T03:25:23Z"
 ---
 
 Fedora Silverblue issue tracker

@@ -9,7 +9,7 @@ updated: "2025-12-18T08:05:08Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-08-20T18:35:40Z"
+last_scanned: "2026-09-14T03:25:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aristaproject:matrix.org]
 ---
