@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-09-14T11:49:28Z"
+last_scanned: "2026-09-14T17:42:31Z"
 issues: [3963]
 updated: "2026-04-02T09:20:09Z"
 matrix_rooms: [https://matrix.to/#/#sunpy:openastronomy.org.svg, https://matrix.to/#/#RDFLib_rdflib:gitter.im]
