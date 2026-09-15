@@ -10,7 +10,7 @@ updated: "2026-02-28T14:45:54Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nix:nixos.org]
 exodus_score: 4
-last_scanned: "2026-09-14T03:25:23Z"
+last_scanned: "2026-09-15T20:52:14Z"
 ---
 
 📱 (rebooting... please wait...)
