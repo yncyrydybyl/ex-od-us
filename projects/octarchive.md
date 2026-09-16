@@ -10,7 +10,7 @@ updated: "2025-12-29T17:03:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#octarchive:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-16T03:22:32Z"
+last_scanned: "2026-09-16T10:51:32Z"
 ---
 
 Simple tool to back up all repos on a GitHub/Forgejo account to a local folder.
