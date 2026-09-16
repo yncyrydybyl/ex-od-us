@@ -10,7 +10,7 @@ updated: "2026-04-04T10:06:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mollyim-space:matrix.org, https://matrix.to/#/#mollyim:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-16T10:51:32Z"
+last_scanned: "2026-09-16T16:08:53Z"
 ---
 
 Enhanced and security-focused fork of Signal.
