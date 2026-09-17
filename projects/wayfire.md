@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-09-16T10:51:32Z"
+last_scanned: "2026-09-17T10:58:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wayfire:matrix.org]
 issues: [4798]
