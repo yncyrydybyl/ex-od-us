@@ -10,7 +10,7 @@ updated: "2026-03-15T08:36:37Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-16T16:08:53Z"
+last_scanned: "2026-09-17T03:28:41Z"
 ---
 
 A list of RSS related stuff: tools, services, communities and tutorials, etc.
