@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-04-23T12:25:34Z"
+last_scanned: "2026-09-18T10:35:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#SFOS_AR:matrix.org, https://matrix.to/#/#nemomobile:matrix.org]
 issues: [5383]
