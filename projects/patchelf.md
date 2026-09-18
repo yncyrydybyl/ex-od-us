@@ -10,7 +10,7 @@ updated: "2025-12-15T01:02:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#patchelf:nixos.org]
 exodus_score: 4
-last_scanned: "2026-09-17T20:57:03Z"
+last_scanned: "2026-09-18T15:50:26Z"
 ---
 
 A small utility to modify the dynamic linker and RPATH of ELF executables
