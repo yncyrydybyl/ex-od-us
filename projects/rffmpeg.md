@@ -8,8 +8,8 @@ status: Active
 issues: [3916]
 updated: "2025-11-03T19:42:58Z"
 exodus_score: 1
-last_scanned: "2026-09-18T20:24:29Z"
-matrix_rooms: [https://matrix.to/#/#rffmpeg:matrix.org.svg]
+last_scanned: "2026-09-19T03:10:34Z"
+matrix_rooms: [https://matrix.to/#/#rffmpeg:matrix.org.svg, https://matrix.to/#/#rffmpeg:matrix.org]
 ---
 
 rffmpeg: remote SSH FFmpeg wrapper tool
