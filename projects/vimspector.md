@@ -10,7 +10,7 @@ updated: "2026-04-04T04:20:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vimspector:matrix.org, https://matrix.to/#/#vimspector_Lobby:gitter.im]
 exodus_score: 3
-last_scanned: "2026-09-19T20:03:01Z"
+last_scanned: "2026-09-20T03:27:41Z"
 ---
 
 vimspector - A multi-language debugging system for Vim
