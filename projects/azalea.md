@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-20T15:27:27Z"
+last_scanned: "2026-09-20T20:20:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#azalea:matdoes.dev]
 issues: [5409]

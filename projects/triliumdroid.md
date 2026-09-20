@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#triliumdroid:matrix.org]
 exodus_score: 5
-last_scanned: "2026-09-20T15:27:27Z"
+last_scanned: "2026-09-20T20:20:03Z"
 ---
 
 Android client for Trilium Notes
