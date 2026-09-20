@@ -8,7 +8,7 @@ status: Active
 issues: [4707]
 updated: "2025-09-15T21:33:35Z"
 exodus_score: 1
-last_scanned: "2026-09-20T10:38:30Z"
+last_scanned: "2026-09-20T15:27:27Z"
 matrix_rooms: [https://matrix.to/#/#tree-sitter-chat:matrix.org]
 ---
 
