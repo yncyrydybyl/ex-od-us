@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#std-nix:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-21T12:00:49Z"
+last_scanned: "2026-09-21T21:42:21Z"
 ---
 
 A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!

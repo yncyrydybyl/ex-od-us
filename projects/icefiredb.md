@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-09-21T12:00:49Z"
+last_scanned: "2026-09-21T21:42:21Z"
 issues: [6597]
 updated: "2026-04-06T11:43:26Z"
 matrix_rooms: [https://matrix.to/#/#ipfs-space:ipfs.io, https://matrix.to/#/#ipld:ipfs.io]
