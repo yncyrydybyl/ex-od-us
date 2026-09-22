@@ -10,7 +10,7 @@ updated: "2026-04-03T17:48:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#software-o-o:opensuse.org]
 exodus_score: 4
-last_scanned: "2026-09-21T12:00:49Z"
+last_scanned: "2026-09-22T03:21:13Z"
 ---
 
 The site behind https://software.opensuse.org. It is the default web interface to download openSUSE distributions and to search for OBS packages. Packaged at https://build.opensuse.org/project/show/openSUSE:infrastructure:software.opensuse.org

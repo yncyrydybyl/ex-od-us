@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#decidimdevs:matrix.org]
 exodus_score: 5
-last_scanned: "2026-09-21T12:00:49Z"
+last_scanned: "2026-09-22T03:21:13Z"
 ---
 
 The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
