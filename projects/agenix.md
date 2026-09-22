@@ -10,7 +10,7 @@ updated: "2026-02-04T00:31:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#agenix:nixos.org]
 exodus_score: 4
-last_scanned: "2026-09-21T21:42:21Z"
+last_scanned: "2026-09-22T10:58:41Z"
 ---
 
 age-encrypted secrets for NixOS and Home manager
