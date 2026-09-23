@@ -8,7 +8,7 @@ status: Active
 issues: [4537]
 updated: "2026-03-29T18:07:50Z"
 exodus_score: 1
-last_scanned: "2026-09-22T20:53:34Z"
+last_scanned: "2026-09-23T03:22:32Z"
 matrix_rooms: [https://matrix.to/#/#solid_project:matrix.org, https://matrix.to/#/#solid_solidos:gitter.im.svg, https://matrix.to/#/#solid_solidos:gitter.im]
 ---
 
