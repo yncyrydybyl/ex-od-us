@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-themes:raim.ist]
 exodus_score: 6
-last_scanned: "2026-07-06T13:17:56Z"
+last_scanned: "2026-09-23T21:05:27Z"
 ---
 
 A place to share themes for Element. PRs with new themes are welcome!

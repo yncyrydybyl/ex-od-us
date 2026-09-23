@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-08-11T12:58:52Z"
+last_scanned: "2026-09-23T21:05:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pytest-asyncio:matrix.org]
 issues: [4319]

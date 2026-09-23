@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-09-19T03:10:34Z"
+last_scanned: "2026-09-23T21:05:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#leafish-announcements:matrix.org, https://matrix.to/#/#leafish-general:matrix.org, https://matrix.to/#/#leafish-development:matrix.org, https://matrix.to/#/#leafish:matrix.org]
 issues: [6860]

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-08-24T18:36:50Z"
+last_scanned: "2026-09-23T21:05:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bonfire-networks:matrix.org]
 issues: [5492]

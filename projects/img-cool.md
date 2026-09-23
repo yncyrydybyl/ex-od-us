@@ -1,13 +1,14 @@
 ---
-name: "Img Cool"
+name: Img Cool
 repo: "https://github.com/joeseesun/img-cool"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-09-23T21:05:27Z"
 issues: [6621]
 updated: "2025-09-01T08:51:15Z"
+matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 ---
 
 ## Stats
