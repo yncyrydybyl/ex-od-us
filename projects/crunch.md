@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-09-24T03:11:36Z"
+last_scanned: "2026-09-24T16:30:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#westend-crunch-bot:matrix.org, https://matrix.to/#/#kusama-crunch-bot:matrix.org, https://matrix.to/#/#polkadot-crunch-bot:matrix.org]
 issues: [5732]
