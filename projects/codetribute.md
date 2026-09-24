@@ -10,7 +10,7 @@ updated: "2026-04-01T20:42:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#codetribute:mozilla.org]
 exodus_score: 4
-last_scanned: "2026-09-24T03:11:36Z"
+last_scanned: "2026-09-24T11:07:25Z"
 ---
 
 A site that guides contributors to their first contribution

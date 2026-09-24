@@ -10,7 +10,7 @@ updated: "2026-01-29T16:14:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jump-cutter-extension:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-24T03:11:36Z"
+last_scanned: "2026-09-24T11:07:25Z"
 ---
 
 ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)
