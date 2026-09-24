@@ -8,9 +8,9 @@ status: Active
 issues: [40]
 updated: "2026-01-22T01:03:47Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#dragonfly2:matrix.org, https://matrix.to/#/#dragonfly2:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#dragonfly2:matrix.org.svg]
 exodus_score: 4
-last_scanned: "2026-09-24T16:30:49Z"
+last_scanned: "2026-09-24T21:09:07Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
