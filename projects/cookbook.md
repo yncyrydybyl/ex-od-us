@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-21T03:22:17Z"
+last_scanned: "2026-09-25T11:09:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nextcloud-cookbook:matrix.org]
 issues: [5706]

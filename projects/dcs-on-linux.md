@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-09-25T03:30:17Z"
+last_scanned: "2026-09-25T11:09:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dcs-on-linux:matrix.org]
 issues: [5813]
