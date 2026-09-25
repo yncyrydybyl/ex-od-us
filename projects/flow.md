@@ -8,7 +8,7 @@ status: Active
 issues: [6245]
 updated: "2026-03-26T22:01:21Z"
 exodus_score: 1
-last_scanned: "2026-09-21T03:22:17Z"
+last_scanned: "2026-09-25T21:05:49Z"
 matrix_rooms: [https://matrix.to/#/#linwood:matrix.org]
 ---
 

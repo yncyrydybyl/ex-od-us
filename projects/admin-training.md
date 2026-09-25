@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-09-25T11:09:56Z"
+last_scanned: "2026-09-25T21:05:49Z"
 issues: [5112]
 updated: "2025-12-05T21:22:01Z"
-matrix_rooms: [https://matrix.to/#/#galaxyproject:matrix.org]
+matrix_rooms: [https://matrix.to/#/#galaxyproject_dev:gitter.im, https://matrix.to/#/#galaxyproject_admins:gitter.im, https://matrix.to/#/#galaxyproject_Lobby:gitter.im, https://matrix.to/#/#galaxyproject:matrix.org]
 ---
 
 Galaxy Admin Training
