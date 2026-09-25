@@ -10,8 +10,8 @@ updated: "2026-04-03T12:07:21Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-09-24T16:30:49Z"
-matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
+last_scanned: "2026-09-25T16:33:26Z"
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org]
 ---
 
 Yet another URL library
