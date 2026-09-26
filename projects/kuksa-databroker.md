@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-09-14T03:25:23Z"
+last_scanned: "2026-09-26T03:34:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#kuksa-val_community:gitter.im]
 issues: [6829]
