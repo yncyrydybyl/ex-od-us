@@ -10,8 +10,8 @@ updated: "2026-04-01T20:17:28Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-09-26T03:34:19Z"
-matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org, https://matrix.to/#/#aio-libs-space:matrix.org]
+last_scanned: "2026-09-26T10:49:30Z"
+matrix_rooms: [https://matrix.to/#/#aio-libs:matrix.org]
 ---
 
 Simple LRU cache for asyncio
