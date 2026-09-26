@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-09-26T10:49:30Z"
+last_scanned: "2026-09-26T20:39:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fractal:ether.ai]
 issues: [3944]

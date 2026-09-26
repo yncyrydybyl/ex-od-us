@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-09-25T21:05:49Z"
+last_scanned: "2026-09-26T20:39:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mx-puppet-bridge:sorunome.de]
 issues: [6830]
