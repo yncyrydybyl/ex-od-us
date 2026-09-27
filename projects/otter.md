@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#otter:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-27T03:43:26Z"
+last_scanned: "2026-09-27T11:25:01Z"
 ---
 
 Music player for Funkwhale
