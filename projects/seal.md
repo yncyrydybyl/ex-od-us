@@ -8,7 +8,7 @@ status: Active
 issues: [3941]
 updated: "2026-03-25T15:51:02Z"
 exodus_score: 1
-last_scanned: "2026-09-27T20:53:36Z"
+last_scanned: "2026-09-28T03:42:24Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#seal-space:matrix.org]
 ---

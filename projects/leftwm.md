@@ -10,7 +10,7 @@ updated: "2026-02-28T10:53:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#leftwm-announcements:matrix.org, https://matrix.to/#/#leftwm-general:matrix.org, https://matrix.to/#/#leftwm-support:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-27T20:53:36Z"
+last_scanned: "2026-09-28T03:42:24Z"
 ---
 
 A tiling window manager for Adventurers

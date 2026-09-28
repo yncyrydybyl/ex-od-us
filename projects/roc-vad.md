@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-09-27T11:25:01Z"
+last_scanned: "2026-09-28T03:42:24Z"
 issues: [4401]
 updated: "2025-04-13T08:46:33Z"
 matrix_rooms: [https://matrix.to/#/#roc-streaming:matrix.org]

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#relm:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-27T20:53:36Z"
+last_scanned: "2026-09-28T03:42:24Z"
 ---
 
 Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
