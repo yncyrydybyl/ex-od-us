@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dynaconf:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-27T20:53:36Z"
+last_scanned: "2026-09-28T22:56:14Z"
 ---
 
 Configuration Management for Python ⚙

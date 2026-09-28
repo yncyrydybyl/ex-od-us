@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#civi.wiki:matrix.org]
 exodus_score: 5
-last_scanned: "2026-09-27T03:43:26Z"
+last_scanned: "2026-09-28T22:56:14Z"
 ---
 
 Building a Better Democracy for the Internet Age

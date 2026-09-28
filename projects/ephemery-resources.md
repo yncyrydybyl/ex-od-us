@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#staker-testnet:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-28T03:42:24Z"
+last_scanned: "2026-09-28T22:56:14Z"
 ---
 
 Resources and project management of Ethereum ephemeral testnet

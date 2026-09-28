@@ -10,7 +10,7 @@ updated: "2025-05-20T11:42:56Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-27T16:24:41Z"
+last_scanned: "2026-09-28T22:56:14Z"
 ---
 
 A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.
