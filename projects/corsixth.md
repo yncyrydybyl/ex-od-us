@@ -10,7 +10,7 @@ updated: "2026-04-05T13:12:38Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#corsixth-general:matrix.org, https://matrix.to/#/#corsixth-usercontent:matrix.org, https://matrix.to/#/#corsixth-announcements:matrix.org, https://matrix.to/#/#corsixth-help:matrix.org, https://matrix.to/#/#CorsixTH:matrix.org, https://matrix.to/#/#corsixth-technical:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-26T03:34:19Z"
+last_scanned: "2026-09-28T12:55:57Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

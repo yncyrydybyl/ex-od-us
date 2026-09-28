@@ -10,7 +10,7 @@ updated: "2026-04-03T19:41:03Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-09-28T03:42:24Z"
+last_scanned: "2026-09-28T12:55:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#catima:matrix.org]
 ---
