@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-09-28T12:55:57Z"
+last_scanned: "2026-09-29T12:08:34Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems"

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cl-patterns:struct.ws]
 exodus_score: 5
-last_scanned: "2026-09-29T04:17:06Z"
+last_scanned: "2026-09-29T12:08:34Z"
 ---
 
 Library for writing patterns to generate or process (a)musical sequences of mathematically (un)related (non-)compound values in Lisp.

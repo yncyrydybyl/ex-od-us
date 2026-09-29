@@ -10,7 +10,7 @@ updated: "2024-12-26T22:28:50Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-09-29T04:17:06Z"
+last_scanned: "2026-09-29T12:08:34Z"
 ---
 
 A cross-platform Flutter home workout app that respects your privacy. THIS IS A GITLAB MIRROR, file issues and contribute there.
