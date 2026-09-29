@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#self-hosting:beeper.com]
 exodus_score: 7
-last_scanned: "2026-09-25T16:33:26Z"
+last_scanned: "2026-09-29T21:52:23Z"
 ---
 
 A tool for running self-hosted bridges with the Beeper Matrix server.
