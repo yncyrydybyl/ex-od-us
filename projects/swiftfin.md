@@ -10,7 +10,7 @@ updated: "2026-04-06T00:35:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jellyfin:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-28T22:56:14Z"
+last_scanned: "2026-09-29T04:17:06Z"
 ---
 
 Native Jellyfin Client for iOS and tvOS 

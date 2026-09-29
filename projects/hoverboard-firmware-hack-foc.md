@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hooover:brunner.ninja]
 exodus_score: 4
-last_scanned: "2026-09-27T16:24:41Z"
+last_scanned: "2026-09-29T04:17:06Z"
 ---
 
 With Field Oriented Control (FOC)

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-09-04T15:45:56Z"
+last_scanned: "2026-09-29T04:17:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#JavaMoney_jsr354-ri:gitter.im]
 issues: [6765]
