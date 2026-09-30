@@ -10,7 +10,7 @@ updated: "2024-07-30T23:38:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#htorrent:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-29T21:52:23Z"
+last_scanned: "2026-09-30T04:01:14Z"
 ---
 
 HTTP to BitTorrent gateway with seeking support.
