@@ -8,7 +8,7 @@ status: Active
 issues: [3604]
 updated: "2026-04-06T16:04:05Z"
 exodus_score: 1
-last_scanned: "2026-09-30T17:41:09Z"
+last_scanned: "2026-09-30T21:52:32Z"
 matrix_rooms: [https://matrix.to/#/#mash-playbook:devture.com.svg]
 ---
 

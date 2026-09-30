@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-23T21:05:27Z"
+last_scanned: "2026-09-30T21:52:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#iot:mozilla.org]
 issues: [6329]
