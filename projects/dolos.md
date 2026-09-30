@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dolos:matrix.org.svg, https://matrix.to/#/#dolos:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-30T04:01:14Z"
+last_scanned: "2026-09-30T11:55:57Z"
 ---
 
 :detective: Source code plagiarism detection

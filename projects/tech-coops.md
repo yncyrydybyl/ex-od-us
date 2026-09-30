@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-09-28T22:56:14Z"
+last_scanned: "2026-09-30T11:55:57Z"
 issues: [3989]
 updated: "2026-02-03T09:17:17Z"
 matrix_rooms: [https://matrix.to/#/#cooptech:autonomic.zone]
