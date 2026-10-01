@@ -10,7 +10,7 @@ updated: "2026-02-14T13:14:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#libresprite:matrix.org]
 exodus_score: 2
-last_scanned: "2026-09-29T21:52:23Z"
+last_scanned: "2026-10-01T04:12:39Z"
 ---
 
 Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
