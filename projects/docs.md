@@ -10,7 +10,7 @@ updated: "2026-03-30T06:51:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#theapplebasement:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-01T04:12:39Z"
+last_scanned: "2026-10-01T12:27:10Z"
 ---
 
 Documentation for HoolockLinux
