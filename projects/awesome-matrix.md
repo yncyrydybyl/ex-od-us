@@ -6,29 +6,18 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-09-30T17:41:09Z"
+last_scanned: "2026-10-02T11:53:43Z"
 matrix_links: []
 matrix_rooms:
-  - "https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems"
-  - "https://matrix.to/#/#conduit:matrix.org"
-  - "https://matrix.to/#/#alexgames:matrix.org"
-  - "https://matrix.to/#/#maubot:maunium.net"
   - "https://matrix.to/#/#matrix-highlight:matrix.danilafe.com"
-  - "https://matrix.to/#/#matrix-widgets:matrix.org"
-  - "https://matrix.to/#/#cactus:bordum.dk"
-  - "https://matrix.to/#/#TheBoard:matrix.org"
-  - "https://matrix.to/#/#opsdroid-general:matrix.org"
+  - "https://matrix.to/#/#maubot:maunium.net"
   - "https://matrix.to/#/#dittochat:matrix.org"
   - "https://matrix.to/#/#matrix-collaboration:kb1rd.net"
-  - "https://matrix.to/#/#pantalaimon:matrix.org"
-  - "https://matrix.to/#/#fractal:gnome.org"
-  - "https://matrix.to/#/#continuwuity:continuwuity.org"
-  - "https://matrix.to/#/#dendrite:matrix.org"
   - "https://matrix.to/#/#opentower:matrix.org"
-  - "https://matrix.to/#/#ODIN.Community:syncpoint.io"
   - "https://matrix.to/#/#fluffychat:matrix.org"
-  - "https://matrix.to/#/#synapse:matrix.org"
-  - "https://matrix.to/#/#matrix-patience:matrix.org"
+  - "https://matrix.to/#/#fractal:gnome.org"
+  - "https://matrix.to/#/#opsdroid-general:matrix.org"
+  - "https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems"
 issues: [5343]
 updated: "2026-03-23T11:39:05Z"
 ---
