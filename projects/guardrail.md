@@ -10,7 +10,7 @@ updated: "2025-12-22T07:57:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#guardrail:matrix.org, https://matrix.to/#/#guardrail:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-10-03T11:06:49Z"
+last_scanned: "2026-10-03T15:44:01Z"
 ---
 
 Principled code generation from OpenAPI specifications

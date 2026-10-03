@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-03T11:06:49Z"
+last_scanned: "2026-10-03T15:44:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#laze:schleiser.de]
 issues: [6856]
