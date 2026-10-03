@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wg-routing-general:denog.de]
 exodus_score: 6
-last_scanned: "2026-10-02T17:28:25Z"
+last_scanned: "2026-10-03T20:35:58Z"
 ---
 
 Guide for routing/bgp best practices
