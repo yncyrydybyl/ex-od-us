@@ -10,7 +10,7 @@ updated: "2026-01-21T09:09:35Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#WebGPU:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-03T03:50:06Z"
+last_scanned: "2026-10-03T11:06:49Z"
 ---
 
 😎 Curated list of awesome things around WebGPU ecosystem. 

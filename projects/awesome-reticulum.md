@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-02T21:49:34Z"
+last_scanned: "2026-10-03T11:06:49Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rns-space:yatrix.org, https://matrix.to/#/#rns-space:matrix.org]
 issues: [5381]
