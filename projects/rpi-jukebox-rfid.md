@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-10-03T20:35:58Z"
+last_scanned: "2026-10-04T11:47:40Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#phoniebox_community:matrix.org]
 issues: [4416]

@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hypnagonia-support:matrix.org, https://matrix.to/#/#hypnagonia:matrix.org]
 exodus_score: 3
-last_scanned: "2026-08-25T12:42:54Z"
+last_scanned: "2026-10-04T11:47:40Z"
 ---
 
 Therapy through Nightmares

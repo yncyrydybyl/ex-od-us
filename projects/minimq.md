@@ -10,7 +10,7 @@ updated: "2025-01-27T11:09:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quartiq:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-04T04:21:31Z"
+last_scanned: "2026-10-04T11:47:40Z"
 ---
 
 Minimal no_std MQTT v5.0 client implementation
