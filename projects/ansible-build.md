@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-10-03T20:35:58Z"
+last_scanned: "2026-10-04T04:21:31Z"
 issues: [5182]
 updated: "2026-04-02T15:17:48Z"
 matrix_rooms: [https://matrix.to/#/#ansible-build:mint-system.ch]

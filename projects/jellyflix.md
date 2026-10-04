@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-02T04:05:59Z"
+last_scanned: "2026-10-04T04:21:31Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jellyflix-space:matrix.org]
 issues: [6735]

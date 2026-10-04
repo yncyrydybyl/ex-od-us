@@ -10,7 +10,7 @@ updated: "2026-03-27T20:56:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-viewer:matrix.org.svg, https://matrix.to/#/#matrix-viewer:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-03T20:35:58Z"
+last_scanned: "2026-10-04T04:21:31Z"
 ---
 
 View the history of public and world readable Matrix rooms
