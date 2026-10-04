@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-17T20:57:03Z"
+last_scanned: "2026-10-04T16:26:36Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#egov-afterwork:matrix.org, https://matrix.to/#/#awesome-egov-de:tchncs.de]
 issues: [5320]

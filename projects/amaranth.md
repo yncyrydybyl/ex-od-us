@@ -10,7 +10,7 @@ updated: "2026-03-16T16:43:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#amaranth-lang:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-04T04:21:31Z"
+last_scanned: "2026-10-04T16:26:36Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
