@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-10-03T20:35:58Z"
+last_scanned: "2026-10-04T20:52:24Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#fractal:gnome.org"
