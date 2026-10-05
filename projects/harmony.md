@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bugzilla:mozilla.org]
 exodus_score: 6
-last_scanned: "2026-10-05T04:06:18Z"
+last_scanned: "2026-10-05T13:37:36Z"
 ---
 
 next generation bugzilla
