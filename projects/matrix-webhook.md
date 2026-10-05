@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-09-23T21:05:27Z"
+last_scanned: "2026-10-05T23:44:41Z"
 issues: [6640]
 updated: "2026-04-06T16:57:22Z"
 matrix_rooms: [https://matrix.to/#/#matrix-webhook:tetaneutral.net]
