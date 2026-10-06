@@ -10,7 +10,7 @@ updated: "2026-04-06T14:53:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#teams-for-linux-space:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-05T23:44:41Z"
+last_scanned: "2026-10-06T04:55:11Z"
 ---
 
 Unofficial Microsoft Teams for Linux client

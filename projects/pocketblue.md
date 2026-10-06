@@ -10,7 +10,7 @@ updated: "2026-04-05T21:26:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mobility:fedoraproject.org, https://matrix.to/#/#mobility-sdm845:fedoraproject.org, https://matrix.to/#/#pocketblue:federated.nexus, https://matrix.to/#/#pocketblue-dev:federated.nexus]
 exodus_score: 5
-last_scanned: "2026-10-05T23:44:41Z"
+last_scanned: "2026-10-06T04:55:11Z"
 ---
 
 Fedora Atomic for mobile devices

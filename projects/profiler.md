@@ -10,7 +10,7 @@ updated: "2026-04-03T08:26:30Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-10-05T23:44:41Z"
+last_scanned: "2026-10-06T04:55:11Z"
 matrix_rooms: [https://matrix.to/#/#profiler:mozilla.org]
 ---
 
