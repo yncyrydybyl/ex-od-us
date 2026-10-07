@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-09-27T03:43:26Z"
+last_scanned: "2026-10-07T12:39:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#terrariumpi:theyosh.nl]
 issues: [4633]
