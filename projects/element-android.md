@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-android:matrix.org, https://matrix.to/#/#element-android:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-10-06T22:20:13Z"
+last_scanned: "2026-10-07T04:21:48Z"
 ---
 
 A Matrix collaboration client for Android.

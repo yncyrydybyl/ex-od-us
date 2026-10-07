@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-09-21T12:00:49Z"
+last_scanned: "2026-10-07T04:21:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rustler:matrix.org]
 issues: [4441]
