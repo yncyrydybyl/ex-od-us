@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fish-shell:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-06T22:20:13Z"
+last_scanned: "2026-10-07T22:43:36Z"
 ---
 
 The user-friendly command line shell.
