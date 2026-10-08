@@ -10,7 +10,7 @@ updated: "2025-01-22T12:05:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#reaper_general:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-07T22:43:36Z"
+last_scanned: "2026-10-08T22:54:17Z"
 ---
 
 A curated list of Reaper resources, scripts, extensions, JSFX, software and community links
