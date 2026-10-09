@@ -10,7 +10,7 @@ updated: "2026-03-24T12:09:04Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ODIN.Community:syncpoint.io]
 exodus_score: 4
-last_scanned: "2026-09-25T11:09:56Z"
+last_scanned: "2026-10-09T04:36:54Z"
 ---
 
 Open Source Command and Control Information System (C2IS)
