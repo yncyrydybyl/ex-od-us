@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 8
-last_scanned: "2026-10-08T12:49:35Z"
+last_scanned: "2026-10-09T12:35:02Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#conduit:ahimsa.chat]
 issues: [5688]

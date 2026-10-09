@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#SIRIUS:staffchat.ethz.ch]
 exodus_score: 6
-last_scanned: "2026-10-08T12:49:35Z"
+last_scanned: "2026-10-09T12:35:02Z"
 ---
 
 Domain specific library for electronic structure calculations
