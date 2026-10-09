@@ -10,7 +10,7 @@ updated: "2025-12-14T05:59:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#importantimport:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-09T12:35:02Z"
+last_scanned: "2026-10-09T22:15:41Z"
 ---
 
 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
