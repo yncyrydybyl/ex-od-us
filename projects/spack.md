@@ -10,7 +10,7 @@ updated: "2026-04-06T13:01:21Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#spack-space:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-09T22:15:41Z"
+last_scanned: "2026-10-10T04:22:30Z"
 ---
 
 A flexible package manager that supports multiple versions, configurations, platforms, and compilers.

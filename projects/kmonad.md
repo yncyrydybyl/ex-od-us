@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-09T22:15:41Z"
+last_scanned: "2026-10-10T04:22:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#Kmonad:matrix.org]
 issues: [6814]
