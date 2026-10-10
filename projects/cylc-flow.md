@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-10-09T12:35:02Z"
+last_scanned: "2026-10-10T11:55:28Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cylc-general:matrix.org]
 issues: [5771]
