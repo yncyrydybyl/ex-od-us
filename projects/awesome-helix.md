@@ -10,7 +10,7 @@ updated: "2026-01-22T05:37:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#helix-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-08T22:54:17Z"
+last_scanned: "2026-10-10T21:10:17Z"
 ---
 
 Awesome list of resources for the Helix editor

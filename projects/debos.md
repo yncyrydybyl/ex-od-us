@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-10T16:59:45Z"
+last_scanned: "2026-10-10T21:10:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#debos:matrix.debian, https://matrix.to/#/#debos:matrix.debian.social]
 issues: [5830]

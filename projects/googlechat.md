@@ -10,7 +10,7 @@ updated: "2025-07-16T10:48:37Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#googlechat:maunium.net]
 exodus_score: 4
-last_scanned: "2026-09-29T12:08:34Z"
+last_scanned: "2026-10-10T21:10:17Z"
 ---
 
 A Matrix-Google Chat puppeting bridge
