@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-07T12:39:52Z"
+last_scanned: "2026-10-11T04:03:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fuzzing:mozilla.org]
 issues: [6476]

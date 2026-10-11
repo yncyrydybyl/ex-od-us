@@ -10,7 +10,7 @@ updated: "2025-08-29T11:14:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#transcribro:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-10T21:10:17Z"
+last_scanned: "2026-10-11T04:03:25Z"
 ---
 
 Private and on-device speech recognition keyboard and service for Android.
