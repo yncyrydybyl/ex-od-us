@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hydrogen:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-10T04:22:30Z"
+last_scanned: "2026-10-11T12:07:07Z"
 ---
 
 Lightweight matrix client with legacy and mobile browser support
