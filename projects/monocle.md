@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#monocle:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-11T04:03:25Z"
+last_scanned: "2026-10-12T04:22:50Z"
 ---
 
 Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.

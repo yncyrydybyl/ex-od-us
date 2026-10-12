@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jellyfinorg:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-11T21:28:56Z"
+last_scanned: "2026-10-12T04:22:50Z"
 ---
 
 A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
