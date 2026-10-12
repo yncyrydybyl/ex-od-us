@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-09-01T11:06:35Z"
+last_scanned: "2026-10-12T14:28:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#selfhosted:selfhosted.chat]
 issues: [6310]

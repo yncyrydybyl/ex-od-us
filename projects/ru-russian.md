@@ -10,7 +10,7 @@ updated: "2024-06-07T04:06:44Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
 exodus_score: 3
-last_scanned: "2026-09-29T12:08:34Z"
+last_scanned: "2026-10-12T14:28:05Z"
 ---
 
 Russian community translation of the Solidity documentation

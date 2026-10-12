@@ -10,9 +10,9 @@ updated: "2024-06-25T23:59:35Z"
 verified: true
 verified_note: repo alive, room not checked
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#einsteinpy:matrix.org.svg]
+matrix_rooms: [https://matrix.to/#/#einsteinpy:matrix.org]
 exodus_score: 5
-last_scanned: "2026-10-12T04:22:50Z"
+last_scanned: "2026-10-12T14:28:05Z"
 ---
 
 Repository for the EinsteinPy core package :rocket:

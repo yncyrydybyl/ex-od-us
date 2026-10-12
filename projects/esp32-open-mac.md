@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esp32-open-mac:matrix.org]
 exodus_score: 4
-last_scanned: "2026-09-27T16:24:41Z"
+last_scanned: "2026-10-12T14:28:05Z"
 ---
 
 Reverse engineered wifi driver for the ESP32

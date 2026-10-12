@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-30T04:01:14Z"
+last_scanned: "2026-10-12T14:28:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ESMValGroup_Lobby:gitter.im]
 issues: [6068]
