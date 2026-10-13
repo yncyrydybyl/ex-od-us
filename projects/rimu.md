@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rimu:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-13T00:08:51Z"
+last_scanned: "2026-10-13T22:17:39Z"
 ---
 
 Template language for structured data: functional YAML 🌱

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-09-18T03:14:06Z"
+last_scanned: "2026-10-13T22:17:39Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#image-max-url:tedomum.net]
 issues: [6654]
