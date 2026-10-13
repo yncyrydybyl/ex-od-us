@@ -10,7 +10,7 @@ updated: "2026-03-17T22:52:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#magic-wormhole:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-12T14:28:05Z"
+last_scanned: "2026-10-13T00:08:51Z"
 ---
 
 get things from one computer to another, safely
