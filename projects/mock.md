@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-10-14T03:34:32Z"
+last_scanned: "2026-10-14T21:17:08Z"
 issues: [6773]
 updated: "2026-03-24T06:12:45Z"
 matrix_rooms: [https://matrix.to/#/#buildsys:fedoraproject.org]

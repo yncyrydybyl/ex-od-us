@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-14T21:17:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#watchthe:matrix.org]
 issues: [4793]

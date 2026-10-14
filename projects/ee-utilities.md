@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-14T03:34:32Z"
+last_scanned: "2026-10-14T21:17:08Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#aap_config_as_code:ansible.com]
 issues: [5973]
