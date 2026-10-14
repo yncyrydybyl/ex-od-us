@@ -10,7 +10,7 @@ updated: "2026-03-28T03:18:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pinnacle:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-13T22:17:39Z"
+last_scanned: "2026-10-14T03:34:32Z"
 ---
 
 A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust

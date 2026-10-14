@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-13T13:35:13Z"
+last_scanned: "2026-10-14T03:34:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#OpenWPM:mozilla.org]
 issues: [7199]
