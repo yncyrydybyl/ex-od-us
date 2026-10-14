@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#BlackArch:matrix.org]
 exodus_score: 3
-last_scanned: "2026-09-23T21:05:27Z"
+last_scanned: "2026-10-14T16:34:32Z"
 ---
 
 An ArchLinux based distribution for penetration testers and security researchers.

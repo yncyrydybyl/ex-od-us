@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-09-16T16:08:53Z"
+last_scanned: "2026-10-14T16:34:32Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org, https://matrix.to/#/#cybersec-qubes_os:matrix.org]
 issues: [5376]
