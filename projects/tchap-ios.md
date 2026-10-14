@@ -10,7 +10,7 @@ updated: "2026-03-24T16:33:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-ios:matrix.org, https://matrix.to/#/#element-ios:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-10-14T03:34:32Z"
+last_scanned: "2026-10-14T11:12:06Z"
 ---
 
 A Matrix client for iOS
