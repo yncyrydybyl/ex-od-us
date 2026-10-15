@@ -8,9 +8,9 @@ status: Active
 issues: [7145]
 updated: "2025-09-17T09:20:11Z"
 exodus_score: 1
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-15T10:52:10Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg]
+matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg, https://matrix.to/#/#npmlock2nix:nixos.dev]
 ---
 
 nixify npm based packages [maintainer=@andir] 
