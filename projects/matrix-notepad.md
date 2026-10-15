@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-15T10:52:10Z"
+last_scanned: "2026-10-15T16:19:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-collaboration:kb1rd.net]
 issues: [3629]
