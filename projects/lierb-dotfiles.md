@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-15T03:15:44Z"
 issues: [6918]
 updated: "2025-01-26T19:40:42Z"
 matrix_rooms: [https://matrix.to/#/#neocat-channels:matrix.org]

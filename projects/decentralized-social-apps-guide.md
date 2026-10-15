@@ -11,7 +11,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#p2p:matrix.org]
 exodus_score: 5
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-15T03:15:44Z"
 ---
 
 An awesome overview of existing open-source decentralized apps, platforms, protocols and concepts for social networking, engagement and collaboration
