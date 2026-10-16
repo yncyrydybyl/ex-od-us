@@ -6,7 +6,7 @@ platform: github
 categories: [Integrations]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-06T12:45:39Z"
+last_scanned: "2026-10-16T16:05:48Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#gaphor_Lobby:gitter.im]
 issues: [6319]
