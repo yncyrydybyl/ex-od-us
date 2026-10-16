@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jellyfin-odb:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-13T00:08:51Z"
+last_scanned: "2026-10-16T10:42:52Z"
 ---
 
 Douban metadata provider for Jellyfin
