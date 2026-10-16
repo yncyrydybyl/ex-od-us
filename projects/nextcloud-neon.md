@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-16T03:10:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nextcloud-neon:matrix.org]
 issues: [1632]

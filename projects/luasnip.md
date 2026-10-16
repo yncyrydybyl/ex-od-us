@@ -10,7 +10,7 @@ updated: "2026-04-05T21:46:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#luasnip:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-15T20:56:17Z"
+last_scanned: "2026-10-16T03:10:17Z"
 ---
 
 Snippet Engine for Neovim written in Lua.
