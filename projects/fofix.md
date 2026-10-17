@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fofix:matrix.org]
 exodus_score: 4
-last_scanned: "2026-10-17T03:01:06Z"
+last_scanned: "2026-10-17T20:07:49Z"
 ---
 
 Frets on Fire X: a fork of Frets on Fire with many added features and capabilities
