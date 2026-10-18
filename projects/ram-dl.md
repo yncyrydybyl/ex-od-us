@@ -10,7 +10,7 @@ updated: "2024-07-30T00:40:19Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-nbd:matrix.org, https://matrix.to/#/#ram-dl:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-17T14:57:56Z"
+last_scanned: "2026-10-18T03:04:03Z"
 ---
 
 A tool to download more RAM (yes, seriously!)

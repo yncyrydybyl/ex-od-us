@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flexcyon-space:matrix.org]
 exodus_score: 5
-last_scanned: "2026-10-17T20:07:49Z"
+last_scanned: "2026-10-18T03:04:03Z"
 ---
 
 An Obsidian.md theme combining the colour schemes of Halcyon and Flexoki
