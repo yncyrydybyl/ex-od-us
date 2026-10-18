@@ -10,7 +10,7 @@ updated: "2024-08-09T01:52:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-12T14:28:05Z"
+last_scanned: "2026-10-18T10:24:44Z"
 ---
 
 Welcome To ☬𝗥𝗘𝗗༒𝗗𝗥𝗔𝗚𝗢𝗡-𝗕𝗢𝗧࿐
