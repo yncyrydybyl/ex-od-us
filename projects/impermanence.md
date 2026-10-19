@@ -10,7 +10,7 @@ updated: "2026-01-27T21:09:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#impermanence:nixos.org]
 exodus_score: 4
-last_scanned: "2026-10-14T16:34:32Z"
+last_scanned: "2026-10-19T03:18:46Z"
 ---
 
 Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
