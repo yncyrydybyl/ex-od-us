@@ -10,7 +10,7 @@ updated: "2023-01-11T22:25:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-puppet-bridge:matrix.org, https://matrix.to/#/#matrix-puppet-bridge:matrix.org.svg]
 exodus_score: 3
-last_scanned: "2026-10-18T20:06:20Z"
+last_scanned: "2026-10-19T12:10:29Z"
 ---
 
 A Signal bridge for Matrix
