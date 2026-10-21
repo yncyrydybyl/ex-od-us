@@ -10,7 +10,7 @@ updated: "2026-04-03T05:14:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-18T10:24:44Z"
+last_scanned: "2026-10-21T11:11:22Z"
 ---
 
 Node.js command-line client for tldr pages 📚.

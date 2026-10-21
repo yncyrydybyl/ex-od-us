@@ -13,7 +13,7 @@ matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#common-voice-sentence-extractor:mozilla.org"
 exodus_score: 6
-last_scanned: "2026-10-19T12:10:29Z"
+last_scanned: "2026-10-21T11:11:22Z"
 ---
 
 Scraping Wikipedia for fair use sentences

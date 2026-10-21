@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ethereum_solidity:gitter.im]
 exodus_score: 4
-last_scanned: "2026-10-19T12:10:29Z"
+last_scanned: "2026-10-21T11:11:22Z"
 ---
 
 Solidity, the Smart Contract Programming Language

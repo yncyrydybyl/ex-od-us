@@ -6,7 +6,7 @@ platform: github
 categories: [Messaging, Matrix]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-19T21:59:31Z"
+last_scanned: "2026-10-21T11:11:22Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#quotient:matrix.org, https://matrix.to/#/#quotient:matrix.org.svg]
 issues: [4337]
