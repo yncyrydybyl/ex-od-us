@@ -1,14 +1,15 @@
 ---
-name: "Imageviewer"
-description: "Simple, cross-platform image viewer"
+name: Imageviewer
+description: Simple, cross-platform image viewer
 repo: "https://github.com/AlienCowEatCake/ImageViewer"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:13:24Z"
+last_scanned: "2026-10-22T21:12:51Z"
 issues: [6616]
 updated: "2026-03-02T19:07:48Z"
+matrix_rooms: [https://matrix.to/#/#exiv2-chat:matrix.org]
 ---
 
 Simple, cross-platform image viewer
