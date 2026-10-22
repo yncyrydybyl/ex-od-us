@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-10-22T03:20:13Z"
+last_scanned: "2026-10-22T11:10:19Z"
 issues: [6792]
 updated: "2020-08-21T04:36:07Z"
 matrix_rooms: [https://matrix.to/#/#kargos:kde.org]

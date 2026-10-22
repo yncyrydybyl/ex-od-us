@@ -10,7 +10,7 @@ updated: "2024-07-30T23:09:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#stfs:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-22T03:20:13Z"
+last_scanned: "2026-10-22T11:10:19Z"
 ---
 
 Simple Tape File System (STFS), a file system for tapes and tar files.
