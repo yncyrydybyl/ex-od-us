@@ -10,7 +10,7 @@ updated: "2026-04-01T09:51:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-ios:matrix.org, https://matrix.to/#/#element-ios:matrix.org.svg]
 exodus_score: 6
-last_scanned: "2026-10-21T21:15:31Z"
+last_scanned: "2026-10-22T03:20:13Z"
 verified: true
 verified_note: repo alive, room not checked
 ---

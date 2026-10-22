@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#unhaunter:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-19T12:10:29Z"
+last_scanned: "2026-10-22T03:20:13Z"
 ---
 
 Terror Game about ghosts
