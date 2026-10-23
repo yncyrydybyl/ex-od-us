@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lfads:gitter.im]
 exodus_score: 3
-last_scanned: "2026-10-22T21:12:51Z"
+last_scanned: "2026-10-23T11:02:02Z"
 ---
 
 A PyTorch implementation of Latent Factor Analysis via Dynamical Systems (LFADS) and AutoLFADS.
