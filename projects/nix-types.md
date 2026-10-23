@@ -10,7 +10,7 @@ updated: "2024-10-28T07:30:46Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nix-types:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-19T21:59:31Z"
+last_scanned: "2026-10-23T03:25:38Z"
 ---
 
 nix-types | type hints for nix

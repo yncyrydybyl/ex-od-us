@@ -10,7 +10,7 @@ updated: "2025-07-27T14:52:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-19T21:59:31Z"
+last_scanned: "2026-10-23T03:25:38Z"
 ---
 
 O melhor bot de whatsapp da web que você poderá encontrar.

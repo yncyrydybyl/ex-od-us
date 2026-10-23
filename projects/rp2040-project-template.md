@@ -10,7 +10,7 @@ updated: "2025-11-03T04:09:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rp-rs:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-19T21:59:31Z"
+last_scanned: "2026-10-23T03:25:38Z"
 ---
 
 A basic rp2040-hal project with blinky and rtt logging example code. With this you can quickly get started on a new rp2040 project
