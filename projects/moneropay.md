@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-24T03:19:43Z"
+last_scanned: "2026-10-24T20:14:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#moneropay:kernal.eu]
 issues: [3727]

@@ -10,7 +10,7 @@ updated: "2025-06-15T19:53:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cyb3rko-community:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-23T03:25:38Z"
+last_scanned: "2026-10-24T20:14:01Z"
 ---
 
 Modern and secure Android app to help you remember any PIN
