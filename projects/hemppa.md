@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-23T11:02:02Z"
+last_scanned: "2026-10-24T03:19:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hemppa:hacklab.fi]
 issues: [6528]

@@ -10,7 +10,7 @@ updated: "2025-03-10T08:14:38Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-10-22T11:10:19Z"
+last_scanned: "2026-10-24T03:19:43Z"
 matrix_rooms: [https://matrix.to/#/#wgpu:matrix.org, https://matrix.to/#/#Wgpu:matrix.org, https://matrix.to/#/#wgpu-random:matrix.org, https://matrix.to/#/#wgpu-users:matrix.org]
 ---
 
