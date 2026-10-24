@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-10-22T03:20:13Z"
+last_scanned: "2026-10-24T15:24:07Z"
 issues: [5112]
 updated: "2025-12-05T21:22:01Z"
 matrix_rooms: [https://matrix.to/#/#galaxyproject_dev:gitter.im, https://matrix.to/#/#galaxyproject_admins:gitter.im, https://matrix.to/#/#galaxyproject_Lobby:gitter.im, https://matrix.to/#/#galaxyproject:matrix.org]
