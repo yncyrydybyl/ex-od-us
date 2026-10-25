@@ -8,8 +8,8 @@ status: Active
 issues: [4255]
 updated: "2026-01-23T23:06:12Z"
 exodus_score: 1
-last_scanned: "2026-10-24T20:14:01Z"
-matrix_rooms: [https://matrix.to/#/#forkawesome:matrix.org]
+last_scanned: "2026-10-25T03:14:37Z"
+matrix_rooms: [https://matrix.to/#/#forkawesome:matrix.org, https://matrix.to/#/#podverse-space:matrix.org]
 ---
 
 Podverse web app written with React and Next.js
