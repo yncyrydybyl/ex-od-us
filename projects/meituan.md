@@ -10,7 +10,7 @@ updated: "2023-12-26T08:40:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#jsdom:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-25T15:34:51Z"
+last_scanned: "2026-10-25T20:23:26Z"
 ---
 
 美团抢券相关

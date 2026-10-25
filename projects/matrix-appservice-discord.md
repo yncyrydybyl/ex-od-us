@@ -10,7 +10,7 @@ updated: "2024-07-23T22:00:33Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#discord:half-shot.uk, https://matrix.to/#/#discord:half-shot.uk.svg]
 exodus_score: 5
-last_scanned: "2026-10-25T10:44:25Z"
+last_scanned: "2026-10-25T20:23:26Z"
 ---
 
 A bridge between Matrix and Discord.
