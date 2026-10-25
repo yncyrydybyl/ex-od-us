@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-10-20T10:57:10Z"
+last_scanned: "2026-10-25T10:44:25Z"
 issues: [4462]
 updated: "2026-04-03T01:44:11Z"
 matrix_rooms: [https://matrix.to/#/#emulatorjs:matrix.emulatorjs.org]

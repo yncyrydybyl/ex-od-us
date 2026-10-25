@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-23T03:25:38Z"
+last_scanned: "2026-10-25T10:44:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nameless:yoitsu.moe]
 issues: [6691]

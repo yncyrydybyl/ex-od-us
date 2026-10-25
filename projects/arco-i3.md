@@ -10,7 +10,7 @@ updated: "2025-04-13T18:02:58Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-10-25T03:14:37Z"
+last_scanned: "2026-10-25T10:44:25Z"
 ---
 
 All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation

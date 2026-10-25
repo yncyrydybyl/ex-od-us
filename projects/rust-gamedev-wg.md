@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-09-01T11:06:35Z"
+last_scanned: "2026-10-25T10:44:25Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-gamedev-wg:matrix.org]
 issues: [7225]

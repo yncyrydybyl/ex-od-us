@@ -8,7 +8,7 @@ status: Active
 issues: [4667]
 updated: "2026-04-06T17:08:11Z"
 exodus_score: 1
-last_scanned: "2026-10-25T03:14:37Z"
+last_scanned: "2026-10-25T10:44:25Z"
 matrix_rooms: [https://matrix.to/#/#tldr-pages:matrix.org]
 ---
 
