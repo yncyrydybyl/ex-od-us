@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 7
-last_scanned: "2026-10-23T16:28:33Z"
+last_scanned: "2026-10-26T12:16:07Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mbin:melroy.org]
 issues: [6655]

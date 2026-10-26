@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-24T20:14:01Z"
+last_scanned: "2026-10-26T12:16:07Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#kde-plasma-smart-video-wallpaper-reborn:matrix.org"
