@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-10-25T20:23:26Z"
+last_scanned: "2026-10-26T03:15:46Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#opensuseway:opensuse.org]
 issues: [7196]

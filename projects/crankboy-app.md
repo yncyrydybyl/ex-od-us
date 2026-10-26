@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-10-25T10:44:25Z"
+last_scanned: "2026-10-26T03:15:46Z"
 issues: [5721]
 updated: "2026-04-03T19:08:53Z"
 matrix_rooms: [https://matrix.to/#/#crankboy-dev:matrix.org]
