@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#esoui_esoui:gitter.im]
 exodus_score: 4
-last_scanned: "2026-10-26T22:17:45Z"
+last_scanned: "2026-10-27T11:36:27Z"
 ---
 
 ESOUI is the Lua source code of the ZenimaxOnline's MMORPG \"The Elder Scrolls Online\"
