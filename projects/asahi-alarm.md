@@ -9,7 +9,7 @@ updated: "2026-03-23T15:29:45Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 3
-last_scanned: "2026-10-27T17:29:01Z"
+last_scanned: "2026-10-27T21:49:27Z"
 ---
 
 ## Stats
