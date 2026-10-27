@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 1
-last_scanned: "2026-10-23T20:59:36Z"
+last_scanned: "2026-10-27T17:29:01Z"
 issues: [4208]
 updated: "2026-04-06T15:01:01Z"
 matrix_rooms: [https://matrix.to/#/#simd-everywhere_community:gitter.im]
