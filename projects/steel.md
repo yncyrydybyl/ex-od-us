@@ -10,7 +10,7 @@ updated: "2026-04-06T14:53:06Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#steel:matrix.org]
 exodus_score: 3
-last_scanned: "2026-10-26T22:17:45Z"
+last_scanned: "2026-10-27T03:44:52Z"
 ---
 
 An embedded scheme interpreter in Rust

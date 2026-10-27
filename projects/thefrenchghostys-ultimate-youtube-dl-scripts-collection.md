@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-24T10:18:22Z"
+last_scanned: "2026-10-27T03:44:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pussthecat.org:pussthecat.org]
 issues: [4642]
