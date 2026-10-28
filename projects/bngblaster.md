@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-14T21:17:08Z"
+last_scanned: "2026-10-28T22:10:43Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bngblaster:matrix.org]
 issues: [5486]
