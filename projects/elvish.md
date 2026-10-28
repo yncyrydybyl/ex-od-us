@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#users:elv.sh]
 exodus_score: 6
-last_scanned: "2026-10-27T17:29:01Z"
+last_scanned: "2026-10-28T04:01:28Z"
 ---
 
 Powerful scripting language & versatile interactive shell
