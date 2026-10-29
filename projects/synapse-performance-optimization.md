@@ -6,10 +6,10 @@ platform: github
 categories: [Infrastructure]
 status: Active
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#synapse-dev:matrix.org]
+matrix_rooms: [https://matrix.to/#/#synapse-dev:matrix.org, https://matrix.to/#/#synapse:matrix.org]
 issues: [6]
 updated: "2026-04-06T08:17:35Z"
-last_scanned: "2026-10-28T22:10:43Z"
+last_scanned: "2026-10-29T04:25:01Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 5
