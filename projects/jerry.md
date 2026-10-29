@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-28T22:10:43Z"
+last_scanned: "2026-10-29T22:26:23Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lobster-and-jerry:matrix.org]
 issues: [6738]
