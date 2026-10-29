@@ -10,7 +10,7 @@ updated: "2023-03-04T05:35:10Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-10-28T22:10:43Z"
+last_scanned: "2026-10-29T12:18:12Z"
 ---
 
 Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt (SSB).
