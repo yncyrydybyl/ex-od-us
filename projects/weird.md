@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-27T03:44:52Z"
+last_scanned: "2026-10-30T12:09:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#muni-town:commune.sh]
 issues: [4056]

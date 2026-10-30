@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dothq:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-23T03:25:38Z"
+last_scanned: "2026-10-30T12:09:11Z"
 ---
 
 The browser that fights for your privacy.

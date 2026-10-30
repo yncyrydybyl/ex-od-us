@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#docnow:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-29T04:25:01Z"
+last_scanned: "2026-10-30T12:09:11Z"
 ---
 
 A command line tool (and Python library) for archiving Twitter JSON
