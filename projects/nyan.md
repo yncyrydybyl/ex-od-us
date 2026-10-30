@@ -10,7 +10,7 @@ updated: "2025-09-14T16:37:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#sfttech:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-28T12:07:54Z"
+last_scanned: "2026-10-30T04:25:19Z"
 ---
 
 Typesafe hierarchical key-value database with inheritance and dynamic patching :smiley_cat:
