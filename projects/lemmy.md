@@ -6,9 +6,9 @@ platform: github
 categories: [Messaging]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-29T12:18:12Z"
+last_scanned: "2026-10-31T04:06:03Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#lemmy-space:matrix.org, https://matrix.to/#/#lemmydev:matrix.org, https://matrix.to/#/#lemmy:matrix.org]
+matrix_rooms: [https://matrix.to/#/#lemmydev:matrix.org, https://matrix.to/#/#lemmy-space:matrix.org]
 issues: [6874]
 updated: "2026-04-06T13:58:37Z"
 ---
