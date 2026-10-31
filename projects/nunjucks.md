@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-31T11:42:02Z"
+last_scanned: "2026-10-31T20:58:51Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nunjucks:mozilla.org]
 issues: [3778]
