@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#element-web:matrix.org]
 exodus_score: 5
-last_scanned: "2026-10-31T20:58:51Z"
+last_scanned: "2026-11-01T04:27:55Z"
 ---
 
 A glossy Matrix collaboration client for the web.

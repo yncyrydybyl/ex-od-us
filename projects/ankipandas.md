@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-10-31T11:42:02Z"
+last_scanned: "2026-11-01T04:27:55Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#AnkiPandas_community:gitter.im]
 issues: [5175]
