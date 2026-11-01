@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-11-01T04:27:55Z"
+last_scanned: "2026-11-01T12:41:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#VHDL-LS:matrix.org]
 issues: [4432]
