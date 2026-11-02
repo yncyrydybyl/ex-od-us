@@ -12,7 +12,7 @@ matrix_rooms:
   - "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com.svg"
   - "https://matrix.to/#/#matrix-docker-ansible-deploy:devture.com"
 exodus_score: 5
-last_scanned: "2026-11-01T21:42:00Z"
+last_scanned: "2026-11-02T04:29:32Z"
 ---
 
 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker

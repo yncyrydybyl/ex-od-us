@@ -10,7 +10,7 @@ updated: "2026-01-25T06:11:11Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pystemd:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-01T21:42:00Z"
+last_scanned: "2026-11-02T04:29:32Z"
 ---
 
 A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
