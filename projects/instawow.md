@@ -8,7 +8,7 @@ status: Active
 issues: [6645]
 updated: "2026-04-02T11:02:25Z"
 exodus_score: 1
-last_scanned: "2026-11-02T04:29:32Z"
+last_scanned: "2026-11-02T14:46:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#wow-addon-management:matrix.org]
 ---

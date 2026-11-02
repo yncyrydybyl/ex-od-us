@@ -6,7 +6,7 @@ platform: github
 categories: [Messaging, Matrix]
 status: Active
 exodus_score: 2
-last_scanned: "2026-10-30T12:09:11Z"
+last_scanned: "2026-11-02T14:46:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#maelstrom-server:matrix.org]
 issues: [6991]
