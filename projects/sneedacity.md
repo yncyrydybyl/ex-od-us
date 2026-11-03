@@ -1,20 +1,14 @@
 ---
-name: "Sneedacity"
+name: Sneedacity
 description: "Audio Editor                                     "
 repo: "https://github.com/Sneeds-Feed-and-Seed/sneedacity"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 5
-last_scanned: "2026-04-06T22:13:24Z"
-matrix_links:
-  - target: "#sneedacitydev:poa.st"
-    kind: room
-    via: matrix.to
-    source: anchor
-    quality: 7
-matrix_rooms:
-  - "https://matrix.to/#/#sneedacitydev:poa.st"
+last_scanned: "2026-11-03T13:39:15Z"
+matrix_links: []
+matrix_rooms: [https://matrix.to/#/#sneedacitydev:poa.st]
 issues: [4531]
 updated: "2026-01-17T14:33:32Z"
 ---

@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-08-31T12:43:44Z"
+last_scanned: "2026-11-03T13:39:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#hm:rycee.net]
 issues: [6553]

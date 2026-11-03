@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-02T14:46:30Z"
+last_scanned: "2026-11-03T13:39:15Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nextcloudpi:matrix.org, https://matrix.to/#/#NCP_Wiki_Team:matrix.org]
 issues: [6895]

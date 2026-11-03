@@ -1,14 +1,15 @@
 ---
-name: "Openms"
-description: "The codebase of the OpenMS project"
+name: Openms
+description: The codebase of the OpenMS project
 repo: "https://github.com/OpenMS/OpenMS"
 platform: github
 categories: [Development]
-status: "Active"
+status: Active
 exodus_score: 0
-last_scanned: "2026-04-06T22:14:33Z"
+last_scanned: "2026-11-03T13:39:15Z"
 issues: [7190]
 updated: "2026-04-06T13:14:41Z"
+matrix_rooms: [https://matrix.to/#/#simd-everywhere_community:gitter.im]
 ---
 
 The codebase of the OpenMS project
