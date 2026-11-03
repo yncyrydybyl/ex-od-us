@@ -10,7 +10,7 @@ updated: "2025-04-08T19:40:59Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#plume-blog:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-03T13:39:15Z"
+last_scanned: "2026-11-03T22:55:27Z"
 ---
 
 Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
