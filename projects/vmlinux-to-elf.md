@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-03T00:30:34Z"
+last_scanned: "2026-11-04T13:47:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#vmlinux-to-elf:matrix.org]
 issues: [4045]

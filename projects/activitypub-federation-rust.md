@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-04T04:53:05Z"
+last_scanned: "2026-11-04T13:47:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#activitystreams:matrix.asonix.dog]
 issues: [5108]
