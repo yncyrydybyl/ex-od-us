@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#capy-ui:matrix.org]
 exodus_score: 4
-last_scanned: "2026-11-02T14:46:30Z"
+last_scanned: "2026-11-04T04:53:05Z"
 ---
 
 💻Build one codebase and get native UI on Windows, Linux and Web

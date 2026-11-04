@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-10-29T12:18:12Z"
+last_scanned: "2026-11-04T04:53:05Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#teal-language_community:gitter.im]
 issues: [4663]
