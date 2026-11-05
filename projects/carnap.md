@@ -10,7 +10,7 @@ updated: "2024-12-15T21:37:52Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 1
-last_scanned: "2026-11-05T13:59:40Z"
+last_scanned: "2026-11-05T23:16:59Z"
 ---
 
 A formal logic framework that runs in the browser

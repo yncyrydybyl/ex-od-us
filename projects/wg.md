@@ -10,7 +10,7 @@ updated: "2026-02-24T20:20:40Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rust-embedded:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-05T13:59:40Z"
+last_scanned: "2026-11-05T23:16:59Z"
 ---
 
 Coordination repository of the embedded devices Working Group

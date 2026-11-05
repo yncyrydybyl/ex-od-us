@@ -8,7 +8,7 @@ status: Active
 issues: [4810]
 updated: "2023-07-23T09:41:39Z"
 exodus_score: 1
-last_scanned: "2026-11-03T22:55:27Z"
+last_scanned: "2026-11-05T23:16:59Z"
 ---
 
 Weechat Matrix protocol script written in python
