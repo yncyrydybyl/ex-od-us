@@ -10,7 +10,7 @@ updated: "2026-04-06T14:45:30Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#qownnotes:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-05T23:16:59Z"
+last_scanned: "2026-11-06T05:10:20Z"
 ---
 
 QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
