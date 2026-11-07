@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-11-01T21:42:00Z"
+last_scanned: "2026-11-07T12:27:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#lapce-editor:matrix.org]
 issues: [6848]

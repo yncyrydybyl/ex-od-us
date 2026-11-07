@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-06T22:44:01Z"
+last_scanned: "2026-11-07T12:27:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cannelloni:matrix.org]
 issues: [5554]
