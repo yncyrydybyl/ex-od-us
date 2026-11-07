@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 7
-last_scanned: "2026-11-06T22:44:01Z"
+last_scanned: "2026-11-07T21:27:45Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#continuwuity:continuwuity.org"

@@ -10,7 +10,7 @@ updated: "2026-03-25T21:30:31Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#evm:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-07T12:27:56Z"
+last_scanned: "2026-11-07T21:27:45Z"
 ---
 
 Pure Rust implementation of Ethereum Virtual Machine
