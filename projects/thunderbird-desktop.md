@@ -6,10 +6,10 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-11-06T22:44:01Z"
+last_scanned: "2026-11-07T04:42:34Z"
 issues: [4652]
 updated: "2026-02-25T20:23:59Z"
-matrix_rooms: [https://matrix.to/#/#uniffi:mozilla.org, https://matrix.to/#/#naga:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg, https://matrix.to/#/#maildev:mozilla.org, https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#rust-url:mozilla.org]
+matrix_rooms: [https://matrix.to/#/#ron-rs:matrix.org, https://matrix.to/#/#ron-rs:matrix.org.svg]
 ---
 
 This repository is for testing migration of hg->git. It is not (yet) an official repository for Thunderbird.
