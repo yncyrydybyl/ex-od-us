@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-11-07T04:42:34Z"
+last_scanned: "2026-11-08T21:41:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#inkbox-os-project:matrix.org]
 issues: [4341]

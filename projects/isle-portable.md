@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-10-31T04:06:03Z"
+last_scanned: "2026-11-08T21:41:01Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#isledecomp:matrix.org]
 issues: [6685]

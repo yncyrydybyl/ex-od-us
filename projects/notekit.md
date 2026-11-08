@@ -10,7 +10,7 @@ updated: "2026-01-29T00:39:14Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-11-07T04:42:34Z"
+last_scanned: "2026-11-08T21:41:01Z"
 ---
 
 A GTK3 hierarchical markdown notetaking application with tablet support.
