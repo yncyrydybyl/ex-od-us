@@ -10,7 +10,7 @@ updated: "2024-07-30T23:28:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#go-nbd:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-07T21:27:45Z"
+last_scanned: "2026-11-08T04:29:56Z"
 ---
 
 Pure Go NBD server and client library.

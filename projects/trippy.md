@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-11-07T21:27:45Z"
+last_scanned: "2026-11-08T04:29:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#trippy-dev:matrix.org]
 issues: [4725]
