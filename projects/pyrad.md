@@ -10,7 +10,7 @@ updated: "2026-02-11T21:05:18Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pyradius:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-08T21:41:01Z"
+last_scanned: "2026-11-09T15:12:52Z"
 ---
 
 Python RADIUS Implementation

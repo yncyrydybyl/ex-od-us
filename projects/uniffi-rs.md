@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-08T21:41:01Z"
+last_scanned: "2026-11-09T15:12:52Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#uniffi:mozilla.org]
 issues: [4751]
