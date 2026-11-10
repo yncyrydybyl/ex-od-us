@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-06T22:44:01Z"
+last_scanned: "2026-11-10T14:21:13Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#baibot:etke.cc]
 issues: [5418]

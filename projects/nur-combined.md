@@ -7,9 +7,9 @@ categories: [Development]
 status: Active
 issues: [7149]
 updated: "2026-04-06T16:34:28Z"
-matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg]
+matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg, https://matrix.to/#/#npmlock2nix:nixos.dev, https://matrix.to/#/#fr:nixos.org]
 exodus_score: 5
-last_scanned: "2026-11-10T01:11:14Z"
+last_scanned: "2026-11-10T14:21:13Z"
 ---
 
 A repository of NUR that combines all repositories [maintainer=@Mic92] 

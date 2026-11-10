@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#ara:libera.chat]
 exodus_score: 5
-last_scanned: "2026-11-06T22:44:01Z"
+last_scanned: "2026-11-10T14:21:13Z"
 ---
 
 ARA Records Ansible and makes it easier to understand and troubleshoot.
