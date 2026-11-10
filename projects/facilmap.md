@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-09T15:12:52Z"
+last_scanned: "2026-11-10T22:50:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#facilmap:rankenste.in]
 issues: [6133]

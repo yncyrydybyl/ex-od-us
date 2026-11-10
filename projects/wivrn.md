@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 4
-last_scanned: "2026-11-10T14:21:13Z"
+last_scanned: "2026-11-10T22:50:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#linux-vr-adventures:matrix.org]
 issues: [4828]

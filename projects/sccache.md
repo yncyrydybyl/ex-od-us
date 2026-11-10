@@ -8,7 +8,7 @@ status: Active
 issues: [3938]
 updated: "2026-03-30T18:44:05Z"
 exodus_score: 1
-last_scanned: "2026-11-10T14:21:13Z"
+last_scanned: "2026-11-10T22:50:57Z"
 matrix_rooms: [https://matrix.to/#/#sccache:mozilla.org]
 ---
 
