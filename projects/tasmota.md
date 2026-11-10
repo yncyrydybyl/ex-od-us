@@ -9,7 +9,7 @@ issues: [818]
 updated: "2026-04-06T10:54:16Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-11-09T15:12:52Z"
+last_scanned: "2026-11-10T01:11:14Z"
 exodus_score: 1
 matrix_rooms: [https://matrix.to/#/#epdiy-general:matrix.vroland.de]
 ---

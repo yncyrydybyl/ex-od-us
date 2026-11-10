@@ -9,7 +9,7 @@ issues: [805]
 updated: "2024-02-05T23:58:54Z"
 verified: true
 verified_note: repo alive, room not checked
-last_scanned: "2026-11-09T15:12:52Z"
+last_scanned: "2026-11-10T01:11:14Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#archcraft:matrix.org]
 exodus_score: 3
