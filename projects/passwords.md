@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-11T04:45:08Z"
+last_scanned: "2026-11-12T00:03:49Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#nextcloud-passwords:chat.passwordsapp.org"
