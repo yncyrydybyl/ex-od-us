@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 2
-last_scanned: "2026-11-10T14:21:13Z"
+last_scanned: "2026-11-12T14:39:03Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#rainshower:matrix.org]
 issues: [4543]
