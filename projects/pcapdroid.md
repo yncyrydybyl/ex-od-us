@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#pcapdroid:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-12T23:13:29Z"
+last_scanned: "2026-11-13T05:07:12Z"
 ---
 
 No-root network monitor, firewall and PCAP dumper for Android

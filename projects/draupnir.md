@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-12T23:13:29Z"
+last_scanned: "2026-11-13T05:07:12Z"
 matrix_links: []
 matrix_rooms:
   - "https://matrix.to/#/#community-moderation-effort-bl:neko.dev"

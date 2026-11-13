@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-12T14:39:03Z"
+last_scanned: "2026-11-13T05:07:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#opennox:nwca.xyz]
 issues: [7191]

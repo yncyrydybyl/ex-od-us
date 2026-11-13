@@ -10,7 +10,7 @@ updated: "2025-07-25T10:27:17Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nvim-dbee:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-03T22:55:27Z"
+last_scanned: "2026-11-13T05:07:12Z"
 ---
 
 Interactive database client for neovim

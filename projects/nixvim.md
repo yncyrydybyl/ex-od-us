@@ -10,7 +10,7 @@ updated: "2026-04-04T12:56:56Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nixvim:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-12T23:13:29Z"
+last_scanned: "2026-11-13T05:07:12Z"
 ---
 
 Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]

@@ -9,7 +9,7 @@ issues: [7149]
 updated: "2026-04-06T16:34:28Z"
 matrix_rooms: [https://matrix.to/#/#npmlock2nix:nixos.dev.svg]
 exodus_score: 5
-last_scanned: "2026-11-12T23:13:29Z"
+last_scanned: "2026-11-13T05:07:12Z"
 ---
 
 A repository of NUR that combines all repositories [maintainer=@Mic92] 
