@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#activist_community:matrix.org]
 exodus_score: 5
-last_scanned: "2026-11-13T13:56:11Z"
+last_scanned: "2026-11-13T23:15:24Z"
 ---
 
 An open-source activism platform
