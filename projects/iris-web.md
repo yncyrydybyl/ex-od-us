@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dfir-iris:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-15T04:51:28Z"
+last_scanned: "2026-11-15T22:29:12Z"
 ---
 
 Collaborative Incident Response platform
