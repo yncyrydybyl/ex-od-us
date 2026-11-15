@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#dothq:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-13T05:07:12Z"
+last_scanned: "2026-11-15T04:51:28Z"
 ---
 
 Dot Browser for Windows, macOS and Linux

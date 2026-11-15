@@ -9,7 +9,7 @@ issues: [4755]
 updated: "2026-04-05T11:52:34Z"
 matrix_rooms: [https://matrix.to/#/#Updatecli_community:gitter.im, https://matrix.to/#/#updatecli:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-14T21:58:16Z"
+last_scanned: "2026-11-15T04:51:28Z"
 ---
 
 A Declarative Update Policy Engine
