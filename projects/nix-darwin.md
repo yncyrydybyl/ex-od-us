@@ -10,7 +10,7 @@ updated: "2026-04-01T10:54:34Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#nix-darwin-dev:nixos.org, https://matrix.to/#/#macos:nixos.org]
 exodus_score: 4
-last_scanned: "2026-11-14T21:58:16Z"
+last_scanned: "2026-11-16T04:47:13Z"
 ---
 
 Manage your macOS using Nix

@@ -8,7 +8,7 @@ status: Active
 issues: [4198]
 updated: "2026-04-03T23:18:04Z"
 exodus_score: 1
-last_scanned: "2026-11-15T22:29:12Z"
+last_scanned: "2026-11-16T04:47:13Z"
 matrix_rooms: [https://matrix.to/#/#parthenon-general:matrix.org]
 ---
 
