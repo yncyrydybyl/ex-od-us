@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 0
-last_scanned: "2026-04-23T12:25:34Z"
+last_scanned: "2026-11-17T01:36:05Z"
 issues: [6163]
 updated: "2026-04-06T16:34:58Z"
 matrix_rooms: [https://matrix.to/#/#rustc_codegen_gcc:matrix.org]

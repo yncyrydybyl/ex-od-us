@@ -6,7 +6,7 @@ platform: github
 categories: [Matrix]
 status: Active
 exodus_score: 0
-last_scanned: "2026-11-16T14:48:20Z"
+last_scanned: "2026-11-17T01:36:05Z"
 issues: [3627]
 updated: "2026-02-16T11:33:25Z"
 ---
