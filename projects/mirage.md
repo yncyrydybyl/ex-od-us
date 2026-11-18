@@ -10,7 +10,7 @@ updated: "2023-11-05T13:36:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#mirage-client:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-17T15:30:31Z"
+last_scanned: "2026-11-18T00:33:05Z"
 ---
 
 A fancy, customizable, keyboard-operable Qt/QML & Python Matrix chat client for encrypted and decentralized communication.
