@@ -9,7 +9,7 @@ issues: [4159]
 updated: "2026-04-01T19:38:25Z"
 matrix_rooms: [https://matrix.to/#/#orgzly:matrix.org]
 exodus_score: 2
-last_scanned: "2026-10-04T20:52:24Z"
+last_scanned: "2026-11-18T15:07:20Z"
 ---
 
 Outliner for taking notes and managing to-do lists
