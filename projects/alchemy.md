@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#alchemy:matrix.org]
 exodus_score: 4
-last_scanned: "2026-11-18T23:53:57Z"
+last_scanned: "2026-11-19T15:22:12Z"
 ---
 
 Archived - High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API

@@ -10,7 +10,7 @@ updated: "2026-03-22T17:09:21Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-11-18T23:53:57Z"
+last_scanned: "2026-11-19T15:22:12Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#garage:deuxfleurs.fr]
 ---

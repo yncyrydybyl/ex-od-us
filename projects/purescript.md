@@ -10,7 +10,7 @@ updated: "2026-03-24T23:27:47Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#purescript:matrix.org]
 exodus_score: 2
-last_scanned: "2026-11-18T23:53:57Z"
+last_scanned: "2026-11-19T15:22:12Z"
 ---
 
 A strongly-typed language that compiles to JavaScript
