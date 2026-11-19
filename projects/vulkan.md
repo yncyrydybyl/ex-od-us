@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 3
-last_scanned: "2026-11-18T23:53:57Z"
+last_scanned: "2026-11-19T05:56:42Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#haskell-vulkan:matrix.org]
 issues: [4785]
