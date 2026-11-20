@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#frigoligo:one.ems.host]
 exodus_score: 6
-last_scanned: "2026-11-20T14:54:41Z"
+last_scanned: "2026-11-20T23:41:17Z"
 ---
 
 Your articles with you
