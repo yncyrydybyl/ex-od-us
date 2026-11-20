@@ -10,7 +10,7 @@ updated: "2026-02-11T04:11:23Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 2
-last_scanned: "2026-11-19T15:22:12Z"
+last_scanned: "2026-11-20T00:19:16Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#neoq:matrix.org]
 ---

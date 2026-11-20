@@ -9,7 +9,7 @@ matrix_links: []
 matrix_rooms: [https://matrix.to/#/#synapse-dev:matrix.org]
 issues: [6]
 updated: "2026-04-06T08:17:35Z"
-last_scanned: "2026-11-19T15:22:12Z"
+last_scanned: "2026-11-20T00:19:16Z"
 verified: true
 verified_note: repo alive, room not checked
 exodus_score: 5

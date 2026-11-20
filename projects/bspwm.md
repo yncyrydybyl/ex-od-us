@@ -10,7 +10,7 @@ updated: "2025-10-08T16:42:10Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#bspwm:matrix.org]
 exodus_score: 5
-last_scanned: "2026-11-19T15:22:12Z"
+last_scanned: "2026-11-20T00:19:16Z"
 verified: true
 verified_note: repo alive, room not checked
 ---
