@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 6
-last_scanned: "2026-11-15T13:27:23Z"
+last_scanned: "2026-11-20T14:54:41Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#public-general:osrd.fr]
 issues: [4171]
