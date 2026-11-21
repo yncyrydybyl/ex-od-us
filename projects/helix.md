@@ -8,9 +8,9 @@ status: Active
 issues: [6522]
 updated: "2026-04-06T05:19:54Z"
 matrix_links: []
-matrix_rooms: [https://matrix.to/#/#helix-community:matrix.org]
+matrix_rooms: [https://matrix.to/#/#helix-editor:matrix.org, https://matrix.to/#/#helix-community:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-20T23:41:17Z"
+last_scanned: "2026-11-21T05:40:45Z"
 ---
 
 A post-modern modal text editor.
