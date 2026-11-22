@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#flaskbb:matrix.org]
 exodus_score: 4
-last_scanned: "2026-11-20T23:41:17Z"
+last_scanned: "2026-11-22T23:15:13Z"
 ---
 
 A classic Forum Software in Python using Flask.
