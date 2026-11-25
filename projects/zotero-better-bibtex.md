@@ -8,7 +8,7 @@ status: Active
 issues: [4865]
 updated: "2026-04-06T02:19:16Z"
 exodus_score: 1
-last_scanned: "2026-11-24T03:49:56Z"
+last_scanned: "2026-11-25T01:55:18Z"
 ---
 
 Make Zotero effective for us LaTeX holdouts

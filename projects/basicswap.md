@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#basicswap:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-24T03:49:56Z"
+last_scanned: "2026-11-25T01:55:18Z"
 ---
 
 Basic Atomic Swap Proof of Concept
