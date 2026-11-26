@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#apklab:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-26T01:34:57Z"
+last_scanned: "2026-11-26T16:24:57Z"
 ---
 
 Android Reverse-Engineering Workbench for VS Code

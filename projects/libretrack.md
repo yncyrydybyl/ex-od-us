@@ -8,7 +8,7 @@ status: Active
 issues: [6910]
 updated: "2026-01-27T06:35:53Z"
 exodus_score: 1
-last_scanned: "2026-11-23T17:25:26Z"
+last_scanned: "2026-11-26T16:24:57Z"
 matrix_rooms: [https://matrix.to/#/#libretrack:matrix.org]
 ---
 
