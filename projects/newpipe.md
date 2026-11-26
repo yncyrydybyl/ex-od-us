@@ -6,7 +6,7 @@ platform: github
 categories: [Development]
 status: Active
 exodus_score: 5
-last_scanned: "2026-11-25T16:48:54Z"
+last_scanned: "2026-11-26T01:34:57Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#newpipe:matrix.newpipe-ev.de]
 issues: [6889]
