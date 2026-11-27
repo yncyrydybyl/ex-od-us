@@ -10,7 +10,7 @@ updated: "2026-04-06T14:37:00Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#matrix-rust-sdk:matrix.org]
 exodus_score: 3
-last_scanned: "2026-11-25T01:55:18Z"
+last_scanned: "2026-11-27T01:30:15Z"
 ---
 
 Matrix Client-Server SDK for Rust

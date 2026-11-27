@@ -10,7 +10,7 @@ updated: "2026-01-08T11:31:27Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#cozy:gnome.org]
 exodus_score: 4
-last_scanned: "2026-11-25T01:55:18Z"
+last_scanned: "2026-11-27T01:30:15Z"
 ---
 
 🎧 Listen to audio books 📚 on Linux

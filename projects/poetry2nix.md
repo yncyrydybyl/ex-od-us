@@ -10,7 +10,7 @@ updated: "2026-04-06T12:48:45Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#poetry2nix:blad.is]
 exodus_score: 5
-last_scanned: "2026-11-25T01:55:18Z"
+last_scanned: "2026-11-27T01:30:15Z"
 ---
 
 Convert poetry projects to nix automagically [maintainer=] 
