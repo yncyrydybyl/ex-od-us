@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#einsteinpy:matrix.org.svg]
 exodus_score: 5
-last_scanned: "2026-11-26T01:34:57Z"
+last_scanned: "2026-11-28T15:03:48Z"
 ---
 
 Repository for the EinsteinPy core package :rocket:
