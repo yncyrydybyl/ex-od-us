@@ -10,7 +10,7 @@ updated: "2026-03-14T21:22:09Z"
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#tower-lsp:wiro.world]
 exodus_score: 4
-last_scanned: "2026-11-24T03:49:56Z"
+last_scanned: "2026-11-28T01:06:35Z"
 ---
 
 Language Server Protocol implementation for Rust based on Tower

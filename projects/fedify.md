@@ -12,7 +12,7 @@ verified_note: repo alive, room not checked
 matrix_links: []
 matrix_rooms: [https://matrix.to/#/#fedify:matrix.org]
 exodus_score: 4
-last_scanned: "2026-11-27T01:30:15Z"
+last_scanned: "2026-11-28T01:06:35Z"
 ---
 
 ActivityPub server framework in TypeScript
